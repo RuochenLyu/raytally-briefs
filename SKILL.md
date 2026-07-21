@@ -1,41 +1,37 @@
 ---
 name: raytally-build-briefs
-description: Fetch source-linked, time-bounded RayTally product ideas and coding-agent-ready build briefs in Chinese or English.
+description: Fetch source-linked, time-bounded RayTally product ideas and coding-agent-ready build briefs in Chinese or English. Use when the user asks for today's product ideas, wants an idea to build, or asks for a RayTally build brief.
 ---
 
 # RayTally Build Briefs
 
 ## English
 
-RayTally turns public-signal observations into source-linked product ideas and build briefs that a coding agent can inspect, challenge, and implement.
+RayTally turns public-signal observations into source-linked product ideas and build briefs that a coding agent can inspect, challenge, and implement. Typical flow: fetch the latest issue, let the user pick a card, fetch its brief, then implement — carrying the evidence boundaries along.
 
-### Fetch a brief
+### Fetch
 
-1. Direct Markdown URL:
-
-   ```sh
-   curl -fsSL https://raytally.com/ideas/2026-07-21-replay-qa.md
-   ```
-
-2. Latest issue JSON:
+1. Start from the latest issue (Chinese; use `/en/latest.json` for English):
 
    ```sh
    curl -fsSL https://raytally.com/latest.json
    ```
 
-3. Full idea index:
+   Each entry in `cards[]` has `title`, `one_liner`, `tier` (`featured` | `quick`), `url` (human page), `brief_url` (Markdown build brief), `signal` (with `observed_at`, and `ended_at` when the signal already ended), and `sources[]` with per-source boundaries.
+
+2. Follow a card's `brief_url` to get its full build brief — YAML provenance frontmatter plus the implementation-ready body:
 
    ```sh
-   curl -fsSL https://raytally.com/ideas.json
+   curl -fsSL https://raytally.com/ideas/2026-07-21-replay-qa.md
    ```
 
-4. This repository mirror:
+3. Full archive index: `https://raytally.com/ideas.json` (or `/en/ideas.json`). An English brief exists only when its translation is present.
+
+4. This repository mirrors the same files — `latest.json` and `briefs/YYYY/MM/DD/`:
 
    ```sh
    curl -fsSL https://raw.githubusercontent.com/RuochenLyu/raytally-briefs/main/latest.json
    ```
-
-Use `/en/ideas/<slug>.md`, `/en/latest.json`, or `/en/ideas.json` for English. An English brief exists only when its translation is present.
 
 ### Boundary rules
 
@@ -47,29 +43,27 @@ Use `/en/ideas/<slug>.md`, `/en/latest.json`, or `/en/ideas.json` for English. A
 
 ## 中文
 
-萤录 RayTally 把公开信号观察整理成带来源的产品灵感和开发任务书，供 coding agent 核对、质疑并实现。
+萤录 RayTally 把公开动向的观察整理成带来源的产品灵感和开发任务书，供 coding agent 核对、质疑并实现。典型流程：先取最新一期，让用户挑一张卡，再取它的任务书，然后动手实现——全程带着证据边界。
 
-### 获取任务书
+### 获取
 
-1. 直接读取 Markdown：
-
-   ```sh
-   curl -fsSL https://raytally.com/ideas/2026-07-21-replay-qa.md
-   ```
-
-2. 最新一期 JSON：
+1. 从最新一期开始（英文用 `/en/latest.json`）：
 
    ```sh
    curl -fsSL https://raytally.com/latest.json
    ```
 
-3. 全量灵感索引：
+   `cards[]` 里每张卡都有 `title`、`one_liner`、`tier`（`featured` | `quick`）、`url`（人类页面）、`brief_url`（Markdown 开发任务书）、`signal`（含 `observed_at`，信号已结束时另有 `ended_at`）以及逐条带边界的 `sources[]`。
+
+2. 沿着卡片的 `brief_url` 取完整任务书——YAML 溯源 frontmatter + 可直接开工的正文：
 
    ```sh
-   curl -fsSL https://raytally.com/ideas.json
+   curl -fsSL https://raytally.com/ideas/2026-07-21-replay-qa.md
    ```
 
-4. 本 GitHub 镜像：
+3. 全量归档索引：`https://raytally.com/ideas.json`（英文 `/en/ideas.json`）。英文任务书只在翻译存在时才有。
+
+4. 本 GitHub 镜像同步同一批文件——`latest.json` 与 `briefs/YYYY/MM/DD/`：
 
    ```sh
    curl -fsSL https://raw.githubusercontent.com/RuochenLyu/raytally-briefs/main/latest.json

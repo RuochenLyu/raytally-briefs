@@ -1,8 +1,30 @@
 # RayTally Build Briefs
 
-RayTally turns source-linked, time-bounded public signals into product ideas and coding-agent-ready build briefs. This repository is a data-and-skill mirror, not a second website and not a separate editorial source.
+Daily product ideas drawn from public signals — each one source-linked, time-bounded, argued against, and shipped as a build brief your coding agent can read directly. This repository mirrors the machine-readable surface of [raytally.com](https://raytally.com/); it is a data-and-skill mirror, not a second website and not a separate editorial source.
 
-萤录 RayTally 把带来源、带时间边界的公开信号整理成产品灵感与 coding agent 可直接读取的开发任务书。本仓库是 data + skill 镜像，不是网站副本，也不是第二套内容源。
+萤录 [RayTally](https://raytally.com/) 每天把公开动向整理成产品灵感：带来源、带时间边界、带最强反方，并写成 coding agent 可直接读取的开发任务书。本仓库是站点机器可读面的镜像——data + skill，不是网站副本，也不是第二套内容源。
+
+## Try it with your agent / 直接让 agent 试
+
+Paste one line into Claude Code, Codex, Cursor, or any agent with network access:
+
+```text
+Read raytally.com/en/latest.json and pick one idea to break down.
+```
+
+```text
+读取 raytally.com/latest.json，挑一个方向给我拆解。
+```
+
+Or install the skill: copy [`SKILL.md`](./SKILL.md) into your agent's skills directory (for Claude Code: `.claude/skills/raytally-build-briefs/SKILL.md`), and it will know how to fetch briefs and what the data does — and does not — claim.
+
+## What a brief looks like
+
+One real card from 2026-07-21 — [Post-Release Journey Replay](https://raytally.com/en/ideas/2026-07-21-replay-qa/) ([brief.md](https://raytally.com/en/ideas/2026-07-21-replay-qa.md) · [中文](https://raytally.com/ideas/2026-07-21-replay-qa/)):
+
+> After each website release, replay recent successful user journeys and use a short video to pinpoint the first broken step and the changes that may be related.
+
+Every featured brief carries the same skeleton: the signal that raised it (with `observed_at` timestamps), the product concept, the target user and entry point, **the strongest case against it**, checkable sources — and YAML frontmatter with full provenance, so an agent downstream can verify instead of trust.
 
 ## Contents
 
@@ -11,15 +33,13 @@ RayTally turns source-linked, time-bounded public signals into product ideas and
 - `latest.json`: byte-identical to [raytally.com/latest.json](https://raytally.com/latest.json).
 - `SKILL.md`: instructions for agents consuming RayTally.
 
-Every brief is copied from the deployed site's static build output. The website copy action, Markdown endpoint, and repository file therefore share one generated source.
+Every brief is copied from the deployed site's static build output. The website copy action, Markdown endpoint, and repository file therefore share one generated source. Synced once a day after the site publishes (before 09:30 UTC+8). A day with zero new briefs means the full pipeline ran and selected nothing worth shipping — that is a designed outcome, not an outage.
 
 ## Endpoints
 
-- [Latest Chinese issue](https://raytally.com/latest.json)
-- [All Chinese ideas](https://raytally.com/ideas.json)
-- [Latest English issue](https://raytally.com/en/latest.json)
-- [All English ideas](https://raytally.com/en/ideas.json)
-- [Agent instructions](https://raytally.com/llms.txt)
+- [Latest Chinese issue](https://raytally.com/latest.json) · [All Chinese ideas](https://raytally.com/ideas.json)
+- [Latest English issue](https://raytally.com/en/latest.json) · [All English ideas](https://raytally.com/en/ideas.json)
+- [llms.txt](https://raytally.com/llms.txt) · [API catalog](https://raytally.com/.well-known/api-catalog) · [Agent skills index](https://raytally.com/.well-known/agent-skills/index.json)
 
 ## Evidence boundary / 证据边界
 
