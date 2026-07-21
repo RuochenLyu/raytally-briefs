@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-21",
+  "language": "zh",
+  "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
+  "cards": [
+    {
+      "id": "idea-2026-07-21-andy-burnham",
+      "slug": "2026-07-21-andy-burnham",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "露宿援助接力卡",
+      "one_liner": "外展人员经本人同意录入住宿、宠物和证件需求，立即找到可接收的去处，并把转介信息接力给下一家机构。",
+      "url": "https://raytally.com/ideas/2026-07-21-andy-burnham/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-andy-burnham.md",
+      "signal": {
+        "query": "andy burnham",
+        "observed_at": "2026-07-21T03:07:51.902Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-21T00:30:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://apnews.com/article/a13602b93d8f045f1cffd2bd05bf8e2b",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。"
+        },
+        {
+          "url": "https://thestreetlink.org.uk/about",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://homeless.org.uk/homeless-england/?service_types=accommodation",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-are-the-rules-on-special-category-data/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-jellyfin-founder-andrew-leaves-team",
+      "slug": "2026-07-21-jellyfin-founder-andrew-leaves-team",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "开源项目交接地图",
+      "one_liner": "核心维护者离开前扫描项目中的权限和隐形职责，生成可认领、可验证的交接清单。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-jellyfin-founder-andrew-leaves-team.md",
+      "signal": {
+        "query": "Jellyfin founder Andrew leaves team",
+        "observed_at": "2026-07-21T03:07:54.003Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-hacker-wipes-romania-s-land-registry-database",
+      "slug": "2026-07-21-hacker-wipes-romania-s-land-registry-database",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "删库恢复演练场",
+      "one_liner": "运维团队接入备份和恢复文档后，在隔离副本中定期删库演练，拿到真实恢复耗时与依赖缺口。",
+      "url": "https://raytally.com/ideas/2026-07-21-hacker-wipes-romania-s-land-registry-database/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-hacker-wipes-romania-s-land-registry-database.md",
+      "signal": {
+        "query": "Hacker wipes Romania's land registry database",
+        "observed_at": "2026-07-21T03:07:54.003Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。 观测于 2026-07-21T03:07:54.003Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=48978605",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。 观测于 2026-07-21T03:07:54.003Z。"
+        },
+        {
+          "url": "https://helpcenter.veeam.com/docs/vbr/userguide/surebackup_job_hv.html",
+          "boundary": "发布于 2026-04-20T00:00:00.000Z。"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/drs/latest/userguide/preparing-failover.html",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-leds-potential-to-save-our-night-skies",
+      "slug": "2026-07-21-leds-potential-to-save-our-night-skies",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "夜间灯光体检",
+      "one_liner": "夜间拍摄建筑周边灯光，立即得到逐盏减少天空漏光和邻里干扰的改造清单。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-leds-potential-to-save-our-night-skies.md",
+      "signal": {
+        "query": "LEDs’ potential to save our night skies",
+        "observed_at": "2026-07-21T03:07:54.003Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-capturekit",
+      "slug": "2026-07-21-capturekit",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "截图发出前检查",
+      "one_liner": "截图即将发出时自动拦截敏感信息，确认遮盖后再生成可分享副本。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-capturekit.md",
+      "signal": {
+        "query": "CaptureKit",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-replay-qa",
+      "slug": "2026-07-21-replay-qa",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "发布后的自动巡店",
+      "one_liner": "网站发布后自动重放近期真实成功路径，用短视频指出第一个出错步骤及可能相关的改动。",
+      "url": "https://raytally.com/ideas/2026-07-21-replay-qa/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-replay-qa.md",
+      "signal": {
+        "query": "Replay QA",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/replayio",
+          "boundary": "发布于 2026-07-02T00:00:00.000Z。 观测于 2026-07-21T03:07:54.539Z。"
+        },
+        {
+          "url": "https://docs.replay.io/basics/replay-qa/overview",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://app.meticulous.ai/docs",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://playwright.dev/agent-cli/commands/tracing",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-deck",
+      "slug": "2026-07-21-deck",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "全家的事务邮箱",
+      "one_liner": "学校、诊所和物业来信进入共享邮箱后，自动变成可认领的家庭待办，经确认再完成回复、预约或日历安排。",
+      "url": "https://raytally.com/ideas/2026-07-21-deck/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-deck.md",
+      "signal": {
+        "query": "Deck",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/deck-9",
+          "boundary": "发布于 2026-07-17T16:41:13.000Z。 观测于 2026-07-21T03:07:54.539Z。"
+        },
+        {
+          "url": "https://www.ohai.ai/features/ai-email-management/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://us.norton.com/products/family-assistant",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/workspace/gmail/api/guides/push",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-neet-2026-seat-allotment-process",
+      "slug": "2026-07-21-neet-2026-seat-allotment-process",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "NEET志愿顺序沙盘",
+      "one_liner": "NEET 考生输入排名与报考条件，拖动志愿即可看到各轮录取影响和不能漏掉的填报节点。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-neet-2026-seat-allotment-process.md",
+      "signal": {
+        "query": "neet 2026 seat allotment process",
+        "observed_at": "2026-07-21T03:07:53.203Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-idea-8c0d8e3d",
+      "slug": "2026-07-21-idea-8c0d8e3d",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "生鲜到货期限约定",
+      "one_liner": "线上买易腐食品时先约定最低剩余天数，到货拍照即可验收，并生成不符合要求时的退款材料。",
+      "url": "https://raytally.com/ideas/2026-07-21-idea-8c0d8e3d/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-idea-8c0d8e3d.md",
+      "signal": {
+        "query": "Has anyone else found Walmart (and Sam's Club) to no longer be a frugal choice?",
+        "observed_at": "2026-07-21T03:07:54.540Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/Frugal/comments/1v1pvh0/has_anyone_else_found_walmart_and_sams_club_to_no/",
+          "boundary": "发布于 2026-07-20T16:10:31.000Z。 观测于 2026-07-21T03:07:54.540Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/vision/recognizing-text-in-images",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.instacart.com/help/section/3252458959",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-product-dating",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-idea-ae23b407",
+      "slug": "2026-07-21-idea-ae23b407",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "电影特典到手地图",
+      "one_liner": "选定想要的电影特典和地区，马上查看可领取场次、限制条件与仍可能有货的影院。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-idea-ae23b407.md",
+      "signal": {
+        "query": "ちいかわ 映画 特典",
+        "observed_at": "2026-07-21T03:07:53.203Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-21T01:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-rex",
+      "slug": "2026-07-21-rex",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "验收即开票",
+      "one_liner": "项目交付后从沟通记录中找到验收依据，立即生成更容易被确认和付款的账单包。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-rex.md",
+      "signal": {
+        "query": "Rex",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-show-hn-immersive-gaussian-splat-tour-of-grace-cathedral-san",
+      "slug": "2026-07-21-show-hn-immersive-gaussian-splat-tour-of-grace-cathedral-san",
+      "date": "2026-07-21",
+      "tier": "featured",
+      "title": "无障碍场馆预演",
+      "one_liner": "行动不便者到访陌生场馆前，可先在实景三维空间里验证入口、坡道、通道和座位视线。",
+      "url": "https://raytally.com/ideas/2026-07-21-show-hn-immersive-gaussian-splat-tour-of-grace-cathedral-san/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-show-hn-immersive-gaussian-splat-tour-of-grace-cathedral-san.md",
+      "signal": {
+        "query": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+        "observed_at": "2026-07-21T03:07:54.003Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=48984254",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。 观测于 2026-07-21T03:07:54.003Z。"
+        },
+        {
+          "url": "https://matterport.github.io/developer-docs/api/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://accessnow.com/faq/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-21-kogvio",
+      "slug": "2026-07-21-kogvio",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "网页主张核对栏",
+      "one_liner": "看到健康、理财或商品宣传时，点一下原句即可查看出处、反例和历史改动。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-kogvio.md",
+      "signal": {
+        "query": "Kogvio",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-free-ai-tools",
+      "slug": "2026-07-21-free-ai-tools",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "本机文件处理页",
+      "one_liner": "处理敏感 PDF 或图片时无需登录和上传，在本机完成转换、遮盖与安全检查。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-free-ai-tools.md",
+      "signal": {
+        "query": "Free AI Tools",
+        "observed_at": "2026-07-21T03:07:54.539Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-21-idea-6c877706",
+      "slug": "2026-07-21-idea-6c877706",
+      "date": "2026-07-21",
+      "tier": "quick",
+      "title": "能开会的住宿",
+      "one_liner": "预订长住住宿前，按会议时段筛出真正有工位、安静通话区和近期网速证据的房源。",
+      "url": "https://raytally.com/daily/2026-07-21/",
+      "brief_url": "https://raytally.com/ideas/2026-07-21-idea-6c877706.md",
+      "signal": {
+        "query": "Any 24/7 workspaces or apartments with work areas for digital nomads in Japan?",
+        "observed_at": "2026-07-21T03:07:54.540Z"
+      },
+      "sources": []
+    }
+  ]
+}

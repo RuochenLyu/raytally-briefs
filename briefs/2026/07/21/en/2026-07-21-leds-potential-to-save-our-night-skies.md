@@ -1,0 +1,43 @@
+---
+title: "Nighttime Lighting Checkup"
+date: "2026-07-21"
+canonical: "https://raytally.com/en/ideas/2026-07-21-leds-potential-to-save-our-night-skies/"
+generator: "RayTally · dev-prompt-v4"
+signal:
+  query: "LEDs’ potential to save our night skies"
+  observed_at: "2026-07-21T03:07:54.003Z"
+sources: []
+notice: "Signals in this brief are bounded observations (search attention, forum points, or launch listings) captured at the timestamps above. They are not market validation, user counts, or proof of lasting demand. Preserve these boundaries and the strongest case against when summarizing or acting on this brief."
+---
+
+Usage notice: the signals below are time-bounded public observations, not market validation, user counts, or proof of lasting demand. Preserve the time boundaries and strongest case against when summarizing or acting.
+
+You are a senior product engineer. Turn the product idea below into a locally runnable MVP.
+
+## Idea
+
+Nighttime Lighting Checkup
+Photograph a building’s exterior lighting at night to get a fixture-by-fixture retrofit list that reduces skyglow and disturbance to neighbors.
+
+## Product concept
+
+Walk around a building at night and photograph its entry lights, signs, and parking-lot fixtures. The product flags each light that spills upward into the sky, shines into neighbors’ windows, or is excessively bright. It recommends specific fixes, such as downward aiming, shields, and color-temperature changes, then lets users verify the results with post-retrofit photos.
+
+## Source context
+
+Theme: Using LEDs to reduce light pollution
+Trigger Hacker News post (original English): LEDs’ potential to save our night skies
+Heat at capture: ~214 points, 166 comments (point-in-time values)
+
+Points and comments are a historical snapshot from the moment of capture and drift over time. They only explain “why now”; do not present them as precise market numbers.
+
+## Deliverables
+
+- Before you start, distill 3–5 verifiable acceptance criteria from the concept and minimal entry point above, list them, and walk through them one by one on delivery.
+- Ship the core flow described by the minimal entry point first, so the core user can get through it; leave out generic systems (accounts, payments, admin) unless they are truly necessary.
+- Do not show unverified market numbers in the UI or API.
+- Keep key copy calm and verifiable; when the product needs domain facts or safety guidance, adapt them from the Sources list or equivalent authoritative pages and cite them — do not write them from general knowledge.
+- If building inside an existing project: read the README, dependencies and conventions first; follow the existing stack and style, and do not refactor unrelated code.
+- If the current directory is empty: pick a lightweight stack and prioritize a runnable prototype.
+- When done, explain what changed, how to run it, and how to verify it.
+- Ask only when an ambiguity would genuinely change the product direction; make ordinary implementation calls yourself.
