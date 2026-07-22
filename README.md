@@ -4,6 +4,14 @@ Daily product ideas drawn from public signals — each one source-linked, time-b
 
 萤录 [RayTally](https://raytally.com/) 每天把公开动向整理成产品灵感：带来源、带时间边界、带最强反方，并写成 coding agent 可直接读取的开发任务书。本仓库是站点机器可读面的镜像——data + skill，不是网站副本，也不是第二套内容源。
 
+## Use with your coding agent
+
+- [Use with Claude Code](https://raytally.com/en/product-ideas-for-developers/#use-with-claude-code)
+- [Use with Codex](https://raytally.com/en/product-ideas-for-developers/#use-with-codex)
+- [Use with Cursor](https://raytally.com/en/product-ideas-for-developers/#use-with-cursor)
+
+Each brief in this repo is also served at a stable URL (`https://raytally.com/en/ideas/<slug>.md`) with identical content.
+
 ## Try it with your agent / 直接让 agent 试
 
 Paste one line into Claude Code, Codex, Cursor, or any agent with network access:
