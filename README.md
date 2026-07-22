@@ -54,3 +54,11 @@ Every brief is copied from the deployed site's static build output. The website 
 Signals are bounded observations captured at the timestamps in each brief. They are not market validation, user counts, or proof of lasting demand. Preserve the time boundary and strongest case against when summarizing or acting.
 
 信号只是任务书所列时间点的有界观察，不是市场验证、用户数量或持续需求证明。转述或行动时，必须保留时间边界与最强反方。
+
+## License / 许可
+
+Editorial materials in `README.md`, `briefs/**`, and `latest.json` are licensed under [CC BY 4.0](./LICENSES/CC-BY-4.0.txt). When reusing them, credit RayTally and link to the original RayTally page or the corresponding repository file.
+
+`SKILL.md` and any software source code added to this repository are licensed under the [MIT License](./LICENSES/MIT.txt). See the repository's [dual-license notice](./LICENSE) for the exact scope. Third-party sources cited by the briefs remain subject to their respective owners' terms.
+
+`README.md`、`briefs/**` 和 `latest.json` 中的编辑内容采用 [CC BY 4.0](./LICENSES/CC-BY-4.0.txt)；转载时请注明 RayTally，并链接原始站内页面或对应仓库文件。`SKILL.md` 及本仓库的软件代码采用 [MIT License](./LICENSES/MIT.txt)。具体范围见[双许可说明](./LICENSE)，任务书引用的第三方材料仍适用其权利人的条款。

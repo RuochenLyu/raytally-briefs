@@ -1,0 +1,23 @@
+RayTally Build Briefs dual-license notice
+
+Copyright (c) 2026 RayTally contributors
+
+1. Editorial materials
+
+The editorial materials in README.md, briefs/**, and latest.json are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). The complete license text is in LICENSES/CC-BY-4.0.txt.
+
+When reusing those materials, attribute RayTally and link to the original
+RayTally page or the corresponding repository file.
+
+2. Agent instructions and software
+
+SKILL.md and any software source code added to this repository are licensed
+under the MIT License. The complete license text is in LICENSES/MIT.txt.
+
+3. Third-party material
+
+This repository cites and links to third-party sources. This dual-license
+notice does not grant rights in third-party material; those materials remain
+subject to their respective owners' terms.
