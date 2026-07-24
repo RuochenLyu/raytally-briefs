@@ -1,433 +1,321 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-23",
+  "generated_at": "2026-07-24",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-07-23-garlic-powder-recall",
-      "slug": "2026-07-23-garlic-powder-recall",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "后厨召回倒查",
-      "one_liner": "餐馆收到原料召回后，导入发票和备料记录，立即倒查受影响库存、半成品与已售餐品。",
-      "url": "https://raytally.com/ideas/2026-07-23-garlic-powder-recall/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-garlic-powder-recall.md",
-      "signal": {
-        "query": "garlic powder recall",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": [
-        {
-          "url": "https://recalls-rappels.canada.ca/en/alert-recall/heavenly-spices-brand-garlic-powder-recalled-due-bacillus-cereus",
-          "boundary": "发布于 2026-07-15T00:00:00.000Z。"
-        },
-        {
-          "url": "https://documents.gs1us.org/adobe/assets/deliver/urn%3Aaaid%3Aaem%3Aa41e4e32-5274-41ed-b7b7-de4a67e31929/Standards-in-Use-for-Fresh-Foods.pdf",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.marginedge.com/lp/restaurant-inventory-management",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://get.apicbase.com/food-traceability-software/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-23-tormenta-tropical-bertha",
-      "slug": "2026-07-23-tormenta-tropical-bertha",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-peptides",
+      "slug": "2026-07-24-peptides",
+      "date": "2026-07-24",
       "tier": "quick",
-      "title": "风暴前的门店安排",
-      "one_liner": "风暴前录入门店与排班，立即得到关店节点、员工联络顺序和可直接发送的通知。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-tormenta-tropical-bertha.md",
+      "title": "肽类库存变更单",
+      "one_liner": "药房导入肽类配方库存后，持续获得对应到原料和批次的监管变更处置单。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-peptides.md",
       "signal": {
-        "query": "tormenta tropical bertha",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T20:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-grizzly-bear",
-      "slug": "2026-07-23-grizzly-bear",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "遇熊前练一遍",
-      "one_liner": "进熊区前花几分钟完成遭遇演练，及时发现取喷雾、站位和撤退顺序上的错误。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-grizzly-bear.md",
-      "signal": {
-        "query": "grizzly bear",
-        "observed_at": "2026-07-23T00:33:10.300Z",
+        "query": "peptides",
+        "observed_at": "2026-07-24T00:33:10.364Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-23-jose-morin-impersonating-officer",
-      "slug": "2026-07-23-jose-morin-impersonating-officer",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-ramona-fire",
+      "slug": "2026-07-24-ramona-fire",
+      "date": "2026-07-24",
       "tier": "featured",
-      "title": "路边拦截安全核验",
-      "one_liner": "怀疑路边拦截者身份时，司机安全停车后用语音核验官方号码，并留下位置和经过记录。",
-      "url": "https://raytally.com/ideas/2026-07-23-jose-morin-impersonating-officer/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-jose-morin-impersonating-officer.md",
+      "title": "山火撤离倒计时",
+      "one_liner": "山火警报关联到家庭住址后，产品按准备时长算出最晚出门时间，并把带药、宠物和撤离任务分给具体家人。",
+      "url": "https://raytally.com/ideas/2026-07-24-ramona-fire/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-ramona-fire.md",
       "signal": {
-        "query": "jose morin impersonating officer",
-        "observed_at": "2026-07-23T00:33:10.300Z",
+        "query": "ramona fire",
+        "observed_at": "2026-07-24T00:33:10.364Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-23T01:30:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.alertsandiego.org/",
+          "boundary": "发布于 2026-07-23T00:00:00.000Z。"
+        },
+        {
+          "url": "https://gis-public.sandiegocounty.gov/arcgis/rest/services/OES/EmergencyViewerMap/MapServer",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.genasys.com/articles/genasys-protect-faqs",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.watchduty.org/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-24-seca",
+      "slug": "2026-07-24-seca",
+      "date": "2026-07-24",
+      "tier": "featured",
+      "title": "水塘还能用几天",
+      "one_liner": "农场主定期从同一位置发送水塘照片，即可看到退水速度、剩余天数区间和该开始备水的日期。",
+      "url": "https://raytally.com/ideas/2026-07-24-seca/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-seca.md",
+      "signal": {
+        "query": "seca",
+        "observed_at": "2026-07-24T00:33:11.978Z",
         "window_hours": 168,
         "active": true
       },
       "sources": [
         {
-          "url": "https://www.ksat.com/news/local/2026/07/21/man-arrested-at-i-35-construction-site-accused-of-impersonating-a-police-officer/",
-          "boundary": "发布于 2026-07-21T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.usmarshals.gov/es/node/173841",
-          "boundary": "发布于 2025-11-20T00:00:00.000Z。"
-        },
-        {
-          "url": "https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/1.0/web/1.0",
+          "url": "https://www.postman.com/meta/whatsapp-business-platform/documentation/wlk6lh4/whatsapp-cloud-api",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.noonlight.com/noonlight-app",
+          "url": "https://docs.opencv.org/master/da/d54/group__imgproc__transform.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://meterrasystems.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://farmsimple.com/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-23-mark-cuban-stock-options-philosophy",
-      "slug": "2026-07-23-mark-cuban-stock-options-philosophy",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-uc-researchers-grant-lawsuit",
+      "slug": "2026-07-24-uc-researchers-grant-lawsuit",
+      "date": "2026-07-24",
       "tier": "quick",
-      "title": "期权报价算清楚",
-      "one_liner": "收到期权报价时贴入条款和公司说法，立即看清现金成本、可能回报与待追问条件。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-mark-cuban-stock-options-philosophy.md",
+      "title": "科研停款72小时清单",
+      "one_liner": "科研经费突遭暂停时，依据通知和条款排出七十二小时动作，稳住人员、实验与证据。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-uc-researchers-grant-lawsuit.md",
       "signal": {
-        "query": "mark cuban stock options philosophy",
-        "observed_at": "2026-07-23T00:33:10.300Z",
+        "query": "uc researchers grant lawsuit",
+        "observed_at": "2026-07-24T00:33:10.364Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-22T11:40:00.000Z"
+        "ended_at": "2026-07-23T18:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-23-tesla-autopilot",
-      "slug": "2026-07-23-tesla-autopilot",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-basement",
+      "slug": "2026-07-24-basement",
+      "date": "2026-07-24",
       "tier": "featured",
-      "title": "我的驾驶辅助接管图",
-      "one_liner": "导入车辆记录后，自动整理每次人工接管的道路片段，找出自己最常遇到风险的场景和路段。",
-      "url": "https://raytally.com/ideas/2026-07-23-tesla-autopilot/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-tesla-autopilot.md",
+      "title": "家人代买确认车",
+      "one_liner": "替家人网购时，代理先组好购物车，再把缺货替代品做成三选一图片卡发给收货人确认。",
+      "url": "https://raytally.com/ideas/2026-07-24-basement/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-basement.md",
       "signal": {
-        "query": "tesla autopilot",
-        "observed_at": "2026-07-23T00:33:10.300Z",
+        "query": "Basement",
+        "observed_at": "2026-07-24T00:33:12.404Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/basement-browser",
+          "boundary": "发布于 2026-07-16T00:00:00.000Z。 观测于 2026-07-24T00:33:12.404Z。"
+        },
+        {
+          "url": "https://www.instacart.com/help/section/360008724892",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.walmart.com/help/article/substitutions-for-store-pickup-and-delivery-items/c8dd3973509b42488da66a362af4666d",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.anylist.com/lists",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-24-sony-fx5",
+      "slug": "2026-07-24-sony-fx5",
+      "date": "2026-07-24",
+      "tier": "quick",
+      "title": "FX5 换机配件账",
+      "one_liner": "摄影师考虑 FX5 时导入现有器材和拍摄任务，马上得到真实换机成本与先租后买清单。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-sony-fx5.md",
+      "signal": {
+        "query": "sony fx5",
+        "observed_at": "2026-07-24T00:33:10.364Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-23T07:50:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-24-eric-adjepong",
+      "slug": "2026-07-24-eric-adjepong",
+      "date": "2026-07-24",
+      "tier": "quick",
+      "title": "按风味角色改菜谱",
+      "one_liner": "家庭厨师遇到买不到的西非食材时上传菜谱和调料柜照片，立即得到保留风味结构的替代做法。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-eric-adjepong.md",
+      "signal": {
+        "query": "eric adjepong",
+        "observed_at": "2026-07-24T00:33:10.364Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-23T13:10:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-24-startup-founders-urge-u-s-government-not-to-shut-off-chinese",
+      "slug": "2026-07-24-startup-founders-urge-u-s-government-not-to-shut-off-chinese",
+      "date": "2026-07-24",
+      "tier": "featured",
+      "title": "AI 模型断供演练",
+      "one_liner": "团队用脱敏真实任务演练模型断供，找出可替换的开放模型、质量缺口和切换成本。",
+      "url": "https://raytally.com/ideas/2026-07-24-startup-founders-urge-u-s-government-not-to-shut-off-chinese/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-startup-founders-urge-u-s-government-not-to-shut-off-chinese.md",
+      "signal": {
+        "query": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "observed_at": "2026-07-24T00:33:12.091Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49023016",
+          "boundary": "发布于 2026-07-23T00:00:00.000Z。 观测于 2026-07-24T00:33:12.091Z。"
+        },
+        {
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "boundary": "发布于 2026-07-22T00:00:00.000Z。 观测于 2026-07-24T00:33:12.091Z。"
+        },
+        {
+          "url": "https://www.promptfoo.dev/docs/configuration/expected-outputs/",
+          "boundary": "发布于 2026-07-18T00:00:00.000Z。"
+        },
+        {
+          "url": "https://docs.langchain.com/langsmith/evaluate-llm-application",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-24-canitbebuilt",
+      "slug": "2026-07-24-canitbebuilt",
+      "date": "2026-07-24",
+      "tier": "featured",
+      "title": "硬件点子首个实验",
+      "one_liner": "创客交入硬件草图和预算后，先获得针对最大技术风险的桌面实验、最小物料和停止标准。",
+      "url": "https://raytally.com/ideas/2026-07-24-canitbebuilt/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-canitbebuilt.md",
+      "signal": {
+        "query": "canitbebuilt",
+        "observed_at": "2026-07-24T00:33:12.404Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/canitbebuilt",
+          "boundary": "发布于 2026-07-22T01:52:18.000Z。 观测于 2026-07-24T00:33:12.404Z。"
+        },
+        {
+          "url": "https://www.flux.ai/COPILOT",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.circuitmind.io/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://pypi.org/project/Pint/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-24-writing-by-hand-is-good-for-your-brain",
+      "slug": "2026-07-24-writing-by-hand-is-good-for-your-brain",
+      "date": "2026-07-24",
+      "tier": "quick",
+      "title": "闭卷手写复盘",
+      "one_liner": "上传学习材料并拍下闭卷手写答案，立即看到记忆缺口和下一轮纸笔练习。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-writing-by-hand-is-good-for-your-brain.md",
+      "signal": {
+        "query": "Writing by hand is good for your brain",
+        "observed_at": "2026-07-24T00:33:12.091Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-24-meghan-markle-instagram-family-photos",
+      "slug": "2026-07-24-meghan-markle-instagram-family-photos",
+      "date": "2026-07-24",
+      "tier": "featured",
+      "title": "旅行照隐私版",
+      "one_liner": "家长导入整组旅行照后，可看到照片拼出的孩子和行程线索，并导出公开、亲友、存档三种版本。",
+      "url": "https://raytally.com/ideas/2026-07-24-meghan-markle-instagram-family-photos/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-meghan-markle-instagram-family-photos.md",
+      "signal": {
+        "query": "meghan markle instagram family photos",
+        "observed_at": "2026-07-24T00:33:10.364Z",
         "window_hours": 168,
         "active": true
       },
       "sources": [
         {
-          "url": "https://www.tesla.com/ownersmanual/modely/en_ie/GUID-3BCC07CE-5EA2-4F40-99D1-27690898FF3C.html",
+          "url": "https://www.townandcountrymag.com/society/tradition/a73249229/meghan-markle-family-vacation-photos-july-2026/",
+          "boundary": "发布于 2026-07-23T00:00:00.000Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/vision",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.tesla.com/docs/fleet-api/fleet-telemetry/available-data",
+          "url": "https://developers.google.com/ml-kit",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.teslamate.org/docs/screenshots/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://about.teslafi.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-23-biden-biographer-recordings-legal-battle",
-      "slug": "2026-07-23-biden-biographer-recordings-legal-battle",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "采访录音权限单",
-      "one_liner": "采访开录前确认用途和录音权限，并把后续变更准确落实到每一段素材。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-biden-biographer-recordings-legal-battle.md",
-      "signal": {
-        "query": "biden biographer recordings legal battle",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T23:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-prince-george-birthday",
-      "slug": "2026-07-23-prince-george-birthday",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "同一张生日照",
-      "one_liner": "孩子生日拍照时调出往年照片校准机位和姿势，立刻得到连续的成长对照。",
-      "url": "https://raytally.com/ideas/2026-07-23-prince-george-birthday/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-prince-george-birthday.md",
-      "signal": {
-        "query": "prince george birthday",
-        "observed_at": "2026-07-23T00:33:11.407Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T23:00:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.harpersbazaar.com/celebrity/latest/a73220171/prince-george-all-royal-birthday-portraits-photos/",
-          "boundary": "发布于 2026-07-22T00:00:00.000Z。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/vision/identifying-3d-human-body-poses-in-images",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/reshoot-before-after-camera/id6761676222",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.ghostframe.app/",
+          "url": "https://blurit.quentin.app/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-23-instagram-messages",
-      "slug": "2026-07-23-instagram-messages",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out",
+      "slug": "2026-07-24-show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out",
+      "date": "2026-07-24",
       "tier": "quick",
-      "title": "社媒停摆备用收件台",
-      "one_liner": "社媒私信中断时，自动启用独立收件页，替小商家接住询价、预约和售后消息。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-instagram-messages.md",
+      "title": "AI 代理单次通行证",
+      "one_liner": "运行陌生 AI 代理前先预演权限需求，只发放本次任务真正需要的临时凭据。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out.md",
       "signal": {
-        "query": "instagram messages",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T20:10:00.000Z"
+        "query": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "observed_at": "2026-07-24T00:33:12.091Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-23-terrence-tao-s-chatgpt-conversation-about-the-jacobian",
-      "slug": "2026-07-23-terrence-tao-s-chatgpt-conversation-about-the-jacobian",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "AI 数学推理验算",
-      "one_liner": "提交一段 AI 数学对话，立即得到主张依赖图、可运行检验和最早的可疑推理步骤。",
-      "url": "https://raytally.com/ideas/2026-07-23-terrence-tao-s-chatgpt-conversation-about-the-jacobian/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-terrence-tao-s-chatgpt-conversation-about-the-jacobian.md",
-      "signal": {
-        "query": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-        "observed_at": "2026-07-23T00:33:12.762Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49010345",
-          "boundary": "发布于 2026-07-22T17:30:40.000Z。 观测于 2026-07-23T00:33:12.762Z。"
-        },
-        {
-          "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-          "boundary": "发布于 2026-07-21T00:00:00.000Z。"
-        },
-        {
-          "url": "https://lean-lang.org/learn/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://arxiv.org/abs/2606.25363",
-          "boundary": "发布于 2026-06-24T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-23-garmin-cirqa",
-      "slug": "2026-07-23-garmin-cirqa",
-      "date": "2026-07-23",
+      "id": "idea-2026-07-24-fathom",
+      "slug": "2026-07-24-fathom",
+      "date": "2026-07-24",
       "tier": "quick",
-      "title": "换手环前回放两周",
-      "one_liner": "考虑换智能手环时，导入现有穿戴数据，先看过去两周若换设备会得到和失去什么。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-garmin-cirqa.md",
+      "title": "自由职业者发薪日",
+      "one_liner": "项目款到账时，自由职业者导入银行流水，立即看到安全可花金额、预留款和催收顺序。",
+      "url": "https://raytally.com/daily/2026-07-24/",
+      "brief_url": "https://raytally.com/ideas/2026-07-24-fathom.md",
       "signal": {
-        "query": "garmin cirqa",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T15:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-the-startup-s-postgres-survival-guide",
-      "slug": "2026-07-23-the-startup-s-postgres-survival-guide",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "Postgres 迁移彩排",
-      "one_liner": "数据库上线前提交迁移脚本，先看到锁冲突时间线、危险语句和可回滚的执行顺序。",
-      "url": "https://raytally.com/ideas/2026-07-23-the-startup-s-postgres-survival-guide/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-the-startup-s-postgres-survival-guide.md",
-      "signal": {
-        "query": "The startup's Postgres survival guide",
-        "observed_at": "2026-07-23T00:33:12.762Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49005787",
-          "boundary": "发布于 2026-07-22T00:00:00.000Z。 观测于 2026-07-23T00:33:12.762Z。"
-        },
-        {
-          "url": "https://www.postgresql.org/docs/current/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://squawkhq.com/docs/safe_migrations/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.bytebase.com/databases/postgres/schema-migration/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-23-ghost-cut-or-why-cut-and-paste-is-broken-everywhere",
-      "slug": "2026-07-23-ghost-cut-or-why-cut-and-paste-is-broken-everywhere",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "粘贴成功再剪掉",
-      "one_liner": "跨应用剪切内容时先保留来源，验证粘贴完整后再删除，失败即可原位恢复。",
-      "url": "https://raytally.com/ideas/2026-07-23-ghost-cut-or-why-cut-and-paste-is-broken-everywhere/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-ghost-cut-or-why-cut-and-paste-is-broken-everywhere.md",
-      "signal": {
-        "query": "Ghost Cut – or why Cut and Paste is broken everywhere",
-        "observed_at": "2026-07-23T00:33:12.762Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-six-dementia-symptoms",
-      "slug": "2026-07-23-six-dementia-symptoms",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "记忆变化观察簿",
-      "one_liner": "担心家人记忆或行为变化时记录具体事件，逐步形成可带去就诊的中性观察摘要。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-six-dementia-symptoms.md",
-      "signal": {
-        "query": "six dementia symptoms",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T15:40:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-baumans-farm-market",
-      "slug": "2026-07-23-baumans-farm-market",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "农场市集今日实况",
-      "one_liner": "农场市集开门前拍几张现场照片，就能发布当天现货、采摘状况和售罄变化。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-baumans-farm-market.md",
-      "signal": {
-        "query": "baumans farm market",
-        "observed_at": "2026-07-23T00:33:10.300Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T13:40:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-buzzy",
-      "slug": "2026-07-23-buzzy",
-      "date": "2026-07-23",
-      "tier": "featured",
-      "title": "收工前补拍单",
-      "one_liner": "拍摄收工前核对脚本与素材，找出连续性缺口，并给出成本最低的补拍清单。",
-      "url": "https://raytally.com/ideas/2026-07-23-buzzy/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-buzzy.md",
-      "signal": {
-        "query": "Buzzy",
-        "observed_at": "2026-07-23T00:33:13.321Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/buzzy-2",
-          "boundary": "发布于 2026-06-30T14:36:15.000Z。 观测于 2026-07-23T00:33:13.321Z。"
-        },
-        {
-          "url": "https://www.filmcontinuity.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_20_New_Features_Guide.pdf?_v=1745391610000",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.scenedetect.com/docs/latest/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-23-aadhar-card-download",
-      "slug": "2026-07-23-aadhar-card-download",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "Aadhaar 安全副本",
-      "one_liner": "向机构发送 Aadhaar 前，在本地遮住无关信息，生成带指定用途和期限的安全副本。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-aadhar-card-download.md",
-      "signal": {
-        "query": "aadhar card download",
-        "observed_at": "2026-07-23T00:33:11.408Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T11:20:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-23-idea-bde212a1",
-      "slug": "2026-07-23-idea-bde212a1",
-      "date": "2026-07-23",
-      "tier": "quick",
-      "title": "买之前先腾一个位置",
-      "one_liner": "想下单时先看家中替代品、真实新增成本和冷静期后的理由变化。",
-      "url": "https://raytally.com/daily/2026-07-23/",
-      "brief_url": "https://raytally.com/ideas/2026-07-23-idea-bde212a1.md",
-      "signal": {
-        "query": "節約",
-        "observed_at": "2026-07-23T00:33:11.407Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-22T21:40:00.000Z"
+        "query": "Fathom",
+        "observed_at": "2026-07-24T00:33:12.404Z"
       },
       "sources": []
     }
