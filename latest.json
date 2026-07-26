@@ -1,341 +1,332 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-25",
+  "generated_at": "2026-07-26",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-07-25-california-mail-ballot-rejections",
-      "slug": "2026-07-25-california-mail-ballot-rejections",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-howard-unenrolled-students",
+      "slug": "2026-07-26-howard-unenrolled-students",
+      "date": "2026-07-26",
       "tier": "featured",
-      "title": "邮寄选票寄出前检查",
-      "one_liner": "加州选民寄出邮寄选票前扫描信封，立刻发现签名等退件风险，并在状态异常时获得补救期限。",
-      "url": "https://raytally.com/ideas/2026-07-25-california-mail-ballot-rejections/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-california-mail-ballot-rejections.md",
+      "title": "注册取消申诉包",
+      "one_liner": "收到取消注册通知后上传邮件和凭证，立即整理出申诉时间线、证据缺口和该联系的办公室。",
+      "url": "https://raytally.com/ideas/2026-07-26-howard-unenrolled-students/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-howard-unenrolled-students.md",
       "signal": {
-        "query": "california mail ballot rejections",
-        "observed_at": "2026-07-25T00:33:11.127Z",
+        "query": "howard unenrolled students",
+        "observed_at": "2026-07-26T00:33:11.523Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-24T23:30:00.000Z"
+        "ended_at": "2026-07-25T22:00:00.000Z"
       },
       "sources": [
         {
-          "url": "https://apnews.com/article/2291684fe4544cab2301f8965abc8f79",
-          "boundary": "发布于 2026-07-23T00:00:00.000Z。"
+          "url": "https://apnews.com/article/d17f77d0fcdb16fa6262378fcad4aa5c",
+          "boundary": "发布于 2026-07-24T00:00:00.000Z。"
         },
         {
-          "url": "https://www.sos.ca.gov/elections/voter-registration/vote-mail",
+          "url": "https://mozilla.github.io/pdf.js/getting_started/?lang=en",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/signature-verification-ballot-processing-and-ballot-counting-emergency-regulations",
+          "url": "https://github.com/naptha/tesseract.js/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/vision/recognizing-text-in-images",
+          "url": "https://www.symplicity.com/higher-ed/solutions/advocate",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-25-southwest-flight-attendant-immigration-case",
-      "slug": "2026-07-25-southwest-flight-attendant-immigration-case",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-pt-organics-fruit-pouch-recall",
+      "slug": "2026-07-26-pt-organics-fruit-pouch-recall",
+      "date": "2026-07-26",
       "tier": "quick",
-      "title": "跨境机组值勤风险单",
-      "one_liner": "持签证机组接到跨境排班时导入航段和证件，立即找出需要人工确认的节点。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-southwest-flight-attendant-immigration-case.md",
+      "title": "零食召回拍照核对",
+      "one_liner": "对水果袋装零食拍照，马上确认批次是否召回，并看到隔离或退货的下一步。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-pt-organics-fruit-pouch-recall.md",
       "signal": {
-        "query": "southwest flight attendant immigration case",
-        "observed_at": "2026-07-25T00:33:11.127Z",
+        "query": "pt organics fruit pouch recall",
+        "observed_at": "2026-07-26T00:33:11.523Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-25-bob-cut",
-      "slug": "2026-07-25-bob-cut",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-costco-washington-email-lawsuit-settlement",
+      "slug": "2026-07-26-costco-washington-email-lawsuit-settlement",
+      "date": "2026-07-26",
       "tier": "quick",
-      "title": "理发参考图沟通卡",
-      "one_liner": "把多张短发参考图整理成到店沟通卡，让发型师看懂你想保留和避开的细节。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-bob-cut.md",
+      "title": "从邮件里核对和解资格",
+      "one_liner": "看到和解消息却不确定能否申领时，用本地邮件记录核对资格并整理提交证据。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-costco-washington-email-lawsuit-settlement.md",
       "signal": {
-        "query": "bob cut",
-        "observed_at": "2026-07-25T00:33:11.127Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-25-northern-virginia-data-center-disconnect",
-      "slug": "2026-07-25-northern-virginia-data-center-disconnect",
-      "date": "2026-07-25",
-      "tier": "featured",
-      "title": "区域断连预演",
-      "one_liner": "导入云配置和关键用户路径，模拟一个数据中心区域断连后，直接找出真正会失效的业务。",
-      "url": "https://raytally.com/ideas/2026-07-25-northern-virginia-data-center-disconnect/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-northern-virginia-data-center-disconnect.md",
-      "signal": {
-        "query": "northern virginia data center disconnect",
-        "observed_at": "2026-07-25T00:33:11.127Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": [
-        {
-          "url": "https://www.investing.com/news/stock-market-news/massive-disconnect-of-power-roiled-largest-us-electric-grid-4807202",
-          "boundary": "发布于 2026-07-22T00:00:00.000Z。"
-        },
-        {
-          "url": "https://docs.aws.amazon.com/resilience-hub/v2/APIReference/Welcome.html",
-          "boundary": "发布于 2026-07-15T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.gremlin.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://aws.amazon.com/blogs/architecture/minimizing-dependencies-in-a-disaster-recovery-plan/",
-          "boundary": "发布于 2022-01-25T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-25-extreme-heat-watch",
-      "slug": "2026-07-25-extreme-heat-watch",
-      "date": "2026-07-25",
-      "tier": "featured",
-      "title": "高温低暴露路线",
-      "one_liner": "高温天输入路线和时间，获得包含遮阴、补水与降温停靠点的低暴露出行方案。",
-      "url": "https://raytally.com/ideas/2026-07-25-extreme-heat-watch/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-extreme-heat-watch.md",
-      "signal": {
-        "query": "extreme heat watch",
-        "observed_at": "2026-07-25T00:33:11.127Z",
+        "query": "costco washington email lawsuit settlement",
+        "observed_at": "2026-07-26T00:33:11.523Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-24T14:10:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.weather.gov/documentation/services-web-alerts",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.google.com/maps/answer/144339?hl=en-gb",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.google.com/maps/documentation/routes/transit-route",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://shademap.app/help/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-25-opus-5-is-currently-1-on-artificial-analysis-intelligence",
-      "slug": "2026-07-25-opus-5-is-currently-1-on-artificial-analysis-intelligence",
-      "date": "2026-07-25",
-      "tier": "quick",
-      "title": "真实任务模型盲测",
-      "one_liner": "把团队真实任务交给多个模型盲测，按结果、费用和速度决定每类工作该用谁。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-opus-5-is-currently-1-on-artificial-analysis-intelligence.md",
-      "signal": {
-        "query": "opus 5",
-        "observed_at": "2026-07-25T00:33:11.127Z",
-        "window_hours": 168,
-        "active": true
+        "ended_at": "2026-07-25T19:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-25-massive-cyclosporiasis-outbreak-linked-to-four-more-states",
-      "slug": "2026-07-25-massive-cyclosporiasis-outbreak-linked-to-four-more-states",
-      "date": "2026-07-25",
-      "tier": "quick",
-      "title": "食源暴露时间线",
-      "one_liner": "怀疑食源性疾病时整理购物、外食和症状记录，生成一页可带去就诊的暴露时间线。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-massive-cyclosporiasis-outbreak-linked-to-four-more-states.md",
+      "id": "idea-2026-07-26-tylenol",
+      "slug": "2026-07-26-tylenol",
+      "date": "2026-07-26",
+      "tier": "featured",
+      "title": "复方药叠加检查",
+      "one_liner": "准备混用止痛药和复方感冒药时拍下包装，马上核对重复成分、服用记录和标签风险。",
+      "url": "https://raytally.com/ideas/2026-07-26-tylenol/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-tylenol.md",
       "signal": {
-        "query": "massive cyclosporiasis outbreak linked to four more states",
-        "observed_at": "2026-07-25T00:33:11.127Z",
+        "query": "tylenol",
+        "observed_at": "2026-07-26T00:33:11.523Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-24T21:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-25-unitree-as2-w",
-      "slug": "2026-07-25-unitree-as2-w",
-      "date": "2026-07-25",
-      "tier": "featured",
-      "title": "带机器人走一遍",
-      "one_liner": "现场负责人用手机走一遍工作路线，立即得到轮足机器人的分段动作、风险点和试跑脚本。",
-      "url": "https://raytally.com/ideas/2026-07-25-unitree-as2-w/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-unitree-as2-w.md",
-      "signal": {
-        "query": "Unitree As2-W",
-        "observed_at": "2026-07-25T00:33:12.800Z"
+        "ended_at": "2026-07-25T20:20:00.000Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49038045",
-          "boundary": "发布于 2026-07-24T00:00:00.000Z。 观测于 2026-07-25T00:33:12.800Z。"
+          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-nonprescription-fixed-dose-combination-acetaminophen-and-naproxen-sodium-12-hour",
+          "boundary": "发布于 2026-07-24T00:00:00.000Z。"
         },
         {
-          "url": "https://www.unitree.com/As2-W/",
-          "boundary": "观测于 2026-07-25T00:33:12.800Z。"
-        },
-        {
-          "url": "https://dev.bostondynamics.com/docs/concepts/orbit/about_orbit.html",
+          "url": "https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/best-way-take-your-over-counter-pain-reliever-seriously-four-panel-brochure",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.formant.io/docs/intervention-requests",
+          "url": "https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.drugs.com/apps/support/faq",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-25-prosed",
-      "slug": "2026-07-25-prosed",
-      "date": "2026-07-25",
-      "tier": "featured",
-      "title": "有出处的家庭回忆录",
-      "one_liner": "整理家庭访谈时，把录音和旧照片写成逐段可追溯、分歧不被掩盖的回忆录。",
-      "url": "https://raytally.com/ideas/2026-07-25-prosed/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-prosed.md",
-      "signal": {
-        "query": "Prosed",
-        "observed_at": "2026-07-25T00:33:13.255Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "boundary": "发布于 2026-07-19T01:23:23.000Z。 观测于 2026-07-25T00:33:13.255Z。"
-        },
-        {
-          "url": "https://platform.openai.com/docs/api-reference/audio",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.remento.co/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://tryprosed.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-25-ransom-e865b4d",
-      "slug": "2026-07-25-ransom-e865b4d",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-day-care-center",
+      "slug": "2026-07-26-day-care-center",
+      "date": "2026-07-26",
       "tier": "quick",
-      "title": "勒索消息冷静页",
-      "one_liner": "收到疑似勒索消息时，快速组织家人交叉核验、保存证据，并避免仓促回复或付款。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-ransom-e865b4d.md",
+      "title": "临时托育接力表",
+      "one_liner": "日托突然停课时提交可帮忙时段和接送条件，立即拼出当天的照看接力计划。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-day-care-center.md",
       "signal": {
-        "query": "ransom",
-        "observed_at": "2026-07-25T00:33:11.127Z",
+        "query": "day care center",
+        "observed_at": "2026-07-26T00:33:11.523Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-24T02:50:00.000Z"
+        "ended_at": "2026-07-25T14:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-25-teable-3-0",
-      "slug": "2026-07-25-teable-3-0",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-idea-1e5d175c",
+      "slug": "2026-07-26-idea-1e5d175c",
+      "date": "2026-07-26",
       "tier": "featured",
-      "title": "表格改动预演",
-      "one_liner": "让 AI 批量处理业务表格前，先看清改哪些行、为何改以及会波及哪些公式，再决定是否执行。",
-      "url": "https://raytally.com/ideas/2026-07-25-teable-3-0/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-teable-3-0.md",
+      "title": "拜访后的承诺板",
+      "one_liner": "陌生拜访结束后记下对方原话和约定，得到跟进日期、消息草稿与停止追问的边界。",
+      "url": "https://raytally.com/ideas/2026-07-26-idea-1e5d175c/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-idea-1e5d175c.md",
       "signal": {
-        "query": "Teable 3.0",
-        "observed_at": "2026-07-25T00:33:13.255Z"
+        "query": "Pitched 8 local businesses in person, now what? How do I follow up without being annoying?",
+        "observed_at": "2026-07-26T00:33:15.862Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/teable-4",
-          "boundary": "发布于 2026-07-14T00:00:00.000Z。 观测于 2026-07-25T00:33:13.255Z。"
+          "url": "https://www.reddit.com/r/smallbusiness/comments/1v6jp30/pitched_8_local_businesses_in_person_now_what_how/",
+          "boundary": "发布于 2026-07-25T20:55:26.000Z。 观测于 2026-07-26T00:33:15.862Z。"
         },
         {
-          "url": "https://help.teable.ai/en/api-reference/record/get-table-records-history",
-          "boundary": "发布于 2026-03-05T00:00:00.000Z。"
-        },
-        {
-          "url": "https://support.google.com/docs/answer/14356410?hl=en",
+          "url": "https://www.badgermapping.com/badger-ai/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.airtable.com/docs/using-airtable-ai-in-fields",
-          "boundary": "发布于 2026-06-23T00:00:00.000Z。"
+          "url": "https://help.srplus.salesrabbit.com/hc/en-us/articles/23674832114839-Lead-Management-Mobile-App",
+          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/Speech",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-25-tim-hicks-idaho-pike-record",
-      "slug": "2026-07-25-tim-hicks-idaho-pike-record",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-android-may-soon-restrict-on-device-adb",
+      "slug": "2026-07-26-android-may-soon-restrict-on-device-adb",
+      "date": "2026-07-26",
       "tier": "quick",
-      "title": "纪录鱼现场取证",
-      "one_liner": "钓到疑似纪录鱼时，按现场引导完成测量与拍摄，立即获得合规证据包。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-tim-hicks-idaho-pike-record.md",
+      "title": "ADB依赖迁移清单",
+      "one_liner": "Android 项目依赖 ADB 时导入仓库，立即找出可能被新限制破坏的功能及替代路径。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-android-may-soon-restrict-on-device-adb.md",
       "signal": {
-        "query": "tim hicks idaho pike record",
-        "observed_at": "2026-07-25T00:33:11.127Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-24T12:30:00.000Z"
+        "query": "Android May Soon Restrict On-Device ADB",
+        "observed_at": "2026-07-26T00:33:14.948Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-25-cubby-clipboard",
-      "slug": "2026-07-25-cubby-clipboard",
-      "date": "2026-07-25",
-      "tier": "quick",
-      "title": "截图粘贴前先脱敏",
-      "one_liner": "复制含客户信息的截图时，自动生成可安全外发的遮罩版本，同时保留本地原图。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-cubby-clipboard.md",
+      "id": "idea-2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller",
+      "slug": "2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller",
+      "date": "2026-07-26",
+      "tier": "featured",
+      "title": "会解释故障的设备面板",
+      "one_liner": "家电报错时扫码提问，由设备结合故障码和实时状态给出安全自查与维修交接卡。",
+      "url": "https://raytally.com/ideas/2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller.md",
       "signal": {
-        "query": "Cubby Clipboard",
-        "observed_at": "2026-07-25T00:33:13.255Z"
+        "query": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "observed_at": "2026-07-26T00:33:14.948Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "boundary": "发布于 2026-07-25T00:00:00.000Z。 观测于 2026-07-26T00:33:14.948Z。"
+        },
+        {
+          "url": "https://github.com/slvDev/esp32-ai",
+          "boundary": "观测于 2026-07-26T00:33:14.948Z。"
+        },
+        {
+          "url": "https://www.samsung.com/us/support/answer/ANS10006855/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.bosch-home.com/za/customer-service/remote-diagnostics",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-26-speechius",
+      "slug": "2026-07-26-speechius",
+      "date": "2026-07-26",
+      "tier": "featured",
+      "title": "自由发挥不漏重点",
+      "one_liner": "自由发挥演示时监听必讲内容，只在临近结束仍漏掉关键信息时给出单条提示。",
+      "url": "https://raytally.com/ideas/2026-07-26-speechius/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-speechius.md",
+      "signal": {
+        "query": "Speechius",
+        "observed_at": "2026-07-26T00:33:15.858Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/speechius",
+          "boundary": "发布于 2026-07-24T08:33:41.000Z。 观测于 2026-07-26T00:33:15.858Z。"
+        },
+        {
+          "url": "https://speechius.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.microsoft.com/en-US/PowerPoint/rehearse-your-slide-show-with-speaker-coach",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/ggml-org/whisper.cpp",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-26-the-growing-vigilante-movement-to-knock-out-flock",
+      "slug": "2026-07-26-the-growing-vigilante-movement-to-knock-out-flock",
+      "date": "2026-07-26",
+      "tier": "quick",
+      "title": "街头镜头档案",
+      "one_liner": "看到陌生街头摄像头时拍照定位，立即查明谁在运营、数据留多久以及如何正式提出异议。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-the-growing-vigilante-movement-to-knock-out-flock.md",
+      "signal": {
+        "query": "The growing vigilante movement to knock out Flock surveillance cameras",
+        "observed_at": "2026-07-26T00:33:14.948Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-25-idea-2b548e3c",
-      "slug": "2026-07-25-idea-2b548e3c",
-      "date": "2026-07-25",
+      "id": "idea-2026-07-26-ai",
+      "slug": "2026-07-26-ai",
+      "date": "2026-07-26",
       "tier": "quick",
-      "title": "种草视频核对卡",
-      "one_liner": "刷到想买的短视频时分享链接，立即看清口播承诺、真实条款和下单前仍需确认的风险。",
-      "url": "https://raytally.com/daily/2026-07-25/",
-      "brief_url": "https://raytally.com/ideas/2026-07-25-idea-2b548e3c.md",
+      "title": "AI工作实测账本",
+      "one_liner": "续费或推广 AI 前，用真实任务做个人对照实验，找出哪些环节确实省时、哪些反而返工。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-ai.md",
       "signal": {
-        "query": "How top brands are activating creators on TikTok to drive real business results",
-        "observed_at": "2026-07-25T00:33:13.258Z"
+        "query": "SurveyMonkey Research: AI Sentiment Study",
+        "observed_at": "2026-07-26T00:33:15.862Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-26-idea-f799331d",
+      "slug": "2026-07-26-idea-f799331d",
+      "date": "2026-07-26",
+      "tier": "featured",
+      "title": "餐车收摊即结薪",
+      "one_liner": "小店收摊时确认当天异常班次，即可汇总工资、小费、税款预留和会计所需文件。",
+      "url": "https://raytally.com/ideas/2026-07-26-idea-f799331d/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-idea-f799331d.md",
+      "signal": {
+        "query": "Is there an App for employee clocking in/out, payroll and taxes? If it exists?",
+        "observed_at": "2026-07-26T00:33:15.862Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/smallbusiness/comments/1v6m6wp/is_there_an_app_for_employee_clocking_inout/",
+          "boundary": "发布于 2026-07-25T22:39:25.000Z。 观测于 2026-07-26T00:33:15.862Z。"
+        },
+        {
+          "url": "https://developer.squareup.com/docs/labor-api/build-with-labor",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.squareup.com/docs/payments-refunds",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.joinhomebase.com/free-time-clock",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-26-seller-by-facebook",
+      "slug": "2026-07-26-seller-by-facebook",
+      "date": "2026-07-26",
+      "tier": "quick",
+      "title": "一袋旧物，拆成几单",
+      "one_liner": "清理一堆旧物时拍下全景，它会拆成更容易成交的组合，并返回可直接发布的商品草稿。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-seller-by-facebook.md",
+      "signal": {
+        "query": "Seller by Facebook",
+        "observed_at": "2026-07-26T00:33:15.858Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-26-minknote",
+      "slug": "2026-07-26-minknote",
+      "date": "2026-07-26",
+      "tier": "quick",
+      "title": "会谈笔记的脱敏副本",
+      "one_liner": "记录敏感会谈后，在本地生成别名一致、链接完整的脱敏副本，供督导或同事查看。",
+      "url": "https://raytally.com/daily/2026-07-26/",
+      "brief_url": "https://raytally.com/ideas/2026-07-26-minknote.md",
+      "signal": {
+        "query": "MinkNote",
+        "observed_at": "2026-07-26T00:33:15.858Z"
       },
       "sources": []
     }
