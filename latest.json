@@ -1,332 +1,320 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-26",
+  "generated_at": "2026-07-27",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-07-26-howard-unenrolled-students",
-      "slug": "2026-07-26-howard-unenrolled-students",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-htmx-4-0-the-first-javascript-library-to-release-exclusively",
+      "slug": "2026-07-27-htmx-4-0-the-first-javascript-library-to-release-exclusively",
+      "date": "2026-07-27",
       "tier": "featured",
-      "title": "注册取消申诉包",
-      "one_liner": "收到取消注册通知后上传邮件和凭证，立即整理出申诉时间线、证据缺口和该联系的办公室。",
-      "url": "https://raytally.com/ideas/2026-07-26-howard-unenrolled-students/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-howard-unenrolled-students.md",
+      "title": "把更新做成掌机卡带",
+      "one_liner": "开发者导入更新说明和素材，把每项新功能做成一个可在模拟器或实体掌机试玩的小关卡。",
+      "url": "https://raytally.com/ideas/2026-07-27-htmx-4-0-the-first-javascript-library-to-release-exclusively/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-htmx-4-0-the-first-javascript-library-to-release-exclusively.md",
       "signal": {
-        "query": "howard unenrolled students",
-        "observed_at": "2026-07-26T00:33:11.523Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-25T22:00:00.000Z"
+        "query": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+        "observed_at": "2026-07-27T00:33:14.904Z"
       },
       "sources": [
         {
-          "url": "https://apnews.com/article/d17f77d0fcdb16fa6262378fcad4aa5c",
-          "boundary": "发布于 2026-07-24T00:00:00.000Z。"
+          "url": "https://news.ycombinator.com/item?id=49057241",
+          "boundary": "发布于 2026-07-26T00:00:00.000Z。 观测于 2026-07-27T00:33:14.904Z。"
         },
         {
-          "url": "https://mozilla.github.io/pdf.js/getting_started/?lang=en",
+          "url": "https://swag.htmx.org/products/htmx-4-the-game",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/naptha/tesseract.js/",
+          "url": "https://github.com/chrismaltby/gb-studio",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.symplicity.com/higher-ed/solutions/advocate",
+          "url": "https://docs.storylane.io/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-26-pt-organics-fruit-pouch-recall",
-      "slug": "2026-07-26-pt-organics-fruit-pouch-recall",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-show-hn-reverse-minesweeper",
+      "slug": "2026-07-27-show-hn-reverse-minesweeper",
+      "date": "2026-07-27",
       "tier": "quick",
-      "title": "零食召回拍照核对",
-      "one_liner": "对水果袋装零食拍照，马上确认批次是否召回，并看到隔离或退货的下一步。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-pt-organics-fruit-pouch-recall.md",
+      "title": "反向扫雷工坊",
+      "one_liner": "喜欢逻辑题的人反向布雷后，立即检查题目是否存在唯一解，再分享给朋友正向求解。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-show-hn-reverse-minesweeper.md",
       "signal": {
-        "query": "pt organics fruit pouch recall",
-        "observed_at": "2026-07-26T00:33:11.523Z",
+        "query": "Show HN: Reverse Minesweeper",
+        "observed_at": "2026-07-27T00:33:14.904Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-27-idea-85aafd94",
+      "slug": "2026-07-27-idea-85aafd94",
+      "date": "2026-07-27",
+      "tier": "featured",
+      "title": "肯尼亚手语窗口翻译",
+      "one_liner": "聋人在司法窗口用肯尼亚手语表达，先确认手语回译，再播放语音并留下可核对的双语记录。",
+      "url": "https://raytally.com/ideas/2026-07-27-idea-85aafd94/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-idea-85aafd94.md",
+      "signal": {
+        "query": "I wish someone could build an app that tracks hand gestures and facial movements used in Kenya Sign Language to translate it into speech. I hate seeing how deaf people are especially excluded from our justice system because we do not have translators. Abu Iman (@Mr_Guantai) July 25, 2026",
+        "observed_at": "2026-07-27T00:34:01.976Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.parliament.go.ke/node/26035",
+          "boundary": "发布于 2026-06-26T00:00:00.000Z。"
+        },
+        {
+          "url": "https://x.com/Mr_Guantai/status/2081070905275429312",
+          "boundary": "发布于 2026-07-25T17:35:42.000Z。 观测于 2026-07-27T00:34:01.976Z。"
+        },
+        {
+          "url": "https://ai.google.dev/edge/api/mediapipe/python/mp/tasks/vision/HolisticLandmarkerResult",
+          "boundary": "发布于 2026-06-05T00:00:00.000Z。"
+        },
+        {
+          "url": "https://signvrse.com/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-27-simulate-cassette-tape-audio-profiles-using-ffmpeg",
+      "slug": "2026-07-27-simulate-cassette-tape-audio-profiles-using-ffmpeg",
+      "date": "2026-07-27",
+      "tier": "quick",
+      "title": "磁带声音配方",
+      "one_liner": "想复刻旧磁带声音时上传参考片段，试听后拿到可复现的 FFmpeg 效果配方。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-simulate-cassette-tape-audio-profiles-using-ffmpeg.md",
+      "signal": {
+        "query": "Simulate cassette tape audio profiles using FFmpeg",
+        "observed_at": "2026-07-27T00:33:14.904Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-27-letterboxd",
+      "slug": "2026-07-27-letterboxd",
+      "date": "2026-07-27",
+      "tier": "featured",
+      "title": "专辑听后卡",
+      "one_liner": "听完整张专辑后选一首重播曲、一个听感词和一个场景，生成可与朋友接龙的听后卡。",
+      "url": "https://raytally.com/ideas/2026-07-27-letterboxd/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-letterboxd.md",
+      "signal": {
+        "query": "We need a letterboxd for music, that isn’t full of pretentious geeks https://t.co/MTSixBNvTr Sir Gøøfy🙄💞🛸 (@sirgoofy28) July 25, 2026",
+        "observed_at": "2026-07-27T00:34:01.976Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/sirgoofy28/status/2080866872065741218",
+          "boundary": "发布于 2026-07-25T04:04:57.000Z。 观测于 2026-07-27T00:34:01.976Z。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/musicboard-albums-songs/id1503544789?platform=iphone&see-all=reviews",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.spotify.com/documentation/web-api/reference/get-an-albums-tracks",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://musicbrainz.org/doc/Cover_Art_Archive/API",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-27-playingfild",
+      "slug": "2026-07-27-playingfild",
+      "date": "2026-07-27",
+      "tier": "quick",
+      "title": "回到上次工作处",
+      "one_liner": "临时切换任务时封存浏览器工作现场，回来后恢复页面位置、草稿与明确的下一步。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-playingfild.md",
+      "signal": {
+        "query": ">=PlayingFild",
+        "observed_at": "2026-07-27T00:33:15.751Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-27-adhd",
+      "slug": "2026-07-27-adhd",
+      "date": "2026-07-27",
+      "tier": "quick",
+      "title": "不连胜的奖励清单",
+      "one_liner": "迟迟不想动手时，把任务缩成几十秒的起步动作，完成后积累不会因断签清零的奖励。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-adhd.md",
+      "signal": {
+        "query": "Idea for an ADHD-friendly to-do app with a reward system and a growing forest",
+        "observed_at": "2026-07-27T00:33:15.755Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-27-idea-e251f4e2",
+      "slug": "2026-07-27-idea-e251f4e2",
+      "date": "2026-07-27",
+      "tier": "featured",
+      "title": "遗址小侦探",
+      "one_liner": "亲子走进遗址后按现场线索逐层拼出古都布局，最后带走一张有依据的个人复原图。",
+      "url": "https://raytally.com/ideas/2026-07-27-idea-e251f4e2/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-idea-e251f4e2.md",
+      "signal": {
+        "query": "飛鳥藤原の宮都",
+        "observed_at": "2026-07-27T00:33:13.865Z",
         "window_hours": 168,
         "active": true
       },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-26-costco-washington-email-lawsuit-settlement",
-      "slug": "2026-07-26-costco-washington-email-lawsuit-settlement",
-      "date": "2026-07-26",
-      "tier": "quick",
-      "title": "从邮件里核对和解资格",
-      "one_liner": "看到和解消息却不确定能否申领时，用本地邮件记录核对资格并整理提交证据。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-costco-washington-email-lawsuit-settlement.md",
-      "signal": {
-        "query": "costco washington email lawsuit settlement",
-        "observed_at": "2026-07-26T00:33:11.523Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-25T19:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-26-tylenol",
-      "slug": "2026-07-26-tylenol",
-      "date": "2026-07-26",
-      "tier": "featured",
-      "title": "复方药叠加检查",
-      "one_liner": "准备混用止痛药和复方感冒药时拍下包装，马上核对重复成分、服用记录和标签风险。",
-      "url": "https://raytally.com/ideas/2026-07-26-tylenol/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-tylenol.md",
-      "signal": {
-        "query": "tylenol",
-        "observed_at": "2026-07-26T00:33:11.523Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-25T20:20:00.000Z"
-      },
       "sources": [
         {
-          "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-nonprescription-fixed-dose-combination-acetaminophen-and-naproxen-sodium-12-hour",
-          "boundary": "发布于 2026-07-24T00:00:00.000Z。"
+          "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_03987.html",
+          "boundary": "发布于 2026-07-26T00:00:00.000Z。"
         },
         {
-          "url": "https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/best-way-take-your-over-counter-pain-reliever-seriously-four-panel-brochure",
+          "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/suisenchu/index.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://www.city.kashihara.nara.jp/soshiki/1020/gyomu/1/1/XR_fujiwarakyu.html",
+          "boundary": "发布于 2026-03-27T00:00:00.000Z。"
         },
         {
-          "url": "https://www.drugs.com/apps/support/faq",
+          "url": "https://okajou.jp/ar/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-26-day-care-center",
-      "slug": "2026-07-26-day-care-center",
-      "date": "2026-07-26",
-      "tier": "quick",
-      "title": "临时托育接力表",
-      "one_liner": "日托突然停课时提交可帮忙时段和接送条件，立即拼出当天的照看接力计划。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-day-care-center.md",
-      "signal": {
-        "query": "day care center",
-        "observed_at": "2026-07-26T00:33:11.523Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-25T14:00:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-26-idea-1e5d175c",
-      "slug": "2026-07-26-idea-1e5d175c",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-how-to-write-english-prose",
+      "slug": "2026-07-27-how-to-write-english-prose",
+      "date": "2026-07-27",
       "tier": "featured",
-      "title": "拜访后的承诺板",
-      "one_liner": "陌生拜访结束后记下对方原话和约定，得到跟进日期、消息草稿与停止追问的边界。",
-      "url": "https://raytally.com/ideas/2026-07-26-idea-1e5d175c/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-idea-1e5d175c.md",
+      "title": "把英文散文读顺",
+      "one_liner": "修改英文段落时先朗读一遍，产品用真实绊口位置定位句法问题，再让你试读小幅改法。",
+      "url": "https://raytally.com/ideas/2026-07-27-how-to-write-english-prose/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-how-to-write-english-prose.md",
       "signal": {
-        "query": "Pitched 8 local businesses in person, now what? How do I follow up without being annoying?",
-        "observed_at": "2026-07-26T00:33:15.862Z"
+        "query": "How to Write English Prose",
+        "observed_at": "2026-07-27T00:33:14.904Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/smallbusiness/comments/1v6jp30/pitched_8_local_businesses_in_person_now_what_how/",
-          "boundary": "发布于 2026-07-25T20:55:26.000Z。 观测于 2026-07-26T00:33:15.862Z。"
-        },
-        {
-          "url": "https://www.badgermapping.com/badger-ai/",
+          "url": "https://huggingface.co/docs/transformers.js/main/index",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.srplus.salesrabbit.com/hc/en-us/articles/23674832114839-Lead-Management-Mobile-App",
-          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
+          "url": "https://hemingwayapp.com/help/docs/intro",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/Speech",
+          "url": "https://support.microsoft.com/en-US/Word/listen-to-your-word-documents",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.grammarly.com/features",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-26-android-may-soon-restrict-on-device-adb",
-      "slug": "2026-07-26-android-may-soon-restrict-on-device-adb",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-keyopera-2-0",
+      "slug": "2026-07-27-keyopera-2-0",
+      "date": "2026-07-27",
       "tier": "quick",
-      "title": "ADB依赖迁移清单",
-      "one_liner": "Android 项目依赖 ADB 时导入仓库，立即找出可能被新限制破坏的功能及替代路径。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-android-may-soon-restrict-on-device-adb.md",
+      "title": "快捷键听觉教练",
+      "one_liner": "学习 Mac 软件快捷键时，用会逐渐淡出的声音反馈纠正按键，直到不看提示也能熟练操作。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-keyopera-2-0.md",
       "signal": {
-        "query": "Android May Soon Restrict On-Device ADB",
-        "observed_at": "2026-07-26T00:33:14.948Z"
+        "query": "KeyOpera 2.0",
+        "observed_at": "2026-07-27T00:33:15.751Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller",
-      "slug": "2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-athena-by-shoplazza",
+      "slug": "2026-07-27-athena-by-shoplazza",
+      "date": "2026-07-27",
       "tier": "featured",
-      "title": "会解释故障的设备面板",
-      "one_liner": "家电报错时扫码提问，由设备结合故障码和实时状态给出安全自查与维修交接卡。",
-      "url": "https://raytally.com/ideas/2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-running-a-28-9m-parameter-llm-on-an-8-microcontroller.md",
+      "title": "大促上线彩排",
+      "one_liner": "大促发布前把库存、优惠、广告和邮件放进沙盒彩排，提前找出冲突并生成上线与回滚步骤。",
+      "url": "https://raytally.com/ideas/2026-07-27-athena-by-shoplazza/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-athena-by-shoplazza.md",
       "signal": {
-        "query": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "observed_at": "2026-07-26T00:33:14.948Z"
+        "query": "Athena by Shoplazza",
+        "observed_at": "2026-07-27T00:33:15.751Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "boundary": "发布于 2026-07-25T00:00:00.000Z。 观测于 2026-07-26T00:33:14.948Z。"
+          "url": "https://www.producthunt.com/products/athena-by-shoplazza",
+          "boundary": "观测于 2026-07-27T00:33:15.751Z。"
         },
         {
-          "url": "https://github.com/slvDev/esp32-ai",
-          "boundary": "观测于 2026-07-26T00:33:14.948Z。"
+          "url": "https://www.shoplazza.com/blog/athena-ai-assistant-debut",
+          "boundary": "发布于 2026-05-12T00:00:00.000Z。"
         },
         {
-          "url": "https://www.samsung.com/us/support/answer/ANS10006855/",
+          "url": "https://www.usestackable.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.bosch-home.com/za/customer-service/remote-diagnostics",
+          "url": "https://shopify.dev/docs/api/admin-graphql/latest/objects/InventoryLevel",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-26-speechius",
-      "slug": "2026-07-26-speechius",
-      "date": "2026-07-26",
-      "tier": "featured",
-      "title": "自由发挥不漏重点",
-      "one_liner": "自由发挥演示时监听必讲内容，只在临近结束仍漏掉关键信息时给出单条提示。",
-      "url": "https://raytally.com/ideas/2026-07-26-speechius/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-speechius.md",
-      "signal": {
-        "query": "Speechius",
-        "observed_at": "2026-07-26T00:33:15.858Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/speechius",
-          "boundary": "发布于 2026-07-24T08:33:41.000Z。 观测于 2026-07-26T00:33:15.858Z。"
-        },
-        {
-          "url": "https://speechius.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.microsoft.com/en-US/PowerPoint/rehearse-your-slide-show-with-speaker-coach",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/ggml-org/whisper.cpp",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-26-the-growing-vigilante-movement-to-knock-out-flock",
-      "slug": "2026-07-26-the-growing-vigilante-movement-to-knock-out-flock",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-meme",
+      "slug": "2026-07-27-meme",
+      "date": "2026-07-27",
       "tier": "quick",
-      "title": "街头镜头档案",
-      "one_liner": "看到陌生街头摄像头时拍照定位，立即查明谁在运营、数据留多久以及如何正式提出异议。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-the-growing-vigilante-movement-to-knock-out-flock.md",
+      "title": "私人反应素材抽屉",
+      "one_liner": "把私人 meme 声音和片段做成跨应用按键，在聊天或通话中一触即用。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-meme.md",
       "signal": {
-        "query": "The growing vigilante movement to knock out Flock surveillance cameras",
-        "observed_at": "2026-07-26T00:33:14.948Z"
+        "query": "I lowkey wish there was an app where I could just upload and store all of my meme sounds and vocal stims and video clips and gifs to deploy at a moment’s notice with a single button press Basically a custom soundboard/memeboard so I could just whip memes out in the middle of a… Lady Aero ✨ 𝑀𝒾𝓈𝓉\ud835",
+        "observed_at": "2026-07-27T00:34:01.976Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-26-ai",
-      "slug": "2026-07-26-ai",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-plasma-tunnels-reveal-how-dying-satellites-fall-to-earth",
+      "slug": "2026-07-27-plasma-tunnels-reveal-how-dying-satellites-fall-to-earth",
+      "date": "2026-07-27",
       "tier": "quick",
-      "title": "AI工作实测账本",
-      "one_liner": "续费或推广 AI 前，用真实任务做个人对照实验，找出哪些环节确实省时、哪些反而返工。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-ai.md",
+      "title": "卫星再入观测接力",
+      "one_liner": "卫星临近再入时协调沿途观测者拍摄夜空，把分散视频拼成不断收窄的轨迹。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-plasma-tunnels-reveal-how-dying-satellites-fall-to-earth.md",
       "signal": {
-        "query": "SurveyMonkey Research: AI Sentiment Study",
-        "observed_at": "2026-07-26T00:33:15.862Z"
+        "query": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+        "observed_at": "2026-07-27T00:33:14.904Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-26-idea-f799331d",
-      "slug": "2026-07-26-idea-f799331d",
-      "date": "2026-07-26",
-      "tier": "featured",
-      "title": "餐车收摊即结薪",
-      "one_liner": "小店收摊时确认当天异常班次，即可汇总工资、小费、税款预留和会计所需文件。",
-      "url": "https://raytally.com/ideas/2026-07-26-idea-f799331d/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-idea-f799331d.md",
-      "signal": {
-        "query": "Is there an App for employee clocking in/out, payroll and taxes? If it exists?",
-        "observed_at": "2026-07-26T00:33:15.862Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/smallbusiness/comments/1v6m6wp/is_there_an_app_for_employee_clocking_inout/",
-          "boundary": "发布于 2026-07-25T22:39:25.000Z。 观测于 2026-07-26T00:33:15.862Z。"
-        },
-        {
-          "url": "https://developer.squareup.com/docs/labor-api/build-with-labor",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.squareup.com/docs/payments-refunds",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.joinhomebase.com/free-time-clock",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-26-seller-by-facebook",
-      "slug": "2026-07-26-seller-by-facebook",
-      "date": "2026-07-26",
+      "id": "idea-2026-07-27-sf-apartment-finder",
+      "slug": "2026-07-27-sf-apartment-finder",
+      "date": "2026-07-27",
       "tier": "quick",
-      "title": "一袋旧物，拆成几单",
-      "one_liner": "清理一堆旧物时拍下全景，它会拆成更容易成交的组合，并返回可直接发布的商品草稿。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-seller-by-facebook.md",
+      "title": "合租选房共识板",
+      "one_liner": "合租找房时汇总每个人的底线与取舍，找出无需谁单方面妥协的实时房源。",
+      "url": "https://raytally.com/daily/2026-07-27/",
+      "brief_url": "https://raytally.com/ideas/2026-07-27-sf-apartment-finder.md",
       "signal": {
-        "query": "Seller by Facebook",
-        "observed_at": "2026-07-26T00:33:15.858Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-26-minknote",
-      "slug": "2026-07-26-minknote",
-      "date": "2026-07-26",
-      "tier": "quick",
-      "title": "会谈笔记的脱敏副本",
-      "one_liner": "记录敏感会谈后，在本地生成别名一致、链接完整的脱敏副本，供督导或同事查看。",
-      "url": "https://raytally.com/daily/2026-07-26/",
-      "brief_url": "https://raytally.com/ideas/2026-07-26-minknote.md",
-      "signal": {
-        "query": "MinkNote",
-        "observed_at": "2026-07-26T00:33:15.858Z"
+        "query": "SF Apartment Finder",
+        "observed_at": "2026-07-27T00:33:15.751Z"
       },
       "sources": []
     }
