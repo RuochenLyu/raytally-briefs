@@ -1,309 +1,321 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-28",
+  "generated_at": "2026-07-29",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-07-28-linkedout-style-workplace-transparency",
-      "slug": "2026-07-28-linkedout-style-workplace-transparency",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-app",
+      "slug": "2026-07-29-app",
+      "date": "2026-07-29",
       "tier": "featured",
-      "title": "Offer 现实核对",
-      "one_liner": "候选人签约前上传 offer，向经过任职验证的相近岗位员工核对加班、奖金和晋升现实。",
-      "url": "https://raytally.com/ideas/2026-07-28-linkedout-style-workplace-transparency/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-linkedout-style-workplace-transparency.md",
+      "title": "停车不装 App 也能付",
+      "one_liner": "临时停车时扫一下收费牌，比较免装 App 的付款渠道和含费总价，再直接完成支付。",
+      "url": "https://raytally.com/ideas/2026-07-29-app/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-app.md",
       "signal": {
-        "query": "Someone needs to build an app called LinkedOut where employees share what it was really like to work at these companies. Degen CPA (@DrewVento) July 26, 2026",
-        "observed_at": "2026-07-28T00:34:17.616Z"
+        "query": "I would rather walk backward into the ocean than download an app just to pay for parking. I’d rather memorize the entire dictionary than download your restaurant’s app. I just want to order food and park my car without being forced into your digital ecosystem. 𐌁𐌉Ᏽ 𐌕𐌉𐌌𐌉 (@OrevaZSN) July 28, 202",
+        "observed_at": "2026-07-29T00:34:03.936Z"
       },
       "sources": [
         {
-          "url": "https://x.com/DrewVento/status/2081255878527783025",
-          "boundary": "发布于 2026-07-26T00:00:00.000Z。 观测于 2026-07-28T00:34:17.616Z。"
+          "url": "https://x.com/OrevaZSN/status/2082160452302143920",
+          "boundary": "发布于 2026-07-28T17:45:11.000Z。 观测于 2026-07-29T00:34:03.936Z。"
         },
         {
-          "url": "https://us.teamblind.com/faq",
+          "url": "https://developer.apple.com/documentation/vision/recognizing-text-in-images",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.glassdoor.com/about/trust/protecting-user-anonymity/",
+          "url": "https://support.parkmobile.io/hc/en-us/articles/36854907118747-FREQUENTLY-ASKED-QUESTIONS",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.linkedin.com/help/linkedin/answer/a1359065",
+          "url": "https://support.paybyphone.com/hc/en-001/articles/12154907909393-How-does-it-work",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-28-meteor-showers",
-      "slug": "2026-07-28-meteor-showers",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-idea-5e767305",
+      "slug": "2026-07-29-idea-5e767305",
+      "date": "2026-07-29",
       "tier": "quick",
-      "title": "今晚流星出发点",
-      "one_liner": "观星前输入位置和可开车距离，获得随云层变化更新的最佳地点、出发时刻与转场方案。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-meteor-showers.md",
+      "title": "今晚只玩这一款",
+      "one_liner": "面对庞大游戏库选不动时，按今晚的时间和心情只挑一款并直接开玩。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-idea-5e767305.md",
       "signal": {
-        "query": "meteor showers",
-        "observed_at": "2026-07-28T00:33:11.567Z",
+        "query": "How do you cope with procrastination when you genuinely want to do something?",
+        "observed_at": "2026-07-29T00:33:15.165Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-29-3d",
+      "slug": "2026-07-29-3d",
+      "date": "2026-07-29",
+      "tier": "quick",
+      "title": "只改阴影的渲染编辑器",
+      "one_liner": "角色成图阴影不合适时，单独移除或柔化指定阴影，保留纹理和边缘质量。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-3d.md",
+      "signal": {
+        "query": "K4. They are so cute 😭♥️ I just wish there was a way to turn off the shadows without turn down the quality at MateEngine pic.twitter.com/CfW2H4afe5 Chris Redfield (@CHoundwolf) July 27, 2026",
+        "observed_at": "2026-07-29T00:34:03.936Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-29-idea-aa023632",
+      "slug": "2026-07-29-idea-aa023632",
+      "date": "2026-07-29",
+      "tier": "featured",
+      "title": "双版本相机",
+      "one_liner": "拍照后立刻对照原始底片和系统成片，再逐项保留或撤掉 HDR、降噪与颜色处理。",
+      "url": "https://raytally.com/ideas/2026-07-29-idea-aa023632/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-idea-aa023632.md",
+      "signal": {
+        "query": "What pisses me off is when I take a photo on my iPhone 15 and I can SEE the processing dull the colors in a split second… and I can’t undo it! Awful! Suzy Exposito (@HexPositive) July 28, 2026",
+        "observed_at": "2026-07-29T00:34:03.936Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/HexPositive/status/2081892687305994682",
+          "boundary": "发布于 2026-07-28T00:01:11.000Z。 观测于 2026-07-29T00:34:03.936Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/avfoundation/capturing-photos-in-raw-and-apple-proraw-formats",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/coreimage/cirawfilter",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.lux.camera/process-zero-manual/",
+          "boundary": "发布于 2024-08-14T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-29-easycircuit",
+      "slug": "2026-07-29-easycircuit",
+      "date": "2026-07-29",
+      "tier": "featured",
+      "title": "按手头零件接电路",
+      "one_liner": "拍下手头元件并描述目标，获得能逐步拍照验线的接线图、固件和替代接法。",
+      "url": "https://raytally.com/ideas/2026-07-29-easycircuit/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-easycircuit.md",
+      "signal": {
+        "query": "EasyCircuit",
+        "observed_at": "2026-07-29T00:33:15.157Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/easycircuit",
+          "boundary": "观测于 2026-07-29T00:33:15.157Z。"
+        },
+        {
+          "url": "https://easycircuit.app/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.wokwi.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.arduino.cc/arduino-cli/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-29-una-gps-smart-watch-repairable-usb-c-charging-developer",
+      "slug": "2026-07-29-una-gps-smart-watch-repairable-usb-c-charging-developer",
+      "date": "2026-07-29",
+      "tier": "quick",
+      "title": "户外手表小应用工坊",
+      "one_liner": "出发前导入路线或训练表，几分钟生成可通过 USB-C 安装的专用手表应用。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-una-gps-smart-watch-repairable-usb-c-charging-developer.md",
+      "signal": {
+        "query": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+        "observed_at": "2026-07-29T00:33:14.625Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-29-cardzen",
+      "slug": "2026-07-29-cardzen",
+      "date": "2026-07-29",
+      "tier": "quick",
+      "title": "权益顺路用",
+      "one_liner": "信用卡额度快重置时，把附近可用权益拼成一趟顺路完成的短行程。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-cardzen.md",
+      "signal": {
+        "query": "Cardzen",
+        "observed_at": "2026-07-29T00:33:15.157Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-07-29-codex-security",
+      "slug": "2026-07-29-codex-security",
+      "date": "2026-07-29",
+      "tier": "featured",
+      "title": "可重放的代码安全审查",
+      "one_liner": "代码准备合并时，在隔离环境复现可利用漏洞，并返回攻击证据、最小补丁和回归测试。",
+      "url": "https://raytally.com/ideas/2026-07-29-codex-security/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-codex-security.md",
+      "signal": {
+        "query": "Codex Security",
+        "observed_at": "2026-07-29T00:33:14.625Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49089755",
+          "boundary": "发布于 2026-07-28T00:00:00.000Z。 观测于 2026-07-29T00:33:14.625Z。"
+        },
+        {
+          "url": "https://help.openai.com/en/articles/20001107-codex-security",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/openai/codex-security",
+          "boundary": "观测于 2026-07-29T00:33:14.625Z。"
+        },
+        {
+          "url": "https://docs.github.com/en/enterprise-cloud@latest/code-security/concepts/code-scanning/ai-powered-security-detections",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-29-reddit-down-detector",
+      "slug": "2026-07-29-reddit-down-detector",
+      "date": "2026-07-29",
+      "tier": "quick",
+      "title": "断线发帖箱",
+      "one_liner": "发帖遇到 Reddit 中断时自动保住内容，恢复后核对上下文并排队重发。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-reddit-down-detector.md",
+      "signal": {
+        "query": "reddit down detector",
+        "observed_at": "2026-07-29T00:33:12.132Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-27T12:10:00.000Z"
+        "ended_at": "2026-07-28T21:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-28-hard-road-a-beautiful-procedural-post-apocalyptic-game",
-      "slug": "2026-07-28-hard-road-a-beautiful-procedural-post-apocalyptic-game",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i",
+      "slug": "2026-07-29-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i",
+      "date": "2026-07-29",
       "tier": "featured",
-      "title": "熟路末日逃生",
-      "one_liner": "选一段熟悉的地图路线，马上把它变成可反复挑战、可分享的末日逃生关卡。",
-      "url": "https://raytally.com/ideas/2026-07-28-hard-road-a-beautiful-procedural-post-apocalyptic-game/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-hard-road-a-beautiful-procedural-post-apocalyptic-game.md",
+      "title": "原文评论对照阅读",
+      "one_liner": "打开社区分享的长文时，在同一页查看原文、评论和它们指向的具体段落。",
+      "url": "https://raytally.com/ideas/2026-07-29-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-show-hn-i-was-tired-of-opening-2-tabs-for-every-hn-link-so-i.md",
       "signal": {
-        "query": "Hard Road – A beautiful procedural post-apocalyptic game",
-        "observed_at": "2026-07-28T00:33:14.939Z"
+        "query": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "observed_at": "2026-07-29T00:33:14.625Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49076382",
-          "boundary": "发布于 2026-07-27T00:00:00.000Z。 观测于 2026-07-28T00:33:14.939Z。"
+          "url": "https://news.ycombinator.com/item?id=49090607",
+          "boundary": "发布于 2026-07-28T22:09:06.000Z。 观测于 2026-07-29T00:33:14.625Z。"
         },
         {
-          "url": "https://valhalla.github.io/valhalla/api/turn-by-turn/overview/",
+          "url": "https://github.com/twalichiewicz/HNewhere",
+          "boundary": "观测于 2026-07-29T00:33:14.625Z。"
+        },
+        {
+          "url": "https://web.hypothes.is/help/overview-of-the-hypothesis-system/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide",
+          "url": "https://read.glasp.co/p/glasp-extension-v2-suggested-highlights-engine",
+          "boundary": "发布于 2026-07-22T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-07-29-cercle",
+      "slug": "2026-07-29-cercle",
+      "date": "2026-07-29",
+      "tier": "featured",
+      "title": "安全离场暗号",
+      "one_liner": "独自赴约或夜行前约好暗号，感到不安时让密友按预设步骤低调介入。",
+      "url": "https://raytally.com/ideas/2026-07-29-cercle/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-cercle.md",
+      "signal": {
+        "query": "Cercle",
+        "observed_at": "2026-07-29T00:33:15.157Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/cercle",
+          "boundary": "观测于 2026-07-29T00:33:15.157Z。"
+        },
+        {
+          "url": "https://support.apple.com/en-kw/guide/personal-safety/ips56b5bc469/web",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://running-empire.com/en/",
+          "url": "https://support.life360.com/hc/en-us/articles/23053474049687-SOS-Alerts",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.twilio.com/docs/voice/api/call-resource",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-28-kaia-gerber",
-      "slug": "2026-07-28-kaia-gerber",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-show-hn-xy-a-fast-composable-gpu-accelerated-interactive",
+      "slug": "2026-07-29-show-hn-xy-a-fast-composable-gpu-accelerated-interactive",
+      "date": "2026-07-29",
       "tier": "quick",
-      "title": "名人造型衣橱复刻",
-      "one_liner": "刷到喜欢的名人造型时，用自己的衣橱复刻轮廓与配色，只补买真正缺少的一件。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-kaia-gerber.md",
+      "title": "在曲线上画告警",
+      "one_liner": "查看实时曲线时直接画出异常区域，回放误报后将它变成持续运行的告警。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-show-hn-xy-a-fast-composable-gpu-accelerated-interactive.md",
       "signal": {
-        "query": "kaia gerber",
-        "observed_at": "2026-07-28T00:33:11.567Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-27T13:40:00.000Z"
+        "query": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+        "observed_at": "2026-07-29T00:33:14.625Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-28-estera",
-      "slug": "2026-07-28-estera",
-      "date": "2026-07-28",
-      "tier": "featured",
-      "title": "未接来电变工单",
-      "one_liner": "服务商漏接电话后，用 WhatsApp 补齐现场照片和报价信息，直接形成待确认工单。",
-      "url": "https://raytally.com/ideas/2026-07-28-estera/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-estera.md",
-      "signal": {
-        "query": "Estera",
-        "observed_at": "2026-07-28T00:33:15.916Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/estera",
-          "boundary": "发布于 2026-07-24T00:00:00.000Z。 观测于 2026-07-28T00:33:15.916Z。"
-        },
-        {
-          "url": "https://www.tryestera.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.twilio.com/docs/whatsapp/api",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.getjobber.com/hc/en-us/articles/25315927533847-Receptionist-powered-by-Jobber-AI",
-          "boundary": "发布于 2026-07-09T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-28-imessage-hermes-on-a-raspberry-pi",
-      "slug": "2026-07-28-imessage-hermes-on-a-raspberry-pi",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-idea-6b24cb4f",
+      "slug": "2026-07-29-idea-6b24cb4f",
+      "date": "2026-07-29",
       "tier": "quick",
-      "title": "家里的物品记忆",
-      "one_liner": "整理家中物品时随手发照片，日后在 iMessage 里询问即可找到最近位置和现场图。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-imessage-hermes-on-a-raspberry-pi.md",
+      "title": "值得买的五件清单",
+      "one_liner": "收藏多条好物视频后，提炼出有重复推荐和使用证据的五件候选。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-idea-6b24cb4f.md",
       "signal": {
-        "query": "iMessage Hermes on a Raspberry Pi",
-        "observed_at": "2026-07-28T00:33:15.916Z"
+        "query": "The top TikTok trends to try this week",
+        "observed_at": "2026-07-29T00:33:15.165Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-28-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "slug": "2026-07-28-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "date": "2026-07-28",
-      "tier": "featured",
-      "title": "火积雨云复盘沙盘",
-      "one_liner": "消防队导入山火现场记录，把火积雨云等罕见险情变成可反复决策的复盘演练。",
-      "url": "https://raytally.com/ideas/2026-07-28-french-firefighters-face-pyrocumulonimbus-for-first-time/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-french-firefighters-face-pyrocumulonimbus-for-first-time.md",
-      "signal": {
-        "query": "French firefighters face 'pyrocumulonimbus' for first time",
-        "observed_at": "2026-07-28T00:33:14.939Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-          "boundary": "发布于 2026-07-26T00:00:00.000Z。 观测于 2026-07-28T00:33:14.939Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49060495",
-          "boundary": "发布于 2026-07-26T00:00:00.000Z。 观测于 2026-07-28T00:33:14.939Z。"
-        },
-        {
-          "url": "https://www.nwcg.gov/wfldp/toolbox/aars",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.simtable.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-28-netflix-employee-fired-for-sharing-personal-details-in",
-      "slug": "2026-07-28-netflix-employee-fired-for-sharing-personal-details-in",
-      "date": "2026-07-28",
+      "id": "idea-2026-07-29-substack-writers-you-need-a-website",
+      "slug": "2026-07-29-substack-writers-you-need-a-website",
+      "date": "2026-07-29",
       "tier": "quick",
-      "title": "团建边界卡",
-      "one_liner": "主持人准备信任练习时收集匿名边界，得到不会逼人公开拒答的替代活动流程。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-netflix-employee-fired-for-sharing-personal-details-in.md",
+      "title": "旧通讯变主题页",
+      "one_liner": "通讯积累到难以浏览时导入旧文章，把按日期沉底的档案长成持续更新的主题页面。",
+      "url": "https://raytally.com/daily/2026-07-29/",
+      "brief_url": "https://raytally.com/ideas/2026-07-29-substack-writers-you-need-a-website.md",
       "signal": {
-        "query": "Netflix employee fired for sharing personal details in retreat trust exercise",
-        "observed_at": "2026-07-28T00:33:14.939Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-28-illume-labs",
-      "slug": "2026-07-28-illume-labs",
-      "date": "2026-07-28",
-      "tier": "quick",
-      "title": "短信症状时间线",
-      "one_liner": "症状出现时随手发短信，产品补问关键细节，并在复诊前整理成可核对的时间线。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-illume-labs.md",
-      "signal": {
-        "query": "Illume Labs",
-        "observed_at": "2026-07-28T00:33:15.916Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-28-notate",
-      "slug": "2026-07-28-notate",
-      "date": "2026-07-28",
-      "tier": "featured",
-      "title": "圈注上线验收",
-      "one_liner": "在网页上圈出预期结果，自动变成验收步骤，并在新版部署后回原处复验。",
-      "url": "https://raytally.com/ideas/2026-07-28-notate/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-notate.md",
-      "signal": {
-        "query": "Notate",
-        "observed_at": "2026-07-28T00:33:15.916Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/notate-2",
-          "boundary": "观测于 2026-07-28T00:33:15.916Z。"
-        },
-        {
-          "url": "https://jam.dev/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://bugherd.com/website-annotation-tool",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://playwright.dev/docs/trace-viewer",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-28-idea-ed87554f",
-      "slug": "2026-07-28-idea-ed87554f",
-      "date": "2026-07-28",
-      "tier": "featured",
-      "title": "短租办公位体检",
-      "one_liner": "预订长住短租前分析房源照片和尺寸，立即看清桌椅、插座与光线是否适合远程办公。",
-      "url": "https://raytally.com/ideas/2026-07-28-idea-ed87554f/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-idea-ed87554f.md",
-      "signal": {
-        "query": "Don't you wish there were more short-term rentals that cater more toward Digital Nomads?",
-        "observed_at": "2026-07-28T00:33:15.918Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/digitalnomad/comments/1v8fp9x/dont_you_wish_there_were_more_shortterm_rentals/",
-          "boundary": "发布于 2026-07-27T22:39:07.000Z。 观测于 2026-07-28T00:33:15.918Z。"
-        },
-        {
-          "url": "https://www.airbnb.com/help/article/3511",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.anyplace.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.flatio.gr/page/nomad-inspectors-club",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-28-our-position-on-open-weights-models",
-      "slug": "2026-07-28-our-position-on-open-weights-models",
-      "date": "2026-07-28",
-      "tier": "quick",
-      "title": "开放模型实情卡",
-      "one_liner": "团队选自托管模型时，输入仓库与用途即可核对开放程度、部署缺口和许可证限制。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-our-position-on-open-weights-models.md",
-      "signal": {
-        "query": "Our position on open-weights models",
-        "observed_at": "2026-07-28T00:33:14.939Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-28-grok-4-5",
-      "slug": "2026-07-28-grok-4-5",
-      "date": "2026-07-28",
-      "tier": "quick",
-      "title": "录一遍接管网页杂活",
-      "one_liner": "录一遍老旧网页里的重复工作，让编程代理生成可预演、关键步骤需确认的本地自动流程。",
-      "url": "https://raytally.com/daily/2026-07-28/",
-      "brief_url": "https://raytally.com/ideas/2026-07-28-grok-4-5.md",
-      "signal": {
-        "query": "Grok 4.5",
-        "observed_at": "2026-07-28T00:33:15.916Z"
+        "query": "Substack writers, you need a website",
+        "observed_at": "2026-07-29T00:33:14.625Z"
       },
       "sources": []
     }
