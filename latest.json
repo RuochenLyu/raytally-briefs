@@ -34,7 +34,24 @@
         "query": "The hate he gets stems from misogyny and homophobia The hate he gets is from chewing fucking obnoxiously and then the video popping up everywhere on social media because people keep sharing it. I wish there was a way to mute a video in the same way you can mute words. Johnathan Irwin (@A2ZJIRWINKO) ",
         "observed_at": "2026-07-30T00:33:40.980Z"
       },
-      "sources": []
+      "sources": [
+        {
+          "url": "https://x.com/A2ZJIRWINKO/status/2082251375908471212",
+          "boundary": "发布于 2026-07-28T23:46:29.000Z。 观测于 2026-07-30T00:33:40.980Z。"
+        },
+        {
+          "url": "https://help.x.com/en/using-x/advanced-x-mute-options",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea",
+          "boundary": "发布于 2026-07-15T00:00:00.000Z。"
+        }
+      ]
     },
     {
       "id": "idea-2026-07-30-the-coolest-use-for-the-vision-pro",
@@ -111,7 +128,24 @@
         "query": "Turning a dumb AC unit smart (without losing my security deposit)",
         "observed_at": "2026-07-30T00:33:14.320Z"
       },
-      "sources": []
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49101198",
+          "boundary": "发布于 2026-07-29T18:28:51.000Z。 观测于 2026-07-30T00:33:14.320Z。"
+        },
+        {
+          "url": "https://github.com/crankyoldgit/IRremoteESP8266",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://us.switch-bot.com/pages/switchbot-hub-2",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.sensibo.com/products/air-pro",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     },
     {
       "id": "idea-2026-07-30-service-van-vs-tool-trailer-for-trades",
