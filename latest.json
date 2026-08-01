@@ -1,318 +1,330 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-01",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-07-31-google-will-expand-age-checks-on-android-worldwide-till-the",
-      "slug": "2026-07-31-google-will-expand-age-checks-on-android-worldwide-till-the",
-      "date": "2026-07-31",
-      "tier": "quick",
-      "title": "年龄验证的数据收据",
-      "one_liner": "遇到年龄验证页面时截屏，立即看清数据去向、替代方案和最少披露的完成路径。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-google-will-expand-age-checks-on-android-worldwide-till-the.md",
-      "signal": {
-        "query": "Google will expand age checks on Android worldwide till the end of the year",
-        "observed_at": "2026-07-31T00:33:14.976Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-31-we-gave-gpt-5-6-sol-a-real-business-it-lied-spammed-and-lost",
-      "slug": "2026-07-31-we-gave-gpt-5-6-sol-a-real-business-it-lied-spammed-and-lost",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-idea-f00ed2b8",
+      "slug": "2026-08-01-idea-f00ed2b8",
+      "date": "2026-08-01",
       "tier": "featured",
-      "title": "商业 AI 上线前彩排",
-      "one_liner": "商业 AI 上线前，用假客户、假邮箱和虚拟资金跑完整流程，先找出编造、骚扰和亏损风险。",
-      "url": "https://raytally.com/ideas/2026-07-31-we-gave-gpt-5-6-sol-a-real-business-it-lied-spammed-and-lost/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-we-gave-gpt-5-6-sol-a-real-business-it-lied-spammed-and-lost.md",
+      "title": "客厅购物冷静锁",
+      "one_liner": "在最容易冲动下单的电脑上，把结账改成换设备确认和等待后才能取回的订单。",
+      "url": "https://raytally.com/ideas/2026-08-01-idea-f00ed2b8/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f00ed2b8.md",
       "signal": {
-        "query": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-        "observed_at": "2026-07-31T00:33:14.976Z"
+        "query": "Impulse spending - is there a way to block websites (in my case ebay) from a windows device?",
+        "observed_at": "2026-08-01T00:33:26.787Z"
       },
       "sources": [
         {
-          "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-          "boundary": "观测于 2026-07-31T00:33:14.976Z。"
+          "url": "https://www.reddit.com/r/ADHD/comments/1vc5uwp/impulse_spending_is_there_a_way_to_block_websites/",
+          "boundary": "发布于 2026-07-31T22:47:07.000Z。 观测于 2026-08-01T00:33:26.787Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49113059",
-          "boundary": "发布于 2026-07-30T00:00:00.000Z。 观测于 2026-07-31T00:33:14.976Z。"
+          "url": "https://developer.chrome.com/docs/extensions/reference",
+          "boundary": "发布于 2026-01-07T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/optimize/evaluation/evaluate-simulated",
+          "url": "https://one-sec.app/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/analytics-agent-evaluation-intro",
+          "url": "https://chromewebstore.google.com/detail/leechblock-ng/blaaajhemilngeeffpbfkdjjoefldkok",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-31-focus-room",
-      "slug": "2026-07-31-focus-room",
-      "date": "2026-07-31",
-      "tier": "featured",
-      "title": "教程里的动手检查点",
-      "one_liner": "打开教程视频后，在关键示范处停下来完成小练习，再带着真实完成记录继续学习。",
-      "url": "https://raytally.com/ideas/2026-07-31-focus-room/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-focus-room.md",
+      "id": "idea-2026-08-01-idea-f084ce2f",
+      "slug": "2026-08-01-idea-f084ce2f",
+      "date": "2026-08-01",
+      "tier": "quick",
+      "title": "剂量变化续药交接",
+      "one_liner": "剂量变化后药快用完时，提交原处方和新医嘱，得到断药日期及医生、药房交接材料。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f084ce2f.md",
       "signal": {
-        "query": "Focus Room",
-        "observed_at": "2026-07-31T00:33:15.523Z"
+        "query": "Is it always this hard to pick up ADHD meds, or is it just my pharmacy?",
+        "observed_at": "2026-08-01T00:33:26.787Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-01-idea-f0c4e676",
+      "slug": "2026-08-01-idea-f0c4e676",
+      "date": "2026-08-01",
+      "tier": "featured",
+      "title": "整册卡牌一箱卖",
+      "one_liner": "翻拍整本宝可梦卡后，比较整批成交和代拆售的到手金额，卖家始终只寄一个包裹。",
+      "url": "https://raytally.com/ideas/2026-08-01-idea-f0c4e676/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f0c4e676.md",
+      "signal": {
+        "query": "this binder is full of stamped reverse holos (a ton not pictured) and i was thinking of selling a bunch but i wish there was someone who would just take them all so i didnt have to ship individually lmao pic.twitter.com/tAOM8SJ8KJ jirachi ✩ (@J1R4CH1) July 31, 2026",
+        "observed_at": "2026-08-01T00:34:19.030Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/focus-room",
-          "boundary": "观测于 2026-07-31T00:33:15.523Z。"
+          "url": "https://x.com/J1R4CH1/status/2083063900631896547",
+          "boundary": "发布于 2026-07-31T05:35:10.000Z。 观测于 2026-08-01T00:34:19.030Z。"
         },
         {
-          "url": "https://developers.google.com/youtube/iframe_api_reference",
+          "url": "https://help.tcgplayer.com/hc/en-us/articles/115009506407-TCGplayer-App-FAQ",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developers.google.com/youtube/v3/guides/implementation/captions",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://comc.zendesk.com/hc/en-us/articles/360054029273-What-are-the-Consignment-Fees",
+          "boundary": "发布于 2026-03-28T16:49:00.000Z。"
         },
         {
-          "url": "https://viddojo.com/",
+          "url": "https://docs.pokemontcg.io/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-31-premation",
-      "slug": "2026-07-31-premation",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-idea-ff8ba97a",
+      "slug": "2026-08-01-idea-ff8ba97a",
+      "date": "2026-08-01",
       "tier": "quick",
-      "title": "画出来的动效时间轴",
-      "one_liner": "画出运动路径并描述节奏，立即得到能逐层修改的动效时间轴。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-premation.md",
+      "title": "湿球场清场组队",
+      "one_liner": "到场发现球场积水时拍张照片，马上知道需要多少人和工具，再约附近球友一起清场开打。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-ff8ba97a.md",
       "signal": {
-        "query": "Premation",
-        "observed_at": "2026-07-31T00:33:15.523Z"
+        "query": "Is there an app that tells you if your local basketball court is dry DugLust (@duglust) July 30, 2026",
+        "observed_at": "2026-08-01T00:34:19.030Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-31-craftstory",
-      "slug": "2026-07-31-craftstory",
-      "date": "2026-07-31",
-      "tier": "featured",
-      "title": "只补拍说错的一句",
-      "one_liner": "口播视频说错一句时，在转写稿里改字并补录声音，只修复附近几秒，无需整段重拍。",
-      "url": "https://raytally.com/ideas/2026-07-31-craftstory/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-craftstory.md",
+      "id": "idea-2026-08-01-dunkin-iced-bucket-holder",
+      "slug": "2026-08-01-dunkin-iced-bucket-holder",
+      "date": "2026-08-01",
+      "tier": "quick",
+      "title": "异形饮料杯转接环",
+      "one_liner": "异形饮料杯放不进车内时，拍下杯底和杯架，立即得到可打印的稳固转接环。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-dunkin-iced-bucket-holder.md",
       "signal": {
-        "query": "CraftStory",
-        "observed_at": "2026-07-31T00:33:15.523Z"
+        "query": "dunkin iced bucket holder",
+        "observed_at": "2026-08-01T00:33:24.763Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-31T13:40:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-01-idea-d253e107",
+      "slug": "2026-08-01-idea-d253e107",
+      "date": "2026-08-01",
+      "tier": "featured",
+      "title": "家中轨道新玩法",
+      "one_liner": "拍下家里的 Plarail 零件，立刻生成只用现有部件也能搭成的轨道图和拼装步骤。",
+      "url": "https://raytally.com/ideas/2026-08-01-idea-d253e107/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-d253e107.md",
+      "signal": {
+        "query": "プラレール",
+        "observed_at": "2026-08-01T00:33:25.790Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-31T12:00:00.000Z"
       },
       "sources": [
         {
-          "url": "https://craftstory.com/",
+          "url": "https://www.takaratomy.co.jp/products/plarail/lineup/rail/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.descript.com/video-regenerate",
+          "url": "https://www.takaratomy.co.jp/products/plarail/concierge/plan/plan22.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://sync.so/docs/api-reference/api-overview",
+          "url": "https://vigne-cla.xxxx.jp/plarail-designer/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/optimization/cp/cp_solver",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-01-authorize-don-t-authenticate",
+      "slug": "2026-08-01-authorize-don-t-authenticate",
+      "date": "2026-08-01",
+      "tier": "quick",
+      "title": "一次性办事链接",
+      "one_liner": "需要外部人员临时办事时，发出只能完成指定动作的一次性链接，无须注册账号。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-authorize-don-t-authenticate.md",
+      "signal": {
+        "query": "Authorize, don't authenticate",
+        "observed_at": "2026-08-01T00:33:26.395Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s",
+      "slug": "2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s",
+      "date": "2026-08-01",
+      "tier": "featured",
+      "title": "本地模型夜班队列",
+      "one_liner": "把大型本地模型的长任务放进夜间队列，第二天收到带引用、检查点和完成状态的结果包。",
+      "url": "https://raytally.com/ideas/2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s.md",
+      "signal": {
+        "query": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+        "observed_at": "2026-08-01T00:33:26.395Z"
+      },
+      "sources": [
+        {
+          "url": "https://github.com/sqliteai/waste",
+          "boundary": "观测于 2026-08-01T00:33:26.395Z。"
+        },
+        {
+          "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.ollama.com/faq",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://daymon.io/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-01-customer-io-summer-release",
+      "slug": "2026-08-01-customer-io-summer-release",
+      "date": "2026-08-01",
+      "tier": "quick",
+      "title": "迟到前自动改约",
+      "one_liner": "服务行程可能迟到时，提前向客户发送等待或改约选项，并同步更新双方日历。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-customer-io-summer-release.md",
+      "signal": {
+        "query": "Customer.io Summer Release",
+        "observed_at": "2026-08-01T00:33:26.785Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-01-golang-proposal-container-generic-collection-types",
+      "slug": "2026-08-01-golang-proposal-container-generic-collection-types",
+      "date": "2026-08-01",
+      "tier": "featured",
+      "title": "Go集合提案试跑",
+      "one_liner": "导入 Go 仓库试迁移到候选泛型集合接口，立刻比较兼容性、性能和可删代码量。",
+      "url": "https://raytally.com/ideas/2026-08-01-golang-proposal-container-generic-collection-types/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-golang-proposal-container-generic-collection-types.md",
+      "signal": {
+        "query": "Golang proposal: container/: generic collection types",
+        "observed_at": "2026-08-01T00:33:26.395Z"
+      },
+      "sources": [
+        {
+          "url": "https://github.com/golang/go/issues/80590",
+          "boundary": "发布于 2026-07-28T00:00:00.000Z。 观测于 2026-08-01T00:33:26.395Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49127031",
+          "boundary": "发布于 2026-07-31T00:00:00.000Z。 观测于 2026-08-01T00:33:26.395Z。"
+        },
+        {
+          "url": "https://pkg.go.dev/golang.org/x/tools/go/packages",
           "boundary": "发布于 2026-07-09T00:00:00.000Z。"
         },
         {
-          "url": "https://ffmpeg.org/ffmpeg-filters.html",
+          "url": "https://go.dev/gopls/analyzers",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-31-memmy-agent",
-      "slug": "2026-07-31-memmy-agent",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-luis-hendricks",
+      "slug": "2026-08-01-luis-hendricks",
+      "date": "2026-08-01",
       "tier": "quick",
-      "title": "给 AI 的限时记忆",
-      "one_liner": "向多个 AI 提供个人背景前设定用途和期限，只注入本次任务必需的记忆。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-memmy-agent.md",
+      "title": "把主厨视频做成菜谱",
+      "one_liner": "看完厨师视频想复刻时，把画面和口述整理成标明推测项、能照着计时的菜谱。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-luis-hendricks.md",
       "signal": {
-        "query": "Memmy Agent",
-        "observed_at": "2026-07-31T00:33:15.523Z"
+        "query": "luis hendricks",
+        "observed_at": "2026-08-01T00:33:26.569Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-31T14:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-31-laxis",
-      "slug": "2026-07-31-laxis",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-mubert-api",
+      "slug": "2026-08-01-mubert-api",
+      "date": "2026-08-01",
       "tier": "featured",
-      "title": "跨语言会议逐人确认",
-      "one_liner": "跨语言会议结束前，把负责人、动作和日期做成双语卡，让相关人逐个确认同一份承诺。",
-      "url": "https://raytally.com/ideas/2026-07-31-laxis/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-laxis.md",
+      "title": "随剧情变奏的跑团原声",
+      "one_liner": "跑团主持人点选剧情事件，现场配乐就在同一主题里无缝变奏，结束后还能回放整局原声。",
+      "url": "https://raytally.com/ideas/2026-08-01-mubert-api/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-mubert-api.md",
       "signal": {
-        "query": "Laxis",
-        "observed_at": "2026-07-31T00:33:15.523Z"
+        "query": "Mubert API",
+        "observed_at": "2026-08-01T00:33:26.785Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/laxis-2",
-          "boundary": "观测于 2026-07-31T00:33:15.523Z。"
+          "url": "https://www.producthunt.com/products/mubert",
+          "boundary": "观测于 2026-08-01T00:33:26.785Z。"
         },
         {
-          "url": "https://help.laxis.com/ai-meeting-assistant/",
+          "url": "https://mubert.com/api/docs",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.wordly.ai/",
+          "url": "https://syrinscape.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developers.deepl.com/docs/learning-how-tos/examples-and-guides/how-to-use-context-parameter",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-31-spam-app",
-      "slug": "2026-07-31-spam-app",
-      "date": "2026-07-31",
-      "tier": "quick",
-      "title": "骚扰举报逐条确认",
-      "one_liner": "骚扰刚发生时导入短信或通话记录，核对预填卡片即可逐一向 FTC 举报并留存回执。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-spam-app.md",
-      "signal": {
-        "query": "Wish someone would build an app that immediately scours your phone for text messages and phone calls from the spammers and makes individual reports to the FTC for each one of them. Get 50,000 people with that app and I m pretty sure FTC would be forced to figure something out. Nick Losciuto (@thedog",
-        "observed_at": "2026-07-31T00:34:20.416Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-31-adhd-0be4969",
-      "slug": "2026-07-31-adhd-0be4969",
-      "date": "2026-07-31",
-      "tier": "featured",
-      "title": "不迁移的任务计划",
-      "one_liner": "当任务软件的新鲜感消退时，换一种执行界面继续做事，原有清单、提醒和历史都不用迁移。",
-      "url": "https://raytally.com/ideas/2026-07-31-adhd-0be4969/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-adhd-0be4969.md",
-      "signal": {
-        "query": "Just left Tiimo, looking for the right ADHD task planner replacement",
-        "observed_at": "2026-07-31T00:33:15.526Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/ProductivityApps/comments/1vb4t91/just_left_tiimo_looking_for_the_right_adhd_task/",
-          "boundary": "发布于 2026-07-30T20:12:29.000Z。 观测于 2026-07-31T00:33:15.526Z。"
-        },
-        {
-          "url": "https://www.tiimoapp.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.amazingmarvin.com/en/collections/1139197-strategies",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.todoist.com/api/v1/",
+          "url": "https://foundryvtt.com/packages/crossblade",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-07-31-idea-771a962b",
-      "slug": "2026-07-31-idea-771a962b",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-eclipse-solar-6d2b7c9",
+      "slug": "2026-08-01-eclipse-solar-6d2b7c9",
+      "date": "2026-08-01",
       "tier": "quick",
-      "title": "滞留开支护栏",
-      "one_liner": "航班取消后、额外花钱前核对保险与信用卡权益，得到可赔额度和取证清单。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-idea-771a962b.md",
+      "title": "日食实景站位",
+      "one_liner": "看日食前拍下周围天际线，立即得到最佳站位、实际可见时段和安全观测安排。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-eclipse-solar-6d2b7c9.md",
       "signal": {
-        "query": "She hasn t been able to get a refund yet. There were no agents at the kiosk, a automated all lines are busy on the phone, and the app doesn t work. And I m out 300 dollars for booking a hotel/gas. Super fun times 2/2 pic.twitter.com/qGpdH3Jbll IWishTCG (@IWishTCG) July 28, 2026",
-        "observed_at": "2026-07-31T00:34:20.416Z"
+        "query": "eclipse solar",
+        "observed_at": "2026-08-01T00:33:24.763Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-07-31T12:50:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-07-31-idea-19640804",
-      "slug": "2026-07-31-idea-19640804",
-      "date": "2026-07-31",
+      "id": "idea-2026-08-01-elevators",
+      "slug": "2026-08-01-elevators",
+      "date": "2026-08-01",
       "tier": "quick",
-      "title": "衣橱里的穿搭替代",
-      "one_liner": "刷到想买的穿搭时先问自己的衣橱，立即看重复单品和真实可搭配次数。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-idea-19640804.md",
+      "title": "电梯候梯沙盘",
+      "one_liner": "规划办公楼电梯时输入楼层、人流和轿厢参数，立即回放拥堵时段并比较真实候梯差异。",
+      "url": "https://raytally.com/daily/2026-08-01/",
+      "brief_url": "https://raytally.com/ideas/2026-08-01-elevators.md",
       "signal": {
-        "query": "Almost half of young shoppers are discovering products on TikTok Shop",
-        "observed_at": "2026-07-31T00:33:15.526Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-31-the-lost-civic-life-of-movie-rental-stores",
-      "slug": "2026-07-31-the-lost-civic-life-of-movie-rental-stores",
-      "date": "2026-07-31",
-      "tier": "featured",
-      "title": "邻里电影值班员",
-      "one_liner": "周末选片犹豫时，由附近影迷只推荐一部适合今晚的电影，并约一场短暂映后聊天。",
-      "url": "https://raytally.com/ideas/2026-07-31-the-lost-civic-life-of-movie-rental-stores/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-the-lost-civic-life-of-movie-rental-stores.md",
-      "signal": {
-        "query": "The lost civic life of movie rental stores",
-        "observed_at": "2026-07-31T00:33:14.976Z"
-      },
-      "sources": [
-        {
-          "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-          "boundary": "发布于 2026-07-30T00:00:00.000Z。 观测于 2026-07-31T00:33:14.976Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49110308",
-          "boundary": "发布于 2026-07-30T14:11:42.000Z。 观测于 2026-07-31T00:33:14.976Z。"
-        },
-        {
-          "url": "https://developer.themoviedb.org/reference/movie-watch-providers",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?hl=en-US&id=co.queue.app",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-07-31-x",
-      "slug": "2026-07-31-x",
-      "date": "2026-07-31",
-      "tier": "quick",
-      "title": "X 上的私人旁注",
-      "one_liner": "浏览 X 时给账号或帖子留下本地私注，下次遇到同一人和话题自动重现。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-x.md",
-      "signal": {
-        "query": "I wish there was a tool on Twitter that let me take notes about account holders. Would be so useful. Coldie 🟦🟥 (@Coldie) July 29, 2026",
-        "observed_at": "2026-07-31T00:34:20.416Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-07-31-read-this-before-you-buy-that-tv-streaming-stick",
-      "slug": "2026-07-31-read-this-before-you-buy-that-tv-streaming-stick",
-      "date": "2026-07-31",
-      "tier": "quick",
-      "title": "电视棒首次联网体检",
-      "one_liner": "廉价电视棒首次联网时做隔离体检，马上得到安全判断、路由设置和退货证据。",
-      "url": "https://raytally.com/daily/2026-07-31/",
-      "brief_url": "https://raytally.com/ideas/2026-07-31-read-this-before-you-buy-that-tv-streaming-stick.md",
-      "signal": {
-        "query": "Read this before you buy that TV streaming stick",
-        "observed_at": "2026-07-31T00:33:14.976Z"
+        "query": "Elevators",
+        "observed_at": "2026-08-01T00:33:26.395Z"
       },
       "sources": []
     }
