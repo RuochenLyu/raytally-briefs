@@ -1,330 +1,426 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01",
+  "generated_at": "2026-08-02",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-01-idea-f00ed2b8",
-      "slug": "2026-08-01-idea-f00ed2b8",
-      "date": "2026-08-01",
-      "tier": "featured",
-      "title": "客厅购物冷静锁",
-      "one_liner": "在最容易冲动下单的电脑上，把结账改成换设备确认和等待后才能取回的订单。",
-      "url": "https://raytally.com/ideas/2026-08-01-idea-f00ed2b8/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f00ed2b8.md",
+      "id": "idea-2026-08-02-amc",
+      "slug": "2026-08-02-amc",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "朋友电影连座",
+      "one_liner": "朋友约电影时各自圈出时间和座位偏好，立即得到仍可连坐的共同选择。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-amc.md",
       "signal": {
-        "query": "Impulse spending - is there a way to block websites (in my case ebay) from a windows device?",
-        "observed_at": "2026-08-01T00:33:26.787Z"
+        "query": "amc",
+        "observed_at": "2026-08-02T00:33:16.206Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-02-jar-and-bottle-opening-assistance",
+      "slug": "2026-08-02-jar-and-bottle-opening-assistance",
+      "date": "2026-08-02",
+      "tier": "featured",
+      "title": "脚踏开盖台",
+      "one_liner": "握力不足的人把罐瓶放进夹座并踩下踏板，就能稳定锁住瓶身、旋开盖子。",
+      "url": "https://raytally.com/ideas/2026-08-02-jar-and-bottle-opening-assistance/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-jar-and-bottle-opening-assistance.md",
+      "signal": {
+        "query": "I now use this old people’s tool to open most of my bottles and jars 🫠 pic.twitter.com/fkWcBSraaL Nobunny (@Nobunny333) August 1, 2026",
+        "observed_at": "2026-08-02T00:34:11.375Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/ADHD/comments/1vc5uwp/impulse_spending_is_there_a_way_to_block_websites/",
-          "boundary": "发布于 2026-07-31T22:47:07.000Z。 观测于 2026-08-01T00:33:26.787Z。"
+          "url": "https://x.com/Nobunny333/status/2083695020222062900",
+          "boundary": "发布于 2026-08-01T23:23:00.000Z。 观测于 2026-08-02T00:34:11.375Z。"
         },
         {
-          "url": "https://developer.chrome.com/docs/extensions/reference",
-          "boundary": "发布于 2026-01-07T00:00:00.000Z。"
-        },
-        {
-          "url": "https://one-sec.app/",
+          "url": "https://www.arthritis.org/health-wellness/healthy-living/managing-pain/joint-protection/self-help-arthritis-devices",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://chromewebstore.google.com/detail/leechblock-ng/blaaajhemilngeeffpbfkdjjoefldkok",
+          "url": "https://www.onycta.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.zulaykitchen.com/products/ez-off-under-cabinet-jar-opener",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-01-idea-f084ce2f",
-      "slug": "2026-08-01-idea-f084ce2f",
-      "date": "2026-08-01",
-      "tier": "quick",
-      "title": "剂量变化续药交接",
-      "one_liner": "剂量变化后药快用完时，提交原处方和新医嘱，得到断药日期及医生、药房交接材料。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f084ce2f.md",
-      "signal": {
-        "query": "Is it always this hard to pick up ADHD meds, or is it just my pharmacy?",
-        "observed_at": "2026-08-01T00:33:26.787Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-01-idea-f0c4e676",
-      "slug": "2026-08-01-idea-f0c4e676",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-idea-339cc22a",
+      "slug": "2026-08-02-idea-339cc22a",
+      "date": "2026-08-02",
       "tier": "featured",
-      "title": "整册卡牌一箱卖",
-      "one_liner": "翻拍整本宝可梦卡后，比较整批成交和代拆售的到手金额，卖家始终只寄一个包裹。",
-      "url": "https://raytally.com/ideas/2026-08-01-idea-f0c4e676/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-f0c4e676.md",
+      "title": "孩子自己约朋友",
+      "one_liner": "没有手机的孩子可在家庭屏上自己约朋友，双方家长只确认时间、接送和安全安排。",
+      "url": "https://raytally.com/ideas/2026-08-02-idea-339cc22a/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-idea-339cc22a.md",
       "signal": {
-        "query": "this binder is full of stamped reverse holos (a ton not pictured) and i was thinking of selling a bunch but i wish there was someone who would just take them all so i didnt have to ship individually lmao pic.twitter.com/tAOM8SJ8KJ jirachi ✩ (@J1R4CH1) July 31, 2026",
-        "observed_at": "2026-08-01T00:34:19.030Z"
+        "query": "If you're at the 'all my friends have a phone' phase, how's it going?",
+        "observed_at": "2026-08-02T00:33:18.429Z"
       },
       "sources": [
         {
-          "url": "https://x.com/J1R4CH1/status/2083063900631896547",
-          "boundary": "发布于 2026-07-31T05:35:10.000Z。 观测于 2026-08-01T00:34:19.030Z。"
+          "url": "https://www.reddit.com/r/Parenting/comments/1vcxph8/if_youre_at_the_all_my_friends_have_a_phone_phase/",
+          "boundary": "发布于 2026-08-01T20:23:19.000Z。 观测于 2026-08-02T00:33:18.429Z。"
         },
         {
-          "url": "https://help.tcgplayer.com/hc/en-us/articles/115009506407-TCGplayer-App-FAQ",
+          "url": "https://www.kinzoo.com/help-center",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://comc.zendesk.com/hc/en-us/articles/360054029273-What-are-the-Consignment-Fees",
-          "boundary": "发布于 2026-03-28T16:49:00.000Z。"
+          "url": "https://about.fb.com/news/2017/12/introducing-messenger-kids-a-new-app-for-families-to-connect/",
+          "boundary": "发布于 2017-12-04T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.pokemontcg.io/",
+          "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-01-idea-ff8ba97a",
-      "slug": "2026-08-01-idea-ff8ba97a",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-needoh",
+      "slug": "2026-08-02-needoh",
+      "date": "2026-08-02",
       "tier": "quick",
-      "title": "湿球场清场组队",
-      "one_liner": "到场发现球场积水时拍张照片，马上知道需要多少人和工具，再约附近球友一起清场开打。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-ff8ba97a.md",
+      "title": "按手感找捏捏",
+      "one_liner": "买捏捏玩具前按阻力、回弹、黏感和声响，找出真正接近喜欢手感的款式。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-needoh.md",
       "signal": {
-        "query": "Is there an app that tells you if your local basketball court is dry DugLust (@duglust) July 30, 2026",
-        "observed_at": "2026-08-01T00:34:19.030Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-01-dunkin-iced-bucket-holder",
-      "slug": "2026-08-01-dunkin-iced-bucket-holder",
-      "date": "2026-08-01",
-      "tier": "quick",
-      "title": "异形饮料杯转接环",
-      "one_liner": "异形饮料杯放不进车内时，拍下杯底和杯架，立即得到可打印的稳固转接环。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-dunkin-iced-bucket-holder.md",
-      "signal": {
-        "query": "dunkin iced bucket holder",
-        "observed_at": "2026-08-01T00:33:24.763Z",
+        "query": "needoh",
+        "observed_at": "2026-08-02T00:33:16.206Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-31T13:40:00.000Z"
+        "ended_at": "2026-08-01T17:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-01-idea-d253e107",
-      "slug": "2026-08-01-idea-d253e107",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-precise-airport-leave-time-calculation",
+      "slug": "2026-08-02-precise-airport-leave-time-calculation",
+      "date": "2026-08-02",
       "tier": "featured",
-      "title": "家中轨道新玩法",
-      "one_liner": "拍下家里的 Plarail 零件，立刻生成只用现有部件也能搭成的轨道图和拼装步骤。",
-      "url": "https://raytally.com/ideas/2026-08-01-idea-d253e107/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-idea-d253e107.md",
+      "title": "航班出门倒计时",
+      "one_liner": "导入航班和出行条件后，持续按路况、安检与登机口变化更新稳妥的出门区间。",
+      "url": "https://raytally.com/ideas/2026-08-02-precise-airport-leave-time-calculation/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-precise-airport-leave-time-calculation.md",
       "signal": {
-        "query": "プラレール",
-        "observed_at": "2026-08-01T00:33:25.790Z",
+        "query": "build an app that will be useful to you even if it flops, at least you’re solving your own problem i built this app with superapp ai (in 20 mins!) to tell me what time i ACTUALLY need to get to JFK, since i hate waiting at the airport takes into account realtime… pic.twitter.com/pvcDnW6K8i jay (@jay",
+        "observed_at": "2026-08-02T00:34:11.375Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/jayvraavi/status/2082158310942187680",
+          "boundary": "发布于 2026-07-28T17:36:40.000Z。 观测于 2026-08-02T00:34:11.375Z。"
+        },
+        {
+          "url": "https://developers.google.com/maps/documentation/routes/config_trade_offs",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.flightaware.com/commercial/aeroapi",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/whentoleave/id6757136570",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-02-sugar",
+      "slug": "2026-08-02-sugar",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "同货架低糖选择",
+      "one_liner": "在超市扫描同架商品，按实际食用份量比较添加糖、过敏原和每周花费。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-sugar.md",
+      "signal": {
+        "query": "sugar",
+        "observed_at": "2026-08-02T00:33:16.206Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-31T12:00:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.takaratomy.co.jp/products/plarail/lineup/rail/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.takaratomy.co.jp/products/plarail/concierge/plan/plan22.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://vigne-cla.xxxx.jp/plarail-designer/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.google.com/optimization/cp/cp_solver",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-01-authorize-don-t-authenticate",
-      "slug": "2026-08-01-authorize-don-t-authenticate",
-      "date": "2026-08-01",
-      "tier": "quick",
-      "title": "一次性办事链接",
-      "one_liner": "需要外部人员临时办事时，发出只能完成指定动作的一次性链接，无须注册账号。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-authorize-don-t-authenticate.md",
-      "signal": {
-        "query": "Authorize, don't authenticate",
-        "observed_at": "2026-08-01T00:33:26.395Z"
+        "ended_at": "2026-08-01T10:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s",
-      "slug": "2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s",
-      "date": "2026-08-01",
-      "tier": "featured",
-      "title": "本地模型夜班队列",
-      "one_liner": "把大型本地模型的长任务放进夜间队列，第二天收到带引用、检查点和完成状态的结果包。",
-      "url": "https://raytally.com/ideas/2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-run-kimi-k3-using-29-gb-of-ram-at-0-50-tok-s.md",
-      "signal": {
-        "query": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-        "observed_at": "2026-08-01T00:33:26.395Z"
-      },
-      "sources": [
-        {
-          "url": "https://github.com/sqliteai/waste",
-          "boundary": "观测于 2026-08-01T00:33:26.395Z。"
-        },
-        {
-          "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.ollama.com/faq",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://daymon.io/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-01-customer-io-summer-release",
-      "slug": "2026-08-01-customer-io-summer-release",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-baby-boomers",
+      "slug": "2026-08-02-baby-boomers",
+      "date": "2026-08-02",
       "tier": "quick",
-      "title": "迟到前自动改约",
-      "one_liner": "服务行程可能迟到时，提前向客户发送等待或改约选项，并同步更新双方日历。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-customer-io-summer-release.md",
+      "title": "老物件里的家族故事",
+      "one_liner": "探望父母时拍一件旧物，用十分钟对话留下带照片、人物和地点的家族故事。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-baby-boomers.md",
       "signal": {
-        "query": "Customer.io Summer Release",
-        "observed_at": "2026-08-01T00:33:26.785Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-01-golang-proposal-container-generic-collection-types",
-      "slug": "2026-08-01-golang-proposal-container-generic-collection-types",
-      "date": "2026-08-01",
-      "tier": "featured",
-      "title": "Go集合提案试跑",
-      "one_liner": "导入 Go 仓库试迁移到候选泛型集合接口，立刻比较兼容性、性能和可删代码量。",
-      "url": "https://raytally.com/ideas/2026-08-01-golang-proposal-container-generic-collection-types/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-golang-proposal-container-generic-collection-types.md",
-      "signal": {
-        "query": "Golang proposal: container/: generic collection types",
-        "observed_at": "2026-08-01T00:33:26.395Z"
-      },
-      "sources": [
-        {
-          "url": "https://github.com/golang/go/issues/80590",
-          "boundary": "发布于 2026-07-28T00:00:00.000Z。 观测于 2026-08-01T00:33:26.395Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49127031",
-          "boundary": "发布于 2026-07-31T00:00:00.000Z。 观测于 2026-08-01T00:33:26.395Z。"
-        },
-        {
-          "url": "https://pkg.go.dev/golang.org/x/tools/go/packages",
-          "boundary": "发布于 2026-07-09T00:00:00.000Z。"
-        },
-        {
-          "url": "https://go.dev/gopls/analyzers",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-01-luis-hendricks",
-      "slug": "2026-08-01-luis-hendricks",
-      "date": "2026-08-01",
-      "tier": "quick",
-      "title": "把主厨视频做成菜谱",
-      "one_liner": "看完厨师视频想复刻时，把画面和口述整理成标明推测项、能照着计时的菜谱。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-luis-hendricks.md",
-      "signal": {
-        "query": "luis hendricks",
-        "observed_at": "2026-08-01T00:33:26.569Z",
+        "query": "baby boomers",
+        "observed_at": "2026-08-02T00:33:16.206Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-07-31T14:00:00.000Z"
+        "ended_at": "2026-08-01T00:50:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-01-mubert-api",
-      "slug": "2026-08-01-mubert-api",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-halo-by-scam-ai",
+      "slug": "2026-08-02-halo-by-scam-ai",
+      "date": "2026-08-02",
       "tier": "featured",
-      "title": "随剧情变奏的跑团原声",
-      "one_liner": "跑团主持人点选剧情事件，现场配乐就在同一主题里无缝变奏，结束后还能回放整局原声。",
-      "url": "https://raytally.com/ideas/2026-08-01-mubert-api/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-mubert-api.md",
+      "title": "视频来电先核实",
+      "one_liner": "视频来电突然要求转账或验证码时，先暂停通话，再从旧号码或家庭群独立确认身份。",
+      "url": "https://raytally.com/ideas/2026-08-02-halo-by-scam-ai/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-halo-by-scam-ai.md",
       "signal": {
-        "query": "Mubert API",
-        "observed_at": "2026-08-01T00:33:26.785Z"
+        "query": "Halo by Scam AI",
+        "observed_at": "2026-08-02T00:33:18.427Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/mubert",
-          "boundary": "观测于 2026-08-01T00:33:26.785Z。"
+          "url": "https://www.producthunt.com/products/scam-ai",
+          "boundary": "观测于 2026-08-02T00:33:18.427Z。"
         },
         {
-          "url": "https://mubert.com/api/docs",
+          "url": "https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://syrinscape.com/",
+          "url": "https://developer.android.com/reference/android/service/quicksettings/TileService.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://foundryvtt.com/packages/crossblade",
+          "url": "https://support.google.com/googleplay/android-developer/answer/10964491",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-01-eclipse-solar-6d2b7c9",
-      "slug": "2026-08-01-eclipse-solar-6d2b7c9",
-      "date": "2026-08-01",
+      "id": "idea-2026-08-02-how-google-helped-destroy-adoption-of-rss-feeds-2023",
+      "slug": "2026-08-02-how-google-helped-destroy-adoption-of-rss-feeds-2023",
+      "date": "2026-08-02",
       "tier": "quick",
-      "title": "日食实景站位",
-      "one_liner": "看日食前拍下周围天际线，立即得到最佳站位、实际可见时段和安全观测安排。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-eclipse-solar-6d2b7c9.md",
+      "title": "看到网站就关注",
+      "one_liner": "遇到喜欢的网站时直接关注网址，无需寻找 RSS 地址也能持续收到真正的新内容。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-how-google-helped-destroy-adoption-of-rss-feeds-2023.md",
       "signal": {
-        "query": "eclipse solar",
-        "observed_at": "2026-08-01T00:33:24.763Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-07-31T12:50:00.000Z"
+        "query": "How Google helped destroy adoption of RSS feeds (2023)",
+        "observed_at": "2026-08-02T00:33:17.897Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-01-elevators",
-      "slug": "2026-08-01-elevators",
-      "date": "2026-08-01",
-      "tier": "quick",
-      "title": "电梯候梯沙盘",
-      "one_liner": "规划办公楼电梯时输入楼层、人流和轿厢参数，立即回放拥堵时段并比较真实候梯差异。",
-      "url": "https://raytally.com/daily/2026-08-01/",
-      "brief_url": "https://raytally.com/ideas/2026-08-01-elevators.md",
+      "id": "idea-2026-08-02-seedance-2-5",
+      "slug": "2026-08-02-seedance-2-5",
+      "date": "2026-08-02",
+      "tier": "featured",
+      "title": "系列短片不穿帮",
+      "one_liner": "上传上一集和新脚本后，逐镜锁住角色、道具与光线，只重做发生漂移的片段。",
+      "url": "https://raytally.com/ideas/2026-08-02-seedance-2-5/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-seedance-2-5.md",
       "signal": {
-        "query": "Elevators",
-        "observed_at": "2026-08-01T00:33:26.395Z"
+        "query": "Seedance 2.5",
+        "observed_at": "2026-08-02T00:33:17.897Z"
+      },
+      "sources": [
+        {
+          "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+          "boundary": "发布于 2026-07-31T00:00:00.000Z。 观测于 2026-08-02T00:33:17.897Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49138302",
+          "boundary": "发布于 2026-08-01T20:45:12.000Z。 观测于 2026-08-02T00:33:17.897Z。"
+        },
+        {
+          "url": "https://www.vidu.com/ai-reference-to-video",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.stablegen.io/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-02-cursor-removed-cost-information-from-the-usage-page-and-csv",
+      "slug": "2026-08-02-cursor-removed-cost-information-from-the-usage-page-and-csv",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "AI编程影子账单",
+      "one_liner": "当 AI 编程账单难以核对时，插件从每次调用重建成本，并指出费用花在了哪里。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-cursor-removed-cost-information-from-the-usage-page-and-csv.md",
+      "signal": {
+        "query": "Cursor removed cost information from the usage page and CSV export",
+        "observed_at": "2026-08-02T00:33:17.897Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-02-gemini-robotics-2",
+      "slug": "2026-08-02-gemini-robotics-2",
+      "date": "2026-08-02",
+      "tier": "featured",
+      "title": "机器人现场试工",
+      "one_liner": "拍下现场工作并标出目标物，立即看清机器人能做的步骤、易失败环节和工位改造办法。",
+      "url": "https://raytally.com/ideas/2026-08-02-gemini-robotics-2/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-gemini-robotics-2.md",
+      "signal": {
+        "query": "Gemini Robotics 2",
+        "observed_at": "2026-08-02T00:33:18.427Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/gemini-robotics-2",
+          "boundary": "观测于 2026-08-02T00:33:18.427Z。"
+        },
+        {
+          "url": "https://deepmind.google/models/gemini-robotics/vla/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.intrinsic.ai/flowstate",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://robodk.com/simulation",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-02-basedash-audit-logs",
+      "slug": "2026-08-02-basedash-audit-logs",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "仪表盘事故回放",
+      "one_liner": "指标异常时重放查询和筛选改动，找出数字第一次偏离的具体操作。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-basedash-audit-logs.md",
+      "signal": {
+        "query": "Basedash Audit Logs",
+        "observed_at": "2026-08-02T00:33:18.427Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-02-idea-cdee676d",
+      "slug": "2026-08-02-idea-cdee676d",
+      "date": "2026-08-02",
+      "tier": "featured",
+      "title": "照护任务接力",
+      "one_liner": "把陪诊、买药和接送拆成亲友可直接认领的小任务，缺人时及早回到照护者手里。",
+      "url": "https://raytally.com/ideas/2026-08-02-idea-cdee676d/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-idea-cdee676d.md",
+      "signal": {
+        "query": "Does anyone else feel completely alone while caring for a parent with Alzheimer’s? How do you cope with it?",
+        "observed_at": "2026-08-02T00:33:18.429Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/CaregiverSupport/comments/1vd2ja8/does_anyone_else_feel_completely_alone_while/",
+          "boundary": "发布于 2026-08-01T23:50:14.000Z。 观测于 2026-08-02T00:33:18.429Z。"
+        },
+        {
+          "url": "https://support.ianacare.com/hc/en-us/articles/35255491371661-What-is-the-Caregiver-Organizer-Tool",
+          "boundary": "发布于 2025-03-24T00:00:00.000Z。"
+        },
+        {
+          "url": "https://my.lotsahelpinghands.com/community/create",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/workspace/calendar/api/resource_types",
+          "boundary": "发布于 2026-04-20T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-02-idea-8fbb3ae4",
+      "slug": "2026-08-02-idea-8fbb3ae4",
+      "date": "2026-08-02",
+      "tier": "featured",
+      "title": "买后值不值回访",
+      "one_liner": "下单前记下购买理由，之后按真实使用情况回访，沉淀属于自己的花得值经验。",
+      "url": "https://raytally.com/ideas/2026-08-02-idea-8fbb3ae4/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-idea-8fbb3ae4.md",
+      "signal": {
+        "query": "TikTok Trending Report",
+        "observed_at": "2026-08-02T00:33:18.429Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.medianug.com/tiktok-trending-report",
+          "boundary": "发布于 2026-07-20T00:00:00.000Z。 观测于 2026-08-02T00:33:18.429Z。"
+        },
+        {
+          "url": "https://later.com/blog/tiktok-trends/",
+          "boundary": "发布于 2026-07-24T00:00:00.000Z。 观测于 2026-08-02T00:33:18.429Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/LinkPresentation/LPMetadataProvider",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/impause-stop-impulse-spending/id6746744026",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-02-sports-fan-only-social-filter",
+      "slug": "2026-08-02-sports-fan-only-social-filter",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "主队看台模式",
+      "one_liner": "比赛期间一键只看主队球迷动态，同时把值得看的对手笑话单独收好。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-sports-fan-only-social-filter.md",
+      "signal": {
+        "query": "I wish there was a setting for just UGA fans on this app. JT (@the_dawg_father) July 31, 2026",
+        "observed_at": "2026-08-02T00:34:11.375Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-02-world-s-tallest-buildings",
+      "slug": "2026-08-02-world-s-tallest-buildings",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "摩天楼尺度漫游",
+      "one_liner": "看到摩天楼排名时选一栋熟悉地标作参照，立即生成直观看懂高度差的等比例长图。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-world-s-tallest-buildings.md",
+      "signal": {
+        "query": "world's tallest buildings",
+        "observed_at": "2026-08-02T00:33:16.206Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-01T11:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-02-yamanote-3d",
+      "slug": "2026-08-02-yamanote-3d",
+      "date": "2026-08-02",
+      "tier": "quick",
+      "title": "东京换乘预演",
+      "one_liner": "出发前用3D视角预演乘车、换乘和出口，把陌生路线练成可识别的场景。",
+      "url": "https://raytally.com/daily/2026-08-02/",
+      "brief_url": "https://raytally.com/ideas/2026-08-02-yamanote-3d.md",
+      "signal": {
+        "query": "Yamanote 3D",
+        "observed_at": "2026-08-02T00:33:18.427Z"
       },
       "sources": []
     }
