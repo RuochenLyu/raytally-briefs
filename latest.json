@@ -176,7 +176,24 @@
         "query": "Twenty Years of Pandoc",
         "observed_at": "2026-08-04T00:33:33.063Z"
       },
-      "sources": []
+      "sources": [
+        {
+          "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+          "boundary": "发布于 2026-08-02T00:00:00.000Z。 观测于 2026-08-04T00:33:33.063Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49156750",
+          "boundary": "发布于 2026-08-03T00:00:00.000Z。 观测于 2026-08-04T00:33:33.063Z。"
+        },
+        {
+          "url": "https://pandoc.org/MANUAL.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://sidedoc.io/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     },
     {
       "id": "idea-2026-08-04-automated-technical-drawings-from-3d-models",
