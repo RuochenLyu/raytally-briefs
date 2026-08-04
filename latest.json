@@ -1,349 +1,297 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03",
+  "generated_at": "2026-08-04",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-03-app-to-remove-phone-number-from-others-contacts",
-      "slug": "2026-08-03-app-to-remove-phone-number-from-others-contacts",
-      "date": "2026-08-03",
+      "id": "idea-2026-08-04-gesture-live",
+      "slug": "2026-08-04-gesture-live",
+      "date": "2026-08-04",
       "tier": "featured",
-      "title": "可撤回的临时号码",
-      "one_liner": "看房、交易或约会时分享独立号码，关系结束后一键停用，不必更换真实手机号。",
-      "url": "https://raytally.com/ideas/2026-08-03-app-to-remove-phone-number-from-others-contacts/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-app-to-remove-phone-number-from-others-contacts.md",
+      "title": "让编舞演奏电子乐",
+      "one_liner": "舞者示范几个动作后，把抬手、转身和下蹲变成实时控制音轨与效果的现场演出。",
+      "url": "https://raytally.com/ideas/2026-08-04-gesture-live/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-gesture-live.md",
       "signal": {
-        "query": "I need an app that deletes my number from other people s phones. Chioma🌹 (@Iykyk_oma) August 2, 2026",
-        "observed_at": "2026-08-03T00:34:17.530Z"
+        "query": "gesture.live",
+        "observed_at": "2026-08-04T00:33:33.524Z"
       },
       "sources": [
         {
-          "url": "https://x.com/Iykyk_oma/status/2083867608684646539",
-          "boundary": "发布于 2026-08-02T10:48:48.000Z。 观测于 2026-08-03T00:34:17.530Z。"
+          "url": "https://www.producthunt.com/products/gesture-live",
+          "boundary": "观测于 2026-08-04T00:33:33.524Z。"
         },
         {
-          "url": "https://www.twilio.com/docs/serverless/functions-assets/quickstart/receive-call",
+          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker/web_js",
+          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
+        },
+        {
+          "url": "https://unhands.app/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.twilio.com/docs/serverless/functions-assets/quickstart/receive-sms",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.burnerapp.com/how-burner-works",
+          "url": "https://www.algoriddim.com/gesturecontrol",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-03-pillsbury",
-      "slug": "2026-08-03-pillsbury",
-      "date": "2026-08-03",
+      "id": "idea-2026-08-04-idea-54d0f914",
+      "slug": "2026-08-04-idea-54d0f914",
+      "date": "2026-08-04",
       "tier": "quick",
-      "title": "罐装面团现场换算",
-      "one_liner": "扫描面团和家中烤具，立即得到适配当前设备的烘烤步骤与计时。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-pillsbury.md",
+      "title": "稍后观看盲抽",
+      "one_liner": "不知道看什么时，按当前时长和心情从全部旧收藏中抽一条，并顺手决定它的去留。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-idea-54d0f914.md",
       "signal": {
-        "query": "pillsbury",
-        "observed_at": "2026-08-03T00:33:11.226Z",
+        "query": "Occasionally recommend \"Watch Later\" videos",
+        "observed_at": "2026-08-04T00:33:33.528Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-04-nazca-lines",
+      "slug": "2026-08-04-nazca-lines",
+      "date": "2026-08-04",
+      "tier": "quick",
+      "title": "纳斯卡窗边导览",
+      "one_liner": "坐观光飞机掠过地画前，手机离线预告观看方向，并在正确舷窗叠出轮廓。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-nazca-lines.md",
+      "signal": {
+        "query": "nazca lines",
+        "observed_at": "2026-08-04T00:33:31.102Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-02T23:10:00.000Z"
+        "ended_at": "2026-08-03T20:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-03-northern-lights-tonight",
-      "slug": "2026-08-03-northern-lights-tonight",
-      "date": "2026-08-03",
-      "tier": "quick",
-      "title": "极光现场试拍",
-      "one_liner": "到达观测地后拍天空测试照，马上获得极光方向、手机参数和现场判断。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-northern-lights-tonight.md",
+      "id": "idea-2026-08-04-the-garden-of-mind",
+      "slug": "2026-08-04-the-garden-of-mind",
+      "date": "2026-08-04",
+      "tier": "featured",
+      "title": "孩子自己摆出心情",
+      "one_liner": "孩子用天气、物品和距离摆出今天的心情，再自行决定家长只能看到“想独处”还是“需要帮忙”。",
+      "url": "https://raytally.com/ideas/2026-08-04-the-garden-of-mind/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-the-garden-of-mind.md",
       "signal": {
-        "query": "northern lights",
-        "observed_at": "2026-08-03T00:33:11.226Z",
+        "query": "The Garden of Mind",
+        "observed_at": "2026-08-04T00:33:33.524Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/the-garden-of-mind",
+          "boundary": "发布于 2026-08-02T20:19:35.000Z。 观测于 2026-08-04T00:33:33.524Z。"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?hl=en&id=com.moodspace.app",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.alongside.care/family",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-04-idea-0ff1f331",
+      "slug": "2026-08-04-idea-0ff1f331",
+      "date": "2026-08-04",
+      "tier": "featured",
+      "title": "先说下来再归档",
+      "one_liner": "念头冒出来时先说一句保存，晚上再把它们确认成正确的提醒、日历事项或笔记。",
+      "url": "https://raytally.com/ideas/2026-08-04-idea-0ff1f331/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-idea-0ff1f331.md",
+      "signal": {
+        "query": "How do you capture important thoughts before they disappear?",
+        "observed_at": "2026-08-04T00:33:33.528Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/ADHD/comments/1vetrnh/how_do_you_capture_important_thoughts_before_they/",
+          "boundary": "发布于 2026-08-03T23:38:04.000Z。 观测于 2026-08-04T00:33:33.528Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/appintents/app-shortcuts",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/eventkit/creating-events-and-reminders",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/braintoss/id576226036",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-04-kisakcod-open-source-reimplementation-of-call-of-duty-4",
+      "slug": "2026-08-04-kisakcod-open-source-reimplementation-of-call-of-duty-4",
+      "date": "2026-08-04",
+      "tier": "quick",
+      "title": "老游戏今晚有人吗",
+      "one_liner": "想玩冷门老游戏时，等同地区玩家凑够人数，再收到开局通知和可直接加入的服务器。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-kisakcod-open-source-reimplementation-of-call-of-duty-4.md",
+      "signal": {
+        "query": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+        "observed_at": "2026-08-04T00:33:33.063Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-04-snapdown",
+      "slug": "2026-08-04-snapdown",
+      "date": "2026-08-04",
+      "tier": "quick",
+      "title": "截图变成复现步骤",
+      "one_liner": "复现软件问题时连续截取关键区域，自动得到已脱敏、带步骤和局部证据的 Markdown 工单。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-snapdown.md",
+      "signal": {
+        "query": "Snapdown",
+        "observed_at": "2026-08-04T00:33:33.524Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-04-twenty-years-of-pandoc",
+      "slug": "2026-08-04-twenty-years-of-pandoc",
+      "date": "2026-08-04",
+      "tier": "featured",
+      "title": "把 Word 修订带回源稿",
+      "one_liner": "收到带修订的 Word 稿后，把每处改动定位回 Markdown 或 LaTeX 主稿，再重新生成各交付版本。",
+      "url": "https://raytally.com/ideas/2026-08-04-twenty-years-of-pandoc/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-twenty-years-of-pandoc.md",
+      "signal": {
+        "query": "Twenty Years of Pandoc",
+        "observed_at": "2026-08-04T00:33:33.063Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-04-automated-technical-drawings-from-3d-models",
+      "slug": "2026-08-04-automated-technical-drawings-from-3d-models",
+      "date": "2026-08-04",
+      "tier": "featured",
+      "title": "一批零件一次出图",
+      "one_liner": "导入数百个相似零件后，工程师只审核少量代表件，就能批量得到可编辑的规范图纸。",
+      "url": "https://raytally.com/ideas/2026-08-04-automated-technical-drawings-from-3d-models/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-automated-technical-drawings-from-3d-models.md",
+      "signal": {
+        "query": "Created a tool that generates technical drawings. All I have to do is paste the 3D file path name. I can adjust the layout and toggle whatever view I want featured. Doing this for my hundreds of models manually would have taken ages. Will improve it where I can here and there! pic.twitter.com/nWPGyO",
+        "observed_at": "2026-08-04T00:34:22.432Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/EdonGuraziu/status/2082654103847461356",
+          "boundary": "发布于 2026-07-30T00:00:00.000Z。 观测于 2026-08-04T00:34:22.432Z。"
+        },
+        {
+          "url": "https://help.autodesk.com/view/fusion360/ENU/?contextId=DWG-AUTO-DRAWING",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.autodesk.com/cloudhelp/2025/ENU/Inventor-API/files/DrawingViews.htm",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://draftaid.io/faq/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-04-open-minis",
+      "slug": "2026-08-04-open-minis",
+      "date": "2026-08-04",
+      "tier": "quick",
+      "title": "一次性权限手机代理",
+      "one_liner": "处理私密手机任务时，把限定资料和权限交给本地代理，先预览动作再一次执行。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-open-minis.md",
+      "signal": {
+        "query": "Open Minis",
+        "observed_at": "2026-08-04T00:33:33.524Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-04-hand-wave",
+      "slug": "2026-08-04-hand-wave",
+      "date": "2026-08-04",
+      "tier": "featured",
+      "title": "先确认再发声的手语眼镜",
+      "one_liner": "与不懂手语的人交谈时，眼镜先让用户确认模糊词句，再用其选定的声音说出来。",
+      "url": "https://raytally.com/ideas/2026-08-04-hand-wave/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-hand-wave.md",
+      "signal": {
+        "query": "Hand Wave",
+        "observed_at": "2026-08-04T00:33:33.524Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/hand-wave",
+          "boundary": "观测于 2026-08-04T00:33:33.524Z。"
+        },
+        {
+          "url": "https://developers.google.com/edge/api/mediapipe/java/com/google/mediapipe/tasks/vision/gesturerecognizer/GestureRecognizer",
+          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
+        },
+        {
+          "url": "https://developer.android.com/reference/android/speech/tts/TextToSpeech",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.sign-speak.com/faq",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-04-minimax-h3-day-0-support-in-comfyui-open-weights-native",
+      "slug": "2026-08-04-minimax-h3-day-0-support-in-comfyui-open-weights-native",
+      "date": "2026-08-04",
+      "tier": "quick",
+      "title": "工作流显存改装台",
+      "one_liner": "导入跑不动的 ComfyUI 工作流，按本机显卡改成可启动版本，并说明每项取舍。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-minimax-h3-day-0-support-in-comfyui-open-weights-native.md",
+      "signal": {
+        "query": "minimax h3",
+        "observed_at": "2026-08-04T00:33:31.102Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-02T03:10:00.000Z"
+        "ended_at": "2026-08-03T08:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-03-show-hn-make-your-framework-12-sound-like-a-creaky-door",
-      "slug": "2026-08-03-show-hn-make-your-framework-12-sound-like-a-creaky-door",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "Framework 12 铰链声皮肤",
-      "one_liner": "给 Framework 12 录入一段声音，让不同速度和角度的开合动作都有连贯音效。",
-      "url": "https://raytally.com/ideas/2026-08-03-show-hn-make-your-framework-12-sound-like-a-creaky-door/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-show-hn-make-your-framework-12-sound-like-a-creaky-door.md",
-      "signal": {
-        "query": "Show HN: Make your Framework 12 sound like a creaky door",
-        "observed_at": "2026-08-03T00:33:13.353Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49148048",
-          "boundary": "发布于 2026-08-02T20:33:01.000Z。 观测于 2026-08-03T00:33:13.353Z。"
-        },
-        {
-          "url": "https://github.com/ArcaEge/creakwork12",
-          "boundary": "观测于 2026-08-03T00:33:13.353Z。"
-        },
-        {
-          "url": "https://community.frame.work/t/lid-angle-sensor-sound-effect-for-framework-12-laptop-e-g-theremin-or-wooden-door-sound-when-closing-laptop/80827",
-          "boundary": "发布于 2026-02-23T00:00:00.000Z。"
-        },
-        {
-          "url": "https://github.com/samhenrigold/LidAngleSensor",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-03-gencon",
-      "slug": "2026-08-03-gencon",
-      "date": "2026-08-03",
+      "id": "idea-2026-08-04-nia-long",
+      "slug": "2026-08-04-nia-long",
+      "date": "2026-08-04",
       "tier": "quick",
-      "title": "逛展心动清单",
-      "one_liner": "逛到心动桌游时拍照说一句感受，展后直接拿到试玩和购买短名单。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-gencon.md",
+      "title": "明星造型的可穿版本",
+      "one_liner": "刷到喜欢的明星造型时上传截图，选择想保留的特征即可生成适合自己预算与场合的穿搭。",
+      "url": "https://raytally.com/daily/2026-08-04/",
+      "brief_url": "https://raytally.com/ideas/2026-08-04-nia-long.md",
       "signal": {
-        "query": "gencon",
-        "observed_at": "2026-08-03T00:33:11.226Z",
+        "query": "nia long",
+        "observed_at": "2026-08-04T00:33:31.102Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-02T01:20:00.000Z"
+        "ended_at": "2026-08-03T17:30:00.000Z"
       },
       "sources": []
-    },
-    {
-      "id": "idea-2026-08-03-karpathy-s-pelican",
-      "slug": "2026-08-03-karpathy-s-pelican",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "把热门开源项目做一遍",
-      "one_liner": "开发者贴入热门仓库，从失败测试开始逐步补齐代码，亲手做出核心机制的缩小版。",
-      "url": "https://raytally.com/ideas/2026-08-03-karpathy-s-pelican/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-karpathy-s-pelican.md",
-      "signal": {
-        "query": "Karpathy’s Pelican",
-        "observed_at": "2026-08-03T00:33:13.353Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49140998",
-          "boundary": "发布于 2026-08-02T00:00:00.000Z。 观测于 2026-08-03T00:33:13.353Z。"
-        },
-        {
-          "url": "https://docs.github.com/en/rest/git/trees",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.devin.ai/work-with-devin/deepwiki",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://codecrafters.io/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-03-ai-poster-wins-ohio-state-fair-contest",
-      "slug": "2026-08-03-ai-poster-wins-ohio-state-fair-contest",
-      "date": "2026-08-03",
-      "tier": "quick",
-      "title": "创作赛事过程卡",
-      "one_liner": "创作赛事收件时核对草图、图层和生成记录，让评审按作品质量与明确规则进行。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-ai-poster-wins-ohio-state-fair-contest.md",
-      "signal": {
-        "query": "AI poster wins Ohio State Fair contest",
-        "observed_at": "2026-08-03T00:33:13.353Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-03-meshdiff-visually-compare-two-stl-versions-in-the-browser",
-      "slug": "2026-08-03-meshdiff-visually-compare-two-stl-versions-in-the-browser",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "两个 STL 的打印差异",
-      "one_liner": "交付新版 STL 前拖入两个文件，立即找出会影响打印、装配和报价的几何变化。",
-      "url": "https://raytally.com/ideas/2026-08-03-meshdiff-visually-compare-two-stl-versions-in-the-browser/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-meshdiff-visually-compare-two-stl-versions-in-the-browser.md",
-      "signal": {
-        "query": "Meshdiff – visually compare two STL versions in the browser, client-side",
-        "observed_at": "2026-08-03T00:33:13.353Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49143479",
-          "boundary": "发布于 2026-08-02T11:34:41.000Z。 观测于 2026-08-03T00:33:13.353Z。"
-        },
-        {
-          "url": "https://www.reddit.com/r/3DPrintingTools/comments/1vdfwxe/meshdiff_free_browser_tool_to_visually_compare/",
-          "boundary": "发布于 2026-08-02T00:00:00.000Z。"
-        },
-        {
-          "url": "https://github.com/gkjohnson/three-mesh-bvh",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.autodesk.com/cloudhelp/ENU/BIM360D-Document-Management/files/About-Comparing-2D-and-3D/GUID-1872D1A7-1973-4715-BD99-13D766C18DFB.html",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-03-idea-567dc74e",
-      "slug": "2026-08-03-idea-567dc74e",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "定制订单逐项确认",
-      "one_liner": "定制订单开工前，让客户逐项查看尺寸、文字和参考图，留下双方可查的版本确认。",
-      "url": "https://raytally.com/ideas/2026-08-03-idea-567dc74e/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-idea-567dc74e.md",
-      "signal": {
-        "query": "How do you protect yourself from \"I never approved that\" disputes on custom orders?",
-        "observed_at": "2026-08-03T00:33:14.347Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/smallbusiness/comments/1vdvass/how_do_you_protect_yourself_from_i_never_approved/",
-          "boundary": "发布于 2026-08-02T22:16:36.000Z。 观测于 2026-08-03T00:33:14.347Z。"
-        },
-        {
-          "url": "https://developers.cloudflare.com/r2/api/s3/presigned-urls/",
-          "boundary": "发布于 2026-04-24T00:00:00.000Z。"
-        },
-        {
-          "url": "https://docs.stripe.com/payment-links/customize?dashboard-or-api=api",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://proofapprove.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-03-zinley",
-      "slug": "2026-08-03-zinley",
-      "date": "2026-08-03",
-      "tier": "quick",
-      "title": "替我等客服电话",
-      "one_liner": "办退款或改签时交出目标和底线，让 AI 代等客服电话，只在关键选择时叫你回来。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-zinley.md",
-      "signal": {
-        "query": "Zinley",
-        "observed_at": "2026-08-03T00:33:14.344Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-03-finamie",
-      "slug": "2026-08-03-finamie",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "聚餐账单口述分摊",
-      "one_liner": "聚餐或旅行后说清总额和例外，立即得到每个人的分摊明细与收款链接。",
-      "url": "https://raytally.com/ideas/2026-08-03-finamie/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-finamie.md",
-      "signal": {
-        "query": "Finamie",
-        "observed_at": "2026-08-03T00:33:14.344Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/finamie-know-your-money-for-real",
-          "boundary": "观测于 2026-08-03T00:33:14.344Z。"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder",
-          "boundary": "发布于 2024-07-26T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.splitwise.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.quassama.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-03-freqwave-eq",
-      "slug": "2026-08-03-freqwave-eq",
-      "date": "2026-08-03",
-      "tier": "quick",
-      "title": "跟着人声走的网页音量",
-      "one_liner": "看网课或直播时自动提清人声、压住广告音量，并为每个网站记住听感。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-freqwave-eq.md",
-      "signal": {
-        "query": "FreqWave EQ",
-        "observed_at": "2026-08-03T00:33:14.344Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-03-jensen-huang-construction-careers-forecast",
-      "slug": "2026-08-03-jensen-huang-construction-careers-forecast",
-      "date": "2026-08-03",
-      "tier": "quick",
-      "title": "七天技工试学",
-      "one_liner": "想转入技工行业时，先做七天真实工序缩影，再决定是否投入培训。",
-      "url": "https://raytally.com/daily/2026-08-03/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-jensen-huang-construction-careers-forecast.md",
-      "signal": {
-        "query": "jensen huang construction careers forecast",
-        "observed_at": "2026-08-03T00:33:11.226Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-03T00:00:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-03-shazam-like-movie-show-identifier",
-      "slug": "2026-08-03-shazam-like-movie-show-identifier",
-      "date": "2026-08-03",
-      "tier": "featured",
-      "title": "截图找出影视出处",
-      "one_liner": "看到陌生影视画面时上传截图或短录屏，定位片名、季集、时间点和观看渠道。",
-      "url": "https://raytally.com/ideas/2026-08-03-shazam-like-movie-show-identifier/",
-      "brief_url": "https://raytally.com/ideas/2026-08-03-shazam-like-movie-show-identifier.md",
-      "signal": {
-        "query": "i wish there was a shazam for movies and shows yanj’ (@n0manazx2) August 2, 2026",
-        "observed_at": "2026-08-03T00:34:17.530Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/n0manazx2/status/2083728223553065298",
-          "boundary": "发布于 2026-08-02T01:34:56.000Z。 观测于 2026-08-03T00:34:17.530Z。"
-        },
-        {
-          "url": "https://www.clypseapp.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.cloud.google.com/video-intelligence/docs/feature-text-detection?hl=en",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.themoviedb.org/reference/movie-watch-providers",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
     }
   ]
 }
