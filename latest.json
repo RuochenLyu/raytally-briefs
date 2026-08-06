@@ -1,350 +1,364 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-08-06",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-05-idea-45f93a62",
-      "slug": "2026-08-05-idea-45f93a62",
-      "date": "2026-08-05",
-      "tier": "featured",
-      "title": "孩子自己的流媒体随身听",
-      "one_liner": "孩子在独立设备上听家长批准的流媒体内容，还能语音点歌，却接触不到搜索和社交界面。",
-      "url": "https://raytally.com/ideas/2026-08-05-idea-45f93a62/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-idea-45f93a62.md",
+      "id": "idea-2026-08-06-idea-8d5662f3",
+      "slug": "2026-08-06-idea-8d5662f3",
+      "date": "2026-08-06",
+      "tier": "quick",
+      "title": "会换抓力的发带",
+      "one_liner": "洗完头准备护肤或运动时翻到高抓力内衬，让发带固定顺滑头发，无需勒得更紧。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-8d5662f3.md",
       "signal": {
-        "query": "Portable Spotify player?",
-        "observed_at": "2026-08-05T00:33:30.736Z"
+        "query": "It s so frustrating when you wash your hair well, and then for a day and a half its too clean and slippery for a headband or a hair tie. 💗 Mashed Potato Dream Girl 💗 (@sheseemslegit) August 4, 2026",
+        "observed_at": "2026-08-06T00:34:01.245Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-06-idea-95922ac9",
+      "slug": "2026-08-06-idea-95922ac9",
+      "date": "2026-08-06",
+      "tier": "featured",
+      "title": "透明创作墙",
+      "one_liner": "手作被吃饭或工作打断时，把半成品连同材料插入透明竖格，腾空桌面后仍能一眼找到下次要继续的项目。",
+      "url": "https://raytally.com/ideas/2026-08-06-idea-95922ac9/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-95922ac9.md",
+      "signal": {
+        "query": "How are yall storing art supplies so that you don't forget they exist due to ADHD?",
+        "observed_at": "2026-08-06T00:33:22.521Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/Parenting/comments/1vfgafg/portable_spotify_player/",
-          "boundary": "发布于 2026-08-04T17:04:09.000Z。 观测于 2026-08-05T00:33:30.736Z。"
+          "url": "https://www.reddit.com/r/ADHD/comments/1vgp08x/how_are_yall_storing_art_supplies_so_that_you/",
+          "boundary": "发布于 2026-08-06T00:00:00.000Z。 观测于 2026-08-06T00:33:22.521Z。"
         },
         {
-          "url": "https://bemighty.com/pages/spotify-update",
+          "url": "https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://us.yotoplay.com/yoto-player",
+          "url": "https://www.deflecto.com/product/consumer-products/storage-organization/single-stackable-tilt-bin-caddy/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.spotify.com/documentation/web-api/reference/get-a-show",
+          "url": "https://www.createroom.com/blogs/updates/the-one-cabinet-craft-store-storage-units-that-make-a-small-space-feel-like-a-studio",
+          "boundary": "发布于 2026-02-18T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-06-idea-0a6eb640",
+      "slug": "2026-08-06-idea-0a6eb640",
+      "date": "2026-08-06",
+      "tier": "featured",
+      "title": "穿搭纹身试衣间",
+      "one_liner": "出门搭配衣服时上传穿搭照，比较不同纹身位置，再订制能按预览位置贴上的临时纹身贴。",
+      "url": "https://raytally.com/ideas/2026-08-06-idea-0a6eb640/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-0a6eb640.md",
+      "signal": {
+        "query": "The struggle of wanting to have more tattoos but also liking the clean “no tattoo” look. I wish there was a way to turn them on and off depend on the outfit I’m wearing Michelle Otter 🏳️‍⚧️🦦 (@michellexotter) August 5, 2026",
+        "observed_at": "2026-08-06T00:34:01.245Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/michellexotter/status/2085057400759796222",
+          "boundary": "发布于 2026-08-05T00:00:00.000Z。 观测于 2026-08-06T00:34:01.245Z。"
+        },
+        {
+          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker/web_js",
+          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
+        },
+        {
+          "url": "https://tatship.com/en-US",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://inkbox.com/pages/custom-temporary-tattoos-info",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-05-youtube",
-      "slug": "2026-08-05-youtube",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-idea-5a287315",
+      "slug": "2026-08-06-idea-5a287315",
+      "date": "2026-08-06",
       "tier": "quick",
-      "title": "YouTube 原声锁定",
-      "one_liner": "打开 YouTube 视频时自动切回原始音轨，让不想听自动配音的人无需逐条关闭。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-youtube.md",
+      "title": "一捏变深的蘸酱杯",
+      "one_liner": "打包时照常堆叠浅杯，开吃前一捏变深酱槽，让食物一次蘸够且不易滴到桌上。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-5a287315.md",
       "signal": {
-        "query": "youtube’s autodubbing feature is really disturbing i hate that i have to keep manually turning it off 준英 (@celadonangel) August 4, 2026",
-        "observed_at": "2026-08-05T00:34:18.924Z"
+        "query": "Something that annoys me a lot is the shallowness of dipping sauce containers. You need to dunk over and over again, it spills, it falls out on your counter, lots of trash, bad for the environment, it’s just awful. I’ve been working on something using my engineering background… pic.twitter.com/xdazB",
+        "observed_at": "2026-08-06T00:34:01.245Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-05-idea-33e06a3e",
-      "slug": "2026-08-05-idea-33e06a3e",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-idea-24974ea4",
+      "slug": "2026-08-06-idea-24974ea4",
+      "date": "2026-08-06",
       "tier": "featured",
-      "title": "市集真实时薪账",
-      "one_liner": "每次收摊后补齐费用和隐形工时，马上看见真实时薪、保本销售额和该不该再参加这个市集。",
-      "url": "https://raytally.com/ideas/2026-08-05-idea-33e06a3e/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-idea-33e06a3e.md",
+      "title": "按活借工具",
+      "one_liner": "准备家庭维修时输入要做的活和日期，产品从邻里库存拼齐整套工具，并排好一次取件路线。",
+      "url": "https://raytally.com/ideas/2026-08-06-idea-24974ea4/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-24974ea4.md",
       "signal": {
-        "query": "The 2 farmer’s markets I signed up for are not going well. Should I drop out?",
-        "observed_at": "2026-08-05T00:33:30.736Z"
+        "query": "One trend nobody is talking about - Home gardens - Backyard chickens - Rainwater collection - DIY repairs - Neighborhood tool sharing People are quietly becoming less dependent on big systems. Amelia (@amelia_tweetz) August 3, 2026",
+        "observed_at": "2026-08-06T00:34:01.245Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/smallbusiness/comments/1vfq0hr/the_2_farmers_markets_i_signed_up_for_are_not/",
-          "boundary": "发布于 2026-08-04T23:05:08.000Z。 观测于 2026-08-05T00:33:30.736Z。"
+          "url": "https://x.com/amelia_tweetz/status/2084345122159038717",
+          "boundary": "发布于 2026-08-03T18:26:17.000Z。 观测于 2026-08-06T00:34:01.245Z。"
         },
         {
-          "url": "https://squareup.com/help/us/en/article/8362-print-export-or-email-your-reports",
+          "url": "https://www.peerby.com/en-us",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.makermargin.app/",
+          "url": "https://myturn.com/home/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.boothkeeper.com/",
+          "url": "https://developers.google.com/optimization/routing/vrp",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-05-x-91e1d75",
-      "slug": "2026-08-05-x-91e1d75",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-perro",
+      "slug": "2026-08-06-perro",
+      "date": "2026-08-06",
       "tier": "quick",
-      "title": "画作发布账本",
-      "one_liner": "插画师准备发图时拖入作品，立即查到是否发过、何时发布以及对应原帖。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-x-91e1d75.md",
+      "title": "狗狗口令换语言",
+      "one_liner": "领养听惯西语口令的狗后，录下旧口令，获得循序渐进的双语迁移练习。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-perro.md",
       "signal": {
-        "query": "Twitter is soo annoyingg I have no idea what artworks I’ve posted up already or not unless I manually scroll numerous times 💀 How do you guys do it, please help! I also wish I could easily find my things through tags similar to tumblr cafhune 🌸💫 working!! (@cafhune) August 4, 2026",
-        "observed_at": "2026-08-05T00:34:18.924Z"
+        "query": "perro",
+        "observed_at": "2026-08-06T00:33:19.179Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-05T13:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-05-idea-de6178fd",
-      "slug": "2026-08-05-idea-de6178fd",
-      "date": "2026-08-05",
-      "tier": "quick",
-      "title": "角色定人提醒",
-      "one_liner": "提交配音试镜后追踪角色页面，在提前截止、公布人选或取消时收到明确通知。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-idea-de6178fd.md",
-      "signal": {
-        "query": "I m pretty new to CCC (CastingCallClub) I joined mid July. Its been a wonderful platform getting to see other fellow voice actors performances. Though, I wish it would notify you once a role was taken for one you auditioned for. I had to manually check some roles I auditioned… Sebastien Singh (@SebS",
-        "observed_at": "2026-08-05T00:34:18.924Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-05-in-memory-of-my-wife-elise-cawley-with-thanks-for-36",
-      "slug": "2026-08-05-in-memory-of-my-wife-elise-cawley-with-thanks-for-36",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-i-m-switching-my-phone-from-android-to-linux",
+      "slug": "2026-08-06-i-m-switching-my-phone-from-android-to-linux",
+      "date": "2026-08-06",
       "tier": "featured",
-      "title": "亲友共写纪念文",
-      "one_liner": "亲友各自提交一段具体回忆，最后共同写成保留原话、照片来源和不同声音的纪念文章。",
-      "url": "https://raytally.com/ideas/2026-08-05-in-memory-of-my-wife-elise-cawley-with-thanks-for-36/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-in-memory-of-my-wife-elise-cawley-with-thanks-for-36.md",
+      "title": "Linux手机迁移彩排",
+      "one_liner": "换成 Linux 手机前，先彩排银行、导航和验证码等关键流程，提前看清真正会中断的环节。",
+      "url": "https://raytally.com/ideas/2026-08-06-i-m-switching-my-phone-from-android-to-linux/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-i-m-switching-my-phone-from-android-to-linux.md",
       "signal": {
-        "query": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "observed_at": "2026-08-05T00:33:30.316Z"
+        "query": "I'm switching my phone from Android to Linux",
+        "observed_at": "2026-08-06T00:33:22.015Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49173165",
-          "boundary": "发布于 2026-08-04T18:51:38.000Z。 观测于 2026-08-05T00:33:30.316Z。"
+          "url": "https://news.ycombinator.com/item?id=49188022",
+          "boundary": "发布于 2026-08-05T19:50:13.000Z。 观测于 2026-08-06T00:33:22.015Z。"
         },
         {
-          "url": "https://autograph.ai/projects/memorials",
+          "url": "https://developer.android.com/tools/adb",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://memoirs.memorygram.com/tributes",
+          "url": "https://devices.ubuntu-touch.io/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://supabase.com/docs/guides/auth",
+          "url": "https://docs.ubports.com/gl/latest/userguide/dailyuse/waydroid.html",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-05-idea-4aa0054b",
-      "slug": "2026-08-05-idea-4aa0054b",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-mirra-andreeva",
+      "slug": "2026-08-06-mirra-andreeva",
+      "date": "2026-08-06",
       "tier": "quick",
-      "title": "求职资料一次录入",
-      "one_liner": "上传简历后自动完成重复的求职字段，只把首次出现或存在冲突的问题留给本人。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-idea-4aa0054b.md",
+      "title": "无剧透追赛提醒",
+      "one_liner": "关注球员却没空看全场时，在比赛真正胶着的阶段收到不含比分的直播提醒。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-mirra-andreeva.md",
       "signal": {
-        "query": "Same circle of hell as when they force you to manually enter information that’s already contained in your uploaded resume which they also asked for https://t.co/iH6b1mdQz4 SpongeBob SquareAss (@thereisnojayjay) August 4, 2026",
-        "observed_at": "2026-08-05T00:34:18.924Z"
+        "query": "mirra andreeva",
+        "observed_at": "2026-08-06T00:33:19.179Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-05T20:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-05-keyv-and-friends-compromised-in-active-shai-hulud-supply",
-      "slug": "2026-08-05-keyv-and-friends-compromised-in-active-shai-hulud-supply",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-daycare-f231cc1",
+      "slug": "2026-08-06-daycare-f231cc1",
+      "date": "2026-08-06",
       "tier": "featured",
-      "title": "依赖投毒案发时光机",
-      "one_liner": "依赖投毒曝光后导入构建证据，立即确认哪些历史制品真的装过恶意版本，以及该隔离什么。",
-      "url": "https://raytally.com/ideas/2026-08-05-keyv-and-friends-compromised-in-active-shai-hulud-supply/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-keyv-and-friends-compromised-in-active-shai-hulud-supply.md",
+      "title": "托育真实成本对照",
+      "one_liner": "挑托育机构时上传价目表和日历，立即看清真实年成本、可托管小时和与工作日程冲突的空档。",
+      "url": "https://raytally.com/ideas/2026-08-06-daycare-f231cc1/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-daycare-f231cc1.md",
       "signal": {
-        "query": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-        "observed_at": "2026-08-05T00:33:30.316Z"
+        "query": "daycare",
+        "observed_at": "2026-08-06T00:33:19.179Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-05T02:30:00.000Z"
       },
       "sources": [
         {
-          "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-          "boundary": "发布于 2026-08-04T00:00:00.000Z。 观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49166874",
-          "boundary": "发布于 2026-08-04T00:00:00.000Z。 观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://github.com/npm/registry/blob/master/docs/responses/package-metadata.md",
+          "url": "https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.snyk.io/snyk-platform-administration/snyk-projects/view-project-history",
+          "url": "https://winnie.com/cost-calculator",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/naptha/tesseract.js/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/maps/documentation/routes/compute_route_directions",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-05-airproof-ai",
-      "slug": "2026-08-05-airproof-ai",
-      "date": "2026-08-05",
-      "tier": "featured",
-      "title": "净化器摆位实测赛",
-      "one_liner": "搬家或烟霾天用一台传感器做短时实测，找出净化器降尘最快的位置、朝向和开关门方法。",
-      "url": "https://raytally.com/ideas/2026-08-05-airproof-ai/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-airproof-ai.md",
+      "id": "idea-2026-08-06-vinyl-for-mac",
+      "slug": "2026-08-06-vinyl-for-mac",
+      "date": "2026-08-06",
+      "tier": "quick",
+      "title": "一起翻面的唱片房",
+      "one_liner": "异地两人同步听完一整面专辑，只在换面时展开彼此留下的反应。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-vinyl-for-mac.md",
       "signal": {
-        "query": "AirProof AI",
-        "observed_at": "2026-08-05T00:33:30.726Z"
+        "query": "Vinyl for Mac",
+        "observed_at": "2026-08-06T00:33:22.520Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness",
+      "slug": "2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness",
+      "date": "2026-08-06",
+      "tier": "quick",
+      "title": "把名言练成一次选择",
+      "one_liner": "读到哲学名言时带入眼前困境，把抽象德性变成今天能完成并复盘的一次选择。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness.md",
+      "signal": {
+        "query": "Aristotle quotes on virtue, knowledge, and happiness",
+        "observed_at": "2026-08-06T00:33:22.015Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-06-painting-with-gaussians",
+      "slug": "2026-08-06-painting-with-gaussians",
+      "date": "2026-08-06",
+      "tier": "featured",
+      "title": "画完还能挪笔触",
+      "one_liner": "用可随时移动、收紧和重新混色的高斯笔触，把照片或草图画成能继续编辑、可放大的插画。",
+      "url": "https://raytally.com/ideas/2026-08-06-painting-with-gaussians/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-painting-with-gaussians.md",
+      "signal": {
+        "query": "Painting with Gaussians",
+        "observed_at": "2026-08-06T00:33:22.015Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/airproof-ai",
-          "boundary": "观测于 2026-08-05T00:33:30.726Z。"
+          "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+          "boundary": "发布于 2026-08-03T00:00:00.000Z。 观测于 2026-08-06T00:33:22.015Z。"
         },
         {
-          "url": "https://airproofai.com/",
+          "url": "https://news.ycombinator.com/item?id=49182695",
+          "boundary": "发布于 2026-08-05T00:00:00.000Z。 观测于 2026-08-06T00:33:22.015Z。"
+        },
+        {
+          "url": "https://helpx-origin-uw2.aws116.adobeitc.com/fresco/desktop/draw-paint-animate-and-share/pixel-brushes.html",
+          "boundary": "发布于 2026-05-07T00:00:00.000Z。"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent/pressure",
+          "boundary": "发布于 2025-11-03T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-06-olivia-rodrigo",
+      "slug": "2026-08-06-olivia-rodrigo",
+      "date": "2026-08-06",
+      "tier": "featured",
+      "title": "巡演合唱预演",
+      "one_liner": "演唱会前选定场次，用近期歌单练习最可能出现的歌曲，以及原唱会让观众接上的段落。",
+      "url": "https://raytally.com/ideas/2026-08-06-olivia-rodrigo/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-olivia-rodrigo.md",
+      "signal": {
+        "query": "olivia rodrigo",
+        "observed_at": "2026-08-06T00:33:19.179Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": [
+        {
+          "url": "https://www.peoplesbankarena.com/assets/doc/FINAL_-Olivia-Rodrigo-Tour-Alert-0f07bace9b.pdf",
+          "boundary": "发布于 2026-04-30T00:00:00.000Z。"
+        },
+        {
+          "url": "https://api.setlist.fm/docs/1.0/index.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.epa.gov/sites/default/files/2018-07/documents/residential_air_cleaners_-_a_technical_summary_3rd_edition.pdf",
+          "url": "https://github.com/facebookresearch/demucs",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.iqair.com/products/air-quality-monitors/airvisual-pro-indoor-monitor",
+          "url": "https://support.apple.com/guide/iphone/sing-along-with-apple-music-iphe16e0f316/ios",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-05-i-am-retiring-from-fulltime-writing-pseudonymity-to-launch",
-      "slug": "2026-08-05-i-am-retiring-from-fulltime-writing-pseudonymity-to-launch",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies",
+      "slug": "2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies",
+      "date": "2026-08-06",
       "tier": "quick",
-      "title": "笔名交接信托",
-      "one_liner": "匿名创作者准备退休或身后交接时，安排账号、作品和身份凭证的条件式移交。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-i-am-retiring-from-fulltime-writing-pseudonymity-to-launch.md",
+      "title": "真实巡天图像课",
+      "one_liner": "从真实巡天图像生成先观察后揭晓的课堂活动，让学生用原始证据认识星系。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies.md",
       "signal": {
-        "query": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-        "observed_at": "2026-08-05T00:33:30.316Z"
+        "query": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+        "observed_at": "2026-08-06T00:33:22.015Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-05-scrolltoll",
-      "slug": "2026-08-05-scrolltoll",
-      "date": "2026-08-05",
+      "id": "idea-2026-08-06-is-claude-down",
+      "slug": "2026-08-06-is-claude-down",
+      "date": "2026-08-06",
       "tier": "quick",
-      "title": "短视频意图模式",
-      "one_liner": "打开短视频前先选目的，产品只计算无意识连刷，并在达到条数时带你回到原任务。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-scrolltoll.md",
+      "title": "AI断线接力",
+      "one_liner": "Claude 请求失败时，整理未完成任务并经确认交给备用模型接着做。",
+      "url": "https://raytally.com/daily/2026-08-06/",
+      "brief_url": "https://raytally.com/ideas/2026-08-06-is-claude-down.md",
       "signal": {
-        "query": "ScrollToll",
-        "observed_at": "2026-08-05T00:33:30.726Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-05-show-hn-simple-algorithm-and-color-space-to-generate-diverse",
-      "slug": "2026-08-05-show-hn-simple-algorithm-and-color-space-to-generate-diverse",
-      "date": "2026-08-05",
-      "tier": "featured",
-      "title": "多肤色角色调色板",
-      "one_liner": "选定画风和光照后，生成明暗关系一致、放进不同背景仍清晰的多肤色角色调色板。",
-      "url": "https://raytally.com/ideas/2026-08-05-show-hn-simple-algorithm-and-color-space-to-generate-diverse/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-show-hn-simple-algorithm-and-color-space-to-generate-diverse.md",
-      "signal": {
-        "query": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "observed_at": "2026-08-05T00:33:30.316Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49170165",
-          "boundary": "发布于 2026-08-04T15:16:22.000Z。 观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://toneyalexander.github.io/inclusive-color-space/",
-          "boundary": "观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://developer.adobe.com/photoshop/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://colourconstructor.com/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-05-snipplet",
-      "slug": "2026-08-05-snipplet",
-      "date": "2026-08-05",
-      "tier": "quick",
-      "title": "给朋友的落地路线",
-      "one_liner": "朋友来访前，把你的地点收藏排成可步行路线，并随天气、体力和剩余时间现场调整。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-snipplet.md",
-      "signal": {
-        "query": "Snipplet",
-        "observed_at": "2026-08-05T00:33:30.726Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-05-waymo-in-dallas",
-      "slug": "2026-08-05-waymo-in-dallas",
-      "date": "2026-08-05",
-      "tier": "featured",
-      "title": "无人车上车点预演",
-      "one_liner": "在陌生场馆叫无人车前输入行程，立即获得更容易停靠的上车点、步行路线和错过后的备用位置。",
-      "url": "https://raytally.com/ideas/2026-08-05-waymo-in-dallas/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-waymo-in-dallas.md",
-      "signal": {
-        "query": "Waymo in Dallas",
-        "observed_at": "2026-08-05T00:33:30.316Z"
-      },
-      "sources": [
-        {
-          "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-          "boundary": "发布于 2026-08-04T00:00:00.000Z。 观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49172836",
-          "boundary": "发布于 2026-08-04T18:29:41.000Z。 观测于 2026-08-05T00:33:30.316Z。"
-        },
-        {
-          "url": "https://support.google.com/waymo/answer/9696059?hl=en",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.mapbox.com/api/navigation/directions/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-05-show-hn-maple-preview-ternary-20b-moe-running-at-120-tok-s",
-      "slug": "2026-08-05-show-hn-maple-preview-ternary-20b-moe-running-at-120-tok-s",
-      "date": "2026-08-05",
-      "tier": "quick",
-      "title": "断网旅行现场翻译",
-      "one_liner": "旅行途中没有网络时用相机或语音描述眼前难题，立即得到可执行的本地翻译指引。",
-      "url": "https://raytally.com/daily/2026-08-05/",
-      "brief_url": "https://raytally.com/ideas/2026-08-05-show-hn-maple-preview-ternary-20b-moe-running-at-120-tok-s.md",
-      "signal": {
-        "query": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-        "observed_at": "2026-08-05T00:33:30.316Z"
+        "query": "is claude down",
+        "observed_at": "2026-08-06T00:33:19.179Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-05T15:20:00.000Z"
       },
       "sources": []
     }
