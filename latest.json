@@ -1,364 +1,401 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-06",
+  "generated_at": "2026-08-07",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-06-idea-8d5662f3",
-      "slug": "2026-08-06-idea-8d5662f3",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-crime-pays-but-botany-doesn-t",
+      "slug": "2026-08-07-crime-pays-but-botany-doesn-t",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "会换抓力的发带",
-      "one_liner": "洗完头准备护肤或运动时翻到高抓力内衬，让发带固定顺滑头发，无需勒得更紧。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-8d5662f3.md",
+      "title": "路边植物侦察课",
+      "one_liner": "散步时拍下陌生植物，跟着一个个安全观察动作找到答案，并记住它为何长在这里。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-crime-pays-but-botany-doesn-t.md",
       "signal": {
-        "query": "It s so frustrating when you wash your hair well, and then for a day and a half its too clean and slippery for a headband or a hair tie. 💗 Mashed Potato Dream Girl 💗 (@sheseemslegit) August 4, 2026",
-        "observed_at": "2026-08-06T00:34:01.245Z"
+        "query": "Crime Pays but Botany Doesn't",
+        "observed_at": "2026-08-07T00:33:32.790Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-06-idea-95922ac9",
-      "slug": "2026-08-06-idea-95922ac9",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-idea-fc4cce7c",
+      "slug": "2026-08-07-idea-fc4cce7c",
+      "date": "2026-08-07",
       "tier": "featured",
-      "title": "透明创作墙",
-      "one_liner": "手作被吃饭或工作打断时，把半成品连同材料插入透明竖格，腾空桌面后仍能一眼找到下次要继续的项目。",
-      "url": "https://raytally.com/ideas/2026-08-06-idea-95922ac9/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-95922ac9.md",
+      "title": "一件售出，全网下架",
+      "one_liner": "拍照并填写一次商品资料，生成多平台刊登草稿；任一渠道售出后，其余页面自动下架。",
+      "url": "https://raytally.com/ideas/2026-08-07-idea-fc4cce7c/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-fc4cce7c.md",
       "signal": {
-        "query": "How are yall storing art supplies so that you don't forget they exist due to ADHD?",
-        "observed_at": "2026-08-06T00:33:22.521Z"
+        "query": "How do you manage listing the same items across multiple resale platforms",
+        "observed_at": "2026-08-07T00:33:34.025Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/ADHD/comments/1vgp08x/how_are_yall_storing_art_supplies_so_that_you/",
-          "boundary": "发布于 2026-08-06T00:00:00.000Z。 观测于 2026-08-06T00:33:22.521Z。"
+          "url": "https://www.reddit.com/r/smallbusiness/comments/1vhljmk/how_do_you_manage_listing_the_same_items_across/",
+          "boundary": "发布于 2026-08-07T00:26:15.000Z。 观测于 2026-08-07T00:33:34.025Z。"
         },
         {
-          "url": "https://www.ikea.com/us/en/p/skadis-pegboard-white-10321618/",
+          "url": "https://developer.ebay.com/develop/selling-apps",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.deflecto.com/product/consumer-products/storage-organization/single-stackable-tilt-bin-caddy/",
+          "url": "https://help.vendoo.co/en/articles/6260270-how-to-mark-items-as-sold-on-vendoo",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.createroom.com/blogs/updates/the-one-cabinet-craft-store-storage-units-that-make-a-small-space-feel-like-a-studio",
-          "boundary": "发布于 2026-02-18T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-06-idea-0a6eb640",
-      "slug": "2026-08-06-idea-0a6eb640",
-      "date": "2026-08-06",
-      "tier": "featured",
-      "title": "穿搭纹身试衣间",
-      "one_liner": "出门搭配衣服时上传穿搭照，比较不同纹身位置，再订制能按预览位置贴上的临时纹身贴。",
-      "url": "https://raytally.com/ideas/2026-08-06-idea-0a6eb640/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-0a6eb640.md",
-      "signal": {
-        "query": "The struggle of wanting to have more tattoos but also liking the clean “no tattoo” look. I wish there was a way to turn them on and off depend on the outfit I’m wearing Michelle Otter 🏳️‍⚧️🦦 (@michellexotter) August 5, 2026",
-        "observed_at": "2026-08-06T00:34:01.245Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/michellexotter/status/2085057400759796222",
-          "boundary": "发布于 2026-08-05T00:00:00.000Z。 观测于 2026-08-06T00:34:01.245Z。"
-        },
-        {
-          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker/web_js",
-          "boundary": "发布于 2026-05-28T00:00:00.000Z。"
-        },
-        {
-          "url": "https://tatship.com/en-US",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://inkbox.com/pages/custom-temporary-tattoos-info",
+          "url": "https://docs.crosslist.com/knowledge-base/sales/autodelist",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-idea-5a287315",
-      "slug": "2026-08-06-idea-5a287315",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands",
+      "slug": "2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "一捏变深的蘸酱杯",
-      "one_liner": "打包时照常堆叠浅杯，开吃前一捏变深酱槽，让食物一次蘸够且不易滴到桌上。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-5a287315.md",
+      "title": "先看后果再批准",
+      "one_liner": "审批 AI 代理命令前，先看它实际会改什么、连哪里和读取哪些凭据，越出范围即阻断。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands.md",
       "signal": {
-        "query": "Something that annoys me a lot is the shallowness of dipping sauce containers. You need to dunk over and over again, it spills, it falls out on your counter, lots of trash, bad for the environment, it’s just awful. I’ve been working on something using my engineering background… pic.twitter.com/xdazB",
-        "observed_at": "2026-08-06T00:34:01.245Z"
+        "query": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "observed_at": "2026-08-07T00:33:32.790Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-06-idea-24974ea4",
-      "slug": "2026-08-06-idea-24974ea4",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-idea-e16b1a97",
+      "slug": "2026-08-07-idea-e16b1a97",
+      "date": "2026-08-07",
       "tier": "featured",
-      "title": "按活借工具",
-      "one_liner": "准备家庭维修时输入要做的活和日期，产品从邻里库存拼齐整套工具，并排好一次取件路线。",
-      "url": "https://raytally.com/ideas/2026-08-06-idea-24974ea4/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-idea-24974ea4.md",
+      "title": "公园里的共工小局",
+      "one_liner": "想换地方工作时，选好任务和氛围，即可加入附近三到六人的公园、图书馆或庭院共工小局。",
+      "url": "https://raytally.com/ideas/2026-08-07-idea-e16b1a97/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-e16b1a97.md",
       "signal": {
-        "query": "One trend nobody is talking about - Home gardens - Backyard chickens - Rainwater collection - DIY repairs - Neighborhood tool sharing People are quietly becoming less dependent on big systems. Amelia (@amelia_tweetz) August 3, 2026",
-        "observed_at": "2026-08-06T00:34:01.245Z"
+        "query": "have you found it hard to find people and places to cowork with/from?",
+        "observed_at": "2026-08-07T00:33:34.025Z"
       },
       "sources": [
         {
-          "url": "https://x.com/amelia_tweetz/status/2084345122159038717",
-          "boundary": "发布于 2026-08-03T18:26:17.000Z。 观测于 2026-08-06T00:34:01.245Z。"
+          "url": "https://www.reddit.com/r/digitalnomad/comments/1vhk8fd/have_you_found_it_hard_to_find_people_and_places/",
+          "boundary": "发布于 2026-08-06T23:29:00.000Z。 观测于 2026-08-07T00:33:34.025Z。"
         },
         {
-          "url": "https://www.peerby.com/en-us",
+          "url": "https://www.focusmate.com/how-it-works/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://myturn.com/home/",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://help.getcroissant.com/en/articles/381862-how-does-croissant-work",
+          "boundary": "发布于 2025-12-04T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-07-almost-no-skill-required-to-cook-a-steak",
+      "slug": "2026-08-07-almost-no-skill-required-to-cook-a-steak",
+      "date": "2026-08-07",
+      "tier": "featured",
+      "title": "牛排下锅三次提醒",
+      "one_liner": "下锅前拍一下牛排并选熟度，手机只在预热、翻面、起锅和静置结束时提示动作。",
+      "url": "https://raytally.com/ideas/2026-08-07-almost-no-skill-required-to-cook-a-steak/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-almost-no-skill-required-to-cook-a-steak.md",
+      "signal": {
+        "query": "Almost no skill required to cook a steak",
+        "observed_at": "2026-08-07T00:33:32.790Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49198069",
+          "boundary": "发布于 2026-08-06T00:00:00.000Z。 观测于 2026-08-07T00:33:32.790Z。"
         },
         {
-          "url": "https://developers.google.com/optimization/routing/vrp",
+          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+          "boundary": "发布于 2026-07-14T00:00:00.000Z。 观测于 2026-08-07T00:33:32.790Z。"
+        },
+        {
+          "url": "https://developers.google.com/ml-kit/vision/object-detection",
+          "boundary": "发布于 2026-07-31T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.meater.com/app-features",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-perro",
-      "slug": "2026-08-06-perro",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-aveiro",
+      "slug": "2026-08-07-aveiro",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "狗狗口令换语言",
-      "one_liner": "领养听惯西语口令的狗后，录下旧口令，获得循序渐进的双语迁移练习。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-perro.md",
+      "title": "一张海报发全渠道",
+      "one_liner": "小场馆上传一张活动海报，即可生成一致的网页、邮件和社交帖，并集中处理临时变动。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-aveiro.md",
       "signal": {
-        "query": "perro",
-        "observed_at": "2026-08-06T00:33:19.179Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-05T13:00:00.000Z"
+        "query": "Aveiro",
+        "observed_at": "2026-08-07T00:33:34.022Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-06-i-m-switching-my-phone-from-android-to-linux",
-      "slug": "2026-08-06-i-m-switching-my-phone-from-android-to-linux",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-gesture-synth-school",
+      "slug": "2026-08-07-gesture-synth-school",
+      "date": "2026-08-07",
       "tier": "featured",
-      "title": "Linux手机迁移彩排",
-      "one_liner": "换成 Linux 手机前，先彩排银行、导航和验证码等关键流程，提前看清真正会中断的环节。",
-      "url": "https://raytally.com/ideas/2026-08-06-i-m-switching-my-phone-from-android-to-linux/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-i-m-switching-my-phone-from-android-to-linux.md",
+      "title": "把手部康复弹成旋律",
+      "one_liner": "手部康复患者按治疗要求做动作演奏旋律，边练边听出偏差，并带走可供复诊查看的进步记录。",
+      "url": "https://raytally.com/ideas/2026-08-07-gesture-synth-school/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-gesture-synth-school.md",
       "signal": {
-        "query": "I'm switching my phone from Android to Linux",
-        "observed_at": "2026-08-06T00:33:22.015Z"
+        "query": "Gesture Synth School",
+        "observed_at": "2026-08-07T00:33:34.022Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49188022",
-          "boundary": "发布于 2026-08-05T19:50:13.000Z。 观测于 2026-08-06T00:33:22.015Z。"
+          "url": "https://www.producthunt.com/products/gesture-synth-school",
+          "boundary": "发布于 2026-08-06T04:53:27.000Z。 观测于 2026-08-07T00:33:34.022Z。"
         },
         {
-          "url": "https://developer.android.com/tools/adb",
+          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://devices.ubuntu-touch.io/",
+          "url": "https://apps.apple.com/us/app/rehand-hand-rehabilitation/id1188291271",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.ubports.com/gl/latest/userguide/dailyuse/waydroid.html",
+          "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/device-software-functions-including-mobile-medical-applications",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-mirra-andreeva",
-      "slug": "2026-08-06-mirra-andreeva",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-idea-759381e1",
+      "slug": "2026-08-07-idea-759381e1",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "无剧透追赛提醒",
-      "one_liner": "关注球员却没空看全场时，在比赛真正胶着的阶段收到不含比分的直播提醒。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-mirra-andreeva.md",
+      "title": "验证码不用切邮箱",
+      "one_liner": "网站要求邮件验证码时，在本机找到对应邮件并一键填入，不再来回切换邮箱。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-759381e1.md",
       "signal": {
-        "query": "mirra andreeva",
-        "observed_at": "2026-08-06T00:33:19.179Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-05T20:40:00.000Z"
+        "query": "No I don’t want a bastard ‘Code sent to your email address’ to login to my account.. I just want to use my bloody password! 😤 Who came up with this annoying shit 😭 James (@jtd1010) August 2, 2026",
+        "observed_at": "2026-08-07T00:34:25.167Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-06-daycare-f231cc1",
-      "slug": "2026-08-06-daycare-f231cc1",
-      "date": "2026-08-06",
-      "tier": "featured",
-      "title": "托育真实成本对照",
-      "one_liner": "挑托育机构时上传价目表和日历，立即看清真实年成本、可托管小时和与工作日程冲突的空档。",
-      "url": "https://raytally.com/ideas/2026-08-06-daycare-f231cc1/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-daycare-f231cc1.md",
+      "id": "idea-2026-08-07-app-f728e21",
+      "slug": "2026-08-07-app-f728e21",
+      "date": "2026-08-07",
+      "tier": "quick",
+      "title": "不用下载的活动票",
+      "one_liner": "活动主办方创建票种后，可让已付款观众不注册、不装 App 也能顺利入场。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-app-f728e21.md",
       "signal": {
-        "query": "daycare",
-        "observed_at": "2026-08-06T00:33:19.179Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-05T02:30:00.000Z"
+        "query": "btw it’s so stupid to have to download an app to get into an event you’ve paid for I (@afairyirl) August 4, 2026",
+        "observed_at": "2026-08-07T00:34:25.167Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days",
+      "slug": "2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days",
+      "date": "2026-08-07",
+      "tier": "featured",
+      "title": "板子到货前的固件",
+      "one_liner": "电路板投产后导入设计文件，先生成可跑固件的虚拟硬件，让测试在实物到货前开始。",
+      "url": "https://raytally.com/ideas/2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days.md",
+      "signal": {
+        "query": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+        "observed_at": "2026-08-07T00:33:32.790Z"
       },
       "sources": [
         {
-          "url": "https://www.childcare.gov/consumer-education/find-and-choose-quality-child-care",
+          "url": "https://news.ycombinator.com/item?id=49198464",
+          "boundary": "发布于 2026-08-06T15:59:15.000Z。 观测于 2026-08-07T00:33:32.790Z。"
+        },
+        {
+          "url": "https://docs.kicad.org/7.0/en/cli/cli.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://winnie.com/cost-calculator",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://renode.readthedocs.io/en/latest/introduction/testing.html",
+          "boundary": "发布于 2026-07-16T00:00:00.000Z。"
         },
         {
-          "url": "https://github.com/naptha/tesseract.js/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.google.com/maps/documentation/routes/compute_route_directions",
+          "url": "https://docs.wokwi.com/wokwi-ci/getting-started",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-vinyl-for-mac",
-      "slug": "2026-08-06-vinyl-for-mac",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my",
+      "slug": "2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "一起翻面的唱片房",
-      "one_liner": "异地两人同步听完一整面专辑，只在换面时展开彼此留下的反应。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-vinyl-for-mac.md",
+      "title": "跑步防抢误报校准",
+      "one_liner": "跑步被误判为手机遭抢后，还原触发原因，并校准一个不会全面削弱防盗的情境例外。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my.md",
       "signal": {
-        "query": "Vinyl for Mac",
-        "observed_at": "2026-08-06T00:33:22.520Z"
+        "query": "My phone detects going on a run as “someone snatching my phone and running off”",
+        "observed_at": "2026-08-07T00:33:32.790Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness",
-      "slug": "2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness",
-      "date": "2026-08-06",
-      "tier": "quick",
-      "title": "把名言练成一次选择",
-      "one_liner": "读到哲学名言时带入眼前困境，把抽象德性变成今天能完成并复盘的一次选择。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-aristotle-quotes-on-virtue-knowledge-and-happiness.md",
-      "signal": {
-        "query": "Aristotle quotes on virtue, knowledge, and happiness",
-        "observed_at": "2026-08-06T00:33:22.015Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-06-painting-with-gaussians",
-      "slug": "2026-08-06-painting-with-gaussians",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-x-money",
+      "slug": "2026-08-07-x-money",
+      "date": "2026-08-07",
       "tier": "featured",
-      "title": "画完还能挪笔触",
-      "one_liner": "用可随时移动、收紧和重新混色的高斯笔触，把照片或草图画成能继续编辑、可放大的插画。",
-      "url": "https://raytally.com/ideas/2026-08-06-painting-with-gaussians/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-painting-with-gaussians.md",
+      "title": "凑齐才付款的团购",
+      "one_liner": "群里约课、订场或团购时，大家先授权金额；人数、日期和价格都满足后才统一扣款。",
+      "url": "https://raytally.com/ideas/2026-08-07-x-money/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-x-money.md",
       "signal": {
-        "query": "Painting with Gaussians",
-        "observed_at": "2026-08-06T00:33:22.015Z"
+        "query": "X Money",
+        "observed_at": "2026-08-07T00:33:34.022Z"
       },
       "sources": [
         {
-          "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-          "boundary": "发布于 2026-08-03T00:00:00.000Z。 观测于 2026-08-06T00:33:22.015Z。"
+          "url": "https://www.producthunt.com/products/x-money-2",
+          "boundary": "发布于 2026-08-04T20:51:31.000Z。 观测于 2026-08-07T00:33:34.022Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49182695",
-          "boundary": "发布于 2026-08-05T00:00:00.000Z。 观测于 2026-08-06T00:33:22.015Z。"
+          "url": "https://docs.stripe.com/payments/place-a-hold-on-a-payment-method",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://helpx-origin-uw2.aws116.adobeitc.com/fresco/desktop/draw-paint-animate-and-share/pixel-brushes.html",
-          "boundary": "发布于 2026-05-07T00:00:00.000Z。"
+          "url": "https://kb.splitwise.com/getting-started/how-do-i-use-splitwise",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent/pressure",
-          "boundary": "发布于 2025-11-03T00:00:00.000Z。"
+          "url": "https://help.partiful.com/hc/en-us/articles/48252834273179-How-do-I-collect-money-from-guests",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-olivia-rodrigo",
-      "slug": "2026-08-06-olivia-rodrigo",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-hey-postcard-digital-postcards",
+      "slug": "2026-08-07-hey-postcard-digital-postcards",
+      "date": "2026-08-07",
       "tier": "featured",
-      "title": "巡演合唱预演",
-      "one_liner": "演唱会前选定场次，用近期歌单练习最可能出现的歌曲，以及原唱会让观众接上的段落。",
-      "url": "https://raytally.com/ideas/2026-08-06-olivia-rodrigo/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-olivia-rodrigo.md",
+      "title": "不催回复的生活明信片",
+      "one_liner": "异地亲友随手寄出照片或短语音，让它在对方一天中的某个生活片段安静抵达。",
+      "url": "https://raytally.com/ideas/2026-08-07-hey-postcard-digital-postcards/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-hey-postcard-digital-postcards.md",
       "signal": {
-        "query": "olivia rodrigo",
-        "observed_at": "2026-08-06T00:33:19.179Z",
+        "query": "hey postcard - digital postcards",
+        "observed_at": "2026-08-07T00:33:34.022Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
+          "boundary": "发布于 2026-08-06T05:29:41.000Z。 观测于 2026-08-07T00:33:34.022Z。"
+        },
+        {
+          "url": "https://help.locketcamera.com/en/articles/14225418-my-teen-asked-me-to-get-locket-what-is-it",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.slowly.app/hc/en-us/articles/360041922192-Why-can-t-I-read-the-new-letter-I-received",
+          "boundary": "发布于 2026-07-01T00:00:00.000Z。"
+        },
+        {
+          "url": "https://firebase.google.com/docs/cloud-messaging",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-07-idea-805c4aa0",
+      "slug": "2026-08-07-idea-805c4aa0",
+      "date": "2026-08-07",
+      "tier": "quick",
+      "title": "租房抗震十分钟",
+      "one_liner": "租房者拍一圈房间，立即获得按逃生影响排序、今晚就能处理的地震隐患处理办法。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-805c4aa0.md",
+      "signal": {
+        "query": "南海トラフ巨大地震",
+        "observed_at": "2026-08-07T00:33:31.411Z",
         "window_hours": 168,
         "active": true
       },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-07-preschool",
+      "slug": "2026-08-07-preschool",
+      "date": "2026-08-07",
+      "tier": "quick",
+      "title": "不串供的探园记录",
+      "one_liner": "参观学前班后，两位家长分别记录观察，再一起查看共识、分歧和需要追问的问题。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-preschool.md",
+      "signal": {
+        "query": "preschool",
+        "observed_at": "2026-08-07T00:33:28.570Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-06T02:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-07-volleyball",
+      "slug": "2026-08-07-volleyball",
+      "date": "2026-08-07",
+      "tier": "featured",
+      "title": "排球轮转场边板",
+      "one_liner": "业余排球队录入阵容后只需点按比分，就能实时看到轮转、发球顺序和站位错误提醒。",
+      "url": "https://raytally.com/ideas/2026-08-07-volleyball/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-volleyball.md",
+      "signal": {
+        "query": "volleyball",
+        "observed_at": "2026-08-07T00:33:28.570Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-06T13:40:00.000Z"
+      },
       "sources": [
         {
-          "url": "https://www.peoplesbankarena.com/assets/doc/FINAL_-Olivia-Rodrigo-Tour-Alert-0f07bace9b.pdf",
-          "boundary": "发布于 2026-04-30T00:00:00.000Z。"
-        },
-        {
-          "url": "https://api.setlist.fm/docs/1.0/index.html",
+          "url": "https://usavolleyball.org/play/rules-of-volleyball/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/facebookresearch/demucs",
+          "url": "https://volleyballrotations.app/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.apple.com/guide/iphone/sing-along-with-apple-music-iphe16e0f316/ios",
+          "url": "https://www.sideoutiq.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://volleyref.app/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies",
-      "slug": "2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies",
-      "date": "2026-08-06",
+      "id": "idea-2026-08-07-mario-meets-pareto",
+      "slug": "2026-08-07-mario-meets-pareto",
+      "date": "2026-08-07",
       "tier": "quick",
-      "title": "真实巡天图像课",
-      "one_liner": "从真实巡天图像生成先观察后揭晓的课堂活动，让学生用原始证据认识星系。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-rubin-observatory-s-first-lsst-camera-release-500k-galaxies.md",
+      "title": "跑出来的帕累托前沿",
+      "one_liner": "学习多目标优化时，跑几次马里奥式关卡，就能从路线取舍中亲手画出帕累托前沿。",
+      "url": "https://raytally.com/daily/2026-08-07/",
+      "brief_url": "https://raytally.com/ideas/2026-08-07-mario-meets-pareto.md",
       "signal": {
-        "query": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-        "observed_at": "2026-08-06T00:33:22.015Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-06-is-claude-down",
-      "slug": "2026-08-06-is-claude-down",
-      "date": "2026-08-06",
-      "tier": "quick",
-      "title": "AI断线接力",
-      "one_liner": "Claude 请求失败时，整理未完成任务并经确认交给备用模型接着做。",
-      "url": "https://raytally.com/daily/2026-08-06/",
-      "brief_url": "https://raytally.com/ideas/2026-08-06-is-claude-down.md",
-      "signal": {
-        "query": "is claude down",
-        "observed_at": "2026-08-06T00:33:19.179Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-05T15:20:00.000Z"
+        "query": "Mario Meets Pareto",
+        "observed_at": "2026-08-07T00:33:32.790Z"
       },
       "sources": []
     }
