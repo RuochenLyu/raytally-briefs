@@ -1,403 +1,168 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07",
+  "generated_at": "2026-08-08",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-07-crime-pays-but-botany-doesn-t",
-      "slug": "2026-08-07-crime-pays-but-botany-doesn-t",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "路边植物侦察课",
-      "one_liner": "散步时拍下陌生植物，跟着一个个安全观察动作找到答案，并记住它为何长在这里。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-crime-pays-but-botany-doesn-t.md",
-      "signal": {
-        "query": "Crime Pays but Botany Doesn't",
-        "observed_at": "2026-08-07T00:33:32.790Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-idea-fc4cce7c",
-      "slug": "2026-08-07-idea-fc4cce7c",
-      "date": "2026-08-07",
+      "id": "idea-2026-08-08-deepseek-v4-flash-0731",
+      "slug": "2026-08-08-deepseek-v4-flash-0731",
+      "date": "2026-08-08",
       "tier": "featured",
-      "title": "一件售出，全网下架",
-      "one_liner": "拍照并填写一次商品资料，生成多平台刊登草稿；任一渠道售出后，其余页面自动下架。",
-      "url": "https://raytally.com/ideas/2026-08-07-idea-fc4cce7c/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-fc4cce7c.md",
+      "title": "新模型迁移彩排",
+      "one_liner": "新模型发布后回放脱敏真实任务，找出质量退化、成本变化和可安全放量的条件。",
+      "url": "https://raytally.com/ideas/2026-08-08-deepseek-v4-flash-0731/",
+      "brief_url": "https://raytally.com/ideas/2026-08-08-deepseek-v4-flash-0731.md",
       "signal": {
-        "query": "How do you manage listing the same items across multiple resale platforms",
-        "observed_at": "2026-08-07T00:33:34.025Z"
+        "query": "DeepSeek V4 Flash 0731",
+        "observed_at": "2026-08-08T00:33:12.884Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/smallbusiness/comments/1vhljmk/how_do_you_manage_listing_the_same_items_across/",
-          "boundary": "发布于 2026-08-07T00:26:15.000Z。 观测于 2026-08-07T00:33:34.025Z。"
+          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+          "boundary": "发布于 2026-07-31T00:00:00.000Z。 观测于 2026-08-08T00:33:12.884Z。"
         },
         {
-          "url": "https://developer.ebay.com/develop/selling-apps",
+          "url": "https://news.ycombinator.com/item?id=49214008",
+          "boundary": "发布于 2026-08-07T17:56:20.000Z。 观测于 2026-08-08T00:33:12.884Z。"
+        },
+        {
+          "url": "https://www.braintrust.dev/docs/evaluate",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.vendoo.co/en/articles/6260270-how-to-mark-items-as-sold-on-vendoo",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.crosslist.com/knowledge-base/sales/autodelist",
+          "url": "https://docs.langchain.com/langsmith/compare-experiment-results",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands",
-      "slug": "2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "先看后果再批准",
-      "one_liner": "审批 AI 代理命令前，先看它实际会改什么、连哪里和读取哪些凭据，越出范围即阻断。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-humans-missed-1-in-3-threats-approving-ai-agent-commands.md",
-      "signal": {
-        "query": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-        "observed_at": "2026-08-07T00:33:32.790Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-idea-e16b1a97",
-      "slug": "2026-08-07-idea-e16b1a97",
-      "date": "2026-08-07",
+      "id": "idea-2026-08-08-app-bbdd6c6",
+      "slug": "2026-08-08-app-bbdd6c6",
+      "date": "2026-08-08",
       "tier": "featured",
-      "title": "公园里的共工小局",
-      "one_liner": "想换地方工作时，选好任务和氛围，即可加入附近三到六人的公园、图书馆或庭院共工小局。",
-      "url": "https://raytally.com/ideas/2026-08-07-idea-e16b1a97/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-e16b1a97.md",
+      "title": "少装 App 出门地图",
+      "one_liner": "出门办事前按数字负担筛选地点，找到能用现金、柜台或普通网页完成的路线。",
+      "url": "https://raytally.com/ideas/2026-08-08-app-bbdd6c6/",
+      "brief_url": "https://raytally.com/ideas/2026-08-08-app-bbdd6c6.md",
       "signal": {
-        "query": "have you found it hard to find people and places to cowork with/from?",
-        "observed_at": "2026-08-07T00:33:34.025Z"
+        "query": "Unpopular opinion: I don’t want to see technology evolve any more. I hate that everything needs an app. I hate scanning a QR code just to see a menu. I hate creating an account for every thing. I hate that appliances, light bulbs, cars all want to connect to Wi-Fi. I hate… Fav ⛧ (@Favwontmiss) Augus",
+        "observed_at": "2026-08-08T00:33:57.696Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/digitalnomad/comments/1vhk8fd/have_you_found_it_hard_to_find_people_and_places/",
-          "boundary": "发布于 2026-08-06T23:29:00.000Z。 观测于 2026-08-07T00:33:34.025Z。"
+          "url": "https://x.com/Favwontmiss/status/2085243872326594608",
+          "boundary": "发布于 2026-08-06T05:57:35.000Z。 观测于 2026-08-08T00:33:57.696Z。"
         },
         {
-          "url": "https://www.focusmate.com/how-it-works/",
+          "url": "https://developers.google.com/maps/documentation/places/web-service/reference/rest/v1/places",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.getcroissant.com/en/articles/381862-how-does-croissant-work",
-          "boundary": "发布于 2025-12-04T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-07-almost-no-skill-required-to-cook-a-steak",
-      "slug": "2026-08-07-almost-no-skill-required-to-cook-a-steak",
-      "date": "2026-08-07",
-      "tier": "featured",
-      "title": "牛排下锅三次提醒",
-      "one_liner": "下锅前拍一下牛排并选熟度，手机只在预热、翻面、起锅和静置结束时提示动作。",
-      "url": "https://raytally.com/ideas/2026-08-07-almost-no-skill-required-to-cook-a-steak/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-almost-no-skill-required-to-cook-a-steak.md",
-      "signal": {
-        "query": "Almost no skill required to cook a steak",
-        "observed_at": "2026-08-07T00:33:32.790Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49198069",
-          "boundary": "发布于 2026-08-06T00:00:00.000Z。 观测于 2026-08-07T00:33:32.790Z。"
+          "url": "https://www.parkopedia.com/faq/",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-          "boundary": "发布于 2026-07-14T00:00:00.000Z。 观测于 2026-08-07T00:33:32.790Z。"
-        },
-        {
-          "url": "https://developers.google.com/ml-kit/vision/object-detection",
-          "boundary": "发布于 2026-07-31T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.meater.com/app-features",
+          "url": "https://accessnow.com/accessibility/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-07-aveiro",
-      "slug": "2026-08-07-aveiro",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "一张海报发全渠道",
-      "one_liner": "小场馆上传一张活动海报，即可生成一致的网页、邮件和社交帖，并集中处理临时变动。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-aveiro.md",
-      "signal": {
-        "query": "Aveiro",
-        "observed_at": "2026-08-07T00:33:34.022Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-gesture-synth-school",
-      "slug": "2026-08-07-gesture-synth-school",
-      "date": "2026-08-07",
+      "id": "idea-2026-08-08-idea-fc56d5b3",
+      "slug": "2026-08-08-idea-fc56d5b3",
+      "date": "2026-08-08",
       "tier": "featured",
-      "title": "把手部康复弹成旋律",
-      "one_liner": "手部康复患者按治疗要求做动作演奏旋律，边练边听出偏差，并带走可供复诊查看的进步记录。",
-      "url": "https://raytally.com/ideas/2026-08-07-gesture-synth-school/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-gesture-synth-school.md",
+      "title": "留给下一位读者的回声",
+      "one_liner": "读完冷门书时，把感想留在章节旁，等下一位读到这里的人用语音接话。",
+      "url": "https://raytally.com/ideas/2026-08-08-idea-fc56d5b3/",
+      "brief_url": "https://raytally.com/ideas/2026-08-08-idea-fc56d5b3.md",
       "signal": {
-        "query": "Gesture Synth School",
-        "observed_at": "2026-08-07T00:33:34.022Z"
+        "query": "someone please build an app that matches you with people who just finished the same book so you can immediately talk about it. Freyy (@Freyy_is) August 7, 2026",
+        "observed_at": "2026-08-08T00:33:57.696Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/gesture-synth-school",
-          "boundary": "发布于 2026-08-06T04:53:27.000Z。 观测于 2026-08-07T00:33:34.022Z。"
+          "url": "https://x.com/Freyy_is/status/2085631734926786935",
+          "boundary": "发布于 2026-08-07T07:38:49.000Z。 观测于 2026-08-08T00:33:57.696Z。"
         },
         {
-          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://thestorygraph.freshdesk.com/support/solutions/articles/79000141943-buddy-reads-and-readalongs-on-the-storygraph",
+          "boundary": "发布于 2025-12-18T00:00:00.000Z。"
         },
         {
-          "url": "https://apps.apple.com/us/app/rehand-hand-rehabilitation/id1188291271",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://help.fable.co/article/88-what-are-rooms",
+          "boundary": "发布于 2024-09-24T00:00:00.000Z。"
         },
         {
-          "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/device-software-functions-including-mobile-medical-applications",
+          "url": "https://developers.google.com/books/docs/v1/using",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-07-idea-759381e1",
-      "slug": "2026-08-07-idea-759381e1",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "验证码不用切邮箱",
-      "one_liner": "网站要求邮件验证码时，在本机找到对应邮件并一键填入，不再来回切换邮箱。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-759381e1.md",
-      "signal": {
-        "query": "No I don’t want a bastard ‘Code sent to your email address’ to login to my account.. I just want to use my bloody password! 😤 Who came up with this annoying shit 😭 James (@jtd1010) August 2, 2026",
-        "observed_at": "2026-08-07T00:34:25.167Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-app-f728e21",
-      "slug": "2026-08-07-app-f728e21",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "不用下载的活动票",
-      "one_liner": "活动主办方创建票种后，可让已付款观众不注册、不装 App 也能顺利入场。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-app-f728e21.md",
-      "signal": {
-        "query": "btw it’s so stupid to have to download an app to get into an event you’ve paid for I (@afairyirl) August 4, 2026",
-        "observed_at": "2026-08-07T00:34:25.167Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days",
-      "slug": "2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days",
-      "date": "2026-08-07",
+      "id": "idea-2026-08-08-idea-a6b80cbd",
+      "slug": "2026-08-08-idea-a6b80cbd",
+      "date": "2026-08-08",
       "tier": "featured",
-      "title": "板子到货前的固件",
-      "one_liner": "电路板投产后导入设计文件，先生成可跑固件的虚拟硬件，让测试在实物到货前开始。",
-      "url": "https://raytally.com/ideas/2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-launch-hn-provenmetal-yc-s26-delivers-circuit-boards-in-days.md",
+      "title": "按锅重算每份热量",
+      "one_liner": "做饭时按实际下锅和盛出重量记食材，出锅就得到整锅及每份的真实热量。",
+      "url": "https://raytally.com/ideas/2026-08-08-idea-a6b80cbd/",
+      "brief_url": "https://raytally.com/ideas/2026-08-08-idea-a6b80cbd.md",
       "signal": {
-        "query": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-        "observed_at": "2026-08-07T00:33:32.790Z"
+        "query": "I wish there was an app or website where i could calculate the calories of homemade recipes, like i could just add what was in it to a list it could tell me how much it was angel ໒꒰ྀིっ˕ -｡꒱ྀི১ (@angxlbxte) August 6, 2026",
+        "observed_at": "2026-08-08T00:33:57.696Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49198464",
-          "boundary": "发布于 2026-08-06T15:59:15.000Z。 观测于 2026-08-07T00:33:32.790Z。"
+          "url": "https://x.com/angxlbxte/status/2085429909506473988",
+          "boundary": "发布于 2026-08-06T18:16:50.000Z。 观测于 2026-08-08T00:33:57.696Z。"
         },
         {
-          "url": "https://docs.kicad.org/7.0/en/cli/cli.html",
+          "url": "https://fdc.nal.usda.gov/api-guide/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://renode.readthedocs.io/en/latest/introduction/testing.html",
-          "boundary": "发布于 2026-07-16T00:00:00.000Z。"
+          "url": "https://openfoodfacts.github.io/openfoodfacts-server/api/",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.wokwi.com/wokwi-ci/getting-started",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://support.cronometer.com/hc/en-us/articles/360018510311-Create-Custom-Recipe",
+          "boundary": "发布于 2024-08-15T18:17:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my",
-      "slug": "2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "跑步防抢误报校准",
-      "one_liner": "跑步被误判为手机遭抢后，还原触发原因，并校准一个不会全面削弱防盗的情境例外。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-my-phone-detects-going-on-a-run-as-someone-snatching-my.md",
-      "signal": {
-        "query": "My phone detects going on a run as “someone snatching my phone and running off”",
-        "observed_at": "2026-08-07T00:33:32.790Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-x-money",
-      "slug": "2026-08-07-x-money",
-      "date": "2026-08-07",
+      "id": "idea-2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes",
+      "slug": "2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes",
+      "date": "2026-08-08",
       "tier": "featured",
-      "title": "凑齐才付款的团购",
-      "one_liner": "群里约课、订场或团购时，大家先授权金额；人数、日期和价格都满足后才统一扣款。",
-      "url": "https://raytally.com/ideas/2026-08-07-x-money/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-x-money.md",
+      "title": "抬头看见黑洞",
+      "one_liner": "夜里举起手机对准天空，立即看见该方向的超大质量黑洞及其距离故事。",
+      "url": "https://raytally.com/ideas/2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes/",
+      "brief_url": "https://raytally.com/ideas/2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes.md",
       "signal": {
-        "query": "X Money",
-        "observed_at": "2026-08-07T00:33:34.022Z"
+        "query": "An all-sky map of half a million supermassive black holes",
+        "observed_at": "2026-08-08T00:33:12.884Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/x-money-2",
-          "boundary": "发布于 2026-08-04T20:51:31.000Z。 观测于 2026-08-07T00:33:34.022Z。"
+          "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+          "boundary": "观测于 2026-08-08T00:33:12.884Z。"
         },
         {
-          "url": "https://docs.stripe.com/payments/place-a-hold-on-a-payment-method",
+          "url": "https://news.ycombinator.com/item?id=49211921",
+          "boundary": "发布于 2026-08-07T00:00:00.000Z。 观测于 2026-08-08T00:33:12.884Z。"
+        },
+        {
+          "url": "https://www.stellarium-labs.com/stellarium-mobile-plus/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://kb.splitwise.com/getting-started/how-do-i-use-splitwise",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.partiful.com/hc/en-us/articles/48252834273179-How-do-I-collect-money-from-guests",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-07-hey-postcard-digital-postcards",
-      "slug": "2026-08-07-hey-postcard-digital-postcards",
-      "date": "2026-08-07",
-      "tier": "featured",
-      "title": "不催回复的生活明信片",
-      "one_liner": "异地亲友随手寄出照片或短语音，让它在对方一天中的某个生活片段安静抵达。",
-      "url": "https://raytally.com/ideas/2026-08-07-hey-postcard-digital-postcards/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-hey-postcard-digital-postcards.md",
-      "signal": {
-        "query": "hey postcard - digital postcards",
-        "observed_at": "2026-08-07T00:33:34.022Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
-          "boundary": "发布于 2026-08-06T05:29:41.000Z。 观测于 2026-08-07T00:33:34.022Z。"
-        },
-        {
-          "url": "https://help.locketcamera.com/en/articles/14225418-my-teen-asked-me-to-get-locket-what-is-it",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.slowly.app/hc/en-us/articles/360041922192-Why-can-t-I-read-the-new-letter-I-received",
-          "boundary": "发布于 2026-07-01T00:00:00.000Z。"
-        },
-        {
-          "url": "https://firebase.google.com/docs/cloud-messaging",
+          "url": "https://skysafariastronomy.com/products/skysafari-8-basic",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
-    },
-    {
-      "id": "idea-2026-08-07-idea-805c4aa0",
-      "slug": "2026-08-07-idea-805c4aa0",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "租房抗震十分钟",
-      "one_liner": "租房者拍一圈房间，立即获得按逃生影响排序、今晚就能处理的地震隐患处理办法。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-idea-805c4aa0.md",
-      "signal": {
-        "query": "南海トラフ巨大地震",
-        "observed_at": "2026-08-07T00:33:31.411Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-preschool",
-      "slug": "2026-08-07-preschool",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "不串供的探园记录",
-      "one_liner": "参观学前班后，两位家长分别记录观察，再一起查看共识、分歧和需要追问的问题。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-preschool.md",
-      "signal": {
-        "query": "preschool",
-        "observed_at": "2026-08-07T00:33:28.570Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-06T02:00:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-07-volleyball",
-      "slug": "2026-08-07-volleyball",
-      "date": "2026-08-07",
-      "tier": "featured",
-      "title": "排球轮转场边板",
-      "one_liner": "业余排球队录入阵容后只需点按比分，就能实时看到轮转、发球顺序和站位错误提醒。",
-      "url": "https://raytally.com/ideas/2026-08-07-volleyball/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-volleyball.md",
-      "signal": {
-        "query": "volleyball",
-        "observed_at": "2026-08-07T00:33:28.570Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-06T13:40:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://usavolleyball.org/play/rules-of-volleyball/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://volleyballrotations.app/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.sideoutiq.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://volleyref.app/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-07-mario-meets-pareto",
-      "slug": "2026-08-07-mario-meets-pareto",
-      "date": "2026-08-07",
-      "tier": "quick",
-      "title": "跑出来的帕累托前沿",
-      "one_liner": "学习多目标优化时，跑几次马里奥式关卡，就能从路线取舍中亲手画出帕累托前沿。",
-      "url": "https://raytally.com/daily/2026-08-07/",
-      "brief_url": "https://raytally.com/ideas/2026-08-07-mario-meets-pareto.md",
-      "signal": {
-        "query": "Mario Meets Pareto",
-        "observed_at": "2026-08-07T00:33:32.790Z"
-      },
-      "sources": []
     }
   ]
 }
