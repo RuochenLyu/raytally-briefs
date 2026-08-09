@@ -1,168 +1,248 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-08",
+  "generated_at": "2026-08-09",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-08-deepseek-v4-flash-0731",
-      "slug": "2026-08-08-deepseek-v4-flash-0731",
-      "date": "2026-08-08",
+      "id": "idea-2026-08-09-ai-app",
+      "slug": "2026-08-09-ai-app",
+      "date": "2026-08-09",
       "tier": "featured",
-      "title": "新模型迁移彩排",
-      "one_liner": "新模型发布后回放脱敏真实任务，找出质量退化、成本变化和可安全放量的条件。",
-      "url": "https://raytally.com/ideas/2026-08-08-deepseek-v4-flash-0731/",
-      "brief_url": "https://raytally.com/ideas/2026-08-08-deepseek-v4-flash-0731.md",
+      "title": "按日翻页的灵感簿",
+      "one_liner": "每天把遇到的作品、出处和一句感想收进当天页面，逐日翻成没有推荐流的视觉日记。",
+      "url": "https://raytally.com/ideas/2026-08-09-ai-app/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-ai-app.md",
       "signal": {
-        "query": "DeepSeek V4 Flash 0731",
-        "observed_at": "2026-08-08T00:33:12.884Z"
+        "query": "I wish there was an app like Pinterest but with no AI integration. Where you can add everything to a board on a daily basis (just things that inspire you) and it becomes sort of a digital visual journal. You can add tags to each board, and when you search, you can pick any folder… 🌸 sunnygoesbanana",
+        "observed_at": "2026-08-09T00:34:16.561Z"
       },
       "sources": [
         {
-          "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "boundary": "发布于 2026-07-31T00:00:00.000Z。 观测于 2026-08-08T00:33:12.884Z。"
+          "url": "https://x.com/missbananasart/status/2085284081529766355",
+          "boundary": "发布于 2026-08-06T08:37:22.000Z。 观测于 2026-08-09T00:34:16.561Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49214008",
-          "boundary": "发布于 2026-08-07T17:56:20.000Z。 观测于 2026-08-08T00:33:12.884Z。"
-        },
-        {
-          "url": "https://www.braintrust.dev/docs/evaluate",
+          "url": "https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/Share.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.langchain.com/langsmith/compare-experiment-results",
+          "url": "https://www.are.na/about",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.milanote.com/en/articles/1722065-links",
+          "boundary": "发布于 2024-06-25T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-09-app-9d2a5f2",
+      "slug": "2026-08-09-app-9d2a5f2",
+      "date": "2026-08-09",
+      "tier": "quick",
+      "title": "家人代办接力",
+      "one_liner": "父母卡在停车或医疗缴费页面时，限时交给家人远程接力，敏感步骤仍由本人确认。",
+      "url": "https://raytally.com/daily/2026-08-09/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-app-9d2a5f2.md",
+      "signal": {
+        "query": "I genuinely don’t understand how anyone over the age of like, 70, generously, is supposed to make it in the world rn. I just spent 15 min troubleshooting the parking app my mom needs to not get a ticket, while she told me she got so frustrated by it that she tried paying w coins- mimi yu (@cloaca_of",
+        "observed_at": "2026-08-09T00:34:16.561Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-09-danish-high-schoolers-will-have-to-verbally-defend-written",
+      "slug": "2026-08-09-danish-high-schoolers-will-have-to-verbally-defend-written",
+      "date": "2026-08-09",
+      "tier": "featured",
+      "title": "作业答辩追问台",
+      "one_liner": "教师围绕学生作业中的具体论点连续追问，在一节课里留下可回看的理解证据。",
+      "url": "https://raytally.com/ideas/2026-08-09-danish-high-schoolers-will-have-to-verbally-defend-written/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-danish-high-schoolers-will-have-to-verbally-defend-written.md",
+      "signal": {
+        "query": "Danish high schoolers will have to verbally defend written assignments",
+        "observed_at": "2026-08-09T00:33:24.818Z"
+      },
+      "sources": [
+        {
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "boundary": "发布于 2026-08-07T00:00:00.000Z。 观测于 2026-08-09T00:33:24.818Z。"
+        },
+        {
+          "url": "https://www.vivaedu.co.uk/docs",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.convoed.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/learning-futures/teaching-support/smart-assessment-design-toolkit/shared-media/designing-and-assessing-vivas.pdf",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-08-app-bbdd6c6",
-      "slug": "2026-08-08-app-bbdd6c6",
-      "date": "2026-08-08",
-      "tier": "featured",
-      "title": "少装 App 出门地图",
-      "one_liner": "出门办事前按数字负担筛选地点，找到能用现金、柜台或普通网页完成的路线。",
-      "url": "https://raytally.com/ideas/2026-08-08-app-bbdd6c6/",
-      "brief_url": "https://raytally.com/ideas/2026-08-08-app-bbdd6c6.md",
+      "id": "idea-2026-08-09-idea-20f574a0",
+      "slug": "2026-08-09-idea-20f574a0",
+      "date": "2026-08-09",
+      "tier": "quick",
+      "title": "三岸烟花同步合拍",
+      "one_liner": "朋友分散在三地看烟花时，手机自动校准时间差，现场合成同步绽放的短片。",
+      "url": "https://raytally.com/daily/2026-08-09/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-idea-20f574a0.md",
       "signal": {
-        "query": "Unpopular opinion: I don’t want to see technology evolve any more. I hate that everything needs an app. I hate scanning a QR code just to see a menu. I hate creating an account for every thing. I hate that appliances, light bulbs, cars all want to connect to Wi-Fi. I hate… Fav ⛧ (@Favwontmiss) Augus",
-        "observed_at": "2026-08-08T00:33:57.696Z"
+        "query": "琵琶湖三市同時花火大会",
+        "observed_at": "2026-08-09T00:33:23.549Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-09-lost-my-phone-at-the-office-claude-suggested-tracking",
+      "slug": "2026-08-09-lost-my-phone-at-the-office-claude-suggested-tracking",
+      "date": "2026-08-09",
+      "tier": "quick",
+      "title": "蓝牙冷热寻机",
+      "one_liner": "手机在室内找不到时，边走边测蓝牙信号，跟着节拍和震动缩小搜索范围。",
+      "url": "https://raytally.com/daily/2026-08-09/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-lost-my-phone-at-the-office-claude-suggested-tracking.md",
+      "signal": {
+        "query": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "observed_at": "2026-08-09T00:33:24.818Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-09-message-your-other-claude-code-sessions",
+      "slug": "2026-08-09-message-your-other-claude-code-sessions",
+      "date": "2026-08-09",
+      "tier": "featured",
+      "title": "多会话编码值班台",
+      "one_liner": "并行运行多个 Claude Code 会话时，集中分工、传递结果，并在代理改到同一处前拦住冲突。",
+      "url": "https://raytally.com/ideas/2026-08-09-message-your-other-claude-code-sessions/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-message-your-other-claude-code-sessions.md",
+      "signal": {
+        "query": "Message your other Claude Code sessions",
+        "observed_at": "2026-08-09T00:33:24.818Z"
       },
       "sources": [
         {
-          "url": "https://x.com/Favwontmiss/status/2085243872326594608",
-          "boundary": "发布于 2026-08-06T05:57:35.000Z。 观测于 2026-08-08T00:33:57.696Z。"
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "boundary": "发布于 2026-08-08T15:34:49.000Z。 观测于 2026-08-09T00:33:24.818Z。"
         },
         {
-          "url": "https://developers.google.com/maps/documentation/places/web-service/reference/rest/v1/places",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "boundary": "观测于 2026-08-09T00:33:24.818Z。"
+        },
+        {
+          "url": "https://code.claude.com/docs/en/agent-view",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.parkopedia.com/faq/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://accessnow.com/accessibility/",
+          "url": "https://code.claude.com/docs/en/hooks",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-08-idea-fc56d5b3",
-      "slug": "2026-08-08-idea-fc56d5b3",
-      "date": "2026-08-08",
-      "tier": "featured",
-      "title": "留给下一位读者的回声",
-      "one_liner": "读完冷门书时，把感想留在章节旁，等下一位读到这里的人用语音接话。",
-      "url": "https://raytally.com/ideas/2026-08-08-idea-fc56d5b3/",
-      "brief_url": "https://raytally.com/ideas/2026-08-08-idea-fc56d5b3.md",
+      "id": "idea-2026-08-09-can-intel-finally-beat-arm-on-performance-per-watt",
+      "slug": "2026-08-09-can-intel-finally-beat-arm-on-performance-per-watt",
+      "date": "2026-08-09",
+      "tier": "quick",
+      "title": "真实负载架构赛跑",
+      "one_liner": "选择 x86 或 ARM 前跑一遍真实工作负载，直接比较性能、功耗、成本和兼容性。",
+      "url": "https://raytally.com/daily/2026-08-09/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-can-intel-finally-beat-arm-on-performance-per-watt.md",
       "signal": {
-        "query": "someone please build an app that matches you with people who just finished the same book so you can immediately talk about it. Freyy (@Freyy_is) August 7, 2026",
-        "observed_at": "2026-08-08T00:33:57.696Z"
+        "query": "Can Intel finally beat ARM on performance per Watt?",
+        "observed_at": "2026-08-09T00:33:24.818Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-09-hexis",
+      "slug": "2026-08-09-hexis",
+      "date": "2026-08-09",
+      "tier": "featured",
+      "title": "智能体经验合并请求",
+      "one_liner": "智能体重复犯错时，把人的纠正做成可回放测试、可审核并能回滚的团队经验。",
+      "url": "https://raytally.com/ideas/2026-08-09-hexis/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-hexis.md",
+      "signal": {
+        "query": "Hexis",
+        "observed_at": "2026-08-09T00:33:25.952Z"
       },
       "sources": [
         {
-          "url": "https://x.com/Freyy_is/status/2085631734926786935",
-          "boundary": "发布于 2026-08-07T07:38:49.000Z。 观测于 2026-08-08T00:33:57.696Z。"
+          "url": "https://www.producthunt.com/products/bevel-4",
+          "boundary": "观测于 2026-08-09T00:33:25.952Z。"
         },
         {
-          "url": "https://thestorygraph.freshdesk.com/support/solutions/articles/79000141943-buddy-reads-and-readalongs-on-the-storygraph",
-          "boundary": "发布于 2025-12-18T00:00:00.000Z。"
+          "url": "https://code.claude.com/docs/zh-CN/memory",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.fable.co/article/88-what-are-rooms",
-          "boundary": "发布于 2024-09-24T00:00:00.000Z。"
+          "url": "https://docs.github.com/en/rest/pulls/pulls",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developers.google.com/books/docs/v1/using",
+          "url": "https://docs.langchain.com/langsmith/analyze-an-experiment",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-08-idea-a6b80cbd",
-      "slug": "2026-08-08-idea-a6b80cbd",
-      "date": "2026-08-08",
+      "id": "idea-2026-08-09-meteor-shower-august-2026",
+      "slug": "2026-08-09-meteor-shower-august-2026",
+      "date": "2026-08-09",
       "tier": "featured",
-      "title": "按锅重算每份热量",
-      "one_liner": "做饭时按实际下锅和盛出重量记食材，出锅就得到整锅及每份的真实热量。",
-      "url": "https://raytally.com/ideas/2026-08-08-idea-a6b80cbd/",
-      "brief_url": "https://raytally.com/ideas/2026-08-08-idea-a6b80cbd.md",
+      "title": "流星雨借暗夜",
+      "one_liner": "流星雨临近时，预约郊外短时观测位；云层变差就改到仍看得见天空的地方或下一晚。",
+      "url": "https://raytally.com/ideas/2026-08-09-meteor-shower-august-2026/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-meteor-shower-august-2026.md",
       "signal": {
-        "query": "I wish there was an app or website where i could calculate the calories of homemade recipes, like i could just add what was in it to a list it could tell me how much it was angel ໒꒰ྀིっ˕ -｡꒱ྀི১ (@angxlbxte) August 6, 2026",
-        "observed_at": "2026-08-08T00:33:57.696Z"
+        "query": "meteor shower august 2026",
+        "observed_at": "2026-08-09T00:33:20.869Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-08T06:50:00.000Z"
       },
       "sources": [
         {
-          "url": "https://x.com/angxlbxte/status/2085429909506473988",
-          "boundary": "发布于 2026-08-06T18:16:50.000Z。 观测于 2026-08-08T00:33:57.696Z。"
+          "url": "https://www.amsmeteors.org/2026/07/meteor-activity-outlook-for-july-25-31-2026/",
+          "boundary": "发布于 2026-07-25T00:00:00.000Z。"
         },
         {
-          "url": "https://fdc.nal.usda.gov/api-guide/",
+          "url": "https://open-meteo.com/en/docs",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://openfoodfacts.github.io/openfoodfacts-server/api/",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://support.hipcamp.com/hc/en-us/articles/360024823372-How-can-I-get-started-with-Hosting-on-Hipcamp",
+          "boundary": "发布于 2025-07-16T00:00:00.000Z。"
         },
         {
-          "url": "https://support.cronometer.com/hc/en-us/articles/360018510311-Create-Custom-Recipe",
-          "boundary": "发布于 2024-08-15T18:17:00.000Z。"
+          "url": "https://www.astrospheric.com/",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes",
-      "slug": "2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes",
-      "date": "2026-08-08",
-      "tier": "featured",
-      "title": "抬头看见黑洞",
-      "one_liner": "夜里举起手机对准天空，立即看见该方向的超大质量黑洞及其距离故事。",
-      "url": "https://raytally.com/ideas/2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes/",
-      "brief_url": "https://raytally.com/ideas/2026-08-08-an-all-sky-map-of-half-a-million-supermassive-black-holes.md",
+      "id": "idea-2026-08-09-the-gtm-co-founder",
+      "slug": "2026-08-09-the-gtm-co-founder",
+      "date": "2026-08-09",
+      "tier": "quick",
+      "title": "买家彩排席",
+      "one_liner": "首次外联前先和真实目标岗位模拟采购对话，带着具体异议再去见客户。",
+      "url": "https://raytally.com/daily/2026-08-09/",
+      "brief_url": "https://raytally.com/ideas/2026-08-09-the-gtm-co-founder.md",
       "signal": {
-        "query": "An all-sky map of half a million supermassive black holes",
-        "observed_at": "2026-08-08T00:33:12.884Z"
+        "query": "The GTM Co-Founder",
+        "observed_at": "2026-08-09T00:33:25.952Z"
       },
-      "sources": [
-        {
-          "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-          "boundary": "观测于 2026-08-08T00:33:12.884Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49211921",
-          "boundary": "发布于 2026-08-07T00:00:00.000Z。 观测于 2026-08-08T00:33:12.884Z。"
-        },
-        {
-          "url": "https://www.stellarium-labs.com/stellarium-mobile-plus/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://skysafariastronomy.com/products/skysafari-8-basic",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
+      "sources": []
     }
   ]
 }
