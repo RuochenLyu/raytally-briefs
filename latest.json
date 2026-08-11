@@ -1,328 +1,254 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10",
+  "generated_at": "2026-08-11",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-10-ice-cream-van-location-tracking",
-      "slug": "2026-08-10-ice-cream-van-location-tracking",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-farm-game-decorate-time-pause-mode",
+      "slug": "2026-08-11-farm-game-decorate-time-pause-mode",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "冰淇淋车招手地图",
-      "one_liner": "听见冰淇淋车却找不到时，向司机发出可合并的停靠请求，马上知道它是否绕来。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-ice-cream-van-location-tracking.md",
+      "title": "农场游戏装修暂停",
+      "one_liner": "农场游戏玩家开始布置房间或农场时，模组自动暂停日程推进，让装修不再耗掉游戏中的一天。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-farm-game-decorate-time-pause-mode.md",
       "signal": {
-        "query": "someone should make an ice cream van tracker app bc it NEVER comes to my road yet i hear it as if it’s nearby and taunting me 44 (@user78625x) August 9, 2026",
-        "observed_at": "2026-08-10T00:34:05.730Z"
+        "query": "My only complaint with Fields of Mistria is that I wish the time would stop when we decorate our room/farm... something like a decorate feature, so we dont waste our day trying to relayout our home/farm😭 rie @ COCOMA 5 ✨ (@matcharie) August 10, 2026",
+        "observed_at": "2026-08-11T00:34:08.430Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-10-startup-idea-existence-check",
-      "slug": "2026-08-10-startup-idea-existence-check",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-launch-hn-stoa-markets-yc-s26-a-marketplace-for-gpus-and-ai",
+      "slug": "2026-08-11-launch-hn-stoa-markets-yc-s26-a-marketplace-for-gpus-and-ai",
+      "date": "2026-08-11",
       "tier": "featured",
-      "title": "先试竞品再开工",
-      "one_liner": "开发前写下目标用户和关键任务，由代理实际试用现有产品，带回可回放的重合证据与空缺。",
-      "url": "https://raytally.com/ideas/2026-08-10-startup-idea-existence-check/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-startup-idea-existence-check.md",
+      "title": "GPU服务器验机托管",
+      "one_liner": "二手 GPU 服务器付款前，卖家远程跑完双方约定的压力测试，合格才自动释放托管款。",
+      "url": "https://raytally.com/ideas/2026-08-11-launch-hn-stoa-markets-yc-s26-a-marketplace-for-gpus-and-ai/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-launch-hn-stoa-markets-yc-s26-a-marketplace-for-gpus-and-ai.md",
       "signal": {
-        "query": "we need an app that tells you your startup already exists before you spend 6 months building it Priyanka Lakhara (@codewithpri) August 8, 2026",
-        "observed_at": "2026-08-10T00:34:05.730Z"
+        "query": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+        "observed_at": "2026-08-11T00:33:09.142Z"
       },
       "sources": [
         {
-          "url": "https://x.com/codewithpri/status/2086026260296401149",
-          "boundary": "发布于 2026-08-08T09:46:31.000Z。 观测于 2026-08-10T00:34:05.730Z。"
+          "url": "https://news.ycombinator.com/item?id=49246057",
+          "boundary": "发布于 2026-08-10T16:35:27.000Z。 观测于 2026-08-11T00:33:09.142Z。"
         },
         {
-          "url": "https://docs.browserbase.com/use-cases/agents",
+          "url": "https://docs.nvidia.com/datacenter/dcgm/latest/learn/modules/dcgm-diagnostics.html",
+          "boundary": "发布于 2026-06-17T00:00:00.000Z。"
+        },
+        {
+          "url": "https://github.com/NVIDIA/nccl-tests",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://preuve.ai/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://participant-support.usertesting.com/hc/en-us/articles/45198416028179-FAQ-Task-based-tests",
-          "boundary": "发布于 2026-06-18T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-10-dumb-appliances-preference",
-      "slug": "2026-08-10-dumb-appliances-preference",
-      "date": "2026-08-10",
-      "tier": "featured",
-      "title": "断网家电选品店",
-      "one_liner": "购买家电时直接筛选断网实测的型号，确认不注册、不连云端仍能长期完成基本功能。",
-      "url": "https://raytally.com/ideas/2026-08-10-dumb-appliances-preference/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-dumb-appliances-preference.md",
-      "signal": {
-        "query": "Not everything needs to be “smart.” I don’t need a refrigerator connected to WiFi. I don’t need an app for my light bulbs. I don’t need my toaster downloading a software update. Give me appliances with an ON button, an OFF button, and absolutely no ability to send me a… Clown World ™ 🤡 (@ClownWorld",
-        "observed_at": "2026-08-10T00:34:05.730Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/ClownWorld/status/2086435096505053250",
-          "boundary": "发布于 2026-08-09T00:00:00.000Z。 观测于 2026-08-10T00:34:05.730Z。"
-        },
-        {
-          "url": "https://www.consumerreports.org/electronics/privacy/smart-appliances-and-privacy-a1186358482/",
-          "boundary": "发布于 2023-04-19T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.partselect.com/?redirectedfrom=eap",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.ifixit.com/Parts/Appliance/Guides",
+          "url": "https://www.escrow.com/api/docs/reference",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-10-help-background-transparent-timer-app",
-      "slug": "2026-08-10-help-background-transparent-timer-app",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-looking-for-pdf-annotation-app-that-syncs-on-android-ipad",
+      "slug": "2026-08-11-looking-for-pdf-annotation-app-that-syncs-on-android-ipad",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "越野赛叠音播报",
-      "one_liner": "越野赛按里程或时间叠加语音提示，只压低音乐和播客，不打断原有播放。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-help-background-transparent-timer-app.md",
+      "title": "跨设备PDF批注层",
+      "one_liner": "用户跨 Android、iPad 和 Mac 阅读同一份 PDF 时，批注自动合并同步，无需迁移到订阅制阅读器。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-looking-for-pdf-annotation-app-that-syncs-on-android-ipad.md",
       "signal": {
-        "query": "Help- Background “transparent” timer app",
-        "observed_at": "2026-08-10T00:36:03.805Z"
+        "query": "Looking for pdf annotation app that syncs on Android, iPad , Macbook",
+        "observed_at": "2026-08-11T00:36:13.925Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-10-is-there-an-app-that-has-nsuns-programmed-in-so-i-don-t-need",
-      "slug": "2026-08-10-is-there-an-app-that-has-nsuns-programmed-in-so-i-don-t-need",
-      "date": "2026-08-10",
-      "tier": "quick",
-      "title": "nSuns训练台",
-      "one_liner": "开始 nSuns 训练时直接获得当天组数、重量和装片提示，关键组完成后自动推进下一周期。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-is-there-an-app-that-has-nsuns-programmed-in-so-i-don-t-need.md",
-      "signal": {
-        "query": "Is there an app that has nSuns programmed in so I don't need the spreadsheet?",
-        "observed_at": "2026-08-10T00:36:03.805Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-10-solar-eclipses",
-      "slug": "2026-08-10-solar-eclipses",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-remix",
+      "slug": "2026-08-11-remix",
+      "date": "2026-08-11",
       "tier": "featured",
-      "title": "日食无屏引导",
-      "one_liner": "观测日食时把手机收进口袋，由手表震动和耳机语音引导安全阶段，并触发关键拍摄。",
-      "url": "https://raytally.com/ideas/2026-08-10-solar-eclipses/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-solar-eclipses.md",
+      "title": "真站里的设计改稿",
+      "one_liner": "设计评审时直接在运行中的网站改页面、走完整流程，散会即可拿到客户确认的可回滚补丁。",
+      "url": "https://raytally.com/ideas/2026-08-11-remix/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-remix.md",
       "signal": {
-        "query": "solar eclipses",
-        "observed_at": "2026-08-10T00:33:15.439Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Remix",
+        "observed_at": "2026-08-11T00:33:10.287Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-11-ai-group-call",
+      "slug": "2026-08-11-ai-group-call",
+      "date": "2026-08-11",
+      "tier": "quick",
+      "title": "多人压力面试",
+      "one_liner": "重要面试前加入多角色语音追问，暴露回答里的矛盾，并当场练到能重新说清。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-ai-group-call.md",
+      "signal": {
+        "query": "AI Group Call",
+        "observed_at": "2026-08-11T00:33:10.287Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-11-ok-this-is-going-to-be-a-weird-question-and-possibly",
+      "slug": "2026-08-11-ok-this-is-going-to-be-a-weird-question-and-possibly",
+      "date": "2026-08-11",
+      "tier": "featured",
+      "title": "双屏掌机应用重排",
+      "one_liner": "双屏掌机打开未适配的 Android 应用时，可把视频、评论等区域铺到上下屏并分别操作。",
+      "url": "https://raytally.com/ideas/2026-08-11-ok-this-is-going-to-be-a-weird-question-and-possibly/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-ok-this-is-going-to-be-a-weird-question-and-possibly.md",
+      "signal": {
+        "query": "Ok this is going to be a weird question and possibly impossible",
+        "observed_at": "2026-08-11T00:36:13.925Z"
       },
       "sources": [
         {
-          "url": "https://science.nasa.gov/eclipses/safety/",
+          "url": "https://www.reddit.com/r/AynThor/comments/1vk70jp/ok_this_is_going_to_be_a_weird_question_and/",
+          "boundary": "发布于 2026-08-10T00:00:00.000Z。 观测于 2026-08-11T00:36:13.925Z。"
+        },
+        {
+          "url": "https://developer.android.com/media/grow/media-projection",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/cosinekitty/astronomy",
+          "url": "https://developer.android.com/reference/android/accessibilityservice/GestureDescription.Builder",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/watchkit/wkinterfacedevice/play%28_%3A%29",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/solar-eclipse-timer/id1203105865",
+          "url": "https://github.com/Thor-Wayfinder/thor-wayfinder",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-10-babyboomer-verkaufswelle-immobilien",
-      "slug": "2026-08-10-babyboomer-verkaufswelle-immobilien",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-50k-boat-names",
+      "slug": "2026-08-11-50k-boat-names",
+      "date": "2026-08-11",
       "tier": "featured",
-      "title": "带搬迁条件的卖房",
-      "one_liner": "年长业主准备售房却不想先搬家时，让买家连同价格提交搬迁安排，直接比较完整方案。",
-      "url": "https://raytally.com/ideas/2026-08-10-babyboomer-verkaufswelle-immobilien/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-babyboomer-verkaufswelle-immobilien.md",
+      "title": "船名无线电试叫",
+      "one_liner": "船主定名并喷涂前，可让其他船员在无线电噪声中盲听候选名，提前发现误叫和混淆。",
+      "url": "https://raytally.com/ideas/2026-08-11-50k-boat-names/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-50k-boat-names.md",
       "signal": {
-        "query": "babyboomer verkaufswelle immobilien",
-        "observed_at": "2026-08-10T00:33:17.928Z",
-        "window_hours": 168,
-        "active": true
+        "query": "50k Boat Names",
+        "observed_at": "2026-08-11T00:33:09.142Z"
       },
       "sources": [
         {
-          "url": "https://www.notar.de/aktuelles/details/stressfrei-vom-alten-ins-neue-heim-was-beim-umzug-in-die-neue-immobilie-zu-beachten-ist",
-          "boundary": "发布于 2015-07-03T00:00:00.000Z。"
+          "url": "https://www.beautifulpublicdata.com/boat-names/",
+          "boundary": "发布于 2026-08-10T00:00:00.000Z。 观测于 2026-08-11T00:33:09.142Z。"
         },
         {
-          "url": "https://www.immobilienscout24.de/wissen/verkaufen/tipp-immobilie-verkaufen-bietverfahren.html",
+          "url": "https://news.ycombinator.com/item?id=49243029",
+          "boundary": "发布于 2026-08-10T12:58:16.000Z。 观测于 2026-08-11T00:33:09.142Z。"
+        },
+        {
+          "url": "https://services.maritimenz.govt.nz/registration/default.aspx",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://bieterverfahren.app/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://domicus.de/",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-10-idea-64286e2a",
-      "slug": "2026-08-10-idea-64286e2a",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-private-block-reason-notes-on-x",
+      "slug": "2026-08-11-private-block-reason-notes-on-x",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "跟着舞队走",
-      "one_liner": "观众想连续观看心仪舞队时，产品根据现场进度和人流规划下一场赶场路线。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-idea-64286e2a.md",
+      "title": "拉黑原因备忘",
+      "one_liner": "用户因钓鱼或骚扰拉黑账号时，自动留存私密依据，日后再次遇见便能马上想起缘由。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-private-block-reason-notes-on-x.md",
       "signal": {
-        "query": "よさこい祭り",
-        "observed_at": "2026-08-10T00:33:16.854Z",
-        "window_hours": 168,
-        "active": true
+        "query": "I wish X had a feature that let you add a private reason whenever you block someone. Someone just sent me a phishing link trying to hack my X account. I blocked him. I want to remember why I blocked such a person in 5 years. Something like sent phishing link. would be nice. Austin (@IamAroke) August",
+        "observed_at": "2026-08-11T00:34:08.430Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-10-ai-content-opt-out",
-      "slug": "2026-08-10-ai-content-opt-out",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-grok-imagine-2-0",
+      "slug": "2026-08-11-grok-imagine-2-0",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "全网AI退出层",
-      "one_liner": "浏览社交和内容平台时，自动执行各站退出设置，并遮蔽明确标记的 AI 广告、回复与摘要。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-ai-content-opt-out.md",
+      "title": "一处改动全套素材",
+      "one_liner": "广告套图临时改局部时，只在主视觉标记一次，修改便传播到各尺寸版本且不扰动其他区域。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-grok-imagine-2-0.md",
       "signal": {
-        "query": "i wish there was an option to turn off AI usage for people who don’t want to be associated with it.. like AI ads, replies, information etc bc many people use but many people also don’t want to use it eliza ˙⋆✮ (@enchantedflms) August 8, 2026",
-        "observed_at": "2026-08-10T00:34:05.730Z"
+        "query": "Grok Imagine 2.0",
+        "observed_at": "2026-08-11T00:33:10.287Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-10-sonntag",
-      "slug": "2026-08-10-sonntag",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-humanising-llm-outputs-is-dumb",
+      "slug": "2026-08-11-humanising-llm-outputs-is-dumb",
+      "date": "2026-08-11",
       "tier": "featured",
-      "title": "莱茵河货运转公路",
-      "one_liner": "莱茵河低水位影响航运时，自动调用获准周日行驶的车队，给货主返回可执行的转运方案。",
-      "url": "https://raytally.com/ideas/2026-08-10-sonntag/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-sonntag.md",
+      "title": "AI回答的事实与动作",
+      "one_liner": "团队接入模型输出和执行日志后，界面会明确区分事实、推测与已完成动作，避免聊天语气掩盖状态。",
+      "url": "https://raytally.com/ideas/2026-08-11-humanising-llm-outputs-is-dumb/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-humanising-llm-outputs-is-dumb.md",
       "signal": {
-        "query": "sonntag",
-        "observed_at": "2026-08-10T00:33:17.928Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-09T18:10:00.000Z"
+        "query": "Humanising LLM Outputs Is Dumb",
+        "observed_at": "2026-08-11T00:33:09.142Z"
       },
       "sources": [
         {
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
-          "boundary": "发布于 2026-08-09T00:00:00.000Z。"
+          "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+          "boundary": "发布于 2026-08-10T00:00:00.000Z。 观测于 2026-08-11T00:33:09.142Z。"
         },
         {
-          "url": "https://www.pegelmobil.de/webservice/dokuRestapi",
+          "url": "https://news.ycombinator.com/item?id=49243474",
+          "boundary": "发布于 2026-08-10T00:00:00.000Z。 观测于 2026-08-11T00:33:09.142Z。"
+        },
+        {
+          "url": "https://elements.ai-sdk.dev/components/sources",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.transporeon.com/en/platform/freight-marketplace/shipper/freight-exchange",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.timocom.co.uk/services/freight-exchange/freight?baid=0",
+          "url": "https://docs.langchain.com/langsmith/view-traces",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-10-tour-de-france-femmes",
-      "slug": "2026-08-10-tour-de-france-femmes",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-secondbrain-note-by-genspark",
+      "slug": "2026-08-11-secondbrain-note-by-genspark",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "看懂自行车赛战术",
-      "one_liner": "观看自行车赛却看不懂战术时，实时解释突围与追击，并推演接下来几公里的影响。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-tour-de-france-femmes.md",
+      "title": "边走边交接",
+      "one_liner": "现场负责人边走边说出事项，确认一句复述后，产品立即完成派工、约时和对外回执。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-secondbrain-note-by-genspark.md",
       "signal": {
-        "query": "tour de france femmes",
-        "observed_at": "2026-08-10T00:33:15.439Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-09T18:20:00.000Z"
+        "query": "SecondBrain Note by GenSpark",
+        "observed_at": "2026-08-11T00:33:10.287Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-10-everything-you-do-is-being-recorded",
-      "slug": "2026-08-10-everything-you-do-is-being-recorded",
-      "date": "2026-08-10",
+      "id": "idea-2026-08-11-docsalot-cli",
+      "slug": "2026-08-11-docsalot-cli",
+      "date": "2026-08-11",
       "tier": "quick",
-      "title": "不可录工作区",
-      "one_liner": "开始演示或会议共享前，把敏感窗口变成本人可见、录屏不可见的工作区。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-everything-you-do-is-being-recorded.md",
+      "title": "文档示例实跑",
+      "one_liner": "代码变更进入合并流程时，自动修订受影响文档并实跑示例，返回可审阅的文档补丁。",
+      "url": "https://raytally.com/daily/2026-08-11/",
+      "brief_url": "https://raytally.com/ideas/2026-08-11-docsalot-cli.md",
       "signal": {
-        "query": "Everything you do is being recorded",
-        "observed_at": "2026-08-10T00:33:17.485Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-10-new-zealand-lost-its-music-media-and-what-we-re-building-to",
-      "slug": "2026-08-10-new-zealand-lost-its-music-media-and-what-we-re-building-to",
-      "date": "2026-08-10",
-      "tier": "quick",
-      "title": "本地音乐报道接力",
-      "one_liner": "小型演出或新歌发布后，让场地、乐迷记者和本地订阅者在二十四小时内共同完成一篇报道。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-new-zealand-lost-its-music-media-and-what-we-re-building-to.md",
-      "signal": {
-        "query": "New Zealand lost its music media, and what we're building to replace it",
-        "observed_at": "2026-08-10T00:33:17.485Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-10-soup-cli",
-      "slug": "2026-08-10-soup-cli",
-      "date": "2026-08-10",
-      "tier": "quick",
-      "title": "笔记本夜间微调队列",
-      "one_liner": "只有普通笔记本的开发者睡前排入微调任务，系统利用闲置时段安全续跑，次日交付可测试模型。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-soup-cli.md",
-      "signal": {
-        "query": "Soup CLI",
-        "observed_at": "2026-08-10T00:33:17.764Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-10-prompt-golf",
-      "slug": "2026-08-10-prompt-golf",
-      "date": "2026-08-10",
-      "tier": "quick",
-      "title": "提示词擂台",
-      "one_liner": "团队更换模型或提示词效果停滞时，用隐藏业务样例竞技，选出可直接灰度上线的版本。",
-      "url": "https://raytally.com/daily/2026-08-10/",
-      "brief_url": "https://raytally.com/ideas/2026-08-10-prompt-golf.md",
-      "signal": {
-        "query": "Prompt Golf",
-        "observed_at": "2026-08-10T00:33:17.764Z"
+        "query": "DocsAlot CLI",
+        "observed_at": "2026-08-11T00:33:10.287Z"
       },
       "sources": []
     }
