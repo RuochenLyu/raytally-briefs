@@ -1,271 +1,295 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-08-15",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-14-is-there-card-centering-tool-that-calculate-slants-on-the",
-      "slug": "2026-08-14-is-there-card-centering-tool-that-calculate-slants-on-the",
-      "date": "2026-08-14",
-      "tier": "featured",
-      "title": "卡牌居中实测",
-      "one_liner": "准备送评或沟通品相时，用 iPhone 实时测出卡牌居中比例和斜切角度，并导出带标线的证据图。",
-      "url": "https://raytally.com/ideas/2026-08-14-is-there-card-centering-tool-that-calculate-slants-on-the/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-is-there-card-centering-tool-that-calculate-slants-on-the.md",
+      "id": "idea-2026-08-15-feiertage-bayern-2026",
+      "slug": "2026-08-15-feiertage-bayern-2026",
+      "date": "2026-08-15",
+      "tier": "quick",
+      "title": "按地址算假日",
+      "one_liner": "企业软件按具体工作地址判定地区性法定假日，自动修正排班、薪资与配送日期。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-feiertage-bayern-2026.md",
       "signal": {
-        "query": "Is there card centering tool that calculate slants on the from the iOS App store",
-        "observed_at": "2026-08-14T00:36:05.460Z"
+        "query": "feiertage bayern 2026",
+        "observed_at": "2026-08-15T00:33:27.336Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-15T00:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos",
+      "slug": "2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos",
+      "date": "2026-08-15",
+      "tier": "featured",
+      "title": "AI 教程回放箱",
+      "one_liner": "刷到 AI 教程短视频时一键收下，自动提取步骤，日后可直接跳回真正有用的片段。",
+      "url": "https://raytally.com/ideas/2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos.md",
+      "signal": {
+        "query": "Is there an app that actually organizes your saved AI videos?",
+        "observed_at": "2026-08-15T00:35:31.993Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/PokeGrading/comments/1vnczrh/is_there_card_centering_tool_that_calculate/",
-          "boundary": "发布于 2026-08-13T14:54:49.000Z。 观测于 2026-08-14T00:36:05.460Z。"
+          "url": "https://www.reddit.com/r/ClaudeCowork/comments/1vo9q57/is_there_an_app_that_actually_organizes_your/",
+          "boundary": "发布于 2026-08-14T00:00:00.000Z。 观测于 2026-08-15T00:35:31.993Z。"
         },
         {
-          "url": "https://developer.apple.com/documentation/ARKit/tracking-and-altering-images",
+          "url": "https://www.recall.it/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://apps.apple.com/us/app/card-centering-calculator/id6661022837",
+          "url": "https://raindrop.io/pro",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://zentrigrading.app/",
+          "url": "https://developers.tiktok.com/doc/embed-videos/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-14-mistral-ocr-4-1",
-      "slug": "2026-08-14-mistral-ocr-4-1",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-idea-7caaf85e",
+      "slug": "2026-08-15-idea-7caaf85e",
+      "date": "2026-08-15",
       "tier": "quick",
-      "title": "旧档案模糊字接力",
-      "one_liner": "团队扫描旧档案时，把 OCR 最不确定的字分给合适的人核对，并将一次纠正扩散到整批材料。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-mistral-ocr-4-1.md",
+      "title": "各看各的同步影厅",
+      "one_liner": "远程朋友各自播放合法片源，产品跨平台校准进度并承载实时聊天。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-idea-7caaf85e.md",
       "signal": {
-        "query": "Mistral OCR 4.1",
-        "observed_at": "2026-08-14T00:33:39.739Z"
+        "query": "I wish there was a way to livestream a movie while we watch it together and talk over it and ruin it. Like a Space, but where we’re all watching the same video, without copyright and DCMA issues. Xbox used to let you do this with your peeps. X needs to figure it out. Gator Gar (@gatorgar) August 14,",
+        "observed_at": "2026-08-15T00:33:45.642Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-14-is-there-software-that-turns-customer-interviews-into-prds",
-      "slug": "2026-08-14-is-there-software-that-turns-customer-interviews-into-prds",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua",
+      "slug": "2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua",
+      "date": "2026-08-15",
       "tier": "featured",
-      "title": "带原话出处的 PRD",
-      "one_liner": "访谈结束后自动起草带原话出处的 PRD，把无证据假设和相互矛盾的反馈留给团队复核。",
-      "url": "https://raytally.com/ideas/2026-08-14-is-there-software-that-turns-customer-interviews-into-prds/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-is-there-software-that-turns-customer-interviews-into-prds.md",
+      "title": "CAD 代码评审预览",
+      "one_liner": "硬件团队提交 LuaCAD 代码时，自动生成几何差异和边界参数检查，让问题在合并前暴露。",
+      "url": "https://raytally.com/ideas/2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua.md",
       "signal": {
-        "query": "is there software that turns customer interviews into PRDs without the copy paste?",
-        "observed_at": "2026-08-14T00:36:05.460Z"
+        "query": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "observed_at": "2026-08-15T00:33:26.882Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/ProductManagement/comments/1vnq440/is_there_software_that_turns_customer_interviews/",
-          "boundary": "发布于 2026-08-13T00:00:00.000Z。 观测于 2026-08-14T00:36:05.460Z。"
+          "url": "https://news.ycombinator.com/item?id=49301215",
+          "boundary": "发布于 2026-08-14T16:43:22.000Z。 观测于 2026-08-15T00:33:26.882Z。"
         },
         {
-          "url": "https://docs.dovetail.com/academy/analyze-interviews-and-calls",
+          "url": "https://luacad.ad-si.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.chatprd.ai/",
+          "url": "https://github.com/openscad/openscad",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.buildbetter.ai/",
+          "url": "https://github.com/eblanshey/HistoryWorkbench",
+          "boundary": "发布于 2026-06-09T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-15-idea-58c418a4",
+      "slug": "2026-08-15-idea-58c418a4",
+      "date": "2026-08-15",
+      "tier": "quick",
+      "title": "放学前班级回想",
+      "one_liner": "放学前汇集全班学生对近期事项的回忆，经老师确认后同步给家长。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-idea-58c418a4.md",
+      "signal": {
+        "query": "I want to build an app that alerts parents of school projects, school excursions, and other activities that need prior planning because these kids miraculously remember the night before… pic.twitter.com/0Bsao0vzkd Thokozane Maloka (@iamtmaloka) August 13, 2026",
+        "observed_at": "2026-08-15T00:33:45.642Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-15-suno-studio-2-0",
+      "slug": "2026-08-15-suno-studio-2-0",
+      "date": "2026-08-15",
+      "tier": "featured",
+      "title": "异地编曲接力",
+      "one_liner": "异地乐队无法同时排练时，按段落接力编曲，用临时衔接轨让每次交付都能完整试听。",
+      "url": "https://raytally.com/ideas/2026-08-15-suno-studio-2-0/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-suno-studio-2-0.md",
+      "signal": {
+        "query": "Suno Studio 2.0",
+        "observed_at": "2026-08-15T00:33:27.614Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/suno",
+          "boundary": "观测于 2026-08-15T00:33:27.614Z。"
+        },
+        {
+          "url": "https://platform.stability.ai/docs/api-reference",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.bandlab.com/hc/en-us/articles/360018947313-Protecting-my-Content-on-BandLab",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.soundtrap.com/id/content/product/online-daw-features",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-14-scrimba-explain",
-      "slug": "2026-08-14-scrimba-explain",
-      "date": "2026-08-14",
-      "tier": "quick",
-      "title": "课程补洞片段",
-      "one_liner": "讲师发现多人卡在同一视频片段时，把重复提问合成一段补充讲解并直接插回课程。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-scrimba-explain.md",
-      "signal": {
-        "query": "Scrimba Explain",
-        "observed_at": "2026-08-14T00:33:40.528Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-14-insta360-x6",
-      "slug": "2026-08-14-insta360-x6",
-      "date": "2026-08-14",
-      "tier": "quick",
-      "title": "一次拍完再请报价",
-      "one_liner": "屋主装修询价时只拍一次现场，让多家施工方基于同一空间证据远程提问和报价。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-insta360-x6.md",
-      "signal": {
-        "query": "Insta360 X6",
-        "observed_at": "2026-08-14T00:33:40.528Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-14-pickle-browser",
-      "slug": "2026-08-14-pickle-browser",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-3d-48f6bca",
+      "slug": "2026-08-15-3d-48f6bca",
+      "date": "2026-08-15",
       "tier": "featured",
-      "title": "家人共办网页事务",
-      "one_liner": "家人远程说明要办的网页事务，代理在长辈电脑上当面操作，并在敏感步骤等待双方确认。",
-      "url": "https://raytally.com/ideas/2026-08-14-pickle-browser/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-pickle-browser.md",
+      "title": "Linux 实物塑形台",
+      "one_liner": "Linux 用户用卡扣、孔位等实物动作直接塑形，立即得到通过可打印性检查的三维模型。",
+      "url": "https://raytally.com/ideas/2026-08-15-3d-48f6bca/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-3d-48f6bca.md",
       "signal": {
-        "query": "Pickle Browser",
-        "observed_at": "2026-08-14T00:33:40.528Z"
+        "query": "I always refused to get 3D printer as 3D design / CAD were never interesting to me. This changed with Nurb from @Shpigford - 5 minutes after downloading it I ordered my first 3D printer. Have it for 48h and already printed so much stuff! I wish there was Linux version of it! Michal (@mic_kul) August",
+        "observed_at": "2026-08-15T00:33:45.642Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/pickle-browser",
-          "boundary": "观测于 2026-08-14T00:33:40.528Z。"
+          "url": "https://x.com/mic_kul/status/2088147533511958794",
+          "boundary": "发布于 2026-08-14T06:15:42.000Z。 观测于 2026-08-15T00:33:45.642Z。"
         },
         {
-          "url": "https://playwright.dev/docs/locators",
+          "url": "https://www.freecad.org/downloads.php/index.php",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.google.com/chrome/answer/1649523?hl=en-u",
+          "url": "https://www.plasticity.xyz/faq",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.browser-use.com/cloud/agent/human-in-the-loop",
+          "url": "https://cadquery.readthedocs.io/en/stable/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-14-execlave",
-      "slug": "2026-08-14-execlave",
-      "date": "2026-08-14",
-      "tier": "featured",
-      "title": "代理行动关口",
-      "one_liner": "代理即将操作邮件、资金或云资源时，先展示真实后果，只放行被明确批准的动作。",
-      "url": "https://raytally.com/ideas/2026-08-14-execlave/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-execlave.md",
+      "id": "idea-2026-08-15-ford-mustang-dark-horse-sc",
+      "slug": "2026-08-15-ford-mustang-dark-horse-sc",
+      "date": "2026-08-15",
+      "tier": "quick",
+      "title": "同路段性能对照",
+      "one_liner": "性能车买家可在相同路段同步比较画面、声浪与数据，判断差异是否值得加价。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-ford-mustang-dark-horse-sc.md",
       "signal": {
-        "query": "Execlave",
-        "observed_at": "2026-08-14T00:33:40.528Z"
+        "query": "ford mustang dark horse sc",
+        "observed_at": "2026-08-15T00:33:25.167Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-14T16:10:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-15-california-quartz-countertop-silicosis",
+      "slug": "2026-08-15-california-quartz-countertop-silicosis",
+      "date": "2026-08-15",
+      "tier": "featured",
+      "title": "石材切割防尘联锁",
+      "one_liner": "石材工人开机切割前，现场联锁会验证湿切和排风状态，不达标就阻止作业。",
+      "url": "https://raytally.com/ideas/2026-08-15-california-quartz-countertop-silicosis/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-california-quartz-countertop-silicosis.md",
+      "signal": {
+        "query": "california quartz countertop silicosis",
+        "observed_at": "2026-08-15T00:33:25.167Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-14T21:10:00.000Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/execlave",
-          "boundary": "观测于 2026-08-14T00:33:40.528Z。"
+          "url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
+          "boundary": "发布于 2026-08-12T00:00:00.000Z。"
         },
         {
-          "url": "https://www.execlave.com/docs",
+          "url": "https://www.dir.ca.gov/dosh/dosh_publications/Engineered-stone-counters.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.langchain.com/oss/python/langchain/human-in-the-loop",
+          "url": "https://www.ecogate.com/greenbox",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html",
+          "url": "https://trolex.com/product/air-xs/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-14-notification-priority-folders",
-      "slug": "2026-08-14-notification-priority-folders",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports",
+      "slug": "2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports",
+      "date": "2026-08-15",
       "tier": "quick",
-      "title": "通知候车室",
-      "one_liner": "通知涌入时自动分到立即、工作和稍后队列，只让真正紧急的内容打断当前任务。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-notification-priority-folders.md",
+      "title": "隐私浏览接力",
+      "one_liner": "广告拦截能力失效时，自动把高追踪页面转到 Firefox 隔离处理，无需迁移整套浏览环境。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports.md",
       "signal": {
-        "query": "Notification Priority Folders?",
-        "observed_at": "2026-08-14T00:36:05.460Z"
+        "query": "Firefox is now the last major browser that still supports uBlock Origin",
+        "observed_at": "2026-08-15T00:33:26.882Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-14-idea-357facac",
-      "slug": "2026-08-14-idea-357facac",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop",
+      "slug": "2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop",
+      "date": "2026-08-15",
       "tier": "quick",
-      "title": "送我下一本书",
-      "one_liner": "想用书支持某人时，从他的公开书架直接赠送并附上推荐理由，无需索要地址。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-idea-357facac.md",
+      "title": "早餐电子墨水报纸",
+      "one_liner": "一家人想在早餐时离开手机阅读，系统每天截稿一次，把共同挑选的 RSS 内容送到电子墨水报纸。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop.md",
       "signal": {
-        "query": "I wish there was an app like Buy Me A Coffee, but instead it was Buy Me a Book and people gifted you books you wanted or they thought you should read. Shagbark s Wife (@KeturahAbigail) August 13, 2026",
-        "observed_at": "2026-08-14T00:34:06.413Z"
+        "query": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+        "observed_at": "2026-08-15T00:33:26.882Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-14-idea-b2c4c16f",
-      "slug": "2026-08-14-idea-b2c4c16f",
-      "date": "2026-08-14",
-      "tier": "featured",
-      "title": "结账时该刷哪张卡",
-      "one_liner": "用户到店或线上结账时，立即看到本次最合适的信用卡及预计多得的实际金额。",
-      "url": "https://raytally.com/ideas/2026-08-14-idea-b2c4c16f/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-idea-b2c4c16f.md",
-      "signal": {
-        "query": "I wish there was an app to let me know which of my credit cards is best to use at which store 🤔 reni, the resource | finance travel (@xoreniii) August 12, 2026",
-        "observed_at": "2026-08-14T00:34:06.413Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/xoreniii/status/2087532296496640425",
-          "boundary": "发布于 2026-08-12T13:30:58.000Z。 观测于 2026-08-14T00:34:06.413Z。"
-        },
-        {
-          "url": "https://plaid.com/docs/api/products/transactions/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.chrome.com/docs/extensions/develop/concepts/activeTab",
-          "boundary": "发布于 2024-02-05T00:00:00.000Z。"
-        },
-        {
-          "url": "https://cardpointers.com/extension/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-14-ai-at-home-part-1-a-box-of-scraps",
-      "slug": "2026-08-14-ai-at-home-part-1-a-box-of-scraps",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-chordviz",
+      "slug": "2026-08-15-chordviz",
+      "date": "2026-08-15",
       "tier": "quick",
-      "title": "旧硬件 AI 启动盘",
-      "one_liner": "家庭用户用旧电脑和显卡拼本地 AI 时，从启动盘自动完成驱动、模型分片与稳定性配置。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-ai-at-home-part-1-a-box-of-scraps.md",
+      "title": "合奏课堂灯带",
+      "one_liner": "多人键盘课进行中，实时显示每位学生的和弦偏差，并把共同错误切成可立即重练的片段。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-chordviz.md",
       "signal": {
-        "query": "AI At Home Part 1: A Box Of Scraps",
-        "observed_at": "2026-08-14T00:33:39.739Z"
+        "query": "ChordViz",
+        "observed_at": "2026-08-15T00:33:27.614Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-14-kivicube",
-      "slug": "2026-08-14-kivicube",
-      "date": "2026-08-14",
+      "id": "idea-2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on",
+      "slug": "2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on",
+      "date": "2026-08-15",
       "tier": "quick",
-      "title": "设备上的下一班留言",
-      "one_liner": "轮班人员在交接现场把说明钉到设备上，让下一班到达实物旁即可看到并接手处理。",
-      "url": "https://raytally.com/daily/2026-08-14/",
-      "brief_url": "https://raytally.com/ideas/2026-08-14-kivicube.md",
+      "title": "Linux 重启不断连",
+      "one_liner": "Linux 设备无人值守出故障时，连接跨越重启与登录界面继续存在，并自动恢复或交给管理员。",
+      "url": "https://raytally.com/daily/2026-08-15/",
+      "brief_url": "https://raytally.com/ideas/2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on.md",
       "signal": {
-        "query": "Kivicube",
-        "observed_at": "2026-08-14T00:33:40.528Z"
+        "query": "RustDesk now supports true unattended remote access on Wayland",
+        "observed_at": "2026-08-15T00:33:26.882Z"
       },
       "sources": []
     }
