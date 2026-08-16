@@ -1,295 +1,280 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15",
+  "generated_at": "2026-08-16",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-15-feiertage-bayern-2026",
-      "slug": "2026-08-15-feiertage-bayern-2026",
-      "date": "2026-08-15",
-      "tier": "quick",
-      "title": "按地址算假日",
-      "one_liner": "企业软件按具体工作地址判定地区性法定假日，自动修正排班、薪资与配送日期。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-feiertage-bayern-2026.md",
+      "id": "idea-2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s",
+      "slug": "2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s",
+      "date": "2026-08-16",
+      "tier": "featured",
+      "title": "定制单先付设计费",
+      "one_liner": "定制卖家人工改稿前先收可抵货款的设计费，限定修订轮次，再凭客户确认稿进入生产。",
+      "url": "https://raytally.com/ideas/2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s.md",
       "signal": {
-        "query": "feiertage bayern 2026",
-        "observed_at": "2026-08-15T00:33:27.336Z",
+        "query": "I offered free design service to prospects and now it's costing me time. What should I do?",
+        "observed_at": "2026-08-16T00:36:31.592Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/EtsySellers/comments/1voyfl6/i_offered_free_design_service_to_prospects_and/",
+          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:36:31.592Z。"
+        },
+        {
+          "url": "https://docs.stripe.com/payments/checkout-sessions",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.etsy.com/hc/en-us/articles/115015663107-How-to-Offer-Custom-Items",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.filestage.io/en/articles/9112719-how-to-track-the-progress-of-your-projects-and-files",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store",
+      "slug": "2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store",
+      "date": "2026-08-16",
+      "tier": "quick",
+      "title": "鞋夹步行记录器",
+      "one_liner": "手机留在购物车、手腕不能戴设备时，用鞋夹离线记录店内步行距离，下班后再同步。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store.md",
+      "signal": {
+        "query": "Will strava capture my walk inside a grocery store?",
+        "observed_at": "2026-08-16T00:36:31.592Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art",
+      "slug": "2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art",
+      "date": "2026-08-16",
+      "tier": "featured",
+      "title": "线稿还原成可编辑笔画",
+      "one_liner": "插画师导入栅格线稿后，直接得到保留交叉、线宽和走势的可编辑 Bézier 笔画。",
+      "url": "https://raytally.com/ideas/2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art.md",
+      "signal": {
+        "query": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
+        "observed_at": "2026-08-16T00:33:09.949Z"
+      },
+      "sources": [
+        {
+          "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+          "boundary": "发布于 2026-07-16T00:00:00.000Z。 观测于 2026-08-16T00:33:09.949Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49306333",
+          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:33:09.949Z。"
+        },
+        {
+          "url": "https://helpx.adobe.com/uk/illustrator/desktop/manage-objects/traces-mockups-symbols/image-trace-panel-options.html",
+          "boundary": "发布于 2026-02-11T00:00:00.000Z。"
+        },
+        {
+          "url": "https://github.com/autotrace/autotrace",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-16-monterey-car-week",
+      "slug": "2026-08-16-monterey-car-week",
+      "date": "2026-08-16",
+      "tier": "quick",
+      "title": "汽车周稀有车目击接力",
+      "one_liner": "汽车周观众追寻特定车型时，接收短时验证的现场位置，只为真正赶得上的目击动身。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-monterey-car-week.md",
+      "signal": {
+        "query": "monterey car week",
+        "observed_at": "2026-08-16T00:33:08.258Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-15T00:00:00.000Z"
+        "ended_at": "2026-08-15T07:10:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos",
-      "slug": "2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos",
-      "date": "2026-08-15",
-      "tier": "featured",
-      "title": "AI 教程回放箱",
-      "one_liner": "刷到 AI 教程短视频时一键收下，自动提取步骤，日后可直接跳回真正有用的片段。",
-      "url": "https://raytally.com/ideas/2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-is-there-an-app-that-actually-organizes-your-saved-ai-videos.md",
-      "signal": {
-        "query": "Is there an app that actually organizes your saved AI videos?",
-        "observed_at": "2026-08-15T00:35:31.993Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/ClaudeCowork/comments/1vo9q57/is_there_an_app_that_actually_organizes_your/",
-          "boundary": "发布于 2026-08-14T00:00:00.000Z。 观测于 2026-08-15T00:35:31.993Z。"
-        },
-        {
-          "url": "https://www.recall.it/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://raindrop.io/pro",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.tiktok.com/doc/embed-videos/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-15-idea-7caaf85e",
-      "slug": "2026-08-15-idea-7caaf85e",
-      "date": "2026-08-15",
+      "id": "idea-2026-08-16-idea-2055383b",
+      "slug": "2026-08-16-idea-2055383b",
+      "date": "2026-08-16",
       "tier": "quick",
-      "title": "各看各的同步影厅",
-      "one_liner": "远程朋友各自播放合法片源，产品跨平台校准进度并承载实时聊天。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-idea-7caaf85e.md",
+      "title": "限时关卡找互补队友",
+      "one_liner": "玩家卡在限时关卡时，按缺失能力即时匹配互补队友，直接拿到房间邀请和通关分工。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-2055383b.md",
       "signal": {
-        "query": "I wish there was a way to livestream a movie while we watch it together and talk over it and ruin it. Like a Space, but where we’re all watching the same video, without copyright and DCMA issues. Xbox used to let you do this with your peeps. X needs to figure it out. Gator Gar (@gatorgar) August 14,",
-        "observed_at": "2026-08-15T00:33:45.642Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua",
-      "slug": "2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua",
-      "date": "2026-08-15",
-      "tier": "featured",
-      "title": "CAD 代码评审预览",
-      "one_liner": "硬件团队提交 LuaCAD 代码时，自动生成几何差异和边界参数检查，让问题在合并前暴露。",
-      "url": "https://raytally.com/ideas/2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-show-hn-luacad-parametric-cad-scripted-in-lua.md",
-      "signal": {
-        "query": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-        "observed_at": "2026-08-15T00:33:26.882Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49301215",
-          "boundary": "发布于 2026-08-14T16:43:22.000Z。 观测于 2026-08-15T00:33:26.882Z。"
-        },
-        {
-          "url": "https://luacad.ad-si.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/openscad/openscad",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/eblanshey/HistoryWorkbench",
-          "boundary": "发布于 2026-06-09T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-15-idea-58c418a4",
-      "slug": "2026-08-15-idea-58c418a4",
-      "date": "2026-08-15",
-      "tier": "quick",
-      "title": "放学前班级回想",
-      "one_liner": "放学前汇集全班学生对近期事项的回忆，经老师确认后同步给家长。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-idea-58c418a4.md",
-      "signal": {
-        "query": "I want to build an app that alerts parents of school projects, school excursions, and other activities that need prior planning because these kids miraculously remember the night before… pic.twitter.com/0Bsao0vzkd Thokozane Maloka (@iamtmaloka) August 13, 2026",
-        "observed_at": "2026-08-15T00:33:45.642Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-15-suno-studio-2-0",
-      "slug": "2026-08-15-suno-studio-2-0",
-      "date": "2026-08-15",
-      "tier": "featured",
-      "title": "异地编曲接力",
-      "one_liner": "异地乐队无法同时排练时，按段落接力编曲，用临时衔接轨让每次交付都能完整试听。",
-      "url": "https://raytally.com/ideas/2026-08-15-suno-studio-2-0/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-suno-studio-2-0.md",
-      "signal": {
-        "query": "Suno Studio 2.0",
-        "observed_at": "2026-08-15T00:33:27.614Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/suno",
-          "boundary": "观测于 2026-08-15T00:33:27.614Z。"
-        },
-        {
-          "url": "https://platform.stability.ai/docs/api-reference",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.bandlab.com/hc/en-us/articles/360018947313-Protecting-my-Content-on-BandLab",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.soundtrap.com/id/content/product/online-daw-features",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-15-3d-48f6bca",
-      "slug": "2026-08-15-3d-48f6bca",
-      "date": "2026-08-15",
-      "tier": "featured",
-      "title": "Linux 实物塑形台",
-      "one_liner": "Linux 用户用卡扣、孔位等实物动作直接塑形，立即得到通过可打印性检查的三维模型。",
-      "url": "https://raytally.com/ideas/2026-08-15-3d-48f6bca/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-3d-48f6bca.md",
-      "signal": {
-        "query": "I always refused to get 3D printer as 3D design / CAD were never interesting to me. This changed with Nurb from @Shpigford - 5 minutes after downloading it I ordered my first 3D printer. Have it for 48h and already printed so much stuff! I wish there was Linux version of it! Michal (@mic_kul) August",
-        "observed_at": "2026-08-15T00:33:45.642Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/mic_kul/status/2088147533511958794",
-          "boundary": "发布于 2026-08-14T06:15:42.000Z。 观测于 2026-08-15T00:33:45.642Z。"
-        },
-        {
-          "url": "https://www.freecad.org/downloads.php/index.php",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.plasticity.xyz/faq",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://cadquery.readthedocs.io/en/stable/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-15-ford-mustang-dark-horse-sc",
-      "slug": "2026-08-15-ford-mustang-dark-horse-sc",
-      "date": "2026-08-15",
-      "tier": "quick",
-      "title": "同路段性能对照",
-      "one_liner": "性能车买家可在相同路段同步比较画面、声浪与数据，判断差异是否值得加价。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-ford-mustang-dark-horse-sc.md",
-      "signal": {
-        "query": "ford mustang dark horse sc",
-        "observed_at": "2026-08-15T00:33:25.167Z",
+        "query": "パズドラ トランプキングダム",
+        "observed_at": "2026-08-16T00:33:09.425Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-14T16:10:00.000Z"
+        "ended_at": "2026-08-16T00:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-15-california-quartz-countertop-silicosis",
-      "slug": "2026-08-15-california-quartz-countertop-silicosis",
-      "date": "2026-08-15",
+      "id": "idea-2026-08-16-isolate-video",
+      "slug": "2026-08-16-isolate-video",
+      "date": "2026-08-16",
       "tier": "featured",
-      "title": "石材切割防尘联锁",
-      "one_liner": "石材工人开机切割前，现场联锁会验证湿切和排风状态，不达标就阻止作业。",
-      "url": "https://raytally.com/ideas/2026-08-15-california-quartz-countertop-silicosis/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-california-quartz-countertop-silicosis.md",
+      "title": "产品演示自动补镜",
+      "one_liner": "产品改版后自动找出旧演示中过时的镜头，只补录变化部分并交付更新成片。",
+      "url": "https://raytally.com/ideas/2026-08-16-isolate-video/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-isolate-video.md",
       "signal": {
-        "query": "california quartz countertop silicosis",
-        "observed_at": "2026-08-15T00:33:25.167Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-14T21:10:00.000Z"
+        "query": "isolate.video",
+        "observed_at": "2026-08-16T00:33:10.354Z"
       },
       "sources": [
         {
-          "url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
-          "boundary": "发布于 2026-08-12T00:00:00.000Z。"
+          "url": "https://www.producthunt.com/products/isolate-video",
+          "boundary": "观测于 2026-08-16T00:33:10.354Z。"
         },
         {
-          "url": "https://www.dir.ca.gov/dosh/dosh_publications/Engineered-stone-counters.pdf",
+          "url": "https://playwright.dev/docs/auth",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.ecogate.com/greenbox",
+          "url": "https://www.videate.io/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://trolex.com/product/air-xs/",
+          "url": "https://www.arcade.software/changelog",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports",
-      "slug": "2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports",
-      "date": "2026-08-15",
+      "id": "idea-2026-08-16-idea-409e35a0",
+      "slug": "2026-08-16-idea-409e35a0",
+      "date": "2026-08-16",
       "tier": "quick",
-      "title": "隐私浏览接力",
-      "one_liner": "广告拦截能力失效时，自动把高追踪页面转到 Firefox 隔离处理，无需迁移整套浏览环境。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-firefox-is-now-the-last-major-browser-that-still-supports.md",
+      "title": "拍挑战前先对齐边界",
+      "one_liner": "双人创作者开拍前私下设好边界，由产品现场递进挑战并按轮次切出可发布素材。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-409e35a0.md",
       "signal": {
-        "query": "Firefox is now the last major browser that still supports uBlock Origin",
-        "observed_at": "2026-08-15T00:33:26.882Z"
+        "query": "Ramdam - Tiktok Trends - August 2026",
+        "observed_at": "2026-08-16T00:33:10.355Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop",
-      "slug": "2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop",
-      "date": "2026-08-15",
-      "tier": "quick",
-      "title": "早餐电子墨水报纸",
-      "one_liner": "一家人想在早餐时离开手机阅读，系统每天截稿一次，把共同挑选的 RSS 内容送到电子墨水报纸。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-i-turned-my-rss-feeds-into-an-e-ink-newspaper-to-stop.md",
+      "id": "idea-2026-08-16-idea-91a40471",
+      "slug": "2026-08-16-idea-91a40471",
+      "date": "2026-08-16",
+      "tier": "featured",
+      "title": "按口味选下一本书",
+      "one_liner": "读者选下一本书时，按相近口味人群的两两选择和完读情况判断它是否适合自己。",
+      "url": "https://raytally.com/ideas/2026-08-16-idea-91a40471/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-91a40471.md",
       "signal": {
-        "query": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-        "observed_at": "2026-08-15T00:33:26.882Z"
+        "query": "i wish there was a reliable database to find books and broadly reliable ratings for them (ala Letterboxd) because GoodReads obviously isn’t shit coffee (@eventualforever) August 14, 2026",
+        "observed_at": "2026-08-16T00:34:12.603Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/eventualforever/status/2088407418044825767",
+          "boundary": "发布于 2026-08-14T23:28:23.000Z。 观测于 2026-08-16T00:34:12.603Z。"
+        },
+        {
+          "url": "https://www.thestorygraph.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.goodreads.com/review/guidelines",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://openlibrary.org/developers/api",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-16-big-mike",
+      "slug": "2026-08-16-big-mike",
+      "date": "2026-08-16",
+      "tier": "quick",
+      "title": "iMessage 看球竞猜",
+      "one_liner": "朋友看球聊到胜负时，在 iMessage 里发一句预测，就能开始自动封盘和结算的群聊竞猜。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-big-mike.md",
+      "signal": {
+        "query": "Big Mike",
+        "observed_at": "2026-08-16T00:33:10.354Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-15-chordviz",
-      "slug": "2026-08-15-chordviz",
-      "date": "2026-08-15",
-      "tier": "quick",
-      "title": "合奏课堂灯带",
-      "one_liner": "多人键盘课进行中，实时显示每位学生的和弦偏差，并把共同错误切成可立即重练的片段。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-chordviz.md",
+      "id": "idea-2026-08-16-idea-a4dcaf8a",
+      "slug": "2026-08-16-idea-a4dcaf8a",
+      "date": "2026-08-16",
+      "tier": "featured",
+      "title": "夫妻共同约家里维修",
+      "one_liner": "家中设备和院子该维护时，自动询价、协调夫妻时间并预约师傅，完工记录由现场人员补齐。",
+      "url": "https://raytally.com/ideas/2026-08-16-idea-a4dcaf8a/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-a4dcaf8a.md",
       "signal": {
-        "query": "ChordViz",
-        "observed_at": "2026-08-15T00:33:27.614Z"
+        "query": "I’m not saying I’ve built a home maintenance app for my wife I that tracks all appliances, plants and yard stuff (with computer vision!) and then generates weekly todos with step-by-step instructions and photo + AI live chat repair assistance, but I’m not not saying it either. pic.twitter.com/wyHlYO",
+        "observed_at": "2026-08-16T00:34:12.603Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/Shpigford/status/2088728511653498954",
+          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:34:12.603Z。"
+        },
+        {
+          "url": "https://www.homezada.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.latchsolutions.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/workspace/calendar/api/v3/reference/freebusy/query",
+          "boundary": "发布于 2026-05-12T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-16-idea-6119b082",
+      "slug": "2026-08-16-idea-6119b082",
+      "date": "2026-08-16",
+      "tier": "quick",
+      "title": "公开帖照发，暂停关注",
+      "one_liner": "账号遭遇围观或骚扰时，自动移除暂停期内的新关注者，同时保持帖子公开可见。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-6119b082.md",
+      "signal": {
+        "query": "I wish there was a way you could stop ppl from following you without making your page private. Like i cant have a follower moratorium or something FUCKJIGGYJAYY2 (@jiggyjayy2) August 14, 2026",
+        "observed_at": "2026-08-16T00:34:12.603Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on",
-      "slug": "2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on",
-      "date": "2026-08-15",
+      "id": "idea-2026-08-16-jordan-4-jackie-robinson-release",
+      "slug": "2026-08-16-jordan-4-jackie-robinson-release",
+      "date": "2026-08-16",
       "tier": "quick",
-      "title": "Linux 重启不断连",
-      "one_liner": "Linux 设备无人值守出故障时，连接跨越重启与登录界面继续存在，并自动恢复或交给管理员。",
-      "url": "https://raytally.com/daily/2026-08-15/",
-      "brief_url": "https://raytally.com/ideas/2026-08-15-rustdesk-now-supports-true-unattended-remote-access-on.md",
+      "title": "限量鞋中签后换码",
+      "one_liner": "限量鞋买家抽中错误尺码后，可与持有互补尺码的人完成带鉴定和托管的直接交换。",
+      "url": "https://raytally.com/daily/2026-08-16/",
+      "brief_url": "https://raytally.com/ideas/2026-08-16-jordan-4-jackie-robinson-release.md",
       "signal": {
-        "query": "RustDesk now supports true unattended remote access on Wayland",
-        "observed_at": "2026-08-15T00:33:26.882Z"
+        "query": "jordan 4 jackie robinson release",
+        "observed_at": "2026-08-16T00:33:08.258Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-16T00:00:00.000Z"
       },
       "sources": []
     }
