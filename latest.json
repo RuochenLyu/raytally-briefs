@@ -1,282 +1,243 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16",
+  "generated_at": "2026-08-17",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s",
-      "slug": "2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should",
+      "slug": "2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should",
+      "date": "2026-08-17",
       "tier": "featured",
-      "title": "定制单先付设计费",
-      "one_liner": "定制卖家人工改稿前先收可抵货款的设计费，限定修订轮次，再凭客户确认稿进入生产。",
-      "url": "https://raytally.com/ideas/2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-i-offered-free-design-service-to-prospects-and-now-it-s.md",
+      "title": "远程开发板实验台",
+      "one_liner": "工程师买不到目标 RISC-V 板卡时，远程租用真实硬件，在线刷写固件并查看串口、波形和功耗。",
+      "url": "https://raytally.com/ideas/2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should.md",
       "signal": {
-        "query": "I offered free design service to prospects and now it's costing me time. What should I do?",
-        "observed_at": "2026-08-16T00:36:31.592Z"
+        "query": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+        "observed_at": "2026-08-17T00:33:16.293Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/EtsySellers/comments/1voyfl6/i_offered_free_design_service_to_prospects_and/",
-          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:36:31.592Z。"
+          "url": "https://rvembedded.com/blog_post/12/",
+          "boundary": "发布于 2026-08-16T00:00:00.000Z。 观测于 2026-08-17T00:33:16.293Z。"
         },
         {
-          "url": "https://docs.stripe.com/payments/checkout-sessions",
+          "url": "https://news.ycombinator.com/item?id=49321717",
+          "boundary": "发布于 2026-08-16T17:01:07.000Z。 观测于 2026-08-17T00:33:16.293Z。"
+        },
+        {
+          "url": "https://labgrid.readthedocs.io/en/v25.0/index.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.etsy.com/hc/en-us/articles/115015663107-How-to-Offer-Custom-Items",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.filestage.io/en/articles/9112719-how-to-track-the-progress-of-your-projects-and-files",
+          "url": "https://docs.lavasoftware.org/lava/introduction/concepts.html",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store",
-      "slug": "2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-a-true-telnet-bbs-on-a-casio-calculator",
+      "slug": "2026-08-17-a-true-telnet-bbs-on-a-casio-calculator",
+      "date": "2026-08-17",
       "tier": "quick",
-      "title": "鞋夹步行记录器",
-      "one_liner": "手机留在购物车、手腕不能戴设备时，用鞋夹离线记录店内步行距离，下班后再同步。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-will-strava-capture-my-walk-inside-a-grocery-store.md",
+      "title": "老设备联机 BBS",
+      "one_liner": "复古硬件玩家让计算器、老终端与手机进入同一个会自动适配屏幕和字符的文字社区。",
+      "url": "https://raytally.com/daily/2026-08-17/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-a-true-telnet-bbs-on-a-casio-calculator.md",
       "signal": {
-        "query": "Will strava capture my walk inside a grocery store?",
-        "observed_at": "2026-08-16T00:36:31.592Z"
+        "query": "A True Telnet BBS on a Casio Calculator",
+        "observed_at": "2026-08-17T00:33:16.293Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art",
-      "slug": "2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a",
+      "slug": "2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a",
+      "date": "2026-08-17",
       "tier": "featured",
-      "title": "线稿还原成可编辑笔画",
-      "one_liner": "插画师导入栅格线稿后，直接得到保留交叉、线宽和走势的可编辑 Bézier 笔画。",
-      "url": "https://raytally.com/ideas/2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-2d-gaussian-splatting-for-be-zier-spline-line-art.md",
+      "title": "AI 改稿逐处确认",
+      "one_liner": "写作者让 AI 润色定稿时，只接收逐处可批准的文字补丁，避免全文被无声改写或混入隐藏字符。",
+      "url": "https://raytally.com/ideas/2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a.md",
       "signal": {
-        "query": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
-        "observed_at": "2026-08-16T00:33:09.949Z"
+        "query": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "observed_at": "2026-08-17T00:33:16.293Z"
       },
       "sources": [
         {
-          "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
-          "boundary": "发布于 2026-07-16T00:00:00.000Z。 观测于 2026-08-16T00:33:09.949Z。"
+          "url": "https://news.ycombinator.com/item?id=49324087",
+          "boundary": "发布于 2026-08-16T21:53:43.000Z。 观测于 2026-08-17T00:33:16.293Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49306333",
-          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:33:09.949Z。"
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "boundary": "发布于 2026-08-16T00:00:00.000Z。 观测于 2026-08-17T00:33:16.293Z。"
         },
         {
-          "url": "https://helpx.adobe.com/uk/illustrator/desktop/manage-objects/traces-mockups-symbols/image-trace-panel-options.html",
-          "boundary": "发布于 2026-02-11T00:00:00.000Z。"
+          "url": "https://developers.google.com/workspace/docs/api/how-tos/suggestions",
+          "boundary": "发布于 2026-07-21T00:00:00.000Z。"
         },
         {
-          "url": "https://github.com/autotrace/autotrace",
+          "url": "https://support.microsoft.com/en-US/Word/accept-or-reject-tracked-changes-in-word",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-16-monterey-car-week",
-      "slug": "2026-08-16-monterey-car-week",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-joy",
+      "slug": "2026-08-17-joy",
+      "date": "2026-08-17",
       "tier": "quick",
-      "title": "汽车周稀有车目击接力",
-      "one_liner": "汽车周观众追寻特定车型时，接收短时验证的现场位置，只为真正赶得上的目击动身。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-monterey-car-week.md",
+      "title": "团队庆功彩蛋",
+      "one_liner": "远程同事提前埋下祝贺彩蛋，等艰难任务真正完成时在完成者桌面上一起揭晓。",
+      "url": "https://raytally.com/daily/2026-08-17/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-joy.md",
       "signal": {
-        "query": "monterey car week",
-        "observed_at": "2026-08-16T00:33:08.258Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-15T07:10:00.000Z"
+        "query": "Joy",
+        "observed_at": "2026-08-17T00:33:16.672Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-16-idea-2055383b",
-      "slug": "2026-08-16-idea-2055383b",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-checklist-style-generator-for-adding-items-to-a-document",
+      "slug": "2026-08-17-checklist-style-generator-for-adding-items-to-a-document",
+      "date": "2026-08-17",
       "tier": "quick",
-      "title": "限时关卡找互补队友",
-      "one_liner": "玩家卡在限时关卡时，按缺失能力即时匹配互补队友，直接拿到房间邀请和通关分工。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-2055383b.md",
+      "title": "勾选标准写进教案",
+      "one_liner": "教师备课时勾选本节课标准，插件立即把对应原文按规定格式写入现有教案模板。",
+      "url": "https://raytally.com/daily/2026-08-17/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-checklist-style-generator-for-adding-items-to-a-document.md",
       "signal": {
-        "query": "パズドラ トランプキングダム",
-        "observed_at": "2026-08-16T00:33:09.425Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-16T00:30:00.000Z"
+        "query": "Checklist-style generator for adding items to a document?",
+        "observed_at": "2026-08-17T00:36:15.542Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-16-isolate-video",
-      "slug": "2026-08-16-isolate-video",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-costlogic",
+      "slug": "2026-08-17-costlogic",
+      "date": "2026-08-17",
       "tier": "featured",
-      "title": "产品演示自动补镜",
-      "one_liner": "产品改版后自动找出旧演示中过时的镜头，只补录变化部分并交付更新成片。",
-      "url": "https://raytally.com/ideas/2026-08-16-isolate-video/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-isolate-video.md",
+      "title": "现场变更双签",
+      "one_liner": "现场临时增项时，施工方与客户当场逐项确认费用和工期，签完即可开工并写入下一期账单。",
+      "url": "https://raytally.com/ideas/2026-08-17-costlogic/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-costlogic.md",
       "signal": {
-        "query": "isolate.video",
-        "observed_at": "2026-08-16T00:33:10.354Z"
+        "query": "CostLogic",
+        "observed_at": "2026-08-17T00:33:16.672Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/isolate-video",
-          "boundary": "观测于 2026-08-16T00:33:10.354Z。"
-        },
-        {
-          "url": "https://playwright.dev/docs/auth",
+          "url": "https://buildertrend.com/help-article/change-order-overview/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.videate.io/",
+          "url": "https://www.jobtread.com/features/change-orders",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.arcade.software/changelog",
+          "url": "https://pro.houzz.com/pro-help/r/creating-and-sending-change-orders",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://platform.openai.com/overview",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-16-idea-409e35a0",
-      "slug": "2026-08-16-idea-409e35a0",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-best-text-to-speech-app-for-a-browser",
+      "slug": "2026-08-17-best-text-to-speech-app-for-a-browser",
+      "date": "2026-08-17",
       "tier": "quick",
-      "title": "拍挑战前先对齐边界",
-      "one_liner": "双人创作者开拍前私下设好边界，由产品现场递进挑战并按轮次切出可发布素材。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-409e35a0.md",
+      "title": "点哪儿从哪儿读",
+      "one_liner": "浏览长网页读到一半想改用听读时，点中具体文字即可从该位置开始朗读。",
+      "url": "https://raytally.com/daily/2026-08-17/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-best-text-to-speech-app-for-a-browser.md",
       "signal": {
-        "query": "Ramdam - Tiktok Trends - August 2026",
-        "observed_at": "2026-08-16T00:33:10.355Z"
+        "query": "Best text to speech app for a browser?",
+        "observed_at": "2026-08-17T00:36:15.542Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-16-idea-91a40471",
-      "slug": "2026-08-16-idea-91a40471",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over",
+      "slug": "2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over",
+      "date": "2026-08-17",
       "tier": "featured",
-      "title": "按口味选下一本书",
-      "one_liner": "读者选下一本书时，按相近口味人群的两两选择和完读情况判断它是否适合自己。",
-      "url": "https://raytally.com/ideas/2026-08-16-idea-91a40471/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-91a40471.md",
+      "title": "跨应用叠加本地音轨",
+      "one_liner": "播放视频或音乐时叠加一条本地音轨，分别控制音量和循环，并让它跟随主播放器启停。",
+      "url": "https://raytally.com/ideas/2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over.md",
       "signal": {
-        "query": "i wish there was a reliable database to find books and broadly reliable ratings for them (ala Letterboxd) because GoodReads obviously isn’t shit coffee (@eventualforever) August 14, 2026",
-        "observed_at": "2026-08-16T00:34:12.603Z"
+        "query": "Is there any app that can play downloaded subliminals over anything youtube, Spotify whatever???",
+        "observed_at": "2026-08-17T00:36:15.542Z"
       },
       "sources": [
         {
-          "url": "https://x.com/eventualforever/status/2088407418044825767",
-          "boundary": "发布于 2026-08-14T23:28:23.000Z。 观测于 2026-08-16T00:34:12.603Z。"
+          "url": "https://www.reddit.com/r/Subliminal/comments/1vp2wbu/[redacted]/",
+          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-17T00:36:15.542Z。"
         },
         {
-          "url": "https://www.thestorygraph.com/",
+          "url": "https://developer.android.com/media/optimize/audio-focus",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.goodreads.com/review/guidelines",
+          "url": "https://developer.android.com/reference/android/media/session/MediaSessionManager",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://openlibrary.org/developers/api",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://everappz.com/docs/guide/evermusic/evermusic-guide-player/",
+          "boundary": "发布于 2019-12-31T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-16-big-mike",
-      "slug": "2026-08-16-big-mike",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-imessage-missing-native-ai-app-integration",
+      "slug": "2026-08-17-imessage-missing-native-ai-app-integration",
+      "date": "2026-08-17",
       "tier": "quick",
-      "title": "iMessage 看球竞猜",
-      "one_liner": "朋友看球聊到胜负时，在 iMessage 里发一句预测，就能开始自动封盘和结算的群聊竞猜。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-big-mike.md",
+      "title": "复制即问的 iMessage 键盘",
+      "one_liner": "聊天中需要解释或拟回复时，复制相关消息并点一下键盘，即可把结果直接放回 iMessage 输入框。",
+      "url": "https://raytally.com/daily/2026-08-17/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-imessage-missing-native-ai-app-integration.md",
       "signal": {
-        "query": "Big Mike",
-        "observed_at": "2026-08-16T00:33:10.354Z"
+        "query": "iMessage not being natively integrated with any of the AI applications gets more and more annoying every day. Yes, there are workaround, but Apple will never care enough to make it work really well. Austen Allred (@Austen) August 14, 2026",
+        "observed_at": "2026-08-17T00:34:03.026Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-16-idea-a4dcaf8a",
-      "slug": "2026-08-16-idea-a4dcaf8a",
-      "date": "2026-08-16",
+      "id": "idea-2026-08-17-too-many-separate-school-apps-per-child",
+      "slug": "2026-08-17-too-many-separate-school-apps-per-child",
+      "date": "2026-08-17",
       "tier": "featured",
-      "title": "夫妻共同约家里维修",
-      "one_liner": "家中设备和院子该维护时，自动询价、协调夫妻时间并预约师傅，完工记录由现场人员补齐。",
-      "url": "https://raytally.com/ideas/2026-08-16-idea-a4dcaf8a/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-a4dcaf8a.md",
+      "title": "学校事项免安装入口",
+      "one_liner": "家长收到学校事项后，点开临时网页即可签字、缴费或回复，无需为每个部门安装独立应用。",
+      "url": "https://raytally.com/ideas/2026-08-17-too-many-separate-school-apps-per-child/",
+      "brief_url": "https://raytally.com/ideas/2026-08-17-too-many-separate-school-apps-per-child.md",
       "signal": {
-        "query": "I’m not saying I’ve built a home maintenance app for my wife I that tracks all appliances, plants and yard stuff (with computer vision!) and then generates weekly todos with step-by-step instructions and photo + AI live chat repair assistance, but I’m not not saying it either. pic.twitter.com/wyHlYO",
-        "observed_at": "2026-08-16T00:34:12.603Z"
+        "query": "the biggest grifters in the world are the people who convinced and sold apps to school districts because WHY DO I HAVE THREE APPS ON MY PHONE FOR ONE CHILD?????? JUST SEND ME SOME PAPERS IN A DAMN FOLDER LIKE THE OLDEN TIMES David Dennis Jr. (@DavidDTSS) August 12, 2026",
+        "observed_at": "2026-08-17T00:34:03.026Z"
       },
       "sources": [
         {
-          "url": "https://x.com/Shpigford/status/2088728511653498954",
-          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-16T00:34:12.603Z。"
+          "url": "https://x.com/DavidDTSS/status/2087557504276505030",
+          "boundary": "发布于 2026-08-12T15:11:08.000Z。 观测于 2026-08-17T00:34:03.026Z。"
         },
         {
-          "url": "https://www.homezada.com/",
+          "url": "https://www.parentsquare.com/platform/parent-and-community-engagement/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.latchsolutions.com/",
+          "url": "https://www.finalforms.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developers.google.com/workspace/calendar/api/v3/reference/freebusy/query",
-          "boundary": "发布于 2026-05-12T00:00:00.000Z。"
+          "url": "https://docs.ed-fi.org/reference/ods-api/getting-started/",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
-    },
-    {
-      "id": "idea-2026-08-16-idea-6119b082",
-      "slug": "2026-08-16-idea-6119b082",
-      "date": "2026-08-16",
-      "tier": "quick",
-      "title": "公开帖照发，暂停关注",
-      "one_liner": "账号遭遇围观或骚扰时，自动移除暂停期内的新关注者，同时保持帖子公开可见。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-idea-6119b082.md",
-      "signal": {
-        "query": "I wish there was a way you could stop ppl from following you without making your page private. Like i cant have a follower moratorium or something FUCKJIGGYJAYY2 (@jiggyjayy2) August 14, 2026",
-        "observed_at": "2026-08-16T00:34:12.603Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-16-jordan-4-jackie-robinson-release",
-      "slug": "2026-08-16-jordan-4-jackie-robinson-release",
-      "date": "2026-08-16",
-      "tier": "quick",
-      "title": "限量鞋中签后换码",
-      "one_liner": "限量鞋买家抽中错误尺码后，可与持有互补尺码的人完成带鉴定和托管的直接交换。",
-      "url": "https://raytally.com/daily/2026-08-16/",
-      "brief_url": "https://raytally.com/ideas/2026-08-16-jordan-4-jackie-robinson-release.md",
-      "signal": {
-        "query": "jordan 4 jackie robinson release",
-        "observed_at": "2026-08-16T00:33:08.258Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-16T00:00:00.000Z"
-      },
-      "sources": []
     }
   ]
 }
