@@ -1,243 +1,306 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17",
+  "generated_at": "2026-08-18",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should",
-      "slug": "2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-gpt-5-6-sol-pricing-cut-by-50",
+      "slug": "2026-08-18-gpt-5-6-sol-pricing-cut-by-50",
+      "date": "2026-08-18",
       "tier": "featured",
-      "title": "远程开发板实验台",
-      "one_liner": "工程师买不到目标 RISC-V 板卡时，远程租用真实硬件，在线刷写固件并查看串口、波形和功耗。",
-      "url": "https://raytally.com/ideas/2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-a-3rd-world-embedded-engineer-responds-to-risc-v-they-should.md",
+      "title": "现场环拍补镜",
+      "one_liner": "现场人员离开前环拍一遍，产品即时指出漏拍位置，并交付可按工单核验的完工回放。",
+      "url": "https://raytally.com/ideas/2026-08-18-gpt-5-6-sol-pricing-cut-by-50/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-gpt-5-6-sol-pricing-cut-by-50.md",
       "signal": {
-        "query": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-        "observed_at": "2026-08-17T00:33:16.293Z"
+        "query": "GPT-5.6 Sol Pricing Cut by 50%",
+        "observed_at": "2026-08-18T00:33:03.303Z"
       },
       "sources": [
         {
-          "url": "https://rvembedded.com/blog_post/12/",
-          "boundary": "发布于 2026-08-16T00:00:00.000Z。 观测于 2026-08-17T00:33:16.293Z。"
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "boundary": "观测于 2026-08-18T00:33:03.303Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49321717",
-          "boundary": "发布于 2026-08-16T17:01:07.000Z。 观测于 2026-08-17T00:33:16.293Z。"
+          "url": "https://news.ycombinator.com/item?id=49337602",
+          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-18T00:33:03.303Z。"
         },
         {
-          "url": "https://labgrid.readthedocs.io/en/v25.0/index.html",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.lavasoftware.org/lava/introduction/concepts.html",
+          "url": "https://companycam.com/field-service-management-app",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-17-a-true-telnet-bbs-on-a-casio-calculator",
-      "slug": "2026-08-17-a-true-telnet-bbs-on-a-casio-calculator",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-indie-revenue-screenshot-editing",
+      "slug": "2026-08-18-indie-revenue-screenshot-editing",
+      "date": "2026-08-18",
       "tier": "quick",
-      "title": "老设备联机 BBS",
-      "one_liner": "复古硬件玩家让计算器、老终端与手机进入同一个会自动适配屏幕和字符的文字社区。",
-      "url": "https://raytally.com/daily/2026-08-17/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-a-true-telnet-bbs-on-a-casio-calculator.md",
+      "title": "匿名收入凭证",
+      "one_liner": "独立开发者分享收入里程碑时，直接发布隐藏产品身份且带数据来源证明的匿名收入卡。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-indie-revenue-screenshot-editing.md",
       "signal": {
-        "query": "A True Telnet BBS on a Casio Calculator",
-        "observed_at": "2026-08-17T00:33:16.293Z"
+        "query": "feature request for @RevenueCat : as a user, i want to be able to blur/hide the subscription product name and app icon on both web and mobile so that i can flex my revenue on X without having to manually edit the screenshot first acceptance criteria: one-click stealth mode… Burak Eregar (@burakerega",
+        "observed_at": "2026-08-18T00:33:58.719Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a",
-      "slug": "2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a",
-      "date": "2026-08-17",
-      "tier": "featured",
-      "title": "AI 改稿逐处确认",
-      "one_liner": "写作者让 AI 润色定稿时，只接收逐处可批准的文字补丁，避免全文被无声改写或混入隐藏字符。",
-      "url": "https://raytally.com/ideas/2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-anthropic-s-watermark-text-adulteration-in-claude-is-a.md",
+      "id": "idea-2026-08-18-fantasy-football-league-history-migration",
+      "slug": "2026-08-18-fantasy-football-league-history-migration",
+      "date": "2026-08-18",
+      "tier": "quick",
+      "title": "梦幻联赛档案搬家",
+      "one_liner": "联盟管理员换平台时连接新旧账号，先验收完整历史副本，再一次性迁入多年战绩与选秀记录。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-fantasy-football-league-history-migration.md",
       "signal": {
-        "query": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "observed_at": "2026-08-17T00:33:16.293Z"
+        "query": "Sleeper just made moving your league WAY easier. The new League History Import tool lets you bring your league history over from ESPN and other platforms without manually entering years of standings, champions, drafts, rosters and matchups. I just tested it. pic.twitter.com/wGJOJ4wYNO The B.O.A.T. C",
+        "observed_at": "2026-08-18T00:33:58.719Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-18-seeing-decks-in-bulk-collection-question",
+      "slug": "2026-08-18-seeing-decks-in-bulk-collection-question",
+      "date": "2026-08-18",
+      "tier": "featured",
+      "title": "今晚能组哪套 EDH",
+      "one_liner": "EDH 玩家想用手头卡开新指挥官时，产品按功能替换缺卡，直接给出今晚能玩的 100 张套牌。",
+      "url": "https://raytally.com/ideas/2026-08-18-seeing-decks-in-bulk-collection-question/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-seeing-decks-in-bulk-collection-question.md",
+      "signal": {
+        "query": "\"Seeing\" decks in Bulk - Collection Question",
+        "observed_at": "2026-08-18T00:36:17.064Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "boundary": "发布于 2026-08-16T21:53:43.000Z。 观测于 2026-08-17T00:33:16.293Z。"
+          "url": "https://www.reddit.com/r/EDH/comments/1vr7235/seeing_decks_in_bulk_collection_question/",
+          "boundary": "发布于 2026-08-17T22:31:12.000Z。 观测于 2026-08-18T00:36:17.064Z。"
         },
         {
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "boundary": "发布于 2026-08-16T00:00:00.000Z。 观测于 2026-08-17T00:33:16.293Z。"
+          "url": "https://github.com/AndreaGiulianini/bulkbrew",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developers.google.com/workspace/docs/api/how-tos/suggestions",
-          "boundary": "发布于 2026-07-21T00:00:00.000Z。"
+          "url": "https://mtgdeck.build/how-it-works",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.microsoft.com/en-US/Word/accept-or-reject-tracked-changes-in-word",
+          "url": "https://scryfall.com/docs/faqs/i-m-having-trouble-accessing-the-scryfall-api-or-i-m-blocked-17",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-17-joy",
-      "slug": "2026-08-17-joy",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-fairphone-6-and-postmarketos-working-main-camera",
+      "slug": "2026-08-18-fairphone-6-and-postmarketos-working-main-camera",
+      "date": "2026-08-18",
       "tier": "quick",
-      "title": "团队庆功彩蛋",
-      "one_liner": "远程同事提前埋下祝贺彩蛋，等艰难任务真正完成时在完成者桌面上一起揭晓。",
-      "url": "https://raytally.com/daily/2026-08-17/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-joy.md",
+      "title": "手机 Linux 试驾模式",
+      "one_liner": "想换手机 Linux 时先临时启动并实测相机、通话等功能，不动原数据就能判断能否日用。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-fairphone-6-and-postmarketos-working-main-camera.md",
       "signal": {
-        "query": "Joy",
-        "observed_at": "2026-08-17T00:33:16.672Z"
+        "query": "Fairphone 6 and PostmarketOS working main camera",
+        "observed_at": "2026-08-18T00:33:03.303Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-17-checklist-style-generator-for-adding-items-to-a-document",
-      "slug": "2026-08-17-checklist-style-generator-for-adding-items-to-a-document",
-      "date": "2026-08-17",
-      "tier": "quick",
-      "title": "勾选标准写进教案",
-      "one_liner": "教师备课时勾选本节课标准，插件立即把对应原文按规定格式写入现有教案模板。",
-      "url": "https://raytally.com/daily/2026-08-17/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-checklist-style-generator-for-adding-items-to-a-document.md",
-      "signal": {
-        "query": "Checklist-style generator for adding items to a document?",
-        "observed_at": "2026-08-17T00:36:15.542Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-17-costlogic",
-      "slug": "2026-08-17-costlogic",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-the-great-british-bake-off",
+      "slug": "2026-08-18-the-great-british-bake-off",
+      "date": "2026-08-18",
       "tier": "featured",
-      "title": "现场变更双签",
-      "one_liner": "现场临时增项时，施工方与客户当场逐项确认费用和工期，签完即可开工并写入下一期账单。",
-      "url": "https://raytally.com/ideas/2026-08-17-costlogic/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-costlogic.md",
+      "title": "同集开烤房",
+      "one_liner": "朋友边看烘焙节目边进同一房间，产品随当集进度放出家庭版步骤，带大家同步完成挑战。",
+      "url": "https://raytally.com/ideas/2026-08-18-the-great-british-bake-off/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-the-great-british-bake-off.md",
       "signal": {
-        "query": "CostLogic",
-        "observed_at": "2026-08-17T00:33:16.672Z"
+        "query": "the great british bake off",
+        "observed_at": "2026-08-18T00:33:01.191Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-17T12:10:00.000Z"
       },
       "sources": [
         {
-          "url": "https://buildertrend.com/help-article/change-order-overview/",
+          "url": "https://developer.apple.com/shazamkit/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.jobtread.com/features/change-orders",
+          "url": "https://ww1.teleparty.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://pro.houzz.com/pro-help/r/creating-and-sending-change-orders",
+          "url": "https://www.sidechef.com/faq/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://platform.openai.com/overview",
+          "url": "https://thegreatbritishbakeoff.co.uk/recipes/all/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-17-best-text-to-speech-app-for-a-browser",
-      "slug": "2026-08-17-best-text-to-speech-app-for-a-browser",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-bulbthings",
+      "slug": "2026-08-18-bulbthings",
+      "date": "2026-08-18",
       "tier": "quick",
-      "title": "点哪儿从哪儿读",
-      "one_liner": "浏览长网页读到一半想改用听读时，点中具体文字即可从该位置开始朗读。",
-      "url": "https://raytally.com/daily/2026-08-17/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-best-text-to-speech-app-for-a-browser.md",
+      "title": "碰一碰资产交接",
+      "one_liner": "设备跨团队流转时用双方碰签完成责任交接，缺件或损坏当场进入后续处理。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-bulbthings.md",
       "signal": {
-        "query": "Best text to speech app for a browser?",
-        "observed_at": "2026-08-17T00:36:15.542Z"
+        "query": "Bulbthings",
+        "observed_at": "2026-08-18T00:33:03.656Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over",
-      "slug": "2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-homestuck-pesterchum-nostalgia-chat",
+      "slug": "2026-08-18-homestuck-pesterchum-nostalgia-chat",
+      "date": "2026-08-18",
       "tier": "featured",
-      "title": "跨应用叠加本地音轨",
-      "one_liner": "播放视频或音乐时叠加一条本地音轨，分别控制音量和循环，并让它跟随主播放器启停。",
-      "url": "https://raytally.com/ideas/2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-is-there-any-app-that-can-play-downloaded-subliminals-over.md",
+      "title": "Chumhandle 彩字聊天室",
+      "one_liner": "Homestuck 粉丝用彩字、角色代号和输入怪癖日常聊天，读不懂时可一键还原原话。",
+      "url": "https://raytally.com/ideas/2026-08-18-homestuck-pesterchum-nostalgia-chat/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-homestuck-pesterchum-nostalgia-chat.md",
       "signal": {
-        "query": "Is there any app that can play downloaded subliminals over anything youtube, Spotify whatever???",
-        "observed_at": "2026-08-17T00:36:15.542Z"
+        "query": "I wish there was a Real version of Pesterchum i wish i could talk to my friends in Coloured Text and have a Chumhandle why has nobody done this ✮GLACIER✮ (@STAR_GLACIER_) August 15, 2026",
+        "observed_at": "2026-08-18T00:33:58.719Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/Subliminal/comments/1vp2wbu/[redacted]/",
-          "boundary": "发布于 2026-08-15T00:00:00.000Z。 观测于 2026-08-17T00:36:15.542Z。"
+          "url": "https://x.com/STAR_GLACIER_/status/2088744854545109175",
+          "boundary": "发布于 2026-08-15T21:49:14.000Z。 观测于 2026-08-18T00:33:58.719Z。"
         },
         {
-          "url": "https://developer.android.com/media/optimize/audio-focus",
+          "url": "https://www.pesterchum.xyz/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.android.com/reference/android/media/session/MediaSessionManager",
+          "url": "https://homestuck.net/pesterchum.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://everappz.com/docs/guide/evermusic/evermusic-guide-player/",
-          "boundary": "发布于 2019-12-31T00:00:00.000Z。"
+          "url": "https://spec.matrix.org/latest/",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-17-imessage-missing-native-ai-app-integration",
-      "slug": "2026-08-17-imessage-missing-native-ai-app-integration",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-ai-648f05e",
+      "slug": "2026-08-18-ai-648f05e",
+      "date": "2026-08-18",
       "tier": "quick",
-      "title": "复制即问的 iMessage 键盘",
-      "one_liner": "聊天中需要解释或拟回复时，复制相关消息并点一下键盘，即可把结果直接放回 iMessage 输入框。",
-      "url": "https://raytally.com/daily/2026-08-17/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-imessage-missing-native-ai-app-integration.md",
+      "title": "给 AI 首选挑刺",
+      "one_liner": "准备接受 AI 的第一件商品推荐时，一键核查规格、退货与评测，先找出足以否决购买的红旗。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-ai-648f05e.md",
       "signal": {
-        "query": "iMessage not being natively integrated with any of the AI applications gets more and more annoying every day. Yes, there are workaround, but Apple will never care enough to make it work really well. Austen Allred (@Austen) August 14, 2026",
-        "observed_at": "2026-08-17T00:34:03.026Z"
+        "query": "Consumers Already Trust AI's Top Pick. Most Brands Aren't Fighting For It.",
+        "observed_at": "2026-08-18T00:33:03.660Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-17-too-many-separate-school-apps-per-child",
-      "slug": "2026-08-17-too-many-separate-school-apps-per-child",
-      "date": "2026-08-17",
+      "id": "idea-2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of",
+      "slug": "2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of",
+      "date": "2026-08-18",
       "tier": "featured",
-      "title": "学校事项免安装入口",
-      "one_liner": "家长收到学校事项后，点开临时网页即可签字、缴费或回复，无需为每个部门安装独立应用。",
-      "url": "https://raytally.com/ideas/2026-08-17-too-many-separate-school-apps-per-child/",
-      "brief_url": "https://raytally.com/ideas/2026-08-17-too-many-separate-school-apps-per-child.md",
+      "title": "AI 补丁攻击重放",
+      "one_liner": "AI 自动修复进入合并前，产品重放真实攻击路径，证明漏洞已被堵住且没有打开新的越权入口。",
+      "url": "https://raytally.com/ideas/2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of.md",
       "signal": {
-        "query": "the biggest grifters in the world are the people who convinced and sold apps to school districts because WHY DO I HAVE THREE APPS ON MY PHONE FOR ONE CHILD?????? JUST SEND ME SOME PAPERS IN A DAMN FOLDER LIKE THE OLDEN TIMES David Dennis Jr. (@DavidDTSS) August 12, 2026",
-        "observed_at": "2026-08-17T00:34:03.026Z"
+        "query": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "observed_at": "2026-08-18T00:33:03.303Z"
       },
       "sources": [
         {
-          "url": "https://x.com/DavidDTSS/status/2087557504276505030",
-          "boundary": "发布于 2026-08-12T15:11:08.000Z。 观测于 2026-08-17T00:34:03.026Z。"
+          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-18T00:33:03.303Z。"
         },
         {
-          "url": "https://www.parentsquare.com/platform/parent-and-community-engagement/",
+          "url": "https://news.ycombinator.com/item?id=49331423",
+          "boundary": "发布于 2026-08-17T14:18:38.000Z。 观测于 2026-08-18T00:33:03.303Z。"
+        },
+        {
+          "url": "https://docs.brightsec.com/docs/star-intro",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.finalforms.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.ed-fi.org/reference/ods-api/getting-started/",
+          "url": "https://docs.stackhawk.com/getting-started/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
+    },
+    {
+      "id": "idea-2026-08-18-how-bluesky-draws-its-logo-on-screenshots",
+      "slug": "2026-08-18-how-bluesky-draws-its-logo-on-screenshots",
+      "date": "2026-08-18",
+      "tier": "quick",
+      "title": "截图自带出处",
+      "one_liner": "内容发布后即使被截屏裁切，图片仍保留不挡正文的出处和可返回原帖的短码。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-how-bluesky-draws-its-logo-on-screenshots.md",
+      "signal": {
+        "query": "How Bluesky draws its logo on screenshots",
+        "observed_at": "2026-08-18T00:33:03.303Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-18-git-dead-branch-manual-cleanup",
+      "slug": "2026-08-18-git-dead-branch-manual-cleanup",
+      "date": "2026-08-18",
+      "tier": "quick",
+      "title": "合并即归档分支",
+      "one_liner": "PR 合并后自动验证本地分支是否安全，能删的直接清理，有独有提交的先归档并给出恢复命令。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-git-dead-branch-manual-cleanup.md",
+      "signal": {
+        "query": "I got tired of having 50+ dead Git branches sitting on my machine after PRs get merged. Deleting them manually is annoying. git branch -D is also terrifying when you’re not 100% sure the work is actually gone. So I started building Brancla. A Git branch cleanup tool that… David Uchenna (@callmidavid",
+        "observed_at": "2026-08-18T00:33:58.719Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai",
+      "slug": "2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai",
+      "date": "2026-08-18",
+      "tier": "quick",
+      "title": "真人接管一分钟",
+      "one_liner": "语音机器人卡住时，把当前难题即时交给合适的真人处理，再带着结论继续通话。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai.md",
+      "signal": {
+        "query": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "observed_at": "2026-08-18T00:33:03.303Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-18-vtuber-meet-and-greet-keepsake-photos",
+      "slug": "2026-08-18-vtuber-meet-and-greet-keepsake-photos",
+      "date": "2026-08-18",
+      "tier": "quick",
+      "title": "双份见面会纪念册",
+      "one_liner": "见面会拍照后，虚拟主播与粉丝立即各得一份私人纪念照，并能逐张约定互赠或公开权限。",
+      "url": "https://raytally.com/daily/2026-08-18/",
+      "brief_url": "https://raytally.com/ideas/2026-08-18-vtuber-meet-and-greet-keepsake-photos.md",
+      "signal": {
+        "query": "The sad part about meet and greets no one talks about really is that, from our end, we don t ever get to see the pictures as a keepsake for us with all the people we meet! If we re lucky, they re posted online, but I wish there was a way even from our POV, we could keep something… Otoharu Riyo 🎤🦐 ",
+        "observed_at": "2026-08-18T00:33:58.719Z"
+      },
+      "sources": []
     }
   ]
 }
