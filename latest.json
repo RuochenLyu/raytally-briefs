@@ -1,304 +1,302 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18",
+  "generated_at": "2026-08-19",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-18-gpt-5-6-sol-pricing-cut-by-50",
-      "slug": "2026-08-18-gpt-5-6-sol-pricing-cut-by-50",
-      "date": "2026-08-18",
-      "tier": "featured",
-      "title": "现场环拍补镜",
-      "one_liner": "现场人员离开前环拍一遍，产品即时指出漏拍位置，并交付可按工单核验的完工回放。",
-      "url": "https://raytally.com/ideas/2026-08-18-gpt-5-6-sol-pricing-cut-by-50/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-gpt-5-6-sol-pricing-cut-by-50.md",
+      "id": "idea-2026-08-19-motion-photo-animated-wallpaper-samsung",
+      "slug": "2026-08-19-motion-photo-animated-wallpaper-samsung",
+      "date": "2026-08-19",
+      "tier": "quick",
+      "title": "动态照片变三星锁屏",
+      "one_liner": "三星用户想把动态照片设成壁纸时，直接得到循环自然且主体不被时钟遮挡的可用锁屏。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-motion-photo-animated-wallpaper-samsung.md",
       "signal": {
-        "query": "GPT-5.6 Sol Pricing Cut by 50%",
-        "observed_at": "2026-08-18T00:33:03.303Z"
+        "query": "motion photo animated wallpaper samsung",
+        "observed_at": "2026-08-19T00:33:29.268Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early",
+      "slug": "2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early",
+      "date": "2026-08-19",
+      "tier": "featured",
+      "title": "相邻日程导航",
+      "one_liner": "相邻安排撞在一起时，把时间、路程和提前到场偏好合成当前行动提示，避免早到一场却错过下一场。",
+      "url": "https://raytally.com/ideas/2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early.md",
+      "signal": {
+        "query": "Showed up for a meeting with CFO 30 min early",
+        "observed_at": "2026-08-19T00:38:56.675Z"
       },
       "sources": [
         {
-          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "boundary": "观测于 2026-08-18T00:33:03.303Z。"
+          "url": "https://www.reddit.com/r/ADHD/comments/1vs5voq/showed_up_for_a_meeting_with_cfo_30_min_early/",
+          "boundary": "发布于 2026-08-18T23:41:23.000Z。 观测于 2026-08-19T00:38:56.675Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49337602",
-          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-18T00:33:03.303Z。"
-        },
-        {
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "url": "https://developer.apple.com/documentation/eventkit/accessing-the-event-store",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://companycam.com/field-service-management-app",
+          "url": "https://developer.apple.com/documentation/mapkit/mkdirections",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.apple.com/en-euro/guide/iphone/iph3d110f84/ios",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-18-indie-revenue-screenshot-editing",
-      "slug": "2026-08-18-indie-revenue-screenshot-editing",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-claude-code-may-august-2026-weekly-limits-promotion",
+      "slug": "2026-08-19-claude-code-may-august-2026-weekly-limits-promotion",
+      "date": "2026-08-19",
       "tier": "quick",
-      "title": "匿名收入凭证",
-      "one_liner": "独立开发者分享收入里程碑时，直接发布隐藏产品身份且带数据来源证明的匿名收入卡。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-indie-revenue-screenshot-editing.md",
+      "title": "额度耗尽不断工",
+      "one_liner": "编码代理中途触及周限额时，自动保存可执行断点并把补丁交给备用模型继续完成。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-claude-code-may-august-2026-weekly-limits-promotion.md",
       "signal": {
-        "query": "feature request for @RevenueCat : as a user, i want to be able to blur/hide the subscription product name and app icon on both web and mobile so that i can flex my revenue on X without having to manually edit the screenshot first acceptance criteria: one-click stealth mode… Burak Eregar (@burakerega",
-        "observed_at": "2026-08-18T00:33:58.719Z"
+        "query": "Claude Code May–August 2026 weekly limits promotion",
+        "observed_at": "2026-08-19T00:33:30.390Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-18-fantasy-football-league-history-migration",
-      "slug": "2026-08-18-fantasy-football-league-history-migration",
-      "date": "2026-08-18",
-      "tier": "quick",
-      "title": "梦幻联赛档案搬家",
-      "one_liner": "联盟管理员换平台时连接新旧账号，先验收完整历史副本，再一次性迁入多年战绩与选秀记录。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-fantasy-football-league-history-migration.md",
-      "signal": {
-        "query": "Sleeper just made moving your league WAY easier. The new League History Import tool lets you bring your league history over from ESPN and other platforms without manually entering years of standings, champions, drafts, rosters and matchups. I just tested it. pic.twitter.com/wGJOJ4wYNO The B.O.A.T. C",
-        "observed_at": "2026-08-18T00:33:58.719Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-18-seeing-decks-in-bulk-collection-question",
-      "slug": "2026-08-18-seeing-decks-in-bulk-collection-question",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-memory-prices-climb-500-in-12-months",
+      "slug": "2026-08-19-memory-prices-climb-500-in-12-months",
+      "date": "2026-08-19",
       "tier": "featured",
-      "title": "今晚能组哪套 EDH",
-      "one_liner": "EDH 玩家想用手头卡开新指挥官时，产品按功能替换缺卡，直接给出今晚能玩的 100 张套牌。",
-      "url": "https://raytally.com/ideas/2026-08-18-seeing-decks-in-bulk-collection-question/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-seeing-decks-in-bulk-collection-question.md",
+      "title": "机房闲置内存市场",
+      "one_liner": "内存采购预算骤增时，从退役机房撮合经过压力测试且与现有服务器兼容的二手批次。",
+      "url": "https://raytally.com/ideas/2026-08-19-memory-prices-climb-500-in-12-months/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-memory-prices-climb-500-in-12-months.md",
       "signal": {
-        "query": "\"Seeing\" decks in Bulk - Collection Question",
-        "observed_at": "2026-08-18T00:36:17.064Z"
+        "query": "Memory prices climb 500% in 12 months",
+        "observed_at": "2026-08-19T00:33:30.390Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/EDH/comments/1vr7235/seeing_decks_in_bulk_collection_question/",
-          "boundary": "发布于 2026-08-17T22:31:12.000Z。 观测于 2026-08-18T00:36:17.064Z。"
+          "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+          "boundary": "观测于 2026-08-19T00:33:30.390Z。"
         },
         {
-          "url": "https://github.com/AndreaGiulianini/bulkbrew",
+          "url": "https://www.dell.com/support/kbdoc/en-us/000135681/supported-memory-configuration-guide-for-poweredge-servers",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://mtgdeck.build/how-it-works",
+          "url": "https://www.memtest86.com/ecc.htm",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://scryfall.com/docs/faqs/i-m-having-trouble-accessing-the-scryfall-api-or-i-m-blocked-17",
+          "url": "https://www.techbuyer.com/us/warranty",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-18-fairphone-6-and-postmarketos-working-main-camera",
-      "slug": "2026-08-18-fairphone-6-and-postmarketos-working-main-camera",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-august-18-ps-plus-update",
+      "slug": "2026-08-19-august-18-ps-plus-update",
+      "date": "2026-08-19",
       "tier": "quick",
-      "title": "手机 Linux 试驾模式",
-      "one_liner": "想换手机 Linux 时先临时启动并实测相机、通话等功能，不动原数据就能判断能否日用。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-fairphone-6-and-postmarketos-working-main-camera.md",
+      "title": "PS Plus 今晚开黑",
+      "one_liner": "好友群看到 PS Plus 更新时，直接找出今晚人人能玩且来得及安装的新游戏。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-august-18-ps-plus-update.md",
       "signal": {
-        "query": "Fairphone 6 and PostmarketOS working main camera",
-        "observed_at": "2026-08-18T00:33:03.303Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-18-the-great-british-bake-off",
-      "slug": "2026-08-18-the-great-british-bake-off",
-      "date": "2026-08-18",
-      "tier": "featured",
-      "title": "同集开烤房",
-      "one_liner": "朋友边看烘焙节目边进同一房间，产品随当集进度放出家庭版步骤，带大家同步完成挑战。",
-      "url": "https://raytally.com/ideas/2026-08-18-the-great-british-bake-off/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-the-great-british-bake-off.md",
-      "signal": {
-        "query": "the great british bake off",
-        "observed_at": "2026-08-18T00:33:01.191Z",
+        "query": "august 18 ps plus update",
+        "observed_at": "2026-08-19T00:33:26.792Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-17T12:10:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://developer.apple.com/shazamkit/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://ww1.teleparty.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.sidechef.com/faq/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://thegreatbritishbakeoff.co.uk/recipes/all/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-18-bulbthings",
-      "slug": "2026-08-18-bulbthings",
-      "date": "2026-08-18",
-      "tier": "quick",
-      "title": "碰一碰资产交接",
-      "one_liner": "设备跨团队流转时用双方碰签完成责任交接，缺件或损坏当场进入后续处理。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-bulbthings.md",
-      "signal": {
-        "query": "Bulbthings",
-        "observed_at": "2026-08-18T00:33:03.656Z"
+        "ended_at": "2026-08-18T00:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-18-homestuck-pesterchum-nostalgia-chat",
-      "slug": "2026-08-18-homestuck-pesterchum-nostalgia-chat",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-using-the-railway-network-as-a-flatbed-scanner",
+      "slug": "2026-08-19-using-the-railway-network-as-a-flatbed-scanner",
+      "date": "2026-08-19",
       "tier": "featured",
-      "title": "Chumhandle 彩字聊天室",
-      "one_liner": "Homestuck 粉丝用彩字、角色代号和输入怪癖日常聊天，读不懂时可一键还原原话。",
-      "url": "https://raytally.com/ideas/2026-08-18-homestuck-pesterchum-nostalgia-chat/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-homestuck-pesterchum-nostalgia-chat.md",
+      "title": "车窗线扫长卷",
+      "one_liner": "乘火车经过连续景观时，用列车运动把车窗录像拼成一幅可滚动、可印成海报的沿线长卷。",
+      "url": "https://raytally.com/ideas/2026-08-19-using-the-railway-network-as-a-flatbed-scanner/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-using-the-railway-network-as-a-flatbed-scanner.md",
       "signal": {
-        "query": "I wish there was a Real version of Pesterchum i wish i could talk to my friends in Coloured Text and have a Chumhandle why has nobody done this ✮GLACIER✮ (@STAR_GLACIER_) August 15, 2026",
-        "observed_at": "2026-08-18T00:33:58.719Z"
+        "query": "Using the railway network as a flatbed scanner",
+        "observed_at": "2026-08-19T00:33:30.390Z"
       },
       "sources": [
         {
-          "url": "https://x.com/STAR_GLACIER_/status/2088744854545109175",
-          "boundary": "发布于 2026-08-15T21:49:14.000Z。 观测于 2026-08-18T00:33:58.719Z。"
+          "url": "https://news.ycombinator.com/item?id=49344825",
+          "boundary": "发布于 2026-08-18T00:00:00.000Z。 观测于 2026-08-19T00:33:30.390Z。"
         },
         {
-          "url": "https://www.pesterchum.xyz/",
+          "url": "https://philo.gay/linecam/",
+          "boundary": "观测于 2026-08-19T00:33:30.390Z。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/stratum-slit-scan/id1525313915",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://homestuck.net/pesterchum.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://spec.matrix.org/latest/",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam",
+          "boundary": "发布于 2026-05-17T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-18-ai-648f05e",
-      "slug": "2026-08-18-ai-648f05e",
-      "date": "2026-08-18",
-      "tier": "quick",
-      "title": "给 AI 首选挑刺",
-      "one_liner": "准备接受 AI 的第一件商品推荐时，一键核查规格、退货与评测，先找出足以否决购买的红旗。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-ai-648f05e.md",
-      "signal": {
-        "query": "Consumers Already Trust AI's Top Pick. Most Brands Aren't Fighting For It.",
-        "observed_at": "2026-08-18T00:33:03.660Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of",
-      "slug": "2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-idea-3ec6fce3",
+      "slug": "2026-08-19-idea-3ec6fce3",
+      "date": "2026-08-19",
       "tier": "featured",
-      "title": "AI 补丁攻击重放",
-      "one_liner": "AI 自动修复进入合并前，产品重放真实攻击路径，证明漏洞已被堵住且没有打开新的越权入口。",
-      "url": "https://raytally.com/ideas/2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-ai-generated-github-copilot-autofix-allowed-compromise-of.md",
+      "title": "返校错峰团购",
+      "one_liner": "同校家庭先合购开学当天必需品，再把服装等商品锁价到确认需求后按尺码兑换。",
+      "url": "https://raytally.com/ideas/2026-08-19-idea-3ec6fce3/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-3ec6fce3.md",
       "signal": {
-        "query": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "observed_at": "2026-08-18T00:33:03.303Z"
+        "query": "Back-to-school spending could be ‘moderate at best’",
+        "observed_at": "2026-08-19T00:33:31.223Z"
       },
       "sources": [
         {
-          "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-18T00:33:03.303Z。"
+          "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
+          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-19T00:33:31.223Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49331423",
-          "boundary": "发布于 2026-08-17T14:18:38.000Z。 观测于 2026-08-18T00:33:03.303Z。"
-        },
-        {
-          "url": "https://docs.brightsec.com/docs/star-intro",
+          "url": "https://docs.stripe.com/payments/setup-intents",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.stackhawk.com/getting-started/",
+          "url": "https://www.edukitinc.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.customink.com/audience/education/school-uniforms",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-18-how-bluesky-draws-its-logo-on-screenshots",
-      "slug": "2026-08-18-how-bluesky-draws-its-logo-on-screenshots",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-idea-ed2642cd",
+      "slug": "2026-08-19-idea-ed2642cd",
+      "date": "2026-08-19",
       "tier": "quick",
-      "title": "截图自带出处",
-      "one_liner": "内容发布后即使被截屏裁切，图片仍保留不挡正文的出处和可返回原帖的短码。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-how-bluesky-draws-its-logo-on-screenshots.md",
+      "title": "八秒点子试映",
+      "one_liner": "短视频正式拍摄前，让陌生观众复述八秒样片的预期，判断一个点子是否足够清楚有钩子。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-ed2642cd.md",
       "signal": {
-        "query": "How Bluesky draws its logo on screenshots",
-        "observed_at": "2026-08-18T00:33:03.303Z"
+        "query": "What Is Trending on TikTok — August 2026 Weekly Report",
+        "observed_at": "2026-08-19T00:33:31.223Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-18-git-dead-branch-manual-cleanup",
-      "slug": "2026-08-18-git-dead-branch-manual-cleanup",
-      "date": "2026-08-18",
-      "tier": "quick",
-      "title": "合并即归档分支",
-      "one_liner": "PR 合并后自动验证本地分支是否安全，能删的直接清理，有独有提交的先归档并给出恢复命令。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-git-dead-branch-manual-cleanup.md",
+      "id": "idea-2026-08-19-2027-dodge-charger-red-oxide",
+      "slug": "2026-08-19-2027-dodge-charger-red-oxide",
+      "date": "2026-08-19",
+      "tier": "featured",
+      "title": "新车漆实拍接力",
+      "one_liner": "预订新车前，查看目标车漆在多种真实光线下的标准化实拍，还可向附近实车发起补拍请求。",
+      "url": "https://raytally.com/ideas/2026-08-19-2027-dodge-charger-red-oxide/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-2027-dodge-charger-red-oxide.md",
       "signal": {
-        "query": "I got tired of having 50+ dead Git branches sitting on my machine after PRs get merged. Deleting them manually is annoying. git branch -D is also terrifying when you’re not 100% sure the work is actually gone. So I started building Brancla. A Git branch cleanup tool that… David Uchenna (@callmidavid",
-        "observed_at": "2026-08-18T00:33:58.719Z"
+        "query": "2027 dodge charger red oxide",
+        "observed_at": "2026-08-19T00:33:26.792Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-18T10:30:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.autoblog.com/news/dodge-charger-gets-a-stunning-new-paint-color-borrowed-from-the-durango",
+          "boundary": "发布于 2026-08-18T00:00:00.000Z。"
+        },
+        {
+          "url": "https://developer.android.com/reference/android/hardware/camera2/CaptureRequest",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.opencv.org/4.12.0/d1/dc1/tutorial_ccm_color_correction_model.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.autostyleai.com/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-19-idea-44e43573",
+      "slug": "2026-08-19-idea-44e43573",
+      "date": "2026-08-19",
+      "tier": "quick",
+      "title": "浓缩树脂清空键",
+      "one_liner": "玩家结束活动又不想继续刷本时，可安全清除或自动放弃多余树脂，立即腾出库存。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-44e43573.md",
+      "signal": {
+        "query": "But that only last two day. After that you still need to go spend the condensed resin. I wish there was a way to simply destiny condensed resin from inventory. Cbas (@Cbas788) August 15, 2026",
+        "observed_at": "2026-08-19T00:34:30.843Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai",
-      "slug": "2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-jackie-and-shadow",
+      "slug": "2026-08-19-jackie-and-shadow",
+      "date": "2026-08-19",
       "tier": "quick",
-      "title": "真人接管一分钟",
-      "one_liner": "语音机器人卡住时，把当前难题即时交给合适的真人处理，再带着结论继续通话。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-launch-hn-speko-yc-s26-openrouter-for-voice-ai.md",
+      "title": "鹰巢直播事件簿",
+      "one_liner": "鹰巢直播出现特殊动静时，观众共同标记现场，马上得到可回看的片段和可信行为解读。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-jackie-and-shadow.md",
       "signal": {
-        "query": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-        "observed_at": "2026-08-18T00:33:03.303Z"
+        "query": "jackie and shadow",
+        "observed_at": "2026-08-19T00:33:26.792Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-19T00:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-18-vtuber-meet-and-greet-keepsake-photos",
-      "slug": "2026-08-18-vtuber-meet-and-greet-keepsake-photos",
-      "date": "2026-08-18",
+      "id": "idea-2026-08-19-idea-71bea67a",
+      "slug": "2026-08-19-idea-71bea67a",
+      "date": "2026-08-19",
       "tier": "quick",
-      "title": "双份见面会纪念册",
-      "one_liner": "见面会拍照后，虚拟主播与粉丝立即各得一份私人纪念照，并能逐张约定互赠或公开权限。",
-      "url": "https://raytally.com/daily/2026-08-18/",
-      "brief_url": "https://raytally.com/ideas/2026-08-18-vtuber-meet-and-greet-keepsake-photos.md",
+      "title": "打电话办年度话费",
+      "one_liner": "不熟悉手机应用的 BSNL 用户打一个电话即可选年度套餐、请家人代付并完成充值。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-71bea67a.md",
       "signal": {
-        "query": "The sad part about meet and greets no one talks about really is that, from our end, we don t ever get to see the pictures as a keepsake for us with all the people we meet! If we re lucky, they re posted online, but I wish there was a way even from our POV, we could keep something… Otoharu Riyo 🎤🦐 ",
-        "observed_at": "2026-08-18T00:33:58.719Z"
+        "query": "मैनपुरी",
+        "observed_at": "2026-08-19T00:33:29.268Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-19-2026-toe-nail-fashion-trends",
+      "slug": "2026-08-19-2026-toe-nail-fashion-trends",
+      "date": "2026-08-19",
+      "tier": "quick",
+      "title": "足部美甲试穿镜",
+      "one_liner": "顾客做足部美甲前现场试穿流行设计，与美甲师确认效果后立即得到可执行的款式和报价。",
+      "url": "https://raytally.com/daily/2026-08-19/",
+      "brief_url": "https://raytally.com/ideas/2026-08-19-2026-toe-nail-fashion-trends.md",
+      "signal": {
+        "query": "2026 toe nail fashion trends",
+        "observed_at": "2026-08-19T00:33:26.792Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-18T19:20:00.000Z"
       },
       "sources": []
     }
