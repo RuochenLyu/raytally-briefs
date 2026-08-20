@@ -1,302 +1,268 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19",
+  "generated_at": "2026-08-20",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-19-motion-photo-animated-wallpaper-samsung",
-      "slug": "2026-08-19-motion-photo-animated-wallpaper-samsung",
-      "date": "2026-08-19",
-      "tier": "quick",
-      "title": "动态照片变三星锁屏",
-      "one_liner": "三星用户想把动态照片设成壁纸时，直接得到循环自然且主体不被时钟遮挡的可用锁屏。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-motion-photo-animated-wallpaper-samsung.md",
-      "signal": {
-        "query": "motion photo animated wallpaper samsung",
-        "observed_at": "2026-08-19T00:33:29.268Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early",
-      "slug": "2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early",
-      "date": "2026-08-19",
+      "id": "idea-2026-08-20-college",
+      "slug": "2026-08-20-college",
+      "date": "2026-08-20",
       "tier": "featured",
-      "title": "相邻日程导航",
-      "one_liner": "相邻安排撞在一起时，把时间、路程和提前到场偏好合成当前行动提示，避免早到一场却错过下一场。",
-      "url": "https://raytally.com/ideas/2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-showed-up-for-a-meeting-with-cfo-30-min-early.md",
+      "title": "宿舍用品跨届接力",
+      "one_liner": "新生确定宿舍后预订跨届流转的适配用品，入住当天在楼下领取已经核验过的二手大件。",
+      "url": "https://raytally.com/ideas/2026-08-20-college/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-college.md",
       "signal": {
-        "query": "Showed up for a meeting with CFO 30 min early",
-        "observed_at": "2026-08-19T00:38:56.675Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/ADHD/comments/1vs5voq/showed_up_for_a_meeting_with_cfo_30_min_early/",
-          "boundary": "发布于 2026-08-18T23:41:23.000Z。 观测于 2026-08-19T00:38:56.675Z。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/eventkit/accessing-the-event-store",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/mapkit/mkdirections",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.apple.com/en-euro/guide/iphone/iph3d110f84/ios",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-19-claude-code-may-august-2026-weekly-limits-promotion",
-      "slug": "2026-08-19-claude-code-may-august-2026-weekly-limits-promotion",
-      "date": "2026-08-19",
-      "tier": "quick",
-      "title": "额度耗尽不断工",
-      "one_liner": "编码代理中途触及周限额时，自动保存可执行断点并把补丁交给备用模型继续完成。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-claude-code-may-august-2026-weekly-limits-promotion.md",
-      "signal": {
-        "query": "Claude Code May–August 2026 weekly limits promotion",
-        "observed_at": "2026-08-19T00:33:30.390Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-19-memory-prices-climb-500-in-12-months",
-      "slug": "2026-08-19-memory-prices-climb-500-in-12-months",
-      "date": "2026-08-19",
-      "tier": "featured",
-      "title": "机房闲置内存市场",
-      "one_liner": "内存采购预算骤增时，从退役机房撮合经过压力测试且与现有服务器兼容的二手批次。",
-      "url": "https://raytally.com/ideas/2026-08-19-memory-prices-climb-500-in-12-months/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-memory-prices-climb-500-in-12-months.md",
-      "signal": {
-        "query": "Memory prices climb 500% in 12 months",
-        "observed_at": "2026-08-19T00:33:30.390Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-          "boundary": "观测于 2026-08-19T00:33:30.390Z。"
-        },
-        {
-          "url": "https://www.dell.com/support/kbdoc/en-us/000135681/supported-memory-configuration-guide-for-poweredge-servers",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.memtest86.com/ecc.htm",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.techbuyer.com/us/warranty",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-19-august-18-ps-plus-update",
-      "slug": "2026-08-19-august-18-ps-plus-update",
-      "date": "2026-08-19",
-      "tier": "quick",
-      "title": "PS Plus 今晚开黑",
-      "one_liner": "好友群看到 PS Plus 更新时，直接找出今晚人人能玩且来得及安装的新游戏。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-august-18-ps-plus-update.md",
-      "signal": {
-        "query": "august 18 ps plus update",
-        "observed_at": "2026-08-19T00:33:26.792Z",
+        "query": "college",
+        "observed_at": "2026-08-20T00:33:09.367Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-18T00:40:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-19-using-the-railway-network-as-a-flatbed-scanner",
-      "slug": "2026-08-19-using-the-railway-network-as-a-flatbed-scanner",
-      "date": "2026-08-19",
-      "tier": "featured",
-      "title": "车窗线扫长卷",
-      "one_liner": "乘火车经过连续景观时，用列车运动把车窗录像拼成一幅可滚动、可印成海报的沿线长卷。",
-      "url": "https://raytally.com/ideas/2026-08-19-using-the-railway-network-as-a-flatbed-scanner/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-using-the-railway-network-as-a-flatbed-scanner.md",
-      "signal": {
-        "query": "Using the railway network as a flatbed scanner",
-        "observed_at": "2026-08-19T00:33:30.390Z"
+        "ended_at": "2026-08-19T15:20:00.000Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49344825",
-          "boundary": "发布于 2026-08-18T00:00:00.000Z。 观测于 2026-08-19T00:33:30.390Z。"
-        },
-        {
-          "url": "https://philo.gay/linecam/",
-          "boundary": "观测于 2026-08-19T00:33:30.390Z。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/stratum-slit-scan/id1525313915",
+          "url": "https://www.campusreclaimed.com/pages/sell",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://play.google.com/store/apps/details?id=com.jp.koyoarai.SliceTimeCam",
-          "boundary": "发布于 2026-05-17T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-19-idea-3ec6fce3",
-      "slug": "2026-08-19-idea-3ec6fce3",
-      "date": "2026-08-19",
-      "tier": "featured",
-      "title": "返校错峰团购",
-      "one_liner": "同校家庭先合购开学当天必需品，再把服装等商品锁价到确认需求后按尺码兑换。",
-      "url": "https://raytally.com/ideas/2026-08-19-idea-3ec6fce3/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-3ec6fce3.md",
-      "signal": {
-        "query": "Back-to-school spending could be ‘moderate at best’",
-        "observed_at": "2026-08-19T00:33:31.223Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
-          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-19T00:33:31.223Z。"
-        },
-        {
-          "url": "https://docs.stripe.com/payments/setup-intents",
+          "url": "https://www.dormxchange.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.edukitinc.com/",
+          "url": "https://www.dormroommovers.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.customink.com/audience/education/school-uniforms",
+          "url": "https://docs.stripe.com/connect/marketplace",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-19-idea-ed2642cd",
-      "slug": "2026-08-19-idea-ed2642cd",
-      "date": "2026-08-19",
+      "id": "idea-2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for",
+      "slug": "2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for",
+      "date": "2026-08-20",
       "tier": "quick",
-      "title": "八秒点子试映",
-      "one_liner": "短视频正式拍摄前，让陌生观众复述八秒样片的预期，判断一个点子是否足够清楚有钩子。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-ed2642cd.md",
+      "title": "原生开始菜单分组编辑",
+      "one_liner": "Windows 11 用户拖动应用到自定义分类，并把结果直接应用到原生开始菜单而无需更换菜单样式。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for.md",
       "signal": {
-        "query": "What Is Trending on TikTok — August 2026 Weekly Report",
-        "observed_at": "2026-08-19T00:33:31.223Z"
+        "query": "is there a tool that would let me customize the folders for start menu?",
+        "observed_at": "2026-08-20T00:37:48.367Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-19-2027-dodge-charger-red-oxide",
-      "slug": "2026-08-19-2027-dodge-charger-red-oxide",
-      "date": "2026-08-19",
-      "tier": "featured",
-      "title": "新车漆实拍接力",
-      "one_liner": "预订新车前，查看目标车漆在多种真实光线下的标准化实拍，还可向附近实车发起补拍请求。",
-      "url": "https://raytally.com/ideas/2026-08-19-2027-dodge-charger-red-oxide/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-2027-dodge-charger-red-oxide.md",
+      "id": "idea-2026-08-20-auto-brightness-overriding-manual-phone-settings",
+      "slug": "2026-08-20-auto-brightness-overriding-manual-phone-settings",
+      "date": "2026-08-20",
+      "tier": "quick",
+      "title": "手动亮度优先一会儿",
+      "one_liner": "Android 用户手动调暗屏幕后暂时冻结自动亮度，直到熄屏或环境明显变化才恢复系统控制。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-auto-brightness-overriding-manual-phone-settings.md",
       "signal": {
-        "query": "2027 dodge charger red oxide",
-        "observed_at": "2026-08-19T00:33:26.792Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-18T10:30:00.000Z"
+        "query": "I hate it when I manually change my phones brightness and then like 2 seconds later it changes itself on its own💀 Yapper .𖥔 ݁ ˖ִ🛸༄˖°. (@CFCYapper) August 18, 2026",
+        "observed_at": "2026-08-20T00:34:09.360Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and",
+      "slug": "2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and",
+      "date": "2026-08-20",
+      "tier": "featured",
+      "title": "广告评论灭火队列",
+      "one_liner": "广告持续投放时，优先找出处在高曝光位置且正在扩散的负面评论，直接分派给客服处理。",
+      "url": "https://raytally.com/ideas/2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and.md",
+      "signal": {
+        "query": "Negative comments on our ads are destroying performance and we have no system to catch them",
+        "observed_at": "2026-08-20T00:37:48.367Z"
       },
       "sources": [
         {
-          "url": "https://www.autoblog.com/news/dodge-charger-gets-a-stunning-new-paint-color-borrowed-from-the-durango",
-          "boundary": "发布于 2026-08-18T00:00:00.000Z。"
+          "url": "https://www.reddit.com/r/FacebookAds/comments/1vt1m9u/[redacted]/",
+          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-20T00:37:48.367Z。"
         },
         {
-          "url": "https://developer.android.com/reference/android/hardware/camera2/CaptureRequest",
+          "url": "https://www.postman.com/meta/facebook-marketing-api/request/8kvi2rw/getcreativedetails",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.opencv.org/4.12.0/d1/dc1/tutorial_ccm_color_correction_model.html",
+          "url": "https://www.postman.com/meta/facebook-marketing-api/request/u07tack/get-ad-insights-l1",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.autostyleai.com/",
+          "url": "https://napoleoncat.com/blog/monitor-facebook-ads-comments/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-19-idea-44e43573",
-      "slug": "2026-08-19-idea-44e43573",
-      "date": "2026-08-19",
+      "id": "idea-2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare",
+      "slug": "2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare",
+      "date": "2026-08-20",
       "tier": "quick",
-      "title": "浓缩树脂清空键",
-      "one_liner": "玩家结束活动又不想继续刷本时，可安全清除或自动放弃多余树脂，立即腾出库存。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-44e43573.md",
+      "title": "域名跨境试读",
+      "one_liner": "注册玩笑或双关域名前，把候选名称交给目标地区母语读者盲读，提前发现政治含义与跨文化误读。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare.md",
       "signal": {
-        "query": "But that only last two day. After that you still need to go spend the condensed resin. I wish there was a way to simply destiny condensed resin from inventory. Cbas (@Cbas788) August 15, 2026",
-        "observed_at": "2026-08-19T00:34:30.843Z"
+        "query": "A joke domain purchase turned in geopolitical warfare",
+        "observed_at": "2026-08-20T00:33:11.147Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-19-jackie-and-shadow",
-      "slug": "2026-08-19-jackie-and-shadow",
-      "date": "2026-08-19",
-      "tier": "quick",
-      "title": "鹰巢直播事件簿",
-      "one_liner": "鹰巢直播出现特殊动静时，观众共同标记现场，马上得到可回看的片段和可信行为解读。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-jackie-and-shadow.md",
+      "id": "idea-2026-08-20-clipto-mcp",
+      "slug": "2026-08-20-clipto-mcp",
+      "date": "2026-08-20",
+      "tier": "featured",
+      "title": "导播口令找镜头",
+      "one_liner": "直播现场临时需要旧镜头时，导播说出口令便能把本地素材中的候选片段直接预载到播出仓位。",
+      "url": "https://raytally.com/ideas/2026-08-20-clipto-mcp/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-clipto-mcp.md",
       "signal": {
-        "query": "jackie and shadow",
-        "observed_at": "2026-08-19T00:33:26.792Z",
+        "query": "Clipto MCP",
+        "observed_at": "2026-08-20T00:33:11.777Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/clipto-ai",
+          "boundary": "观测于 2026-08-20T00:33:11.777Z。"
+        },
+        {
+          "url": "https://www.clipto.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://obsproject.com/kb/media-sources",
+          "boundary": "发布于 2022-01-11T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.axle.ai/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your",
+      "slug": "2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your",
+      "date": "2026-08-20",
+      "tier": "featured",
+      "title": "摄像头隔空合奏",
+      "one_liner": "课堂或视频活动开始时，把每个人的摄像头动作变成一个乐器声部，几分钟内组成可同步演奏的隔空乐队。",
+      "url": "https://raytally.com/ideas/2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your.md",
+      "signal": {
+        "query": "Air Theremin – A browser theremin you play by waving at your webcam",
+        "observed_at": "2026-08-20T00:33:11.147Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49359425",
+          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-20T00:33:11.147Z。"
+        },
+        {
+          "url": "https://developers.google.com/mediapipe/solutions/vision/hand_landmarker/web_js",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://go.experiments.withgoogle.com/shared-piano",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.soundbeam.co.uk/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-20-oogie-boogie-bash-2026",
+      "slug": "2026-08-20-oogie-boogie-bash-2026",
+      "date": "2026-08-20",
+      "tier": "quick",
+      "title": "多人排队买票接棒",
+      "one_liner": "多人同时排队购买稀缺活动门票时，实时分配场次与下单人，避免重复购买或全员错过。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-oogie-boogie-bash-2026.md",
+      "signal": {
+        "query": "oogie boogie bash 2026",
+        "observed_at": "2026-08-20T00:33:09.367Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-19T00:00:00.000Z"
+        "ended_at": "2026-08-19T07:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-19-idea-71bea67a",
-      "slug": "2026-08-19-idea-71bea67a",
-      "date": "2026-08-19",
-      "tier": "quick",
-      "title": "打电话办年度话费",
-      "one_liner": "不熟悉手机应用的 BSNL 用户打一个电话即可选年度套餐、请家人代付并完成充值。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-idea-71bea67a.md",
+      "id": "idea-2026-08-20-cheap-slow-ai-inference-alternative",
+      "slug": "2026-08-20-cheap-slow-ai-inference-alternative",
+      "date": "2026-08-20",
+      "tier": "featured",
+      "title": "按截止时间计价的 AI 推理",
+      "one_liner": "开发者提交可延迟的 AI 批处理任务和截止时间，服务等待低价算力并在期限内交付结果。",
+      "url": "https://raytally.com/ideas/2026-08-20-cheap-slow-ai-inference-alternative/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-cheap-slow-ai-inference-alternative.md",
       "signal": {
-        "query": "मैनपुरी",
-        "observed_at": "2026-08-19T00:33:29.268Z",
-        "window_hours": 168,
-        "active": true
+        "query": "i think someone should build an opposite of @cerebras (sarberec?) instead of crazy fast inference at an even higher price point, make it run the best models more slowly but dirt cheap let s do a poll to test demand. which would you use more? Kun Chen (@kunchenguid) August 17, 2026",
+        "observed_at": "2026-08-20T00:34:09.360Z"
       },
-      "sources": []
+      "sources": [
+        {
+          "url": "https://x.com/kunchenguid/status/2089474794240745928",
+          "boundary": "发布于 2026-08-17T22:09:46.000Z。 观测于 2026-08-20T00:34:09.360Z。"
+        },
+        {
+          "url": "https://ai.google.dev/gemini-api/docs/generate-content/flex-inference",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.openai.com/api/reference/resources/batches",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     },
     {
-      "id": "idea-2026-08-19-2026-toe-nail-fashion-trends",
-      "slug": "2026-08-19-2026-toe-nail-fashion-trends",
-      "date": "2026-08-19",
+      "id": "idea-2026-08-20-pokemon-polaroid-camera",
+      "slug": "2026-08-20-pokemon-polaroid-camera",
+      "date": "2026-08-20",
       "tier": "quick",
-      "title": "足部美甲试穿镜",
-      "one_liner": "顾客做足部美甲前现场试穿流行设计，与美甲师确认效果后立即得到可执行的款式和报价。",
-      "url": "https://raytally.com/daily/2026-08-19/",
-      "brief_url": "https://raytally.com/ideas/2026-08-19-2026-toe-nail-fashion-trends.md",
+      "title": "宝可梦拍立得任务局",
+      "one_liner": "朋友首次带宝可梦拍立得出门时，用逐张解锁的实体拍摄任务把一盒相纸变成共同冒险。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-pokemon-polaroid-camera.md",
       "signal": {
-        "query": "2026 toe nail fashion trends",
-        "observed_at": "2026-08-19T00:33:26.792Z",
+        "query": "pokemon cameras",
+        "observed_at": "2026-08-20T00:33:09.367Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-18T19:20:00.000Z"
+        "ended_at": "2026-08-19T20:20:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-20-apple-watch-watchos-27-updates",
+      "slug": "2026-08-20-apple-watch-watchos-27-updates",
+      "date": "2026-08-20",
+      "tier": "quick",
+      "title": "更新后的手腕演练",
+      "one_liner": "手表更新完成后，用一分钟触觉实操带用户学会新手势和改动过的常用入口。",
+      "url": "https://raytally.com/daily/2026-08-20/",
+      "brief_url": "https://raytally.com/ideas/2026-08-20-apple-watch-watchos-27-updates.md",
+      "signal": {
+        "query": "apple watch watchos 27 updates",
+        "observed_at": "2026-08-20T00:33:09.367Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-19T17:00:00.000Z"
       },
       "sources": []
     }
