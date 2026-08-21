@@ -1,268 +1,286 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20",
+  "generated_at": "2026-08-21",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-20-college",
-      "slug": "2026-08-20-college",
-      "date": "2026-08-20",
-      "tier": "featured",
-      "title": "宿舍用品跨届接力",
-      "one_liner": "新生确定宿舍后预订跨届流转的适配用品，入住当天在楼下领取已经核验过的二手大件。",
-      "url": "https://raytally.com/ideas/2026-08-20-college/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-college.md",
+      "id": "idea-2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks",
+      "slug": "2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks",
+      "date": "2026-08-21",
+      "tier": "quick",
+      "title": "网页静默音频拦截",
+      "one_liner": "蓝牙耳机被网页莫名抢占时，拦截静默音频会话并指出责任标签页。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks.md",
       "signal": {
-        "query": "college",
-        "observed_at": "2026-08-20T00:33:09.367Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-19T15:20:00.000Z"
+        "query": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "observed_at": "2026-08-21T00:33:29.380Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload",
+      "slug": "2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload",
+      "date": "2026-08-21",
+      "tier": "featured",
+      "title": "Rust 构建脚本沙箱",
+      "one_liner": "开发者首次构建新 Rust 依赖时，按 crate 隔离构建脚本，越界读写或联网必须先获准。",
+      "url": "https://raytally.com/ideas/2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload.md",
+      "signal": {
+        "query": "Malicious Rust crate Arrayref runs a build-time payload",
+        "observed_at": "2026-08-21T00:33:29.380Z"
       },
       "sources": [
         {
-          "url": "https://www.campusreclaimed.com/pages/sell",
+          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "boundary": "发布于 2026-08-20T00:00:00.000Z。 观测于 2026-08-21T00:33:29.380Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49374269",
+          "boundary": "发布于 2026-08-20T00:00:00.000Z。 观测于 2026-08-21T00:33:29.380Z。"
+        },
+        {
+          "url": "https://rust-lang.github.io/rust-project-goals/2024h2/sandboxed-build-script.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.dormxchange.com/",
+          "url": "https://docs.rs/crate/cargo-safe/0.1.1",
+          "boundary": "发布于 2025-11-23T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-21-i-need-some-help",
+      "slug": "2026-08-21-i-need-some-help",
+      "date": "2026-08-21",
+      "tier": "featured",
+      "title": "示范节奏的钢琴回声",
+      "one_liner": "演奏者示范一次节奏后，数字钢琴便按这段间隔自动重奏，松开踏板立即恢复原声。",
+      "url": "https://raytally.com/ideas/2026-08-21-i-need-some-help/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-i-need-some-help.md",
+      "signal": {
+        "query": "I need some help",
+        "observed_at": "2026-08-21T00:38:07.702Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/Music/comments/1vtlowt/i_need_some_help/",
+          "boundary": "发布于 2026-08-20T14:52:28.000Z。 观测于 2026-08-21T00:38:07.702Z。"
+        },
+        {
+          "url": "https://usa.yamaha.com/files/download/other_assets/6/1545676/ydp165_145_s55_s35_en_mr_b0.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.dormroommovers.com/",
+          "url": "https://github.com/thestk/rtmidi",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.stripe.com/connect/marketplace",
+          "url": "https://www.ableton.com/en/live-manual/11/max-for-live-devices/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for",
-      "slug": "2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-idea-aed80ba8",
+      "slug": "2026-08-21-idea-aed80ba8",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "原生开始菜单分组编辑",
-      "one_liner": "Windows 11 用户拖动应用到自定义分类，并把结果直接应用到原生开始菜单而无需更换菜单样式。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-is-there-a-tool-that-would-let-me-customize-the-folders-for.md",
+      "title": "同龄盲揭晓短片",
+      "one_liner": "家人拍同龄反差视频时盲交素材，揭晓后立即得到带真实反应的双时间线短片。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-aed80ba8.md",
       "signal": {
-        "query": "is there a tool that would let me customize the folders for start menu?",
-        "observed_at": "2026-08-20T00:37:48.367Z"
+        "query": "TikTok Trends August 2026 – What’s Trending Right Now (Updated Weekly)",
+        "observed_at": "2026-08-21T00:33:30.185Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-20-auto-brightness-overriding-manual-phone-settings",
-      "slug": "2026-08-20-auto-brightness-overriding-manual-phone-settings",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-idea-2c85fd70",
+      "slug": "2026-08-21-idea-2c85fd70",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "手动亮度优先一会儿",
-      "one_liner": "Android 用户手动调暗屏幕后暂时冻结自动亮度，直到熄屏或环境明显变化才恢复系统控制。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-auto-brightness-overriding-manual-phone-settings.md",
+      "title": "伸缩硬齿解结刷",
+      "one_liner": "长发遇到小结时临时伸出硬齿解结，再用软刷毛顺发，减少拉扯头皮。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-2c85fd70.md",
       "signal": {
-        "query": "I hate it when I manually change my phones brightness and then like 2 seconds later it changes itself on its own💀 Yapper .𖥔 ݁ ˖ִ🛸༄˖°. (@CFCYapper) August 18, 2026",
-        "observed_at": "2026-08-20T00:34:09.360Z"
+        "query": "they need to stop making hair brush bristles softer and softer, I dont care how much cheaper the soft plastic is or if the prevents damage I cant even get thru small knots anymore Jeni 🇺🇸 🇺🇸 (@MostBoringJeni) August 19, 2026",
+        "observed_at": "2026-08-21T00:34:33.027Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and",
-      "slug": "2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-idea-88a8000e",
+      "slug": "2026-08-21-idea-88a8000e",
+      "date": "2026-08-21",
       "tier": "featured",
-      "title": "广告评论灭火队列",
-      "one_liner": "广告持续投放时，优先找出处在高曝光位置且正在扩散的负面评论，直接分派给客服处理。",
-      "url": "https://raytally.com/ideas/2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-negative-comments-on-our-ads-are-destroying-performance-and.md",
+      "title": "一扳就换的缝纫压脚",
+      "one_liner": "手指疼痛的缝纫者换压脚时，扳一下大杠杆就能安全拆装，不必再拧小螺丝。",
+      "url": "https://raytally.com/ideas/2026-08-21-idea-88a8000e/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-88a8000e.md",
       "signal": {
-        "query": "Negative comments on our ads are destroying performance and we have no system to catch them",
-        "observed_at": "2026-08-20T00:37:48.367Z"
+        "query": "Someone, anyone, can you please make a standard sewing machine with quick connect feet? The multi-tool they provide to loosen the mounting screw is a nightmare. I can’t imagine how frustrating it is for senior sewers with arthritis. Please and thank you. 🇺🇸 pic.twitter.com/CqsgmCkUkW Sharon🤘🏻⚜️\ud83c",
+        "observed_at": "2026-08-21T00:34:33.027Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/FacebookAds/comments/1vt1m9u/[redacted]/",
-          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-20T00:37:48.367Z。"
+          "url": "https://x.com/Punky725/status/2090541278203167090",
+          "boundary": "发布于 2026-08-20T20:47:35.000Z。 观测于 2026-08-21T00:34:33.027Z。"
         },
         {
-          "url": "https://www.postman.com/meta/facebook-marketing-api/request/8kvi2rw/getcreativedetails",
+          "url": "https://www.brother-usa.com/-/media/brother/product-catalog-media/documents/2020/08/21/15/30/xg3339001_50403.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.postman.com/meta/facebook-marketing-api/request/u07tack/get-ad-insights-l1",
+          "url": "https://www.janome.com/wp-content/uploads/2024/09/inst-book-jem-gold-plus-661g-08bh-en-sp-fr.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://napoleoncat.com/blog/monitor-facebook-ads-comments/",
+          "url": "https://madamsew.com/products/low-shank-snap-on-adapter",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare",
-      "slug": "2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-bl",
+      "slug": "2026-08-21-bl",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "域名跨境试读",
-      "one_liner": "注册玩笑或双关域名前，把候选名称交给目标地区母语读者盲读，提前发现政治含义与跨文化误读。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-a-joke-domain-purchase-turned-in-geopolitical-warfare.md",
+      "title": "BL 跨站续读书架",
+      "one_liner": "BL 读者跨多个应用追更时，自动续读并合并异名作品，新章出现即可从未读处打开。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-bl.md",
       "signal": {
-        "query": "A joke domain purchase turned in geopolitical warfare",
-        "observed_at": "2026-08-20T00:33:11.147Z"
+        "query": "At some point reading BL stopped being a hobby and became database administration 😭 Spreadsheets. 5 apps. 50 open tabs. Outdated ugly trackers. Finding out a new chapter dropped through spoilers. I got sick of it. ↓ https://t.co/LMuUyfudjN Byul 💫 星 Founder at NextChapter (@Byul_132001) August 16, ",
+        "observed_at": "2026-08-21T00:34:33.027Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-20-clipto-mcp",
-      "slug": "2026-08-20-clipto-mcp",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them",
+      "slug": "2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them",
+      "date": "2026-08-21",
       "tier": "featured",
-      "title": "导播口令找镜头",
-      "one_liner": "直播现场临时需要旧镜头时，导播说出口令便能把本地素材中的候选片段直接预载到播出仓位。",
-      "url": "https://raytally.com/ideas/2026-08-20-clipto-mcp/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-clipto-mcp.md",
+      "title": "合租购物车防重单",
+      "one_liner": "合租者在线结账时，自动发现室友刚买过或正在买的同类用品，避免重复下单。",
+      "url": "https://raytally.com/ideas/2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them.md",
       "signal": {
-        "query": "Clipto MCP",
-        "observed_at": "2026-08-20T00:33:11.777Z"
+        "query": "Small double-buys that add up, how do you prevent them?",
+        "observed_at": "2026-08-21T00:38:07.702Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/clipto-ai",
-          "boundary": "观测于 2026-08-20T00:33:11.777Z。"
+          "url": "https://www.reddit.com/r/Frugal/comments/1vtmknf/small_doublebuys_that_add_up_how_do_you_prevent/",
+          "boundary": "发布于 2026-08-20T15:25:21.000Z。 观测于 2026-08-21T00:38:07.702Z。"
         },
         {
-          "url": "https://www.clipto.com/",
+          "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://obsproject.com/kb/media-sources",
-          "boundary": "发布于 2022-01-11T00:00:00.000Z。"
+          "url": "https://firebase.google.com/docs/firestore/manage-data/transactions",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.axle.ai/",
+          "url": "https://www.anylist.com/lists",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your",
-      "slug": "2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-diffusiongemma-technical-report",
+      "slug": "2026-08-21-diffusiongemma-technical-report",
+      "date": "2026-08-21",
       "tier": "featured",
-      "title": "摄像头隔空合奏",
-      "one_liner": "课堂或视频活动开始时，把每个人的摄像头动作变成一个乐器声部，几分钟内组成可同步演奏的隔空乐队。",
-      "url": "https://raytally.com/ideas/2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-air-theremin-a-browser-theremin-you-play-by-waving-at-your.md",
+      "title": "钉住段落再重写",
+      "one_liner": "写作者起草长文时钉住满意段落，让其余内容整页迭代，迅速收敛成完整草稿。",
+      "url": "https://raytally.com/ideas/2026-08-21-diffusiongemma-technical-report/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-diffusiongemma-technical-report.md",
       "signal": {
-        "query": "Air Theremin – A browser theremin you play by waving at your webcam",
-        "observed_at": "2026-08-20T00:33:11.147Z"
+        "query": "DiffusionGemma Technical Report",
+        "observed_at": "2026-08-21T00:33:29.380Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49359425",
-          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-20T00:33:11.147Z。"
+          "url": "https://ai.google.dev/gemma/docs/diffusiongemma",
+          "boundary": "发布于 2026-06-10T00:00:00.000Z。"
         },
         {
-          "url": "https://developers.google.com/mediapipe/solutions/vision/hand_landmarker/web_js",
+          "url": "https://news.ycombinator.com/item?id=49374287",
+          "boundary": "发布于 2026-08-20T13:24:32.000Z。 观测于 2026-08-21T00:33:29.380Z。"
+        },
+        {
+          "url": "https://docs.sudowrite.com/getting-started/dQph1snuwbfMWG9wRjsNug/what-is-sudowrite/iwppfTjfffZTFaa7eBzJoQ",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://go.experiments.withgoogle.com/shared-piano",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.soundbeam.co.uk/",
+          "url": "https://docs.novelcrafter.com/en/articles/8677729-revision-history/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-20-oogie-boogie-bash-2026",
-      "slug": "2026-08-20-oogie-boogie-bash-2026",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-html-can-do-that",
+      "slug": "2026-08-21-html-can-do-that",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "多人排队买票接棒",
-      "one_liner": "多人同时排队购买稀缺活动门票时，实时分配场次与下单人，避免重复购买或全员错过。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-oogie-boogie-bash-2026.md",
+      "title": "原生 HTML 改码建议",
+      "one_liner": "前端提交代码时，自动找出重复实现的浏览器能力，并给出经过测试的原生 HTML 补丁。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-html-can-do-that.md",
       "signal": {
-        "query": "oogie boogie bash 2026",
-        "observed_at": "2026-08-20T00:33:09.367Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-19T07:40:00.000Z"
+        "query": "HTML Can Do That",
+        "observed_at": "2026-08-21T00:33:29.380Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-20-cheap-slow-ai-inference-alternative",
-      "slug": "2026-08-20-cheap-slow-ai-inference-alternative",
-      "date": "2026-08-20",
-      "tier": "featured",
-      "title": "按截止时间计价的 AI 推理",
-      "one_liner": "开发者提交可延迟的 AI 批处理任务和截止时间，服务等待低价算力并在期限内交付结果。",
-      "url": "https://raytally.com/ideas/2026-08-20-cheap-slow-ai-inference-alternative/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-cheap-slow-ai-inference-alternative.md",
-      "signal": {
-        "query": "i think someone should build an opposite of @cerebras (sarberec?) instead of crazy fast inference at an even higher price point, make it run the best models more slowly but dirt cheap let s do a poll to test demand. which would you use more? Kun Chen (@kunchenguid) August 17, 2026",
-        "observed_at": "2026-08-20T00:34:09.360Z"
-      },
-      "sources": [
-        {
-          "url": "https://x.com/kunchenguid/status/2089474794240745928",
-          "boundary": "发布于 2026-08-17T22:09:46.000Z。 观测于 2026-08-20T00:34:09.360Z。"
-        },
-        {
-          "url": "https://ai.google.dev/gemini-api/docs/generate-content/flex-inference",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.openai.com/api/reference/resources/batches",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-20-pokemon-polaroid-camera",
-      "slug": "2026-08-20-pokemon-polaroid-camera",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-hacking-with-claude-on-a-27-smart-watch",
+      "slug": "2026-08-21-hacking-with-claude-on-a-27-smart-watch",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "宝可梦拍立得任务局",
-      "one_liner": "朋友首次带宝可梦拍立得出门时，用逐张解锁的实体拍摄任务把一盒相纸变成共同冒险。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-pokemon-polaroid-camera.md",
+      "title": "27 美元手表改造台",
+      "one_liner": "爱好者描述想做的手表功能后，产品自动编译、刷写和实机测试，还能随时回滚。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-hacking-with-claude-on-a-27-smart-watch.md",
       "signal": {
-        "query": "pokemon cameras",
-        "observed_at": "2026-08-20T00:33:09.367Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-19T20:20:00.000Z"
+        "query": "Hacking with Claude on a $27 smart watch",
+        "observed_at": "2026-08-21T00:33:29.380Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-20-apple-watch-watchos-27-updates",
-      "slug": "2026-08-20-apple-watch-watchos-27-updates",
-      "date": "2026-08-20",
+      "id": "idea-2026-08-21-the-new-calendly",
+      "slug": "2026-08-21-the-new-calendly",
+      "date": "2026-08-21",
       "tier": "quick",
-      "title": "更新后的手腕演练",
-      "one_liner": "手表更新完成后，用一分钟触觉实操带用户学会新手势和改动过的常用入口。",
-      "url": "https://raytally.com/daily/2026-08-20/",
-      "brief_url": "https://raytally.com/ideas/2026-08-20-apple-watch-watchos-27-updates.md",
+      "title": "有共识就取消会议",
+      "one_liner": "团队发出决策邀约后先异步收集立场，有共识就散会，否则只处理剩余分歧。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-the-new-calendly.md",
       "signal": {
-        "query": "apple watch watchos 27 updates",
-        "observed_at": "2026-08-20T00:33:09.367Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-19T17:00:00.000Z"
+        "query": "The New Calendly",
+        "observed_at": "2026-08-21T00:33:30.181Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-21-roveri",
+      "slug": "2026-08-21-roveri",
+      "date": "2026-08-21",
+      "tier": "quick",
+      "title": "骑迹接力画布",
+      "one_liner": "骑行群把地图图案拆给成员认领，用真实轨迹共同完成一幅城市画。",
+      "url": "https://raytally.com/daily/2026-08-21/",
+      "brief_url": "https://raytally.com/ideas/2026-08-21-roveri.md",
+      "signal": {
+        "query": "Roveri",
+        "observed_at": "2026-08-21T00:33:30.181Z"
       },
       "sources": []
     }
