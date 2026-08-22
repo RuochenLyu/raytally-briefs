@@ -1,286 +1,245 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21",
+  "generated_at": "2026-08-22",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks",
-      "slug": "2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks",
-      "date": "2026-08-21",
-      "tier": "quick",
-      "title": "网页静默音频拦截",
-      "one_liner": "蓝牙耳机被网页莫名抢占时，拦截静默音频会话并指出责任标签页。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-aliexpress-runs-silent-webaudio-fingerprinting-that-breaks.md",
-      "signal": {
-        "query": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-        "observed_at": "2026-08-21T00:33:29.380Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload",
-      "slug": "2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban",
+      "slug": "2026-08-22-ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban",
+      "date": "2026-08-22",
       "tier": "featured",
-      "title": "Rust 构建脚本沙箱",
-      "one_liner": "开发者首次构建新 Rust 依赖时，按 crate 隔离构建脚本，越界读写或联网必须先获准。",
-      "url": "https://raytally.com/ideas/2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-malicious-rust-crate-arrayref-runs-a-build-time-payload.md",
+      "title": "仍在招聘回执",
+      "one_liner": "求职者填写申请前先查看招聘系统签发的在招回执；负责人逾期不确认，岗位自动停止收件。",
+      "url": "https://raytally.com/ideas/2026-08-22-ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban.md",
       "signal": {
-        "query": "Malicious Rust crate Arrayref runs a build-time payload",
-        "observed_at": "2026-08-21T00:33:29.380Z"
+        "query": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+        "observed_at": "2026-08-22T00:33:14.683Z"
       },
       "sources": [
         {
-          "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "boundary": "发布于 2026-08-20T00:00:00.000Z。 观测于 2026-08-21T00:33:29.380Z。"
+          "url": "https://news.ycombinator.com/item?id=49394373",
+          "boundary": "发布于 2026-08-21T22:15:46.000Z。 观测于 2026-08-22T00:33:14.683Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49374269",
-          "boundary": "发布于 2026-08-20T00:00:00.000Z。 观测于 2026-08-21T00:33:29.380Z。"
-        },
-        {
-          "url": "https://rust-lang.github.io/rust-project-goals/2024h2/sandboxed-build-script.html",
+          "url": "https://developer.greenhouse.io/job-board.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.rs/crate/cargo-safe/0.1.1",
-          "boundary": "发布于 2025-11-23T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-21-i-need-some-help",
-      "slug": "2026-08-21-i-need-some-help",
-      "date": "2026-08-21",
-      "tier": "featured",
-      "title": "示范节奏的钢琴回声",
-      "one_liner": "演奏者示范一次节奏后，数字钢琴便按这段间隔自动重奏，松开踏板立即恢复原声。",
-      "url": "https://raytally.com/ideas/2026-08-21-i-need-some-help/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-i-need-some-help.md",
-      "signal": {
-        "query": "I need some help",
-        "observed_at": "2026-08-21T00:38:07.702Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/Music/comments/1vtlowt/i_need_some_help/",
-          "boundary": "发布于 2026-08-20T14:52:28.000Z。 观测于 2026-08-21T00:38:07.702Z。"
-        },
-        {
-          "url": "https://usa.yamaha.com/files/download/other_assets/6/1545676/ydp165_145_s55_s35_en_mr_b0.pdf",
+          "url": "https://github.com/lever/postings-api",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/thestk/rtmidi",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.ableton.com/en/live-manual/11/max-for-live-devices/",
+          "url": "https://www.linkedin.com/help/linkedin/answer/a1698113",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-21-idea-aed80ba8",
-      "slug": "2026-08-21-idea-aed80ba8",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-kobo-can-run-apps-now",
+      "slug": "2026-08-22-kobo-can-run-apps-now",
+      "date": "2026-08-22",
       "tier": "quick",
-      "title": "同龄盲揭晓短片",
-      "one_liner": "家人拍同龄反差视频时盲交素材，揭晓后立即得到带真实反应的双时间线短片。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-aed80ba8.md",
+      "title": "Kobo 同页批注",
+      "one_liner": "朋友共读 Kobo 电子书时，批注只在双方抵达同一页后出现，让讨论贴着原文发生且不剧透。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-kobo-can-run-apps-now.md",
       "signal": {
-        "query": "TikTok Trends August 2026 – What’s Trending Right Now (Updated Weekly)",
-        "observed_at": "2026-08-21T00:33:30.185Z"
+        "query": "Kobo can run apps now",
+        "observed_at": "2026-08-22T00:33:14.683Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-21-idea-2c85fd70",
-      "slug": "2026-08-21-idea-2c85fd70",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-claudette-make-claude-stop-talking-like-a-buzzfeed-article",
+      "slug": "2026-08-22-claudette-make-claude-stop-talking-like-a-buzzfeed-article",
+      "date": "2026-08-22",
       "tier": "quick",
-      "title": "伸缩硬齿解结刷",
-      "one_liner": "长发遇到小结时临时伸出硬齿解结，再用软刷毛顺发，减少拉扯头皮。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-2c85fd70.md",
+      "title": "Claude 句式静音",
+      "one_liner": "用户在 Claude 回答中划掉一次讨厌的句式，当前段落立即改写，之后同类表达自动消失。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-claudette-make-claude-stop-talking-like-a-buzzfeed-article.md",
       "signal": {
-        "query": "they need to stop making hair brush bristles softer and softer, I dont care how much cheaper the soft plastic is or if the prevents damage I cant even get thru small knots anymore Jeni 🇺🇸 🇺🇸 (@MostBoringJeni) August 19, 2026",
-        "observed_at": "2026-08-21T00:34:33.027Z"
+        "query": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "observed_at": "2026-08-22T00:33:14.683Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-21-idea-88a8000e",
-      "slug": "2026-08-21-idea-88a8000e",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms",
+      "slug": "2026-08-22-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms",
+      "date": "2026-08-22",
       "tier": "featured",
-      "title": "一扳就换的缝纫压脚",
-      "one_liner": "手指疼痛的缝纫者换压脚时，扳一下大杠杆就能安全拆装，不必再拧小螺丝。",
-      "url": "https://raytally.com/ideas/2026-08-21-idea-88a8000e/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-idea-88a8000e.md",
+      "title": "边输入边开口的发声板",
+      "one_liner": "辅助沟通者输入到半句就能开始发声，未播出的词仍可修改，让合成语音跟上面对面对话。",
+      "url": "https://raytally.com/ideas/2026-08-22-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-how-we-made-a-text-to-speech-model-respond-in-sub-50-ms.md",
       "signal": {
-        "query": "Someone, anyone, can you please make a standard sewing machine with quick connect feet? The multi-tool they provide to loosen the mounting screw is a nightmare. I can’t imagine how frustrating it is for senior sewers with arthritis. Please and thank you. 🇺🇸 pic.twitter.com/CqsgmCkUkW Sharon🤘🏻⚜️\ud83c",
-        "observed_at": "2026-08-21T00:34:33.027Z"
+        "query": "How we made a text-to-speech model respond in sub-50 ms",
+        "observed_at": "2026-08-22T00:33:14.683Z"
       },
       "sources": [
         {
-          "url": "https://x.com/Punky725/status/2090541278203167090",
-          "boundary": "发布于 2026-08-20T20:47:35.000Z。 观测于 2026-08-21T00:34:33.027Z。"
+          "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-22T00:33:14.683Z。"
         },
         {
-          "url": "https://www.brother-usa.com/-/media/brother/product-catalog-media/documents/2020/08/21/15/30/xg3339001_50403.pdf",
+          "url": "https://news.ycombinator.com/item?id=49389952",
+          "boundary": "发布于 2026-08-21T15:51:10.000Z。 观测于 2026-08-22T00:33:14.683Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/AVFAudio/AVSpeechSynthesizer",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.janome.com/wp-content/uploads/2024/09/inst-book-jem-gold-plus-661g-08bh-en-sp-fr.pdf",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://madamsew.com/products/low-shank-snap-on-adapter",
+          "url": "https://apps.apple.com/us/app/proloquo4text-aac/id751646884",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-21-bl",
-      "slug": "2026-08-21-bl",
-      "date": "2026-08-21",
-      "tier": "quick",
-      "title": "BL 跨站续读书架",
-      "one_liner": "BL 读者跨多个应用追更时，自动续读并合并异名作品，新章出现即可从未读处打开。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-bl.md",
+      "id": "idea-2026-08-22-decayfmt-a-file-format-that-corrupts-itself-a-little-every",
+      "slug": "2026-08-22-decayfmt-a-file-format-that-corrupts-itself-a-little-every",
+      "date": "2026-08-22",
+      "tier": "featured",
+      "title": "打开即褪色的数字礼物",
+      "one_liner": "把照片、声音或文字送成共享的有限礼物；每次打开都会消耗所有收件人共同拥有的清晰度。",
+      "url": "https://raytally.com/ideas/2026-08-22-decayfmt-a-file-format-that-corrupts-itself-a-little-every/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-decayfmt-a-file-format-that-corrupts-itself-a-little-every.md",
       "signal": {
-        "query": "At some point reading BL stopped being a hobby and became database administration 😭 Spreadsheets. 5 apps. 50 open tabs. Outdated ugly trackers. Finding out a new chapter dropped through spoilers. I got sick of it. ↓ https://t.co/LMuUyfudjN Byul 💫 星 Founder at NextChapter (@Byul_132001) August 16, ",
-        "observed_at": "2026-08-21T00:34:33.027Z"
+        "query": "Decayfmt – a file format that corrupts itself a little every time you open it",
+        "observed_at": "2026-08-22T00:33:14.683Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49390206",
+          "boundary": "发布于 2026-08-21T00:00:00.000Z。 观测于 2026-08-22T00:33:14.683Z。"
+        },
+        {
+          "url": "https://github.com/aravpanwar/decayfmt",
+          "boundary": "观测于 2026-08-22T00:33:14.683Z。"
+        },
+        {
+          "url": "https://support.signal.org/hc/en-us/articles/360038443071-View-Once-Media",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.cloudflare.com/r2/api/s3/presigned-urls/",
+          "boundary": "发布于 2026-04-24T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-22-offline-music-player-with-smart-playlists-and-lyric-tag",
+      "slug": "2026-08-22-offline-music-player-with-smart-playlists-and-lyric-tag",
+      "date": "2026-08-22",
+      "tier": "quick",
+      "title": "本地音乐规则电台",
+      "one_liner": "离线听歌时，用户选定曲库范围和播放规则，播放器即时生成动态队列并显示文件自带歌词。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-offline-music-player-with-smart-playlists-and-lyric-tag.md",
+      "signal": {
+        "query": "Offline music player with smart playlists, and lyric tag integration",
+        "observed_at": "2026-08-22T00:36:13.406Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them",
-      "slug": "2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them",
-      "date": "2026-08-21",
-      "tier": "featured",
-      "title": "合租购物车防重单",
-      "one_liner": "合租者在线结账时，自动发现室友刚买过或正在买的同类用品，避免重复下单。",
-      "url": "https://raytally.com/ideas/2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-small-double-buys-that-add-up-how-do-you-prevent-them.md",
+      "id": "idea-2026-08-22-celebrity-masterchef-2026",
+      "slug": "2026-08-22-celebrity-masterchef-2026",
+      "date": "2026-08-22",
+      "tier": "quick",
+      "title": "边看边尝的厨艺盲品盒",
+      "one_liner": "播出前订一盒本地厨师制作的盲品，节目进行到对应菜品时再同步开盒、试吃和投票。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-celebrity-masterchef-2026.md",
       "signal": {
-        "query": "Small double-buys that add up, how do you prevent them?",
-        "observed_at": "2026-08-21T00:38:07.702Z"
+        "query": "celebrity masterchef 2026",
+        "observed_at": "2026-08-22T00:33:13.573Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-21T21:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-22-wizstar",
+      "slug": "2026-08-22-wizstar",
+      "date": "2026-08-22",
+      "tier": "featured",
+      "title": "可喊停的数字演员",
+      "one_liner": "导演排演动画场景时可随时喊停数字角色，从当前拍点重演并导出可编辑的表演参考。",
+      "url": "https://raytally.com/ideas/2026-08-22-wizstar/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-wizstar.md",
+      "signal": {
+        "query": "Wizstar",
+        "observed_at": "2026-08-22T00:33:15.671Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/Frugal/comments/1vtmknf/small_doublebuys_that_add_up_how_do_you_prevent/",
-          "boundary": "发布于 2026-08-20T15:25:21.000Z。 观测于 2026-08-21T00:38:07.702Z。"
+          "url": "https://www.producthunt.com/products/wizstar",
+          "boundary": "观测于 2026-08-22T00:33:15.671Z。"
         },
         {
-          "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts",
+          "url": "https://dev.epicgames.com/documentation/metahuman/audio-driven-animation",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://firebase.google.com/docs/firestore/manage-data/transactions",
+          "url": "https://opentimelineio.readthedocs.io/en/latest/api/python/opentimelineio.schema.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.anylist.com/lists",
+          "url": "https://manual.reallusion.com/iclone-8/Content/ENU/8.6/50-Animation/Pro_Facial_Animation/Using-HD-Face-Control-Panel-and-Timeline-Display.htm",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-21-diffusiongemma-technical-report",
-      "slug": "2026-08-21-diffusiongemma-technical-report",
-      "date": "2026-08-21",
-      "tier": "featured",
-      "title": "钉住段落再重写",
-      "one_liner": "写作者起草长文时钉住满意段落，让其余内容整页迭代，迅速收敛成完整草稿。",
-      "url": "https://raytally.com/ideas/2026-08-21-diffusiongemma-technical-report/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-diffusiongemma-technical-report.md",
-      "signal": {
-        "query": "DiffusionGemma Technical Report",
-        "observed_at": "2026-08-21T00:33:29.380Z"
-      },
-      "sources": [
-        {
-          "url": "https://ai.google.dev/gemma/docs/diffusiongemma",
-          "boundary": "发布于 2026-06-10T00:00:00.000Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49374287",
-          "boundary": "发布于 2026-08-20T13:24:32.000Z。 观测于 2026-08-21T00:33:29.380Z。"
-        },
-        {
-          "url": "https://docs.sudowrite.com/getting-started/dQph1snuwbfMWG9wRjsNug/what-is-sudowrite/iwppfTjfffZTFaa7eBzJoQ",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.novelcrafter.com/en/articles/8677729-revision-history/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-21-html-can-do-that",
-      "slug": "2026-08-21-html-can-do-that",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-gap-malbon",
+      "slug": "2026-08-22-gap-malbon",
+      "date": "2026-08-22",
       "tier": "quick",
-      "title": "原生 HTML 改码建议",
-      "one_liner": "前端提交代码时，自动找出重复实现的浏览器能力，并给出经过测试的原生 HTML 补丁。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-html-can-do-that.md",
+      "title": "联名服装多人换码",
+      "one_liner": "联名款到货却不合身时，撮合多人闭环换码并中转验货，让买家换到合适尺码。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-gap-malbon.md",
       "signal": {
-        "query": "HTML Can Do That",
-        "observed_at": "2026-08-21T00:33:29.380Z"
+        "query": "gap malbon",
+        "observed_at": "2026-08-22T00:33:11.188Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-21T17:10:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-21-hacking-with-claude-on-a-27-smart-watch",
-      "slug": "2026-08-21-hacking-with-claude-on-a-27-smart-watch",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-looking-for-similar-apps-like-choices",
+      "slug": "2026-08-22-looking-for-similar-apps-like-choices",
+      "date": "2026-08-22",
       "tier": "quick",
-      "title": "27 美元手表改造台",
-      "one_liner": "爱好者描述想做的手表功能后，产品自动编译、刷写和实机测试，还能随时回滚。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-hacking-with-claude-on-a-27-smart-watch.md",
+      "title": "互动小说 AI 制作档案",
+      "one_liner": "读者挑选互动小说时，可按可核查的 AI 使用方式、题材和选择后果筛选，立即找到符合偏好的作品。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-looking-for-similar-apps-like-choices.md",
       "signal": {
-        "query": "Hacking with Claude on a $27 smart watch",
-        "observed_at": "2026-08-21T00:33:29.380Z"
+        "query": "Looking for similar apps like Choices",
+        "observed_at": "2026-08-22T00:36:13.406Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-21-the-new-calendly",
-      "slug": "2026-08-21-the-new-calendly",
-      "date": "2026-08-21",
+      "id": "idea-2026-08-22-idea-a4d5ab89",
+      "slug": "2026-08-22-idea-a4d5ab89",
+      "date": "2026-08-22",
       "tier": "quick",
-      "title": "有共识就取消会议",
-      "one_liner": "团队发出决策邀约后先异步收集立场，有共识就散会，否则只处理剩余分歧。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-the-new-calendly.md",
+      "title": "新号骚扰拦截层",
+      "one_liner": "用户遭遇新账号反复骚扰时，平台自动隔离疑似规避者，并保留连续、可导出的处置证据。",
+      "url": "https://raytally.com/daily/2026-08-22/",
+      "brief_url": "https://raytally.com/ideas/2026-08-22-idea-a4d5ab89.md",
       "signal": {
-        "query": "The New Calendly",
-        "observed_at": "2026-08-21T00:33:30.181Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-21-roveri",
-      "slug": "2026-08-21-roveri",
-      "date": "2026-08-21",
-      "tier": "quick",
-      "title": "骑迹接力画布",
-      "one_liner": "骑行群把地图图案拆给成员认领，用真实轨迹共同完成一幅城市画。",
-      "url": "https://raytally.com/daily/2026-08-21/",
-      "brief_url": "https://raytally.com/ideas/2026-08-21-roveri.md",
-      "signal": {
-        "query": "Roveri",
-        "observed_at": "2026-08-21T00:33:30.181Z"
+        "query": "I have a e stalker rn who actually won’t leave me alone. He keeps making new accounts every time I block him he just makes another one. I wish this app had stronger protections against people evading blocks like Instagram Princess♡ྀི🎀🌺🇸🇩 (@imsoprettyylike) August 18, 2026",
+        "observed_at": "2026-08-22T00:33:55.029Z"
       },
       "sources": []
     }
