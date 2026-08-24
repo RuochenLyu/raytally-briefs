@@ -1,303 +1,248 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23",
+  "generated_at": "2026-08-24",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-23-pocket-by-meta",
-      "slug": "2026-08-23-pocket-by-meta",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "赢家改一条规则",
-      "one_liner": "朋友玩完群聊小游戏后，由赢家改一条规则，机器人立即生成下一局继续玩。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-pocket-by-meta.md",
-      "signal": {
-        "query": "Pocket by Meta",
-        "observed_at": "2026-08-23T00:33:17.426Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-reverse-camera-dvr-recording",
-      "slug": "2026-08-23-reverse-camera-dvr-recording",
-      "date": "2026-08-23",
+      "id": "idea-2026-08-24-oppo-coloros-17-new-features",
+      "slug": "2026-08-24-oppo-coloros-17-new-features",
+      "date": "2026-08-24",
       "tier": "featured",
-      "title": "倒车影像常开录像盒",
-      "one_liner": "车辆通电后自动保存原倒车摄像头画面，发生剐蹭时可在安卓主机上回看并锁定片段。",
-      "url": "https://raytally.com/ideas/2026-08-23-reverse-camera-dvr-recording/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-reverse-camera-dvr-recording.md",
+      "title": "ColorOS 真机回归队列",
+      "one_liner": "ColorOS 测试版发布后，Android 团队上传应用和关键路径，真机自动找出权限、通知与后台运行的升级故障。",
+      "url": "https://raytally.com/ideas/2026-08-24-oppo-coloros-17-new-features/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-oppo-coloros-17-new-features.md",
       "signal": {
-        "query": "Reverse camera DVR recording",
-        "observed_at": "2026-08-23T00:36:10.439Z"
+        "query": "oppo coloros 17 new features",
+        "observed_at": "2026-08-24T00:33:21.858Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/Androidheadunits/comments/1vr9ifl/reverse_camera_dvr_recording/",
-          "boundary": "发布于 2026-08-18T00:14:30.000Z。 观测于 2026-08-23T00:36:10.439Z。"
-        },
-        {
-          "url": "https://www.analog.com/en/products/ADV7280A.html",
+          "url": "https://developer.android.com/develop/ui/compose/notifications/notification-permission",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://xtrons.com/product/1280p-hd-micro-tf-dash-cam-ntsc-dvr028s/",
+          "url": "https://developer.android.com/training/testing/other-components/ui-automator",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.ventrainc.com/ventra-recording-products/all-in-one/vdr-600/",
+          "url": "https://www.browserstack.com/app-automate",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://firebase.google.com/docs/test-lab/android/get-started",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-23-3dgs-for-furniture",
-      "slug": "2026-08-23-3dgs-for-furniture",
-      "date": "2026-08-23",
-      "tier": "featured",
-      "title": "门店家具抠图建模",
-      "one_liner": "在门店绕家具拍一圈，现场补齐缺失角度，直接导出不带房间背景的可旋转 3D 展示。",
-      "url": "https://raytally.com/ideas/2026-08-23-3dgs-for-furniture/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-3dgs-for-furniture.md",
+      "id": "idea-2026-08-24-wish-for-live-tv-show-discussion-app",
+      "slug": "2026-08-24-wish-for-live-tv-show-discussion-app",
+      "date": "2026-08-24",
+      "tier": "quick",
+      "title": "同进度追剧房",
+      "one_liner": "独自追剧遇到惊喜情节时，找到同进度的人即时聊几分钟，又不会被后续剧情剧透。",
+      "url": "https://raytally.com/daily/2026-08-24/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-wish-for-live-tv-show-discussion-app.md",
       "signal": {
-        "query": "3DGS for furniture.",
-        "observed_at": "2026-08-23T00:36:10.439Z"
+        "query": "I’m watching Angel and Jeremy Renner is a guest star. I wish there was an app I could discuss this on julie (@juliesacunt) August 23, 2026",
+        "observed_at": "2026-08-24T00:34:25.334Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-24-idea-ac527b8d",
+      "slug": "2026-08-24-idea-ac527b8d",
+      "date": "2026-08-24",
+      "tier": "featured",
+      "title": "冷门万圣节装扮拼齐",
+      "one_liner": "提前做冷门万圣节造型时，把服装、道具、假发和妆面分别交给本地制作者与藏家协作拼齐。",
+      "url": "https://raytally.com/ideas/2026-08-24-idea-ac527b8d/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-idea-ac527b8d.md",
+      "signal": {
+        "query": "The Vogue Business TikTok Trend Tracker",
+        "observed_at": "2026-08-24T00:33:23.787Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vtcq3h/3dgs_for_furniture/",
-          "boundary": "发布于 2026-08-20T07:36:49.000Z。 观测于 2026-08-23T00:36:10.439Z。"
+          "url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+          "boundary": "发布于 2026-08-20T00:00:00.000Z。 观测于 2026-08-24T00:33:23.787Z。"
         },
         {
-          "url": "https://github.com/facebookresearch/sam2/blob/main/tools/vos_inference.py",
+          "url": "https://www.etsy.com/market/cosplay_commission",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://learn.poly.cam/hc/en-us/articles/27425185907348-How-to-Use-Object-Mode",
+          "url": "https://docs.stripe.com/connect/marketplace/tasks/accept-payment",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.jawset.com/docs/d/Postshot%2BUser%2BGuide/Interface/Training%2BConfiguration",
+          "url": "https://arxiv.org/abs/2412.00630",
+          "boundary": "发布于 2024-12-01T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-24-kanasensei",
+      "slug": "2026-08-24-kanasensei",
+      "date": "2026-08-24",
+      "tier": "quick",
+      "title": "看视频练日语假名",
+      "one_liner": "日语初学者看视频时，在字幕的假名词上短暂停顿，读对再继续播放。",
+      "url": "https://raytally.com/daily/2026-08-24/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-kanasensei.md",
+      "signal": {
+        "query": "KanaSensei",
+        "observed_at": "2026-08-24T00:33:23.783Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-24-forced-account-creation-for-trials-and-demos",
+      "slug": "2026-08-24-forced-account-creation-for-trials-and-demos",
+      "date": "2026-08-24",
+      "tier": "quick",
+      "title": "一次性试用身份",
+      "one_liner": "免费试用或 Demo 强制注册时，用可撤销的临时身份进入，结束后收回资料与营销入口。",
+      "url": "https://raytally.com/daily/2026-08-24/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-forced-account-creation-for-trials-and-demos.md",
+      "signal": {
+        "query": "I hate that I have to make an account for everything now. Whether its a free trial for something I ll never use again or a demo for a video game, I have to make a whole account so they can harvest and sell all my data and spam my email and phone bleh 🔪Alessia ೀ⋆｡ | VTuber (@AraAlessia) August 23, 2",
+        "observed_at": "2026-08-24T00:34:25.334Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-24-swipe-style-photo-cleanup-app-wish",
+      "slug": "2026-08-24-swipe-style-photo-cleanup-app-wish",
+      "date": "2026-08-24",
+      "tier": "featured",
+      "title": "按事件滑动清相册",
+      "one_liner": "清理海量相册时，把连拍和同场照片折叠成卡片，左右滑一次处理整组，还能保留反悔期。",
+      "url": "https://raytally.com/ideas/2026-08-24-swipe-style-photo-cleanup-app-wish/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-swipe-style-photo-cleanup-app-wish.md",
+      "signal": {
+        "query": "I have 59,753 photos on my phone and I need to do a cleanup. Is there an app out there where you can go thru your album and swipe left or right to keep or delete like a dating app? 🤣 If not, someone steal my idea please so I can get my shit squared away. TIA. Leigha (@Leigha2233) August 19, 2026",
+        "observed_at": "2026-08-24T00:34:25.334Z"
+      },
+      "sources": [
+        {
+          "url": "https://x.com/Leigha2233/status/2090133127272268079",
+          "boundary": "发布于 2026-08-19T17:45:44.000Z。 观测于 2026-08-24T00:34:25.334Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/vision/analyzing-image-similarity-with-feature-print",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/photokit/requesting-changes-to-the-photo-library",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/swipewipe-photo-cleaner/id1583884012",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-23-english-claudish-translator",
-      "slug": "2026-08-23-english-claudish-translator",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "代理任务双向翻译",
-      "one_liner": "把任务交给 AI 代理前，先看它会如何理解你的话，并确认被补充或遗漏的条件。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-english-claudish-translator.md",
-      "signal": {
-        "query": "English ↔ Claudish Translator",
-        "observed_at": "2026-08-23T00:33:16.663Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-idea-6dafeeb5",
-      "slug": "2026-08-23-idea-6dafeeb5",
-      "date": "2026-08-23",
+      "id": "idea-2026-08-24-dual-screen-reading-apps",
+      "slug": "2026-08-24-dual-screen-reading-apps",
+      "date": "2026-08-24",
       "tier": "featured",
-      "title": "无屏相机照片冲洗坞",
-      "one_liner": "无屏相机拍完回家后插入底座，先拿到纸质接触样张，圈选后再打印或分享成片。",
-      "url": "https://raytally.com/ideas/2026-08-23-idea-6dafeeb5/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-idea-6dafeeb5.md",
+      "title": "双屏电子书翻页",
+      "one_liner": "在双屏设备打开书籍或长文时，内容自动避开铰链排成连续双页，翻一次推进完整一组页面。",
+      "url": "https://raytally.com/ideas/2026-08-24-dual-screen-reading-apps/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-dual-screen-reading-apps.md",
       "signal": {
-        "query": "80 Trending Products to Sell in 2026 (Backed by Search Data, August 2026)",
-        "observed_at": "2026-08-23T00:33:17.428Z"
+        "query": "Dual screen reading apps?",
+        "observed_at": "2026-08-24T00:36:15.547Z"
       },
       "sources": [
         {
-          "url": "https://ahrefs.com/blog/trending-products/",
-          "boundary": "发布于 2026-08-17T00:00:00.000Z。 观测于 2026-08-23T00:33:17.428Z。"
+          "url": "https://www.reddit.com/r/AynThor/comments/1vw7pud/dual_screen_reading_apps/",
+          "boundary": "发布于 2026-08-23T00:00:00.000Z。 观测于 2026-08-24T00:36:15.547Z。"
         },
         {
-          "url": "https://cam.start.canon/ky/P001/manual/html/UG-02_Print_Card_0040.html",
+          "url": "https://developer.android.com/codelabs/android-window-manager-dual-screen-foldables",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.instax.com/mini_link_3/en/",
+          "url": "https://github.com/readium/kotlin-toolkit",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://openprinting.github.io/cups/",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://blogs.windows.com/devices/2020/08/12/available-for-preorder-today-surface-duo-is-purpose-built-for-mobile-productivity/",
+          "boundary": "发布于 2020-08-12T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-23-thinking-in-python-by-bruce-eckel",
-      "slug": "2026-08-23-thinking-in-python-by-bruce-eckel",
-      "date": "2026-08-23",
+      "id": "idea-2026-08-24-fallback-to-spreadsheet-for-personal-goal-tracking",
+      "slug": "2026-08-24-fallback-to-spreadsheet-for-personal-goal-tracking",
+      "date": "2026-08-24",
       "tier": "quick",
-      "title": "旧技术书可运行批注",
-      "one_liner": "阅读旧版编程教材遇到代码失效时，直接运行新旧版本并获得可验证的现代写法。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-thinking-in-python-by-bruce-eckel.md",
+      "title": "会重排的目标日历",
+      "one_liner": "设定长期目标后，把里程碑变成日历里的行动时段；落后时自动重排剩余计划。",
+      "url": "https://raytally.com/daily/2026-08-24/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-fallback-to-spreadsheet-for-personal-goal-tracking.md",
       "signal": {
-        "query": "Thinking in Python by Bruce Eckel",
-        "observed_at": "2026-08-23T00:33:16.663Z"
+        "query": "Me wanting to track my progress on personal goals for the year: “I bet I can download an app!” Me after 20 min of not finding anything to track both progress and deadline milestones: “…I should just make a spreadsheet with a pie chart…” (my spreadsheet won’t sell my data 🤷‍♀️) Corey Pettit ✨ (@Geek",
+        "observed_at": "2026-08-24T00:34:25.334Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-23-duolingo-alternative-for-casual-5-10-min-per-day-of-learning",
-      "slug": "2026-08-23-duolingo-alternative-for-casual-5-10-min-per-day-of-learning",
-      "date": "2026-08-23",
-      "tier": "featured",
-      "title": "五分钟德语新闻连载",
-      "one_liner": "中级学习者在通勤时读完一则五分钟德语新闻，跟着事件进展复习昨天见过的词。",
-      "url": "https://raytally.com/ideas/2026-08-23-duolingo-alternative-for-casual-5-10-min-per-day-of-learning/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-duolingo-alternative-for-casual-5-10-min-per-day-of-learning.md",
+      "id": "idea-2026-08-24-ban-vs-aus",
+      "slug": "2026-08-24-ban-vs-aus",
+      "date": "2026-08-24",
+      "tier": "quick",
+      "title": "不剧透的异步看球房",
+      "one_liner": "亲友无法同时看比赛时，让反应随回放逐段出现，保留一起看球的热闹又不剧透。",
+      "url": "https://raytally.com/daily/2026-08-24/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-ban-vs-aus.md",
       "signal": {
-        "query": "Duolingo alternative for casual 5/10-min per day of learning German for a person who needs a lot of dopamine to follow through?",
-        "observed_at": "2026-08-23T00:36:10.439Z"
+        "query": "ban vs aus",
+        "observed_at": "2026-08-24T00:33:19.370Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-23T08:40:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-24-looking-for-an-app-testing",
+      "slug": "2026-08-24-looking-for-an-app-testing",
+      "date": "2026-08-24",
+      "tier": "featured",
+      "title": "手柄摇杆轨迹检测",
+      "one_liner": "维修或校准手柄时，记录标准动作下的摇杆轨迹，定位漂移与回弹问题，并导出前后对比凭证。",
+      "url": "https://raytally.com/ideas/2026-08-24-looking-for-an-app-testing/",
+      "brief_url": "https://raytally.com/ideas/2026-08-24-looking-for-an-app-testing.md",
+      "signal": {
+        "query": "Looking for an app testing",
+        "observed_at": "2026-08-24T00:36:15.547Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/German/comments/1vvfzfg/duolingo_alternative_for_casual_510min_per_day_of/",
-          "boundary": "发布于 2026-08-22T15:53:25.000Z。 观测于 2026-08-23T00:36:10.439Z。"
+          "url": "https://www.reddit.com/r/ControllerRepair/comments/1vwlf8t/looking_for_an_app_testing/",
+          "boundary": "发布于 2026-08-23T00:00:00.000Z。 观测于 2026-08-24T00:36:15.547Z。"
         },
         {
-          "url": "https://readle-app.com/en",
+          "url": "https://wiki.libsdl.org/SDL3/CategoryGamepad",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.newsinslowgerman.com/home/news/intermediate",
+          "url": "https://gamepadla.com/test/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://spacy.io/models/de",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-23-rust-glancer-rust-lsp-using-100x-less-ram",
-      "slug": "2026-08-23-rust-glancer-rust-lsp-using-100x-less-ram",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "多语言代码补全省内存",
-      "one_liner": "多语言仓库占满内存时，自动轮换、休眠和预热代码补全服务，保持当前代码可即时导航。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-rust-glancer-rust-lsp-using-100x-less-ram.md",
-      "signal": {
-        "query": "Rust Glancer: Rust LSP using 100x less RAM",
-        "observed_at": "2026-08-23T00:33:16.663Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-hdiutil-is-deprecated-in-macos-27-golden-gate",
-      "slug": "2026-08-23-hdiutil-is-deprecated-in-macos-27-golden-gate",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "hdiutil 迁移桥",
-      "one_liner": "Mac 构建流水线升级时接住旧 hdiutil 调用，维持出包并逐条给出可验证的替换方案。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-hdiutil-is-deprecated-in-macos-27-golden-gate.md",
-      "signal": {
-        "query": "hdiutil is deprecated in macOS 27 Golden Gate",
-        "observed_at": "2026-08-23T00:33:16.663Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-pawvis",
-      "slug": "2026-08-23-pawvis",
-      "date": "2026-08-23",
-      "tier": "featured",
-      "title": "按你的动作定快捷键",
-      "one_liner": "标准手势难以完成时，让 Mac 从你做得到的动作中挑选可靠手势，并绑定常用操作。",
-      "url": "https://raytally.com/ideas/2026-08-23-pawvis/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-pawvis.md",
-      "signal": {
-        "query": "Pawvis",
-        "observed_at": "2026-08-23T00:33:17.426Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/pawvis",
-          "boundary": "观测于 2026-08-23T00:33:17.426Z。"
-        },
-        {
-          "url": "https://pawvis.app/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.apple.com/en-mide/guide/mac-help/mchlb2d4782b/mac",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/videos/play/wwdc2021/10039/",
+          "url": "https://hardwaretester.com/gamepad",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
-    },
-    {
-      "id": "idea-2026-08-23-subtitlegenerator",
-      "slug": "2026-08-23-subtitlegenerator",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "术语字幕会签",
-      "one_liner": "自动字幕遇到人名和行业术语时，把短片段分给懂行同事确认，再汇总成可发布版本。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-subtitlegenerator.md",
-      "signal": {
-        "query": "SubtitleGenerator",
-        "observed_at": "2026-08-23T00:33:17.426Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-maccess",
-      "slug": "2026-08-23-maccess",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "离桌后的收尾卡",
-      "one_liner": "离开 Mac 后用手机盯住长任务，并直接处理报错、确认弹窗或发送最终文件。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-maccess.md",
-      "signal": {
-        "query": "Maccess",
-        "observed_at": "2026-08-23T00:33:17.426Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-munder-difflin-agent-harness-to-run-an-office-of-your-clones",
-      "slug": "2026-08-23-munder-difflin-agent-harness-to-run-an-office-of-your-clones",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "AI代理上岗试用期",
-      "one_liner": "给代理接入公司账号前，用历史任务试岗并逐项放权，避免一开始交出整套办公室权限。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-munder-difflin-agent-harness-to-run-an-office-of-your-clones.md",
-      "signal": {
-        "query": "Munder Difflin – Agent harness to run an office of your clones",
-        "observed_at": "2026-08-23T00:33:16.663Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-23-one-night-in-uzbekistan-why-was-this-one-data-point-so",
-      "slug": "2026-08-23-one-night-in-uzbekistan-why-was-this-one-data-point-so",
-      "date": "2026-08-23",
-      "tier": "quick",
-      "title": "异常点影响回放",
-      "one_liner": "模型结论被单个样本显著拉动时，一键重跑反事实版本并找出影响被放大的环节。",
-      "url": "https://raytally.com/daily/2026-08-23/",
-      "brief_url": "https://raytally.com/ideas/2026-08-23-one-night-in-uzbekistan-why-was-this-one-data-point-so.md",
-      "signal": {
-        "query": "One night in Uzbekistan: Why was this one data point so influential?",
-        "observed_at": "2026-08-23T00:33:16.663Z"
-      },
-      "sources": []
     }
   ]
 }
