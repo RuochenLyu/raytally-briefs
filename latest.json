@@ -1,261 +1,245 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25",
+  "generated_at": "2026-08-26",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-25-is-there-a-tool-that-tells-you-how-a-well-known-a-word-is",
-      "slug": "2026-08-25-is-there-a-tool-that-tells-you-how-a-well-known-a-word-is",
-      "date": "2026-08-25",
+      "id": "idea-2026-08-26-help-archiving-starfall-com-games",
+      "slug": "2026-08-26-help-archiving-starfall-com-games",
+      "date": "2026-08-26",
       "tier": "featured",
-      "title": "常说词优先练",
-      "one_liner": "读到陌生词时点一下原句，马上分清母语者是常说、只认得还是几乎不用，再决定要不要主动练。",
-      "url": "https://raytally.com/ideas/2026-08-25-is-there-a-tool-that-tells-you-how-a-well-known-a-word-is/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-is-there-a-tool-that-tells-you-how-a-well-known-a-word-is.md",
+      "title": "登录态网站离线封存",
+      "one_liner": "网页档案员本地登录并演示关键操作后，自动得到经过离线交互验证的 JavaScript 网站封存包。",
+      "url": "https://raytally.com/ideas/2026-08-26-help-archiving-starfall-com-games/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-help-archiving-starfall-com-games.md",
       "signal": {
-        "query": "language learning",
-        "observed_at": "2026-08-25T00:33:19.701Z",
+        "query": "Help archiving starfall.com games",
+        "observed_at": "2026-08-26T00:36:20.994Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/internetarchive/comments/1vxr01v/help_archiving_starfallcom_games/",
+          "boundary": "发布于 2026-08-25T00:00:00.000Z。 观测于 2026-08-26T00:36:20.994Z。"
+        },
+        {
+          "url": "https://crawler.docs.browsertrix.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://webrecorder.net/blog/2021-02-22-archiveweb-page-app-new-tools/",
+          "boundary": "发布于 2021-02-22T00:00:00.000Z。"
+        },
+        {
+          "url": "https://playwright.dev/docs/codegen",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-26-i-need-alarm-app",
+      "slug": "2026-08-26-i-need-alarm-app",
+      "date": "2026-08-26",
+      "tier": "quick",
+      "title": "轮班节奏闹钟",
+      "one_liner": "遇到连续两天响、再停两天的轮班节奏时，画一次循环即可长期自动排铃。",
+      "url": "https://raytally.com/daily/2026-08-26/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-i-need-alarm-app.md",
+      "signal": {
+        "query": "I need alarm app",
+        "observed_at": "2026-08-26T00:36:20.994Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting",
+      "slug": "2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting",
+      "date": "2026-08-26",
+      "tier": "quick",
+      "title": "做完一项，只放一章",
+      "one_liner": "完成绑定任务后只放行下一章，读到章节末尾便自动重新封锁，防止奖励变成连续刷读。",
+      "url": "https://raytally.com/daily/2026-08-26/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting.md",
+      "signal": {
+        "query": "How do you reward yourself after finishing a task? Resting was never enough for me",
+        "observed_at": "2026-08-26T00:36:20.994Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell",
+      "slug": "2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell",
+      "date": "2026-08-26",
+      "tier": "featured",
+      "title": "新 AI 芯片影子试跑",
+      "one_liner": "基础设施团队评估新 AI 芯片时，用真实请求影子试跑，再把已证明受益的流量安全迁过去。",
+      "url": "https://raytally.com/ideas/2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell.md",
+      "signal": {
+        "query": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "observed_at": "2026-08-26T00:33:04.543Z"
+      },
+      "sources": [
+        {
+          "url": "https://openai.com/index/jalapeno-first-results/",
+          "boundary": "发布于 2026-08-25T00:00:00.000Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49434378",
+          "boundary": "发布于 2026-08-25T00:00:00.000Z。 观测于 2026-08-26T00:33:04.543Z。"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/shadow-tests-create.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/model_analyzer/docs/metrics.html",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-26-don-t-wordle",
+      "slug": "2026-08-26-don-t-wordle",
+      "date": "2026-08-26",
+      "tier": "quick",
+      "title": "禁词语音局",
+      "one_liner": "朋友开语音局时，每人躲避自己的禁词并诱导别人中招，系统自动裁定和回放现场。",
+      "url": "https://raytally.com/daily/2026-08-26/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-don-t-wordle.md",
+      "signal": {
+        "query": "Don't Wordle",
+        "observed_at": "2026-08-26T00:33:04.543Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-26-mgsd",
+      "slug": "2026-08-26-mgsd",
+      "date": "2026-08-26",
+      "tier": "featured",
+      "title": "MGSD 同步拼装房",
+      "one_liner": "玩家开拼 MGSD 新模型时按说明书步骤进入同进度房间，立即获得现场示范与避坑提示。",
+      "url": "https://raytally.com/ideas/2026-08-26-mgsd/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-mgsd.md",
+      "signal": {
+        "query": "mgsd",
+        "observed_at": "2026-08-26T00:33:03.580Z",
         "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-24T10:30:00.000Z"
+        "active": true
       },
       "sources": [
         {
-          "url": "https://play.google.com/store/apps/details?hl=en&id=co.wordupapp.app",
+          "url": "https://www.toy-people.com/en/?p=113637",
+          "boundary": "发布于 2026-08-25T00:00:00.000Z。"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.bandai.BuildersNote",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.englishprofile.org/images/pdf/theenglishprofilebooklet.pdf",
+          "url": "https://apps.apple.com/us/app/veda-model-build-assistant/id6758484182",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://youglish.com/about",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.sketchengine.eu/apidoc/",
+          "url": "https://docs.livekit.io/transport/sdk-platforms/react-native/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-25-where-did-all-the-public-bathrooms-go",
-      "slug": "2026-08-25-where-did-all-the-public-bathrooms-go",
-      "date": "2026-08-25",
+      "id": "idea-2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms",
+      "slug": "2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms",
+      "date": "2026-08-26",
       "tier": "quick",
-      "title": "附近卫生间门码",
-      "one_liner": "行人在街上急需卫生间时，立即获得附近合作场所的保证通行名额和临时门码。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-where-did-all-the-public-bathrooms-go.md",
+      "title": "Firefox 的 JPEG XL 切流",
+      "one_liner": "网站团队采用 JPEG XL 时，可按真实浏览器表现逐图切流，体验变差便自动回退。",
+      "url": "https://raytally.com/daily/2026-08-26/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms.md",
       "signal": {
-        "query": "Where did all the public bathrooms go?",
-        "observed_at": "2026-08-25T00:33:22.985Z"
+        "query": "Firefox 157 will include JPEG XL by default on all platforms",
+        "observed_at": "2026-08-26T00:33:04.543Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-25-ipfs-maintainers-winding-down",
-      "slug": "2026-08-25-ipfs-maintainers-winding-down",
-      "date": "2026-08-25",
+      "id": "idea-2026-08-26-particle-studio",
+      "slug": "2026-08-26-particle-studio",
+      "date": "2026-08-26",
       "tier": "featured",
-      "title": "开源维护接力合约",
-      "one_liner": "关键开源项目宣布缩减维护时，让依赖它的公司凑出条件采购，达标便接手维护，失败则共同迁移。",
-      "url": "https://raytally.com/ideas/2026-08-25-ipfs-maintainers-winding-down/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-ipfs-maintainers-winding-down.md",
+      "title": "全场共玩的粒子海报",
+      "one_liner": "活动现场把静态主视觉变成扫码即玩的多人粒子大屏，让观众共同推动画面变化。",
+      "url": "https://raytally.com/ideas/2026-08-26-particle-studio/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-particle-studio.md",
       "signal": {
-        "query": "IPFS Maintainers Winding Down",
-        "observed_at": "2026-08-25T00:33:22.985Z"
+        "query": "Particle Studio",
+        "observed_at": "2026-08-26T00:33:05.313Z"
       },
       "sources": [
         {
-          "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-          "boundary": "发布于 2026-08-24T00:00:00.000Z。 观测于 2026-08-25T00:33:22.985Z。"
+          "url": "https://www.producthunt.com/products/particle-studio",
+          "boundary": "发布于 2026-08-18T15:58:49.000Z。 观测于 2026-08-26T00:33:05.313Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49421489",
-          "boundary": "发布于 2026-08-24T00:00:00.000Z。 观测于 2026-08-25T00:33:22.985Z。"
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent/requestPermission_static",
+          "boundary": "发布于 2026-08-04T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.github.com/en/rest/dependency-graph",
+          "url": "https://pixijs.com/8.x/guides/components/scene-objects/particle-container",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://tidelift.com/security",
+          "url": "https://screenjam.tv/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-25-send-a-command-from-one-android-device-to-another-over",
-      "slug": "2026-08-25-send-a-command-from-one-android-device-to-another-over",
-      "date": "2026-08-25",
+      "id": "idea-2026-08-26-idea-37943c87",
+      "slug": "2026-08-26-idea-37943c87",
+      "date": "2026-08-26",
       "tier": "quick",
-      "title": "车机蓝牙快捷键",
-      "one_liner": "网络失效但蓝牙仍在线时，从车机一键触发手机上的白名单自动化，并立即收到执行回执。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-send-a-command-from-one-android-device-to-another-over.md",
+      "title": "一次性兴趣模式",
+      "one_liner": "搜索一次性或敏感商品前开启临时兴趣模式，阻止这次研究变成数月的跨站广告。",
+      "url": "https://raytally.com/daily/2026-08-26/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-idea-37943c87.md",
       "signal": {
-        "query": "Send a command from one Android device to another over Bluetooth",
-        "observed_at": "2026-08-25T00:36:31.903Z"
+        "query": "Consumers say personalized marketing knows too much and understands too little",
+        "observed_at": "2026-08-26T00:33:05.315Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-25-aximote",
-      "slug": "2026-08-25-aximote",
-      "date": "2026-08-25",
-      "tier": "quick",
-      "title": "车辆数据临时通行证",
-      "one_liner": "维修或试车现场，车主限时开放指定车辆数据，让双方围绕同一段证据完成检查与交接。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-aximote.md",
-      "signal": {
-        "query": "Aximote",
-        "observed_at": "2026-08-25T00:33:23.807Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-25-sel4-security-proofs-now-complete-on-aarch64",
-      "slug": "2026-08-25-sel4-security-proofs-now-complete-on-aarch64",
-      "date": "2026-08-25",
+      "id": "idea-2026-08-26-memoria",
+      "slug": "2026-08-26-memoria",
+      "date": "2026-08-26",
       "tier": "featured",
-      "title": "seL4 证明边界 CI",
-      "one_liner": "ARM 固件集成 seL4 时，持续核对每次实际构建是否仍处于安全证明覆盖范围内。",
-      "url": "https://raytally.com/ideas/2026-08-25-sel4-security-proofs-now-complete-on-aarch64/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-sel4-security-proofs-now-complete-on-aarch64.md",
+      "title": "离线家庭口述相册",
+      "one_liner": "家人围坐翻旧照片时，由设备离线发起口述访谈，把人物故事连成可播放的原声相册。",
+      "url": "https://raytally.com/ideas/2026-08-26-memoria/",
+      "brief_url": "https://raytally.com/ideas/2026-08-26-memoria.md",
       "signal": {
-        "query": "SeL4 security proofs now complete on AArch64",
-        "observed_at": "2026-08-25T00:33:22.985Z"
+        "query": "Memoria",
+        "observed_at": "2026-08-26T00:33:05.313Z"
       },
       "sources": [
         {
-          "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-          "boundary": "发布于 2026-08-21T00:00:00.000Z。 观测于 2026-08-25T00:33:22.985Z。"
+          "url": "https://github.com/ggml-org/whisper.cpp/blob/master/README.md",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://sel4.systems/news/2026.html",
-          "boundary": "发布于 2026-08-24T00:00:00.000Z。"
+          "url": "https://www.remento.co/",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49418255",
-          "boundary": "发布于 2026-08-24T11:32:51.000Z。 观测于 2026-08-25T00:33:22.985Z。"
+          "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-familysearch-memories-to-preserve-my-ancestors-life-stories",
+          "boundary": "发布于 2025-09-23T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.sel4.systems/projects/microkit/manual/latest/",
+          "url": "https://support.mylio.com/what-is-mylio-photos",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
-    },
-    {
-      "id": "idea-2026-08-25-ifah",
-      "slug": "2026-08-25-ifah",
-      "date": "2026-08-25",
-      "tier": "quick",
-      "title": "空间音响走位彩排",
-      "one_liner": "布场前让创作者在真实空间里边走边试听作品，并导出匹配现场扬声器的路由。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-ifah.md",
-      "signal": {
-        "query": "IFAH",
-        "observed_at": "2026-08-25T00:33:23.807Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-25-oceans-hit-highest-temperature-on-record",
-      "slug": "2026-08-25-oceans-hit-highest-temperature-on-record",
-      "date": "2026-08-25",
-      "tier": "featured",
-      "title": "养殖场降温设备接力",
-      "one_liner": "海水升温逼近养殖品种上限时，联合调度邻近场站的增氧、抽水和运输设备，提前排好应急接力。",
-      "url": "https://raytally.com/ideas/2026-08-25-oceans-hit-highest-temperature-on-record/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-oceans-hit-highest-temperature-on-record.md",
-      "signal": {
-        "query": "Oceans hit highest temperature on record",
-        "observed_at": "2026-08-25T00:33:22.985Z"
-      },
-      "sources": [
-        {
-          "url": "https://apnews.com/article/9dd6ecf3b358a89d2b3a5468d69dbdbc",
-          "boundary": "发布于 2026-08-24T00:00:00.000Z。"
-        },
-        {
-          "url": "https://help.marine.copernicus.eu/en/collections/4060068-copernicus-marine-toolbox",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.aqua-manager.com/platform/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://agriculture.kubota.co.jp/special/agrisharing/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-25-show-hn-a-techno-machine-in-one-html-file-with-verifiable",
-      "slug": "2026-08-25-show-hn-a-techno-machine-in-one-html-file-with-verifiable",
-      "date": "2026-08-25",
-      "tier": "featured",
-      "title": "HTML 混音接力",
-      "one_liner": "远程混音时，用一个可运行的 HTML 文件传递乐器、分轨和版本血缘，打开即可继续创作。",
-      "url": "https://raytally.com/ideas/2026-08-25-show-hn-a-techno-machine-in-one-html-file-with-verifiable/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-show-hn-a-techno-machine-in-one-html-file-with-verifiable.md",
-      "signal": {
-        "query": "Show HN: A techno machine in one HTML file, with verifiable renders",
-        "observed_at": "2026-08-25T00:33:22.985Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49419351",
-          "boundary": "发布于 2026-08-24T00:00:00.000Z。 观测于 2026-08-25T00:33:22.985Z。"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.soundtrap.com/hc/en-us/articles/115002725805-How-to-Restore-Previous-Project-Versions-in-Soundtrap",
-          "boundary": "发布于 2026-07-29T00:00:00.000Z。"
-        },
-        {
-          "url": "https://soundation.com/studio-tools/collaborate",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-25-treebar",
-      "slug": "2026-08-25-treebar",
-      "date": "2026-08-25",
-      "tier": "quick",
-      "title": "Worktree 停车位",
-      "one_liner": "并行分支挤占机器资源时，一键停放完整开发现场，稍后连同端口、进程和终端上下文恢复。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-treebar.md",
-      "signal": {
-        "query": "Treebar",
-        "observed_at": "2026-08-25T00:33:23.807Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-25-paymentkit",
-      "slug": "2026-08-25-paymentkit",
-      "date": "2026-08-25",
-      "tier": "quick",
-      "title": "支付故障演练场",
-      "one_liner": "大促或续费高峰前模拟支付处理商停摆，验证续费、退款与账本能否切换，并暴露具体断点。",
-      "url": "https://raytally.com/daily/2026-08-25/",
-      "brief_url": "https://raytally.com/ideas/2026-08-25-paymentkit.md",
-      "signal": {
-        "query": "PaymentKit",
-        "observed_at": "2026-08-25T00:33:23.807Z"
-      },
-      "sources": []
     }
   ]
 }
