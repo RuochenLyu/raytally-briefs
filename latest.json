@@ -1,245 +1,265 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26",
+  "generated_at": "2026-08-27",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-26-help-archiving-starfall-com-games",
-      "slug": "2026-08-26-help-archiving-starfall-com-games",
-      "date": "2026-08-26",
-      "tier": "featured",
-      "title": "登录态网站离线封存",
-      "one_liner": "网页档案员本地登录并演示关键操作后，自动得到经过离线交互验证的 JavaScript 网站封存包。",
-      "url": "https://raytally.com/ideas/2026-08-26-help-archiving-starfall-com-games/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-help-archiving-starfall-com-games.md",
+      "id": "idea-2026-08-27-birdtok",
+      "slug": "2026-08-27-birdtok",
+      "date": "2026-08-27",
+      "tier": "quick",
+      "title": "只找一只鸟",
+      "one_liner": "新手到公园后领取一只当地目标鸟，跟随耳机线索完成第一次自主发现。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-birdtok.md",
       "signal": {
-        "query": "Help archiving starfall.com games",
-        "observed_at": "2026-08-26T00:36:20.994Z"
+        "query": "Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
+        "observed_at": "2026-08-27T00:33:09.176Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-27-i-want-to-make-a-grid-pattern-of-a-mallard-for-a-45x45",
+      "slug": "2026-08-27-i-want-to-make-a-grid-pattern-of-a-mallard-for-a-45x45",
+      "date": "2026-08-27",
+      "tier": "featured",
+      "title": "45格抱枕图案合购",
+      "one_liner": "钩针新手要做指定格数的抱枕时，可和同好合资委托改图，拿到经过尺寸校验的网格与开工说明。",
+      "url": "https://raytally.com/ideas/2026-08-27-i-want-to-make-a-grid-pattern-of-a-mallard-for-a-45x45/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-i-want-to-make-a-grid-pattern-of-a-mallard-for-a-45x45.md",
+      "signal": {
+        "query": "I want to make a grid pattern of a mallard for a 45x45 pillowcase, but I have no idea how",
+        "observed_at": "2026-08-27T00:36:01.990Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/internetarchive/comments/1vxr01v/help_archiving_starfallcom_games/",
-          "boundary": "发布于 2026-08-25T00:00:00.000Z。 观测于 2026-08-26T00:36:20.994Z。"
+          "url": "https://www.reddit.com/r/CrochetHelp/comments/1vyuyre/i_want_to_make_a_grid_pattern_of_a_mallard_for_a/",
+          "boundary": "发布于 2026-08-26T11:56:17.000Z。 观测于 2026-08-27T00:36:01.990Z。"
         },
         {
-          "url": "https://crawler.docs.browsertrix.com/",
+          "url": "https://www.stitchfiddle.com/en/help/1pei-97d7bo/pixel-crochet-c2c",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://webrecorder.net/blog/2021-02-22-archiveweb-page-app-new-tools/",
-          "boundary": "发布于 2021-02-22T00:00:00.000Z。"
+          "url": "https://www.braceletbook.com/forum/1_newbies/25499_how-do-i-make-patterns/",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://playwright.dev/docs/codegen",
+          "url": "https://docs.stripe.com/connect",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-26-i-need-alarm-app",
-      "slug": "2026-08-26-i-need-alarm-app",
-      "date": "2026-08-26",
-      "tier": "quick",
-      "title": "轮班节奏闹钟",
-      "one_liner": "遇到连续两天响、再停两天的轮班节奏时，画一次循环即可长期自动排铃。",
-      "url": "https://raytally.com/daily/2026-08-26/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-i-need-alarm-app.md",
-      "signal": {
-        "query": "I need alarm app",
-        "observed_at": "2026-08-26T00:36:20.994Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting",
-      "slug": "2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting",
-      "date": "2026-08-26",
-      "tier": "quick",
-      "title": "做完一项，只放一章",
-      "one_liner": "完成绑定任务后只放行下一章，读到章节末尾便自动重新封锁，防止奖励变成连续刷读。",
-      "url": "https://raytally.com/daily/2026-08-26/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-how-do-you-reward-yourself-after-finishing-a-task-resting.md",
-      "signal": {
-        "query": "How do you reward yourself after finishing a task? Resting was never enough for me",
-        "observed_at": "2026-08-26T00:36:20.994Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell",
-      "slug": "2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell",
-      "date": "2026-08-26",
+      "id": "idea-2026-08-27-is-there-an-app-that-tracks-draft-picks-and-what-they-become",
+      "slug": "2026-08-27-is-there-an-app-that-tracks-draft-picks-and-what-they-become",
+      "date": "2026-08-27",
       "tier": "featured",
-      "title": "新 AI 芯片影子试跑",
-      "one_liner": "基础设施团队评估新 AI 芯片时，用真实请求影子试跑，再把已证明受益的流量安全迁过去。",
-      "url": "https://raytally.com/ideas/2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-openai-jalapen-o-better-than-nvidia-blackwell.md",
+      "title": "选秀权变成的球员",
+      "one_liner": "王朝联盟成员回看旧交易时，可沿着多次转手的选秀权一路追到它最终选中的球员。",
+      "url": "https://raytally.com/ideas/2026-08-27-is-there-an-app-that-tracks-draft-picks-and-what-they-become/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-is-there-an-app-that-tracks-draft-picks-and-what-they-become.md",
       "signal": {
-        "query": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-        "observed_at": "2026-08-26T00:33:04.543Z"
+        "query": "Is there an app that tracks draft picks and what they become?",
+        "observed_at": "2026-08-27T00:36:01.990Z"
       },
       "sources": [
         {
-          "url": "https://openai.com/index/jalapeno-first-results/",
-          "boundary": "发布于 2026-08-25T00:00:00.000Z。"
+          "url": "https://www.reddit.com/r/DynastyFF/comments/1vzcdvi/is_there_an_app_that_tracks_draft_picks_and_what/",
+          "boundary": "发布于 2026-08-26T22:46:57.000Z。 观测于 2026-08-27T00:36:01.990Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49434378",
-          "boundary": "发布于 2026-08-25T00:00:00.000Z。 观测于 2026-08-26T00:33:04.543Z。"
-        },
-        {
-          "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/shadow-tests-create.html",
+          "url": "https://docs.sleeper.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/model_analyzer/docs/metrics.html",
+          "url": "https://www.fantasyamp.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://rosteraudit.com/trades/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-26-don-t-wordle",
-      "slug": "2026-08-26-don-t-wordle",
-      "date": "2026-08-26",
+      "id": "idea-2026-08-27-spacex-rocket-launch",
+      "slug": "2026-08-27-spacex-rocket-launch",
+      "date": "2026-08-27",
       "tier": "quick",
-      "title": "禁词语音局",
-      "one_liner": "朋友开语音局时，每人躲避自己的禁词并诱导别人中招，系统自动裁定和回放现场。",
-      "url": "https://raytally.com/daily/2026-08-26/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-don-t-wordle.md",
+      "title": "火箭延误共看房",
+      "one_liner": "朋友远程共看火箭发射时，房间自动填补延误空档，并在倒计时恢复后同步拉回直播。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-spacex-rocket-launch.md",
       "signal": {
-        "query": "Don't Wordle",
-        "observed_at": "2026-08-26T00:33:04.543Z"
+        "query": "spacex rocket launch",
+        "observed_at": "2026-08-27T00:33:04.639Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-26T06:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-26-mgsd",
-      "slug": "2026-08-26-mgsd",
-      "date": "2026-08-26",
+      "id": "idea-2026-08-27-termy",
+      "slug": "2026-08-27-termy",
+      "date": "2026-08-27",
       "tier": "featured",
-      "title": "MGSD 同步拼装房",
-      "one_liner": "玩家开拼 MGSD 新模型时按说明书步骤进入同进度房间，立即获得现场示范与避坑提示。",
-      "url": "https://raytally.com/ideas/2026-08-26-mgsd/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-mgsd.md",
+      "title": "视频里接演外语台词",
+      "one_liner": "看视频或玩游戏遇到外语台词时，立刻接替角色说一遍，带着语气反馈继续剧情。",
+      "url": "https://raytally.com/ideas/2026-08-27-termy/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-termy.md",
       "signal": {
-        "query": "mgsd",
-        "observed_at": "2026-08-26T00:33:03.580Z",
+        "query": "Termy",
+        "observed_at": "2026-08-27T00:33:09.171Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/termy-language-learning",
+          "boundary": "观测于 2026-08-27T00:33:09.171Z。"
+        },
+        {
+          "url": "https://www.termy.ai/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.languagereactor.com/help/basic",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://elsaspeak.com/en/faqs/how-does-elsas-pronunciation-feedback-work",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-27-wildlife-photographer-of-the-year-2026",
+      "slug": "2026-08-27-wildlife-photographer-of-the-year-2026",
+      "date": "2026-08-27",
+      "tier": "quick",
+      "title": "获奖照片实拍复盘",
+      "one_liner": "摄影爱好者看完获奖作品后，可沿着摄影师的真实选择复盘，并领取一项能立刻去拍的练习。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-wildlife-photographer-of-the-year-2026.md",
+      "signal": {
+        "query": "wildlife photographer of the year 2026",
+        "observed_at": "2026-08-27T00:33:04.639Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-26T13:10:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-27-it-s-so-hard-to-finish-an-idea-that-is-not-yours-and-is-just",
+      "slug": "2026-08-27-it-s-so-hard-to-finish-an-idea-that-is-not-yours-and-is-just",
+      "date": "2026-08-27",
+      "tier": "quick",
+      "title": "把创意决定权拿回来",
+      "one_liner": "当 AI 点子越做越没动力时，暂停生成并夺回三个关键选择，换回真正想完成的版本。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-it-s-so-hard-to-finish-an-idea-that-is-not-yours-and-is-just.md",
+      "signal": {
+        "query": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+        "observed_at": "2026-08-27T00:33:08.398Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-27-lore-machine",
+      "slug": "2026-08-27-lore-machine",
+      "date": "2026-08-27",
+      "tier": "featured",
+      "title": "奇幻连载的阵营来信",
+      "one_liner": "世界观作者发布新事件时，按阵营分发不同情报，让订阅者以角色身份参与剧情演进。",
+      "url": "https://raytally.com/ideas/2026-08-27-lore-machine/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-lore-machine.md",
+      "signal": {
+        "query": "Lore Machine",
+        "observed_at": "2026-08-27T00:33:09.171Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/lore-machine",
+          "boundary": "观测于 2026-08-27T00:33:09.171Z。"
+        },
+        {
+          "url": "https://www.worldanvil.com/learn/beginner-tutorials/get-started-secrets",
+          "boundary": "发布于 2025-01-01T00:00:00.000Z。"
+        },
+        {
+          "url": "https://support.substack.com/hc/en-us/articles/29152946791188-How-can-I-publish-on-Substack",
+          "boundary": "发布于 2026-08-17T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-27-message-album",
+      "slug": "2026-08-27-message-album",
+      "date": "2026-08-27",
+      "tier": "featured",
+      "title": "双方同意的聊天纪念册",
+      "one_liner": "两个人在纪念日或分别前共同挑选聊天片段，做成双方授权、定时解锁的离线相册。",
+      "url": "https://raytally.com/ideas/2026-08-27-message-album/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-message-album.md",
+      "signal": {
+        "query": "Message Album",
+        "observed_at": "2026-08-27T00:33:09.171Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/message-album",
+          "boundary": "发布于 2026-08-25T00:00:00.000Z。 观测于 2026-08-27T00:33:09.171Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/photosui/photospicker",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/cryptokit",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://nearr.app/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-27-playstation-blackout-physical-media-protest",
+      "slug": "2026-08-27-playstation-blackout-physical-media-protest",
+      "date": "2026-08-27",
+      "tier": "quick",
+      "title": "实体游戏交换夜",
+      "one_liner": "玩家参加实体游戏活动时，通过多边交换链把闲置光盘换成真正想玩的游戏。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-playstation-blackout-physical-media-protest.md",
+      "signal": {
+        "query": "playstation blackout physical media protest",
+        "observed_at": "2026-08-27T00:33:04.639Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-26T16:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-27-idea-7103052f",
+      "slug": "2026-08-27-idea-7103052f",
+      "date": "2026-08-27",
+      "tier": "quick",
+      "title": "比赛撞车自动换台",
+      "one_liner": "多项比赛撞期时，按关注对象自动切换合法直播入口，让观众不错过关键回合。",
+      "url": "https://raytally.com/daily/2026-08-27/",
+      "brief_url": "https://raytally.com/ideas/2026-08-27-idea-7103052f.md",
+      "signal": {
+        "query": "アジア",
+        "observed_at": "2026-08-27T00:33:07.453Z",
         "window_hours": 168,
         "active": true
       },
-      "sources": [
-        {
-          "url": "https://www.toy-people.com/en/?p=113637",
-          "boundary": "发布于 2026-08-25T00:00:00.000Z。"
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.bandai.BuildersNote",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/veda-model-build-assistant/id6758484182",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.livekit.io/transport/sdk-platforms/react-native/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms",
-      "slug": "2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms",
-      "date": "2026-08-26",
-      "tier": "quick",
-      "title": "Firefox 的 JPEG XL 切流",
-      "one_liner": "网站团队采用 JPEG XL 时，可按真实浏览器表现逐图切流，体验变差便自动回退。",
-      "url": "https://raytally.com/daily/2026-08-26/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-firefox-157-will-include-jpeg-xl-by-default-on-all-platforms.md",
-      "signal": {
-        "query": "Firefox 157 will include JPEG XL by default on all platforms",
-        "observed_at": "2026-08-26T00:33:04.543Z"
-      },
       "sources": []
-    },
-    {
-      "id": "idea-2026-08-26-particle-studio",
-      "slug": "2026-08-26-particle-studio",
-      "date": "2026-08-26",
-      "tier": "featured",
-      "title": "全场共玩的粒子海报",
-      "one_liner": "活动现场把静态主视觉变成扫码即玩的多人粒子大屏，让观众共同推动画面变化。",
-      "url": "https://raytally.com/ideas/2026-08-26-particle-studio/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-particle-studio.md",
-      "signal": {
-        "query": "Particle Studio",
-        "observed_at": "2026-08-26T00:33:05.313Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/particle-studio",
-          "boundary": "发布于 2026-08-18T15:58:49.000Z。 观测于 2026-08-26T00:33:05.313Z。"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent/requestPermission_static",
-          "boundary": "发布于 2026-08-04T00:00:00.000Z。"
-        },
-        {
-          "url": "https://pixijs.com/8.x/guides/components/scene-objects/particle-container",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://screenjam.tv/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-26-idea-37943c87",
-      "slug": "2026-08-26-idea-37943c87",
-      "date": "2026-08-26",
-      "tier": "quick",
-      "title": "一次性兴趣模式",
-      "one_liner": "搜索一次性或敏感商品前开启临时兴趣模式，阻止这次研究变成数月的跨站广告。",
-      "url": "https://raytally.com/daily/2026-08-26/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-idea-37943c87.md",
-      "signal": {
-        "query": "Consumers say personalized marketing knows too much and understands too little",
-        "observed_at": "2026-08-26T00:33:05.315Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-26-memoria",
-      "slug": "2026-08-26-memoria",
-      "date": "2026-08-26",
-      "tier": "featured",
-      "title": "离线家庭口述相册",
-      "one_liner": "家人围坐翻旧照片时，由设备离线发起口述访谈，把人物故事连成可播放的原声相册。",
-      "url": "https://raytally.com/ideas/2026-08-26-memoria/",
-      "brief_url": "https://raytally.com/ideas/2026-08-26-memoria.md",
-      "signal": {
-        "query": "Memoria",
-        "observed_at": "2026-08-26T00:33:05.313Z"
-      },
-      "sources": [
-        {
-          "url": "https://github.com/ggml-org/whisper.cpp/blob/master/README.md",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.remento.co/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.familysearch.org/en/help/helpcenter/article/how-do-i-use-familysearch-memories-to-preserve-my-ancestors-life-stories",
-          "boundary": "发布于 2025-09-23T00:00:00.000Z。"
-        },
-        {
-          "url": "https://support.mylio.com/what-is-mylio-photos",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
     }
   ]
 }
