@@ -1,296 +1,302 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28",
+  "generated_at": "2026-08-29",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-28-aphantasia-beginner-s-guide",
-      "slug": "2026-08-28-aphantasia-beginner-s-guide",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-lunar-eclipse",
+      "slug": "2026-08-29-lunar-eclipse",
+      "date": "2026-08-29",
       "tier": "quick",
-      "title": "无图像学习模式",
-      "one_liner": "学习材料要求在脑中成像时，将练习即时改写为语言、空间动作或实体操作版本。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-aphantasia-beginner-s-guide.md",
+      "title": "月食同框导演",
+      "one_liner": "观测者到达现场后举起手机，就能看见月食入镜路线，并按口令完成同框合影。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-lunar-eclipse.md",
       "signal": {
-        "query": "Aphantasia Beginner's Guide",
-        "observed_at": "2026-08-28T00:33:11.883Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-28-how-can-i-set-up-this-automation-my-phone-and-tablet-are",
-      "slug": "2026-08-28-how-can-i-set-up-this-automation-my-phone-and-tablet-are",
-      "date": "2026-08-28",
-      "tier": "featured",
-      "title": "手机平板自动接网",
-      "one_liner": "无蜂窝平板跟着手机出门或回家时，自动在热点和已知 Wi‑Fi 间交接，失败会恢复到原连接。",
-      "url": "https://raytally.com/ideas/2026-08-28-how-can-i-set-up-this-automation-my-phone-and-tablet-are/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-how-can-i-set-up-this-automation-my-phone-and-tablet-are.md",
-      "signal": {
-        "query": "How can I set up this automation? My phone and tablet are connected to WiFi at home and work. But I want as soon as I leave the WiFi zone my phone should auto turn on the hotspot so the tablet can connect to it, and keep the hotspot off while connected to WiFi.",
-        "observed_at": "2026-08-28T00:36:05.722Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/AndroidQuestions/comments/1w05x0j/how_can_i_set_up_this_automation_my_phone_and/",
-          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-28T00:36:05.722Z。"
-        },
-        {
-          "url": "https://developer.android.com/reference/android/net/TetheringManager",
-          "boundary": "发布于 2026-08-03T00:00:00.000Z。"
-        },
-        {
-          "url": "https://tasker.joaoapps.com/userguide/en/help/ah_tether_wifi.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.samsung.com/us/support/answer/ANS10002918/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-28-looking-for-an-app-that-gamifies-tasks",
-      "slug": "2026-08-28-looking-for-an-app-that-gamifies-tasks",
-      "date": "2026-08-28",
-      "tier": "featured",
-      "title": "手腕上的任务关卡",
-      "one_liner": "难以启动任务时，从 Apple Watch 接下一个短关卡，用触觉节拍完成眼前一步，并以一次性明码付费使用。",
-      "url": "https://raytally.com/ideas/2026-08-28-looking-for-an-app-that-gamifies-tasks/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-looking-for-an-app-that-gamifies-tasks.md",
-      "signal": {
-        "query": "Looking for an app that gamifies tasks",
-        "observed_at": "2026-08-28T00:36:05.722Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/adhdwomen/comments/1w0612p/looking_for_an_app_that_gamifies_tasks/",
-          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-28T00:36:05.722Z。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/WatchConnectivity/transferring-data-with-watch-connectivity",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/watchkit/using-extended-runtime-sessions",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/brili-routines-habit-tracker/id1516036620",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-28-northern-lights",
-      "slug": "2026-08-28-northern-lights",
-      "date": "2026-08-28",
-      "tier": "quick",
-      "title": "极光三张试拍",
-      "one_liner": "新手站在极光现场时，通过逐张单变量试拍迅速调出清晰、不过曝的相机参数。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-northern-lights.md",
-      "signal": {
-        "query": "northern lights",
-        "observed_at": "2026-08-28T00:33:08.416Z",
+        "query": "lunar eclipse",
+        "observed_at": "2026-08-29T00:33:02.863Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-28-507-mechanical-movements",
-      "slug": "2026-08-28-507-mechanical-movements",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-noaa-hurricane",
+      "slug": "2026-08-29-noaa-hurricane",
+      "date": "2026-08-29",
       "tier": "featured",
-      "title": "画轨迹找机械机构",
-      "one_liner": "设计师画出零件应如何运动，立刻获得可放进 CAD 试装的经典机构候选和动态预览。",
-      "url": "https://raytally.com/ideas/2026-08-28-507-mechanical-movements/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-507-mechanical-movements.md",
+      "title": "邻里撤离接力",
+      "one_liner": "飓风预警升级时，把邻里的车位和待接人员配成可确认、可替补的撤离车队。",
+      "url": "https://raytally.com/ideas/2026-08-29-noaa-hurricane/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-noaa-hurricane.md",
       "signal": {
-        "query": "507 Mechanical Movements",
-        "observed_at": "2026-08-28T00:33:11.883Z"
+        "query": "noaa hurricane",
+        "observed_at": "2026-08-29T00:33:02.863Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-28T12:10:00.000Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49465169",
-          "boundary": "发布于 2026-08-27T14:08:18.000Z。 观测于 2026-08-28T00:33:11.883Z。"
-        },
-        {
-          "url": "https://help.autodesk.com/cloudhelp/ENU/Fusion-360-API/files/ComponentsProxies_UM.htm",
+          "url": "https://www.weather.gov/documentation/services-web-alerts",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.autodesk.com/cloudhelp/ENU/Fusion-360-API/files/Joints_add.htm",
+          "url": "https://www.twilio.com/docs/voice/api",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.artas.nl/en/downloads/download/297_91a462bf43817ce0951017e0b4de9cbb",
+          "url": "https://www.fema.gov/about/news-multimedia/mobile-products",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.genasys.com/articles/genasys-protect-faqs",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-28-m5stack-launches-papermono",
-      "slug": "2026-08-28-m5stack-launches-papermono",
-      "date": "2026-08-28",
-      "tier": "quick",
-      "title": "墨水屏按变化刷新",
-      "one_liner": "开发者接入数据源后，按状态变化自动生成低耗电、少残影的 PaperMono 信息界面。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-m5stack-launches-papermono.md",
-      "signal": {
-        "query": "M5Stack Launches PaperMono",
-        "observed_at": "2026-08-28T00:33:11.883Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-28-gitnexus-akon-labs",
-      "slug": "2026-08-28-gitnexus-akon-labs",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-idea-e9ff447d",
+      "slug": "2026-08-29-idea-e9ff447d",
+      "date": "2026-08-29",
       "tier": "featured",
-      "title": "把审查意见编成规矩",
-      "one_liner": "团队反复纠正编码智能体时，把审查与回滚记录变成可测试的仓库规矩，阻止同类错误再生成。",
-      "url": "https://raytally.com/ideas/2026-08-28-gitnexus-akon-labs/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-gitnexus-akon-labs.md",
+      "title": "双人共养戒宠",
+      "one_liner": "朋友或伴侣戴上配对戒指，用日常手势共养一只宠物，见面碰触才会解锁成长。",
+      "url": "https://raytally.com/ideas/2026-08-29-idea-e9ff447d/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-idea-e9ff447d.md",
       "signal": {
-        "query": "GitNexus (Akon Labs)",
-        "observed_at": "2026-08-28T00:33:12.774Z"
+        "query": "たまごっち リング",
+        "observed_at": "2026-08-29T00:33:05.226Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
-          "boundary": "观测于 2026-08-28T00:33:12.774Z。"
+          "url": "https://www.bandai.co.jp/press/2026/260827.php",
+          "boundary": "发布于 2026-08-27T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.github.com/en/rest/pulls/reviews",
+          "url": "https://apps.apple.com/us/app/widgetable-besties-couples/id1641107226",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/add-custom-instructions/add-repository-instructions",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.greptile.com/docs/code-review-bot/custom-context",
+          "url": "https://bond-touch.com/pages/bond-touch-lp",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-28-sendra",
-      "slug": "2026-08-28-sendra",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-star-wars-zero-company",
+      "slug": "2026-08-29-star-wars-zero-company",
+      "date": "2026-08-29",
       "tier": "quick",
-      "title": "Figma 邮件实投回查",
-      "one_liner": "营销邮件交付前，在真实邮箱中试投并把显示故障定位回 Figma 图层，直接给出兼容修补。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-sendra.md",
+      "title": "一回合试玩评测",
+      "one_liner": "玩家搜索新策略游戏评测时，先亲自做一个战术选择，再判断玩法是否合口味。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-star-wars-zero-company.md",
       "signal": {
-        "query": "Sendra",
-        "observed_at": "2026-08-28T00:33:12.774Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-28-2026",
-      "slug": "2026-08-28-2026",
-      "date": "2026-08-28",
-      "tier": "quick",
-      "title": "玩具展候场关卡",
-      "one_liner": "家庭在玩具展排队时完成与展品相连的小游戏，轮到后可带着结果直接进入试玩。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-2026.md",
-      "signal": {
-        "query": "東京おもちゃショー2026",
-        "observed_at": "2026-08-28T00:33:10.821Z",
+        "query": "star wars zero company",
+        "observed_at": "2026-08-29T00:33:02.863Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-28-idea-f0731f66",
-      "slug": "2026-08-28-idea-f0731f66",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright",
+      "slug": "2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright",
+      "date": "2026-08-29",
       "tier": "featured",
-      "title": "透明书包换装边轨",
-      "one_liner": "学校要求透明书包时，学生把字母、徽章和小玩偶装到包边轨道上，检查前一拉即可整条取下。",
-      "url": "https://raytally.com/ideas/2026-08-28-idea-f0731f66/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-idea-f0731f66.md",
+      "title": "下架申诉证据链",
+      "one_liner": "开发者收到版权下架通知后，重建被下架版本，拿到逐项可验证的来源证据和申诉包。",
+      "url": "https://raytally.com/ideas/2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright.md",
       "signal": {
-        "query": "What’s trending for back to school 2026",
-        "observed_at": "2026-08-28T00:33:12.775Z"
+        "query": "Luanti removed from Google Play due to baseless AI copyright notice",
+        "observed_at": "2026-08-29T00:33:06.143Z"
       },
       "sources": [
         {
-          "url": "https://explodingtopics.com/blog/back-to-school-trends",
-          "boundary": "发布于 2026-08-26T00:00:00.000Z。 观测于 2026-08-28T00:33:12.775Z。"
+          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-29T00:33:06.143Z。"
         },
         {
-          "url": "https://www.tcpsva.org/article/3055096",
-          "boundary": "发布于 2026-08-03T00:00:00.000Z。"
+          "url": "https://news.ycombinator.com/item?id=49475079",
+          "boundary": "发布于 2026-08-28T06:33:57.000Z。 观测于 2026-08-29T00:33:06.143Z。"
         },
         {
-          "url": "https://us.jellycat.com/bags-bag-charms",
+          "url": "https://docs.github.com/en/rest/actions/artifacts?apiVersion=2026-03-10",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.crocs.com/c/jibbitz",
+          "url": "https://aboutcode.org/docs/getting_started/license-compliance/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-28-xbox-game-pass-day-one-launch",
-      "slug": "2026-08-28-xbox-game-pass-day-one-launch",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-spicy-chicken-mcnuggets-september-release",
+      "slug": "2026-08-29-spicy-chicken-mcnuggets-september-release",
+      "date": "2026-08-29",
       "tier": "quick",
-      "title": "首日试玩局",
-      "one_liner": "朋友想尝鲜首日新作时，直接开启短时云端试玩局，并在结束后共同决定要不要继续。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-xbox-game-pass-day-one-launch.md",
+      "title": "新品开吃局",
+      "one_liner": "限时新品上市时，群聊成员点一下加入，自动凑成辣味与原味试吃单并完成结算。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-spicy-chicken-mcnuggets-september-release.md",
       "signal": {
-        "query": "xbox game pass day one launch",
-        "observed_at": "2026-08-28T00:33:08.416Z",
+        "query": "spicy chicken mcnuggets september release",
+        "observed_at": "2026-08-29T00:33:02.863Z",
         "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-27T19:30:00.000Z"
+        "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-28-yomi",
-      "slug": "2026-08-28-yomi",
-      "date": "2026-08-28",
+      "id": "idea-2026-08-29-maxxing-coded-era",
+      "slug": "2026-08-29-maxxing-coded-era",
+      "date": "2026-08-29",
       "tier": "quick",
-      "title": "小猫送去续读",
-      "one_liner": "孩子读完一段故事后，让虚拟猫把情节送给远方家人续读，再带着对方的声音回来。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-yomi.md",
+      "title": "不剧透提示接力",
+      "one_liner": "每日词语关联题卡住时，向已通关玩家逐层索取提示，在不看答案的情况下继续推理。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-maxxing-coded-era.md",
       "signal": {
-        "query": "Yomi",
-        "observed_at": "2026-08-28T00:33:12.774Z"
+        "query": "maxxing coded era",
+        "observed_at": "2026-08-29T00:33:02.863Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-28T18:10:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-28-bassmaster",
-      "slug": "2026-08-28-bassmaster",
-      "date": "2026-08-28",
-      "tier": "quick",
-      "title": "先替职业钓手选",
-      "one_liner": "钓鱼赛事直播进行到关键决策时，先让观众选钓点和拟饵，再用职业选手的真实结果复盘。",
-      "url": "https://raytally.com/daily/2026-08-28/",
-      "brief_url": "https://raytally.com/ideas/2026-08-28-bassmaster.md",
+      "id": "idea-2026-08-29-play-with-putty",
+      "slug": "2026-08-29-play-with-putty",
+      "date": "2026-08-29",
+      "tier": "featured",
+      "title": "把试玩意见变成验收测试",
+      "one_liner": "试玩原型时点出问题并说出预期，团队马上得到验收测试和受约束的修复版本。",
+      "url": "https://raytally.com/ideas/2026-08-29-play-with-putty/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-play-with-putty.md",
       "signal": {
-        "query": "bassmaster",
-        "observed_at": "2026-08-28T00:33:08.416Z",
+        "query": "Play with Putty",
+        "observed_at": "2026-08-29T00:33:06.964Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/google-labs",
+          "boundary": "观测于 2026-08-29T00:33:06.964Z。"
+        },
+        {
+          "url": "https://playwright.dev/docs/test-agents",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://static.marker.io/website-design-feedback",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.leapwork.com/leapwork-play/latest/play-tech-preview/getting-started-with-leapwork-play",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-29-aureacam",
+      "slug": "2026-08-29-aureacam",
+      "date": "2026-08-29",
+      "tier": "featured",
+      "title": "会喊站位的合影导演",
+      "one_liner": "无人看守手机拍合影时，相机直接提示每个人调整站位，构图稳定后自动连拍。",
+      "url": "https://raytally.com/ideas/2026-08-29-aureacam/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-aureacam.md",
+      "signal": {
+        "query": "AureaCam",
+        "observed_at": "2026-08-29T00:33:06.964Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
+          "boundary": "观测于 2026-08-29T00:33:06.964Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/vision/detecting-human-body-poses-in-images",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/vision/vngeneratepersoninstancemaskrequest",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/lens-buddy-self-timer-camera/id1289471945",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-29-xbox-series-x-25th-anniversary",
+      "slug": "2026-08-29-xbox-series-x-25th-anniversary",
+      "date": "2026-08-29",
+      "tier": "quick",
+      "title": "限量主机排队接力",
+      "one_liner": "限量主机开售时，让朋友分头排队、共享进度，并在一人购得后立即停止重复订单。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-xbox-series-x-25th-anniversary.md",
+      "signal": {
+        "query": "xbox series x 25th anniversary",
+        "observed_at": "2026-08-29T00:33:02.863Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-27T14:50:00.000Z"
+        "ended_at": "2026-08-28T06:50:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-29-ted-lasso-season-4-cast",
+      "slug": "2026-08-29-ted-lasso-season-4-cast",
+      "date": "2026-08-29",
+      "tier": "quick",
+      "title": "无剧透认人模式",
+      "one_liner": "观众回看久别重启的剧集时，按一下遥控器即可认出角色并补回关系，还能避开剧透。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-ted-lasso-season-4-cast.md",
+      "signal": {
+        "query": "ted lasso season 4 cast",
+        "observed_at": "2026-08-29T00:33:02.863Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-28T01:50:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-29-microduck",
+      "slug": "2026-08-29-microduck",
+      "date": "2026-08-29",
+      "tier": "quick",
+      "title": "小机器人实跑交换站",
+      "one_liner": "没有实体机器人的开发者提交动作模型，由远程硬件拥有者代跑并返回标准化遥测与录像。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-microduck.md",
+      "signal": {
+        "query": "Microduck",
+        "observed_at": "2026-08-29T00:33:06.964Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-29-crowdvolt",
+      "slug": "2026-08-29-crowdvolt",
+      "date": "2026-08-29",
+      "tier": "quick",
+      "title": "今晚够人就出发",
+      "one_liner": "朋友临时想出门又没人愿意先开口时，私下凑齐条件相符的人，再自动确认地点与集合安排。",
+      "url": "https://raytally.com/daily/2026-08-29/",
+      "brief_url": "https://raytally.com/ideas/2026-08-29-crowdvolt.md",
+      "signal": {
+        "query": "CrowdVolt",
+        "observed_at": "2026-08-29T00:33:06.964Z"
       },
       "sources": []
     }
