@@ -1,302 +1,297 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29",
+  "generated_at": "2026-08-30",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-29-lunar-eclipse",
-      "slug": "2026-08-29-lunar-eclipse",
-      "date": "2026-08-29",
-      "tier": "quick",
-      "title": "月食同框导演",
-      "one_liner": "观测者到达现场后举起手机，就能看见月食入镜路线，并按口令完成同框合影。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-lunar-eclipse.md",
-      "signal": {
-        "query": "lunar eclipse",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-29-noaa-hurricane",
-      "slug": "2026-08-29-noaa-hurricane",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework",
+      "slug": "2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework",
+      "date": "2026-08-30",
       "tier": "featured",
-      "title": "邻里撤离接力",
-      "one_liner": "飓风预警升级时，把邻里的车位和待接人员配成可确认、可替补的撤离车队。",
-      "url": "https://raytally.com/ideas/2026-08-29-noaa-hurricane/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-noaa-hurricane.md",
+      "title": "真实状态开机的 iOS CI",
+      "one_liner": "iOS 代码提交后，从多种旧设备状态启动虚拟 iPhone，提前找出升级故障并留下可调试现场。",
+      "url": "https://raytally.com/ideas/2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework.md",
       "signal": {
-        "query": "noaa hurricane",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-28T12:10:00.000Z"
+        "query": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "observed_at": "2026-08-30T00:33:29.129Z"
       },
       "sources": [
         {
-          "url": "https://www.weather.gov/documentation/services-web-alerts",
+          "url": "https://news.ycombinator.com/item?id=49485267",
+          "boundary": "发布于 2026-08-28T00:00:00.000Z。 观测于 2026-08-30T00:33:29.129Z。"
+        },
+        {
+          "url": "https://github.com/Lakr233/vphone-cli/blob/main/README.md",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.twilio.com/docs/voice/api",
+          "url": "https://www.corellium.com/hubfs/theme-2022/briefs/CORE_Solution%20Brief_Mobile%20App%20Penetration%20Testing_Web_v5.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.fema.gov/about/news-multimedia/mobile-products",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://help.genasys.com/articles/genasys-protect-faqs",
+          "url": "https://www.browserstack.com/docs/app-automate/api-reference/introduction",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-29-idea-e9ff447d",
-      "slug": "2026-08-29-idea-e9ff447d",
-      "date": "2026-08-29",
-      "tier": "featured",
-      "title": "双人共养戒宠",
-      "one_liner": "朋友或伴侣戴上配对戒指，用日常手势共养一只宠物，见面碰触才会解锁成长。",
-      "url": "https://raytally.com/ideas/2026-08-29-idea-e9ff447d/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-idea-e9ff447d.md",
+      "id": "idea-2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc",
+      "slug": "2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc",
+      "date": "2026-08-30",
+      "tier": "quick",
+      "title": "实时验证的势力补给航线",
+      "one_liner": "《Elite Dangerous》玩家执行势力任务时，按近期停靠记录选补给站，缺货后自动改道。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc.md",
       "signal": {
-        "query": "たまごっち リング",
-        "observed_at": "2026-08-29T00:33:05.226Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Is there a more up-to-date tool than meritminer.cc?",
+        "observed_at": "2026-08-30T00:36:23.121Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during",
+      "slug": "2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during",
+      "date": "2026-08-30",
+      "tier": "featured",
+      "title": "FL Studio 可回滚录音模式",
+      "one_liner": "录音前一键切到低负载伴奏监听，结束后恢复原混音状态，并留下刚录好的素材。",
+      "url": "https://raytally.com/ideas/2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during.md",
+      "signal": {
+        "query": "Expedited workflow for bouncing and solo-ing the beat during tracking, then going back to the raw mix when done?",
+        "observed_at": "2026-08-30T00:36:23.121Z"
       },
       "sources": [
         {
-          "url": "https://www.bandai.co.jp/press/2026/260827.php",
+          "url": "https://www.reddit.com/r/FL_Studio/comments/1w05c7q/expedited_workflow_for_bouncing_and_soloing_the/",
+          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-30T00:36:23.121Z。"
+        },
+        {
+          "url": "https://www.image-line.com/fl-studio-learning-content/fl-studio-online-manual/html/midi_scripting.htm",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/recording_audio.htm",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.apple.com/en-euro/105040",
+          "boundary": "发布于 2026-05-27T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-08-30-wit",
+      "slug": "2026-08-30-wit",
+      "date": "2026-08-30",
+      "tier": "quick",
+      "title": "跨语境意图标记",
+      "one_liner": "跨国团队发送易被误读的英语消息前，先标出真实意图，让收件人看懂下一步该做什么。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-wit.md",
+      "signal": {
+        "query": "WIT",
+        "observed_at": "2026-08-30T00:33:29.942Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-30-cohere-parse-5",
+      "slug": "2026-08-30-cohere-parse-5",
+      "date": "2026-08-30",
+      "tier": "featured",
+      "title": "复杂文档直达业务系统",
+      "one_liner": "复杂附件进入业务邮箱后，自动读懂并填进旧系统，只把少量疑点交给经办人确认。",
+      "url": "https://raytally.com/ideas/2026-08-30-cohere-parse-5/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-cohere-parse-5.md",
+      "signal": {
+        "query": "Cohere Parse 5",
+        "observed_at": "2026-08-30T00:33:29.942Z"
+      },
+      "sources": [
+        {
+          "url": "https://docs.cohere.com/changelog/parse",
           "boundary": "发布于 2026-08-27T00:00:00.000Z。"
         },
         {
-          "url": "https://apps.apple.com/us/app/widgetable-besties-couples/id1641107226",
+          "url": "https://docs.cohere.com/v2/docs/parse-quickstart",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://bond-touch.com/pages/bond-touch-lp",
+          "url": "https://docs.uipath.com/document-understanding/automation-cloud/latest/user-guide/about-document-understanding",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://playwright.dev/docs/locators",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-29-star-wars-zero-company",
-      "slug": "2026-08-29-star-wars-zero-company",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-god-s-eye-view",
+      "slug": "2026-08-30-god-s-eye-view",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "一回合试玩评测",
-      "one_liner": "玩家搜索新策略游戏评测时，先亲自做一个战术选择，再判断玩法是否合口味。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-star-wars-zero-company.md",
+      "title": "真实轨道任务教室",
+      "one_liner": "教师上卫星课时让学生协作选择观测窗口，再用真实影像验证判断。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-god-s-eye-view.md",
       "signal": {
-        "query": "star wars zero company",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": true
+        "query": "God’s Eye View",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright",
-      "slug": "2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright",
-      "date": "2026-08-29",
-      "tier": "featured",
-      "title": "下架申诉证据链",
-      "one_liner": "开发者收到版权下架通知后，重建被下架版本，拿到逐项可验证的来源证据和申诉包。",
-      "url": "https://raytally.com/ideas/2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-luanti-removed-from-google-play-due-to-baseless-ai-copyright.md",
+      "id": "idea-2026-08-30-lubb",
+      "slug": "2026-08-30-lubb",
+      "date": "2026-08-30",
+      "tier": "quick",
+      "title": "同频入睡",
+      "one_liner": "异地伴侣准备入睡时短时互传柔化后的实时心跳，让枕边有对方正在陪伴的触感。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-lubb.md",
       "signal": {
-        "query": "Luanti removed from Google Play due to baseless AI copyright notice",
-        "observed_at": "2026-08-29T00:33:06.143Z"
+        "query": "Lubb",
+        "observed_at": "2026-08-30T00:33:29.942Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-30-neo",
+      "slug": "2026-08-30-neo",
+      "date": "2026-08-30",
+      "tier": "featured",
+      "title": "人物桌读室",
+      "one_liner": "小说作者写完关键场景后，让角色按既有设定有声桌读，立刻听出对白和动机的断裂处。",
+      "url": "https://raytally.com/ideas/2026-08-30-neo/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-neo.md",
+      "signal": {
+        "query": "Neo",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": [
         {
-          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-29T00:33:06.143Z。"
+          "url": "https://www.producthunt.com/products/neo",
+          "boundary": "发布于 2026-08-18T01:51:15.000Z。 观测于 2026-08-30T00:33:29.942Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49475079",
-          "boundary": "发布于 2026-08-28T06:33:57.000Z。 观测于 2026-08-29T00:33:06.143Z。"
+          "url": "https://feedback.sudowrite.com/changelog/better-narrative-consistency-with-chapter-continuity",
+          "boundary": "发布于 2025-05-01T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.github.com/en/rest/actions/artifacts?apiVersion=2026-03-10",
+          "url": "https://elevenlabs.io/docs/eleven-creative/products/studio",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://aboutcode.org/docs/getting_started/license-compliance/",
+          "url": "https://elevenlabs.io/docs/overview/capabilities/text-to-dialogue",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-29-spicy-chicken-mcnuggets-september-release",
-      "slug": "2026-08-29-spicy-chicken-mcnuggets-september-release",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-any-command",
+      "slug": "2026-08-30-any-command",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "新品开吃局",
-      "one_liner": "限时新品上市时，群聊成员点一下加入，自动凑成辣味与原味试吃单并完成结算。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-spicy-chicken-mcnuggets-september-release.md",
+      "title": "口袋演示控制台",
+      "one_liner": "演示者走到听众身边后，用手机上的情境按钮切页、标注并查看私密讲稿。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-any-command.md",
       "signal": {
-        "query": "spicy chicken mcnuggets september release",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Any Command",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-29-maxxing-coded-era",
-      "slug": "2026-08-29-maxxing-coded-era",
-      "date": "2026-08-29",
-      "tier": "quick",
-      "title": "不剧透提示接力",
-      "one_liner": "每日词语关联题卡住时，向已通关玩家逐层索取提示，在不看答案的情况下继续推理。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-maxxing-coded-era.md",
-      "signal": {
-        "query": "maxxing coded era",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-28T18:10:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-29-play-with-putty",
-      "slug": "2026-08-29-play-with-putty",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-idea-1405f226",
+      "slug": "2026-08-30-idea-1405f226",
+      "date": "2026-08-30",
       "tier": "featured",
-      "title": "把试玩意见变成验收测试",
-      "one_liner": "试玩原型时点出问题并说出预期，团队马上得到验收测试和受约束的修复版本。",
-      "url": "https://raytally.com/ideas/2026-08-29-play-with-putty/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-play-with-putty.md",
+      "title": "最不像我的那件事",
+      "one_liner": "朋友想打破第一印象时，匿名混入意外事实、互相猜人，再用自己的素材共同揭晓。",
+      "url": "https://raytally.com/ideas/2026-08-30-idea-1405f226/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-idea-1405f226.md",
       "signal": {
-        "query": "Play with Putty",
-        "observed_at": "2026-08-29T00:33:06.964Z"
+        "query": "TikTok Trending Report",
+        "observed_at": "2026-08-30T00:33:29.943Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/google-labs",
-          "boundary": "观测于 2026-08-29T00:33:06.964Z。"
+          "url": "https://www.medianug.com/tiktok-trending-report",
+          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-30T00:33:29.943Z。"
         },
         {
-          "url": "https://playwright.dev/docs/test-agents",
+          "url": "https://funbunk.com/games/guess-who",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://static.marker.io/website-design-feedback",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.leapwork.com/leapwork-play/latest/play-tech-preview/getting-started-with-leapwork-play",
+          "url": "https://www.guessmates.com/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-29-aureacam",
-      "slug": "2026-08-29-aureacam",
-      "date": "2026-08-29",
-      "tier": "featured",
-      "title": "会喊站位的合影导演",
-      "one_liner": "无人看守手机拍合影时，相机直接提示每个人调整站位，构图稳定后自动连拍。",
-      "url": "https://raytally.com/ideas/2026-08-29-aureacam/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-aureacam.md",
-      "signal": {
-        "query": "AureaCam",
-        "observed_at": "2026-08-29T00:33:06.964Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
-          "boundary": "观测于 2026-08-29T00:33:06.964Z。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/vision/detecting-human-body-poses-in-images",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/vision/vngeneratepersoninstancemaskrequest",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/lens-buddy-self-timer-camera/id1289471945",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-29-xbox-series-x-25th-anniversary",
-      "slug": "2026-08-29-xbox-series-x-25th-anniversary",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-rawtoheic",
+      "slug": "2026-08-30-rawtoheic",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "限量主机排队接力",
-      "one_liner": "限量主机开售时，让朋友分头排队、共享进度，并在一人购得后立即停止重复订单。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-xbox-series-x-25th-anniversary.md",
+      "title": "交付后自动瘦身相册",
+      "one_liner": "照片项目交付后，自动确认 RAW 备份、生成可浏览的 HEIC，再安全腾出 Mac 空间。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-rawtoheic.md",
       "signal": {
-        "query": "xbox series x 25th anniversary",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-28T06:50:00.000Z"
+        "query": "RawToHEIC",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-29-ted-lasso-season-4-cast",
-      "slug": "2026-08-29-ted-lasso-season-4-cast",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-caddi",
+      "slug": "2026-08-30-caddi",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "无剧透认人模式",
-      "one_liner": "观众回看久别重启的剧集时，按一下遥控器即可认出角色并补回关系，还能避开剧透。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-ted-lasso-season-4-cast.md",
+      "title": "第二遍由 Agent 主做",
+      "one_liner": "运营人员示范一次重复工作后，下一次由 Agent 主做，并在不确定的分支停下请教。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-caddi.md",
       "signal": {
-        "query": "ted lasso season 4 cast",
-        "observed_at": "2026-08-29T00:33:02.863Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-08-28T01:50:00.000Z"
+        "query": "Caddi",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-29-microduck",
-      "slug": "2026-08-29-microduck",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-tiles",
+      "slug": "2026-08-30-tiles",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "小机器人实跑交换站",
-      "one_liner": "没有实体机器人的开发者提交动作模型，由远程硬件拥有者代跑并返回标准化遥测与录像。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-microduck.md",
+      "title": "任务断点舱",
+      "one_liner": "工作被打断时自动保存任务现场，回来一键恢复，并看清离开期间发生的变化。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-tiles.md",
       "signal": {
-        "query": "Microduck",
-        "observed_at": "2026-08-29T00:33:06.964Z"
+        "query": "Tiles",
+        "observed_at": "2026-08-30T00:33:29.942Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-29-crowdvolt",
-      "slug": "2026-08-29-crowdvolt",
-      "date": "2026-08-29",
+      "id": "idea-2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator",
+      "slug": "2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator",
+      "date": "2026-08-30",
       "tier": "quick",
-      "title": "今晚够人就出发",
-      "one_liner": "朋友临时想出门又没人愿意先开口时，私下凑齐条件相符的人，再自动确认地点与集合安排。",
-      "url": "https://raytally.com/daily/2026-08-29/",
-      "brief_url": "https://raytally.com/ideas/2026-08-29-crowdvolt.md",
+      "title": "乐队分轨排练房",
+      "one_liner": "乐队合练前本地分离曲目，为每位成员派发专属练习混音和同步标注。",
+      "url": "https://raytally.com/daily/2026-08-30/",
+      "brief_url": "https://raytally.com/ideas/2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator.md",
       "signal": {
-        "query": "CrowdVolt",
-        "observed_at": "2026-08-29T00:33:06.964Z"
+        "query": "StemDeck, a free, open-source and local AI stem separator",
+        "observed_at": "2026-08-30T00:33:29.129Z"
       },
       "sources": []
     }
