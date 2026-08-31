@@ -1,297 +1,276 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30",
+  "generated_at": "2026-08-31",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework",
-      "slug": "2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework",
-      "date": "2026-08-30",
-      "tier": "featured",
-      "title": "真实状态开机的 iOS CI",
-      "one_liner": "iOS 代码提交后，从多种旧设备状态启动虚拟 iPhone，提前找出升级故障并留下可调试现场。",
-      "url": "https://raytally.com/ideas/2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-boot-a-virtual-iphone-via-apple-s-virtualization-framework.md",
+      "id": "idea-2026-08-31-automating-immersive-reading",
+      "slug": "2026-08-31-automating-immersive-reading",
+      "date": "2026-08-31",
+      "tier": "quick",
+      "title": "网页随读声轨",
+      "one_liner": "阅读外语长文时，网页同步朗读并逐词高亮，跳段或查词后仍能从新位置无缝接续。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-automating-immersive-reading.md",
       "signal": {
-        "query": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "observed_at": "2026-08-30T00:33:29.129Z"
+        "query": "Automating Immersive Reading",
+        "observed_at": "2026-08-31T00:33:11.150Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-08-31-hacking-ikea-furniture",
+      "slug": "2026-08-31-hacking-ikea-furniture",
+      "date": "2026-08-31",
+      "tier": "featured",
+      "title": "宜家改造配方集市",
+      "one_liner": "租房者遇到异形空间时，按宜家具体型号选实装改造配方，再由本地工坊做出能直接安装的非标件。",
+      "url": "https://raytally.com/ideas/2026-08-31-hacking-ikea-furniture/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-hacking-ikea-furniture.md",
+      "signal": {
+        "query": "Hacking IKEA Furniture",
+        "observed_at": "2026-08-31T00:33:11.150Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49485267",
-          "boundary": "发布于 2026-08-28T00:00:00.000Z。 观测于 2026-08-30T00:33:29.129Z。"
+          "url": "https://news.ycombinator.com/item?id=49497810",
+          "boundary": "发布于 2026-08-30T11:39:43.000Z。 观测于 2026-08-31T00:33:11.150Z。"
         },
         {
-          "url": "https://github.com/Lakr233/vphone-cli/blob/main/README.md",
+          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+          "boundary": "发布于 2026-08-30T00:00:00.000Z。 观测于 2026-08-31T00:33:11.150Z。"
+        },
+        {
+          "url": "https://www.ikea.com/us/en/files/pdf/da/59/da59c634/pax_oct_2025.pdf",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.corellium.com/hubfs/theme-2022/briefs/CORE_Solution%20Brief_Mobile%20App%20Penetration%20Testing_Web_v5.pdf",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.browserstack.com/docs/app-automate/api-reference/introduction",
+          "url": "https://www.plykea.com/us",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc",
-      "slug": "2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-continuous-diffusion-language-models-cdlm-s",
+      "slug": "2026-08-31-continuous-diffusion-language-models-cdlm-s",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "实时验证的势力补给航线",
-      "one_liner": "《Elite Dangerous》玩家执行势力任务时，按近期停靠记录选补给站，缺货后自动改道。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-is-there-a-more-up-to-date-tool-than-meritminer-cc.md",
+      "title": "会回改整句的直播字幕",
+      "one_liner": "观看技术直播时，字幕借助后文回改整句并标出未稳定词，减少术语一开始听错就一直传错。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-continuous-diffusion-language-models-cdlm-s.md",
       "signal": {
-        "query": "Is there a more up-to-date tool than meritminer.cc?",
-        "observed_at": "2026-08-30T00:36:23.121Z"
+        "query": "Continuous Diffusion Language Models (CDLM's)",
+        "observed_at": "2026-08-31T00:33:11.150Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during",
-      "slug": "2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-haiku-r1-beta6-has-been-released",
+      "slug": "2026-08-31-haiku-r1-beta6-has-been-released",
+      "date": "2026-08-31",
       "tier": "featured",
-      "title": "FL Studio 可回滚录音模式",
-      "one_liner": "录音前一键切到低负载伴奏监听，结束后恢复原混音状态，并留下刚录好的素材。",
-      "url": "https://raytally.com/ideas/2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-expedited-workflow-for-bouncing-and-solo-ing-the-beat-during.md",
+      "title": "Haiku 云端构建跑道",
+      "one_liner": "跨平台项目提交代码后，在真实 Haiku beta6 镜像中自动构建和启动，返回首个差异点与可提交的移植配方。",
+      "url": "https://raytally.com/ideas/2026-08-31-haiku-r1-beta6-has-been-released/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-haiku-r1-beta6-has-been-released.md",
       "signal": {
-        "query": "Expedited workflow for bouncing and solo-ing the beat during tracking, then going back to the raw mix when done?",
-        "observed_at": "2026-08-30T00:36:23.121Z"
+        "query": "Haiku R1/beta6 has been released",
+        "observed_at": "2026-08-31T00:33:11.150Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/FL_Studio/comments/1w05c7q/expedited_workflow_for_bouncing_and_soloing_the/",
-          "boundary": "发布于 2026-08-27T00:00:00.000Z。 观测于 2026-08-30T00:36:23.121Z。"
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "boundary": "发布于 2026-08-26T00:00:00.000Z。 观测于 2026-08-31T00:33:11.150Z。"
         },
         {
-          "url": "https://www.image-line.com/fl-studio-learning-content/fl-studio-online-manual/html/midi_scripting.htm",
+          "url": "https://github.com/cross-platform-actions/action",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/recording_audio.htm",
+          "url": "https://docs.github.com/en/apps/creating-github-apps/writing-code-for-a-github-app/building-ci-checks-with-a-github-app?apiVersion=2022-11-28",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.apple.com/en-euro/105040",
-          "boundary": "发布于 2026-05-27T00:00:00.000Z。"
+          "url": "https://github.com/haikuports/haikuports/wiki/HaikuPorter-Guidelines",
+          "boundary": "发布于 2025-06-16T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-30-wit",
-      "slug": "2026-08-30-wit",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-idea-17f07f60",
+      "slug": "2026-08-31-idea-17f07f60",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "跨语境意图标记",
-      "one_liner": "跨国团队发送易被误读的英语消息前，先标出真实意图，让收件人看懂下一步该做什么。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-wit.md",
+      "title": "匿名短句揭晓局",
+      "one_liner": "朋友想参与短句趋势时，先匿名提交各自观点，再共同揭晓并编排成可发布的幻灯片。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-idea-17f07f60.md",
       "signal": {
-        "query": "WIT",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "Current TikTok Trends to Try in 2026",
+        "observed_at": "2026-08-31T00:33:11.930Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-30-cohere-parse-5",
-      "slug": "2026-08-30-cohere-parse-5",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi",
+      "slug": "2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi",
+      "date": "2026-08-31",
       "tier": "featured",
-      "title": "复杂文档直达业务系统",
-      "one_liner": "复杂附件进入业务邮箱后，自动读懂并填进旧系统，只把少量疑点交给经办人确认。",
-      "url": "https://raytally.com/ideas/2026-08-30-cohere-parse-5/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-cohere-parse-5.md",
+      "title": "开源驱动硬件接力",
+      "one_liner": "冷门硬件缺少驱动支持时，持有者可把实机短时借给开源维护者测试、抓日志，并在刷坏后自动回滚。",
+      "url": "https://raytally.com/ideas/2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi.md",
       "signal": {
-        "query": "Cohere Parse 5",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+        "observed_at": "2026-08-31T00:33:11.150Z"
       },
       "sources": [
         {
-          "url": "https://docs.cohere.com/changelog/parse",
-          "boundary": "发布于 2026-08-27T00:00:00.000Z。"
+          "url": "https://news.ycombinator.com/item?id=49501611",
+          "boundary": "发布于 2026-08-30T18:49:08.000Z。 观测于 2026-08-31T00:33:11.150Z。"
         },
         {
-          "url": "https://docs.cohere.com/v2/docs/parse-quickstart",
+          "url": "https://github.com/KodeMunkie/sm750hdmifb",
+          "boundary": "观测于 2026-08-31T00:33:11.150Z。"
+        },
+        {
+          "url": "https://lava-oss.qualcomm.com/static/docs/admin/basic-tutorials/device-setup/common.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.uipath.com/document-understanding/automation-cloud/latest/user-guide/about-document-understanding",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://playwright.dev/docs/locators",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://docs.kernelci.org/intro/platform-testing/",
+          "boundary": "发布于 2025-08-04T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-30-god-s-eye-view",
-      "slug": "2026-08-30-god-s-eye-view",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-idea-b193ebd8",
+      "slug": "2026-08-31-idea-b193ebd8",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "真实轨道任务教室",
-      "one_liner": "教师上卫星课时让学生协作选择观测窗口，再用真实影像验证判断。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-god-s-eye-view.md",
+      "title": "悬念视频盲看台",
+      "one_liner": "悬念短视频发布前交给陌生观众盲看，用逐秒猜测轨迹检查铺垫何时泄底。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-idea-b193ebd8.md",
       "signal": {
-        "query": "God’s Eye View",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "Tiktok Trends - Aug 2026",
+        "observed_at": "2026-08-31T00:33:11.930Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-30-lubb",
-      "slug": "2026-08-30-lubb",
-      "date": "2026-08-30",
-      "tier": "quick",
-      "title": "同频入睡",
-      "one_liner": "异地伴侣准备入睡时短时互传柔化后的实时心跳，让枕边有对方正在陪伴的触感。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-lubb.md",
-      "signal": {
-        "query": "Lubb",
-        "observed_at": "2026-08-30T00:33:29.942Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-30-neo",
-      "slug": "2026-08-30-neo",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-topview-motion-studio",
+      "slug": "2026-08-31-topview-motion-studio",
+      "date": "2026-08-31",
       "tier": "featured",
-      "title": "人物桌读室",
-      "one_liner": "小说作者写完关键场景后，让角色按既有设定有声桌读，立刻听出对白和动机的断裂处。",
-      "url": "https://raytally.com/ideas/2026-08-30-neo/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-neo.md",
+      "title": "随版本更新的发布片",
+      "one_liner": "功能合并后，自动在预览环境重跑受影响的演示镜头，让发布视频随界面版本一起更新。",
+      "url": "https://raytally.com/ideas/2026-08-31-topview-motion-studio/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-topview-motion-studio.md",
       "signal": {
-        "query": "Neo",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "Topview Motion Studio",
+        "observed_at": "2026-08-31T00:33:11.929Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/neo",
-          "boundary": "发布于 2026-08-18T01:51:15.000Z。 观测于 2026-08-30T00:33:29.942Z。"
+          "url": "https://www.producthunt.com/products/topview-ai",
+          "boundary": "观测于 2026-08-31T00:33:11.929Z。"
         },
         {
-          "url": "https://feedback.sudowrite.com/changelog/better-narrative-consistency-with-chapter-continuity",
-          "boundary": "发布于 2025-05-01T00:00:00.000Z。"
-        },
-        {
-          "url": "https://elevenlabs.io/docs/eleven-creative/products/studio",
+          "url": "https://www.topview.ai/motion-studio?source=home_quick_start",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://elevenlabs.io/docs/overview/capabilities/text-to-dialogue",
+          "url": "https://playwright.dev/docs/videos",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://webreel.dev/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-30-any-command",
-      "slug": "2026-08-30-any-command",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-qoo10",
+      "slug": "2026-08-31-qoo10",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "口袋演示控制台",
-      "one_liner": "演示者走到听众身边后，用手机上的情境按钮切页、标注并查看私密讲稿。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-any-command.md",
+      "title": "Qoo10 临时合单",
+      "one_liner": "大促购物差一点达到优惠门槛时，与附近同店买家临时合单，各自付款取货且共享折扣。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-qoo10.md",
       "signal": {
-        "query": "Any Command",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "qoo10",
+        "observed_at": "2026-08-31T00:33:10.285Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-30-idea-1405f226",
-      "slug": "2026-08-30-idea-1405f226",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-sayscroll",
+      "slug": "2026-08-31-sayscroll",
+      "date": "2026-08-31",
       "tier": "featured",
-      "title": "最不像我的那件事",
-      "one_liner": "朋友想打破第一印象时，匿名混入意外事实、互相猜人，再用自己的素材共同揭晓。",
-      "url": "https://raytally.com/ideas/2026-08-30-idea-1405f226/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-idea-1405f226.md",
+      "title": "访谈现场提词",
+      "one_liner": "直播访谈中，提词内容会识别已答问题并浮出可追问线索，让主持人不漏重点也不重复发问。",
+      "url": "https://raytally.com/ideas/2026-08-31-sayscroll/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-sayscroll.md",
       "signal": {
-        "query": "TikTok Trending Report",
-        "observed_at": "2026-08-30T00:33:29.943Z"
+        "query": "Sayscroll",
+        "observed_at": "2026-08-31T00:33:11.929Z"
       },
       "sources": [
         {
-          "url": "https://www.medianug.com/tiktok-trending-report",
-          "boundary": "发布于 2026-08-19T00:00:00.000Z。 观测于 2026-08-30T00:33:29.943Z。"
+          "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+          "boundary": "观测于 2026-08-31T00:33:11.929Z。"
         },
         {
-          "url": "https://funbunk.com/games/guess-who",
+          "url": "https://developers.deepgram.com/reference/speech-to-text/listen-streaming",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.guessmates.com/",
+          "url": "https://support.riverside.com/hc/en-us/articles/14269623297309-Launch-the-teleprompter-in-the-studio",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.producthunt.com/products/tellie-2/built-with",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-30-rawtoheic",
-      "slug": "2026-08-30-rawtoheic",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-steam-frame",
+      "slug": "2026-08-31-steam-frame",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "交付后自动瘦身相册",
-      "one_liner": "照片项目交付后，自动确认 RAW 备份、生成可浏览的 HEIC，再安全腾出 Mac 空间。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-rawtoheic.md",
+      "title": "游戏实机点播",
+      "one_liner": "玩家购买新硬件前点名游戏和配置，由设备持有者回传标准化实机视频与性能结果。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-steam-frame.md",
       "signal": {
-        "query": "RawToHEIC",
-        "observed_at": "2026-08-30T00:33:29.942Z"
+        "query": "steam frame",
+        "observed_at": "2026-08-31T00:33:07.681Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-08-30T12:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-30-caddi",
-      "slug": "2026-08-30-caddi",
-      "date": "2026-08-30",
+      "id": "idea-2026-08-31-caplio",
+      "slug": "2026-08-31-caplio",
+      "date": "2026-08-31",
       "tier": "quick",
-      "title": "第二遍由 Agent 主做",
-      "one_liner": "运营人员示范一次重复工作后，下一次由 Agent 主做，并在不确定的分支停下请教。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-caddi.md",
+      "title": "素材更新接力",
+      "one_liner": "品牌素材更新时，沿历史复用路径找到所有旧副本，并自动替换可安全修改的位置。",
+      "url": "https://raytally.com/daily/2026-08-31/",
+      "brief_url": "https://raytally.com/ideas/2026-08-31-caplio.md",
       "signal": {
-        "query": "Caddi",
-        "observed_at": "2026-08-30T00:33:29.942Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-30-tiles",
-      "slug": "2026-08-30-tiles",
-      "date": "2026-08-30",
-      "tier": "quick",
-      "title": "任务断点舱",
-      "one_liner": "工作被打断时自动保存任务现场，回来一键恢复，并看清离开期间发生的变化。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-tiles.md",
-      "signal": {
-        "query": "Tiles",
-        "observed_at": "2026-08-30T00:33:29.942Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator",
-      "slug": "2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator",
-      "date": "2026-08-30",
-      "tier": "quick",
-      "title": "乐队分轨排练房",
-      "one_liner": "乐队合练前本地分离曲目，为每位成员派发专属练习混音和同步标注。",
-      "url": "https://raytally.com/daily/2026-08-30/",
-      "brief_url": "https://raytally.com/ideas/2026-08-30-stemdeck-a-free-open-source-and-local-ai-stem-separator.md",
-      "signal": {
-        "query": "StemDeck, a free, open-source and local AI stem separator",
-        "observed_at": "2026-08-30T00:33:29.129Z"
+        "query": "Caplio",
+        "observed_at": "2026-08-31T00:33:11.929Z"
       },
       "sources": []
     }
