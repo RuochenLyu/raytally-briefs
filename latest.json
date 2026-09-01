@@ -1,278 +1,242 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-08-31-automating-immersive-reading",
-      "slug": "2026-08-31-automating-immersive-reading",
-      "date": "2026-08-31",
-      "tier": "quick",
-      "title": "网页随读声轨",
-      "one_liner": "阅读外语长文时，网页同步朗读并逐词高亮，跳段或查词后仍能从新位置无缝接续。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-automating-immersive-reading.md",
-      "signal": {
-        "query": "Automating Immersive Reading",
-        "observed_at": "2026-08-31T00:33:11.150Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-31-hacking-ikea-furniture",
-      "slug": "2026-08-31-hacking-ikea-furniture",
-      "date": "2026-08-31",
+      "id": "idea-2026-09-01-google-has-removed-mv2-extensions-from-the-chrome-web-store",
+      "slug": "2026-09-01-google-has-removed-mv2-extensions-from-the-chrome-web-store",
+      "date": "2026-09-01",
       "tier": "featured",
-      "title": "宜家改造配方集市",
-      "one_liner": "租房者遇到异形空间时，按宜家具体型号选实装改造配方，再由本地工坊做出能直接安装的非标件。",
-      "url": "https://raytally.com/ideas/2026-08-31-hacking-ikea-furniture/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-hacking-ikea-furniture.md",
+      "title": "MV2 扩展迁移对照跑",
+      "one_liner": "扩展迁移到 MV3 时，并排重放真实浏览流程，立刻找出新版从哪一步失去旧有能力。",
+      "url": "https://raytally.com/ideas/2026-09-01-google-has-removed-mv2-extensions-from-the-chrome-web-store/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-google-has-removed-mv2-extensions-from-the-chrome-web-store.md",
       "signal": {
-        "query": "Hacking IKEA Furniture",
-        "observed_at": "2026-08-31T00:33:11.150Z"
+        "query": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "observed_at": "2026-09-01T00:33:19.377Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49497810",
-          "boundary": "发布于 2026-08-30T11:39:43.000Z。 观测于 2026-08-31T00:33:11.150Z。"
-        },
-        {
-          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-          "boundary": "发布于 2026-08-30T00:00:00.000Z。 观测于 2026-08-31T00:33:11.150Z。"
-        },
-        {
-          "url": "https://www.ikea.com/us/en/files/pdf/da/59/da59c634/pax_oct_2025.pdf",
+          "url": "https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.plykea.com/us",
+          "url": "https://playwright.dev/docs/next/chrome-extensions",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.browserstack.com/docs/automate/playwright/chrome-extension-testing",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-31-continuous-diffusion-language-models-cdlm-s",
-      "slug": "2026-08-31-continuous-diffusion-language-models-cdlm-s",
-      "date": "2026-08-31",
+      "id": "idea-2026-09-01-i-turned-my-security-cameras-into-an-automatic-bird",
+      "slug": "2026-09-01-i-turned-my-security-cameras-into-an-automatic-bird",
+      "date": "2026-09-01",
       "tier": "quick",
-      "title": "会回改整句的直播字幕",
-      "one_liner": "观看技术直播时，字幕借助后文回改整句并标出未稳定词，减少术语一开始听错就一直传错。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-continuous-diffusion-language-models-cdlm-s.md",
+      "title": "院中鸟访客回放",
+      "one_liner": "院中有鸟经过时，自动把多台安防摄像头的碎片合成一次可辨认的来访回放。",
+      "url": "https://raytally.com/daily/2026-09-01/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-i-turned-my-security-cameras-into-an-automatic-bird.md",
       "signal": {
-        "query": "Continuous Diffusion Language Models (CDLM's)",
-        "observed_at": "2026-08-31T00:33:11.150Z"
+        "query": "I turned my security cameras into an automatic bird identification system",
+        "observed_at": "2026-09-01T00:33:19.377Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-31-haiku-r1-beta6-has-been-released",
-      "slug": "2026-08-31-haiku-r1-beta6-has-been-released",
-      "date": "2026-08-31",
+      "id": "idea-2026-09-01-launch-hn-almanac-yc-s26-ai-that-knows-your-company",
+      "slug": "2026-09-01-launch-hn-almanac-yc-s26-ai-that-knows-your-company",
+      "date": "2026-09-01",
       "tier": "featured",
-      "title": "Haiku 云端构建跑道",
-      "one_liner": "跨平台项目提交代码后，在真实 Haiku beta6 镜像中自动构建和启动，返回首个差异点与可提交的移植配方。",
-      "url": "https://raytally.com/ideas/2026-08-31-haiku-r1-beta6-has-been-released/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-haiku-r1-beta6-has-been-released.md",
+      "title": "会消除冲突的公司知识库",
+      "one_liner": "员工问到互相冲突的公司政策时，先拿到有出处的临时答复，再把最小裁决交给责任人。",
+      "url": "https://raytally.com/ideas/2026-09-01-launch-hn-almanac-yc-s26-ai-that-knows-your-company/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-launch-hn-almanac-yc-s26-ai-that-knows-your-company.md",
       "signal": {
-        "query": "Haiku R1/beta6 has been released",
-        "observed_at": "2026-08-31T00:33:11.150Z"
+        "query": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "observed_at": "2026-09-01T00:33:19.377Z"
       },
       "sources": [
         {
-          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-          "boundary": "发布于 2026-08-26T00:00:00.000Z。 观测于 2026-08-31T00:33:11.150Z。"
+          "url": "https://news.ycombinator.com/item?id=49511007",
+          "boundary": "发布于 2026-08-31T15:34:34.000Z。 观测于 2026-09-01T00:33:19.377Z。"
         },
         {
-          "url": "https://github.com/cross-platform-actions/action",
+          "url": "https://www.usealmanac.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.github.com/en/apps/creating-github-apps/writing-code-for-a-github-app/building-ci-checks-with-a-github-app?apiVersion=2022-11-28",
+          "url": "https://www.getguru.com/features/verification",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/haikuports/haikuports/wiki/HaikuPorter-Guidelines",
-          "boundary": "发布于 2025-06-16T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-31-idea-17f07f60",
-      "slug": "2026-08-31-idea-17f07f60",
-      "date": "2026-08-31",
-      "tier": "quick",
-      "title": "匿名短句揭晓局",
-      "one_liner": "朋友想参与短句趋势时，先匿名提交各自观点，再共同揭晓并编排成可发布的幻灯片。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-idea-17f07f60.md",
-      "signal": {
-        "query": "Current TikTok Trends to Try in 2026",
-        "observed_at": "2026-08-31T00:33:11.930Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi",
-      "slug": "2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi",
-      "date": "2026-08-31",
-      "tier": "featured",
-      "title": "开源驱动硬件接力",
-      "one_liner": "冷门硬件缺少驱动支持时，持有者可把实机短时借给开源维护者测试、抓日志，并在刷坏后自动回滚。",
-      "url": "https://raytally.com/ideas/2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-why-open-source-rocks-a-new-sm750-silicon-motion-gpu-hdmi.md",
-      "signal": {
-        "query": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-        "observed_at": "2026-08-31T00:33:11.150Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49501611",
-          "boundary": "发布于 2026-08-30T18:49:08.000Z。 观测于 2026-08-31T00:33:11.150Z。"
-        },
-        {
-          "url": "https://github.com/KodeMunkie/sm750hdmifb",
-          "boundary": "观测于 2026-08-31T00:33:11.150Z。"
-        },
-        {
-          "url": "https://lava-oss.qualcomm.com/static/docs/admin/basic-tutorials/device-setup/common.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.kernelci.org/intro/platform-testing/",
-          "boundary": "发布于 2025-08-04T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-31-idea-b193ebd8",
-      "slug": "2026-08-31-idea-b193ebd8",
-      "date": "2026-08-31",
-      "tier": "quick",
-      "title": "悬念视频盲看台",
-      "one_liner": "悬念短视频发布前交给陌生观众盲看，用逐秒猜测轨迹检查铺垫何时泄底。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-idea-b193ebd8.md",
-      "signal": {
-        "query": "Tiktok Trends - Aug 2026",
-        "observed_at": "2026-08-31T00:33:11.930Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-31-topview-motion-studio",
-      "slug": "2026-08-31-topview-motion-studio",
-      "date": "2026-08-31",
-      "tier": "featured",
-      "title": "随版本更新的发布片",
-      "one_liner": "功能合并后，自动在预览环境重跑受影响的演示镜头，让发布视频随界面版本一起更新。",
-      "url": "https://raytally.com/ideas/2026-08-31-topview-motion-studio/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-topview-motion-studio.md",
-      "signal": {
-        "query": "Topview Motion Studio",
-        "observed_at": "2026-08-31T00:33:11.929Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/topview-ai",
-          "boundary": "观测于 2026-08-31T00:33:11.929Z。"
-        },
-        {
-          "url": "https://www.topview.ai/motion-studio?source=home_quick_start",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://playwright.dev/docs/videos",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://webreel.dev/",
+          "url": "https://docs.glean.com/user-guide/assistant/glean-chat/glean-chat-citations/glean-citations",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-08-31-qoo10",
-      "slug": "2026-08-31-qoo10",
-      "date": "2026-08-31",
+      "id": "idea-2026-09-01-pips",
+      "slug": "2026-09-01-pips",
+      "date": "2026-09-01",
       "tier": "quick",
-      "title": "Qoo10 临时合单",
-      "one_liner": "大促购物差一点达到优惠门槛时，与附近同店买家临时合单，各自付款取货且共享折扣。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-qoo10.md",
+      "title": "双人骨牌谜局",
+      "one_liner": "做完每日 Pips 还想再玩时，邀请朋友带着不同线索共同解开一局短谜题。",
+      "url": "https://raytally.com/daily/2026-09-01/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-pips.md",
       "signal": {
-        "query": "qoo10",
-        "observed_at": "2026-08-31T00:33:10.285Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-08-31-sayscroll",
-      "slug": "2026-08-31-sayscroll",
-      "date": "2026-08-31",
-      "tier": "featured",
-      "title": "访谈现场提词",
-      "one_liner": "直播访谈中，提词内容会识别已答问题并浮出可追问线索，让主持人不漏重点也不重复发问。",
-      "url": "https://raytally.com/ideas/2026-08-31-sayscroll/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-sayscroll.md",
-      "signal": {
-        "query": "Sayscroll",
-        "observed_at": "2026-08-31T00:33:11.929Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
-          "boundary": "观测于 2026-08-31T00:33:11.929Z。"
-        },
-        {
-          "url": "https://developers.deepgram.com/reference/speech-to-text/listen-streaming",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.riverside.com/hc/en-us/articles/14269623297309-Launch-the-teleprompter-in-the-studio",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.producthunt.com/products/tellie-2/built-with",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-08-31-steam-frame",
-      "slug": "2026-08-31-steam-frame",
-      "date": "2026-08-31",
-      "tier": "quick",
-      "title": "游戏实机点播",
-      "one_liner": "玩家购买新硬件前点名游戏和配置，由设备持有者回传标准化实机视频与性能结果。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-steam-frame.md",
-      "signal": {
-        "query": "steam frame",
-        "observed_at": "2026-08-31T00:33:07.681Z",
+        "query": "pips",
+        "observed_at": "2026-09-01T00:33:15.710Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-08-30T12:20:00.000Z"
+        "ended_at": "2026-08-31T18:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-08-31-caplio",
-      "slug": "2026-08-31-caplio",
-      "date": "2026-08-31",
+      "id": "idea-2026-09-01-apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac",
+      "slug": "2026-09-01-apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac",
+      "date": "2026-09-01",
       "tier": "quick",
-      "title": "素材更新接力",
-      "one_liner": "品牌素材更新时，沿历史复用路径找到所有旧副本，并自动替换可安全修改的位置。",
-      "url": "https://raytally.com/daily/2026-08-31/",
-      "brief_url": "https://raytally.com/ideas/2026-08-31-caplio.md",
+      "title": "下班后的 Mac 算力池",
+      "one_liner": "本地 AI 任务排起长队时，自动接管办公室闲置 Mac，隔夜并行完成并交回结果。",
+      "url": "https://raytally.com/daily/2026-09-01/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac.md",
       "signal": {
-        "query": "Caplio",
-        "observed_at": "2026-08-31T00:33:11.929Z"
+        "query": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "observed_at": "2026-09-01T00:33:19.377Z"
       },
       "sources": []
+    },
+    {
+      "id": "idea-2026-09-01-ep-2350-fx-mic",
+      "slug": "2026-09-01-ep-2350-fx-mic",
+      "date": "2026-09-01",
+      "tier": "featured",
+      "title": "演出麦克风动作补丁",
+      "one_liner": "表演者排练新节目时，可试用并装载别人编排好的麦克风手势、音效和灯光联动。",
+      "url": "https://raytally.com/ideas/2026-09-01-ep-2350-fx-mic/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-ep-2350-fx-mic.md",
+      "signal": {
+        "query": "EP–2350 FX–MIC",
+        "observed_at": "2026-09-01T00:33:20.261Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/teenage-engineering",
+          "boundary": "观测于 2026-09-01T00:33:20.261Z。"
+        },
+        {
+          "url": "https://teenage.engineering/guides/ep-2350",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.ableton.com/en/manual/max-for-live/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://isotonikstudios.com/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-01-develop-cross-platform-cli-and-gui-tools-with-tcl-tk",
+      "slug": "2026-09-01-develop-cross-platform-cli-and-gui-tools-with-tcl-tk",
+      "date": "2026-09-01",
+      "tier": "quick",
+      "title": "CLI 一键生成桌面版",
+      "one_liner": "开发者把 CLI 交给非技术同事时，用一份命令定义同时发布终端版和跨平台桌面版。",
+      "url": "https://raytally.com/daily/2026-09-01/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-develop-cross-platform-cli-and-gui-tools-with-tcl-tk.md",
+      "signal": {
+        "query": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+        "observed_at": "2026-09-01T00:33:19.377Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-01-video-player-with-reserve-next-video-function",
+      "slug": "2026-09-01-video-player-with-reserve-next-video-function",
+      "date": "2026-09-01",
+      "tier": "featured",
+      "title": "离线视频候播队列",
+      "one_liner": "当前本地视频播放时继续预约、排序和临时插播多个文件，结束后按队列自动续播。",
+      "url": "https://raytally.com/ideas/2026-09-01-video-player-with-reserve-next-video-function/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-video-player-with-reserve-next-video-function.md",
+      "signal": {
+        "query": "Video Player with Reserve Next Video function?",
+        "observed_at": "2026-09-01T00:36:00.185Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/androidapps/comments/1w3vu1y/video_player_with_reserve_next_video_function/",
+          "boundary": "发布于 2026-09-01T00:00:00.000Z。 观测于 2026-09-01T00:36:00.185Z。"
+        },
+        {
+          "url": "https://developer.android.com/media/media3/exoplayer/playlists",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://mpv.io/manual/master/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://kodi.wiki/view/Settings/Media/Videos",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-01-ask-my-wardrobe",
+      "slug": "2026-09-01-ask-my-wardrobe",
+      "date": "2026-09-01",
+      "tier": "quick",
+      "title": "朋友衣橱借穿局",
+      "one_liner": "临时需要特殊场合穿搭时，让好友共同凑衣服，并直接协调试穿、借取和归还。",
+      "url": "https://raytally.com/daily/2026-09-01/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-ask-my-wardrobe.md",
+      "signal": {
+        "query": "Ask My Wardrobe",
+        "observed_at": "2026-09-01T00:33:20.261Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-01-playa-phone",
+      "slug": "2026-09-01-playa-phone",
+      "date": "2026-09-01",
+      "tier": "featured",
+      "title": "节庆营地公共分机",
+      "one_liner": "在手机无信号的临时聚会中，用公共分机联系营地，并把回拨约到明确的实体地点。",
+      "url": "https://raytally.com/ideas/2026-09-01-playa-phone/",
+      "brief_url": "https://raytally.com/ideas/2026-09-01-playa-phone.md",
+      "signal": {
+        "query": "Playa Phone",
+        "observed_at": "2026-09-01T00:33:19.377Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49510514",
+          "boundary": "发布于 2026-08-31T14:52:26.000Z。 观测于 2026-09-01T00:33:19.377Z。"
+        },
+        {
+          "url": "https://help.burningman.org/hc/en-us/articles/360024792411-Will-my-cell-phone-work-at-the-event-Where-is-the-nearest-phone",
+          "boundary": "发布于 2022-01-19T00:00:00.000Z。"
+        },
+        {
+          "url": "https://playaphone.com/",
+          "boundary": "观测于 2026-09-01T00:33:19.377Z。"
+        },
+        {
+          "url": "https://www.asterisk.org/get-started/features/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     }
   ]
 }
