@@ -1,250 +1,184 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-02-i-m-looking-for-a-desktop-app-that-plays-mp3-libraries",
-      "slug": "2026-09-02-i-m-looking-for-a-desktop-app-that-plays-mp3-libraries",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "文件夹就是有声书",
-      "one_liner": "打开已有 MP3 文件夹就按书与系列播放，并让进度随目录一起迁移，无需本地服务器。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-i-m-looking-for-a-desktop-app-that-plays-mp3-libraries.md",
-      "signal": {
-        "query": "I'm looking for a desktop app that plays mp3 libraries",
-        "observed_at": "2026-09-02T00:36:27.616Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-is-there-an-app-that-scans-for-recalled-food-yet",
-      "slug": "2026-09-02-is-there-an-app-that-scans-for-recalled-food-yet",
-      "date": "2026-09-02",
+      "id": "idea-2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber",
+      "slug": "2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber",
+      "date": "2026-09-03",
       "tier": "featured",
-      "title": "货架前的召回核验",
-      "one_liner": "在货架前扫描食品后，结合条码与包装批次核验官方召回，并立即给出可执行结论。",
-      "url": "https://raytally.com/ideas/2026-09-02-is-there-an-app-that-scans-for-recalled-food-yet/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-is-there-an-app-that-scans-for-recalled-food-yet.md",
+      "title": "可重放的代码攻防审查",
+      "one_liner": "安全工程师合并高风险代码前交出仓库分支，产品在沙箱中验证攻击路径，并返回可重放的漏洞证据。",
+      "url": "https://raytally.com/ideas/2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber.md",
       "signal": {
-        "query": "Is there an app that scans for recalled food yet?",
-        "observed_at": "2026-09-02T00:36:27.616Z"
+        "query": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "observed_at": "2026-09-03T00:33:12.773Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/AppBusiness/comments/1w4a2ym/is_there_an_app_that_scans_for_recalled_food_yet/",
-          "boundary": "发布于 2026-09-01T12:08:09.000Z。 观测于 2026-09-02T00:36:27.616Z。"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49537553",
+          "boundary": "发布于 2026-09-03T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+        },
+        {
+          "url": "https://www.zaproxy.org/docs/automate/automation-framework/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.xbow.com/console/how-to/explore-and-fix-results/",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-02-ambient-css-v3-blender-meets-css",
-      "slug": "2026-09-02-ambient-css-v3-blender-meets-css",
-      "date": "2026-09-02",
-      "tier": "featured",
-      "title": "CSS 场景工作台",
-      "one_liner": "开发者调复杂网页视觉时，像操作三维场景一样摆放元素与光影，并立即得到可提交的 CSS。",
-      "url": "https://raytally.com/ideas/2026-09-02-ambient-css-v3-blender-meets-css/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-ambient-css-v3-blender-meets-css.md",
-      "signal": {
-        "query": "Ambient CSS v3 – Blender meets CSS",
-        "observed_at": "2026-09-02T00:33:20.953Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-waseigo",
-      "slug": "2026-09-02-waseigo",
-      "date": "2026-09-02",
+      "id": "idea-2026-09-03-three-sites-made-215-128-best-software-pages-for-ai",
+      "slug": "2026-09-03-three-sites-made-215-128-best-software-pages-for-ai",
+      "date": "2026-09-03",
       "tier": "quick",
-      "title": "看起来像英语的日语词",
-      "one_liner": "日语学习者看视频或网页遇到和制英语时，先猜词义，再通过原场景纠正最容易混淆的英语直觉。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-waseigo.md",
+      "title": "AI 推荐引用验真",
+      "one_liner": "依据 AI 推荐购买软件前，先识别伪装成多来源的引用站群，再看推荐是否还站得住。",
+      "url": "https://raytally.com/daily/2026-09-03/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-three-sites-made-215-128-best-software-pages-for-ai.md",
       "signal": {
-        "query": "WaseiGo",
-        "observed_at": "2026-09-02T00:33:21.870Z"
+        "query": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "observed_at": "2026-09-03T00:33:12.773Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-02-arc-24-multitrack-groovebox-for-ios",
-      "slug": "2026-09-02-arc-24-multitrack-groovebox-for-ios",
-      "date": "2026-09-02",
+      "id": "idea-2026-09-03-i-wanna-live-an-npc-life",
+      "slug": "2026-09-03-i-wanna-live-an-npc-life",
+      "date": "2026-09-03",
       "tier": "featured",
-      "title": "手机接力合奏",
-      "one_liner": "朋友即兴合奏时，把多轨工程在附近手机间逐棒传递，自动对齐每个人新增的声部。",
-      "url": "https://raytally.com/ideas/2026-09-02-arc-24-multitrack-groovebox-for-ios/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-arc-24-multitrack-groovebox-for-ios.md",
+      "title": "NPC 周末通行证",
+      "one_liner": "决定疲劳的人开启周末模式后，只需跟着眼前的下一步走，沿途预订会在预算内自动接上。",
+      "url": "https://raytally.com/ideas/2026-09-03-i-wanna-live-an-npc-life/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-i-wanna-live-an-npc-life.md",
       "signal": {
-        "query": "ARC-24 Multitrack Groovebox for iOS",
-        "observed_at": "2026-09-02T00:33:21.870Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-introducing-ad-blocker-for-firefox-on-ios",
-      "slug": "2026-09-02-introducing-ad-blocker-for-firefox-on-ios",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "圈出漏网广告",
-      "one_liner": "广告拦截漏网时，圈出干扰元素即可生成并现场验证一条可共享的拦截规则。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-introducing-ad-blocker-for-firefox-on-ios.md",
-      "signal": {
-        "query": "Introducing Ad Blocker for Firefox on iOS",
-        "observed_at": "2026-09-02T00:33:20.953Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-folio",
-      "slug": "2026-09-02-folio",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "送进电子书的长文",
-      "one_liner": "想与朋友分享长文时，把文章和一个问题送进对方电子书，读后高亮再自动回信。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-folio.md",
-      "signal": {
-        "query": "Folio",
-        "observed_at": "2026-09-02T00:33:21.870Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with",
-      "slug": "2026-09-02-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with",
-      "date": "2026-09-02",
-      "tier": "featured",
-      "title": "招聘帖里的双向握手",
-      "one_liner": "每月招聘帖发布后，把求职与岗位需求做成双向匿名选择，互相点头才交换联系方式。",
-      "url": "https://raytally.com/ideas/2026-09-02-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-show-hn-hn-match-maker-matching-who-wants-to-be-hired-with.md",
-      "signal": {
-        "query": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-        "observed_at": "2026-09-02T00:33:20.953Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-channelos",
-      "slug": "2026-09-02-channelos",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "轮流编排家庭频道",
-      "one_liner": "家人不想再花时间选片时，共同认领晚间时段，媒体库便按排期自动播出一条可随时加入的家庭频道。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-channelos.md",
-      "signal": {
-        "query": "ChannelOS",
-        "observed_at": "2026-09-02T00:33:21.870Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-google-deleted-all-my-contacts-looking-for-an-contact-app",
-      "slug": "2026-09-02-google-deleted-all-my-contacts-looking-for-an-contact-app",
-      "date": "2026-09-02",
-      "tier": "featured",
-      "title": "通讯录保险库",
-      "one_liner": "联系人不进入系统通讯录，也能跨设备加密保存、直接联系并从误删前版本恢复。",
-      "url": "https://raytally.com/ideas/2026-09-02-google-deleted-all-my-contacts-looking-for-an-contact-app/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-google-deleted-all-my-contacts-looking-for-an-contact-app.md",
-      "signal": {
-        "query": "Google deleted all my contacts, looking for an contact app",
-        "observed_at": "2026-09-02T00:36:27.616Z"
+        "query": "I wanna live an NPC life",
+        "observed_at": "2026-09-03T00:33:12.773Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/androidapps/comments/1w4k3fj/google_deleted_all_my_contacts_looking_for_an/",
-          "boundary": "发布于 2026-09-01T18:14:35.000Z。 观测于 2026-09-02T00:36:27.616Z。"
+          "url": "https://news.ycombinator.com/item?id=49541519",
+          "boundary": "发布于 2026-09-02T19:52:53.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+        },
+        {
+          "url": "https://www2.amazingco.me/how-it-works/mystery-picnics",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://questoapp.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.stripe.com/connect/destination-charges",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-02-semana-do-cinema",
-      "slug": "2026-09-02-semana-do-cinema",
-      "date": "2026-09-02",
+      "id": "idea-2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time",
+      "slug": "2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time",
+      "date": "2026-09-03",
       "tier": "quick",
-      "title": "满场后的连座候补",
-      "one_liner": "优惠电影周遇到满场时，持续捕捉释放的连座并先行占住，让观众直接确认购买。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-semana-do-cinema.md",
+      "title": "早晚分开的屏幕额度",
+      "one_liner": "想只控制特定时段刷手机的人，可为每段时间单独发放额度，用尽后自动锁住应用。",
+      "url": "https://raytally.com/daily/2026-09-03/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time.md",
       "signal": {
-        "query": "semana do cinema",
-        "observed_at": "2026-09-02T00:33:20.595Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Is there an app that allows you to ration your screen time for different times of day?",
+        "observed_at": "2026-09-03T00:34:38.011Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-02-latest-iphone-rumors",
-      "slug": "2026-09-02-latest-iphone-rumors",
-      "date": "2026-09-02",
+      "id": "idea-2026-09-03-emily-wilson-retranslating-odyssey",
+      "slug": "2026-09-03-emily-wilson-retranslating-odyssey",
+      "date": "2026-09-03",
       "tier": "quick",
-      "title": "发布会后再定的换机预订",
-      "one_liner": "换机窗口迫近时先锁住可退的现款库存，待官方发布后自动执行买旧款还是订新品。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-latest-iphone-rumors.md",
+      "title": "匿名比读《奥德赛》",
+      "one_liner": "讨论经典新译本时，读者先匿名盲选译句，再看全班分歧与每种译法的取舍。",
+      "url": "https://raytally.com/daily/2026-09-03/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-emily-wilson-retranslating-odyssey.md",
       "signal": {
-        "query": "latest iphone rumors",
-        "observed_at": "2026-09-02T00:33:19.525Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-ankidroid-google-play-no-longer-allowing-open-collective",
-      "slug": "2026-09-02-ankidroid-google-play-no-longer-allowing-open-collective",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "开源应用赞助钱包",
-      "one_liner": "应用商店撤掉捐款入口后，把用户的一笔月费自动分给其持续使用的开源应用。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-ankidroid-google-play-no-longer-allowing-open-collective.md",
-      "signal": {
-        "query": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-        "observed_at": "2026-09-02T00:33:20.953Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-movie-scene-map-13-312-films-series-games-anime-and-manga",
-      "slug": "2026-09-02-movie-scene-map-13-312-films-series-games-anime-and-manga",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "按场面找分镜参考",
-      "one_liner": "创作者构思具体场面时，用一句情境描述找到跨影视、游戏和漫画的结构参考，并拼出自己的分镜方向。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-movie-scene-map-13-312-films-series-games-anime-and-manga.md",
-      "signal": {
-        "query": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-        "observed_at": "2026-09-02T00:33:20.953Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-02-first-day-of-fall",
-      "slug": "2026-09-02-first-day-of-fall",
-      "date": "2026-09-02",
-      "tier": "quick",
-      "title": "秋分同测一根影子",
-      "one_liner": "秋分当天，课堂同步测量影子并与异地学校现场对比，让季节变化变成看得见的实验。",
-      "url": "https://raytally.com/daily/2026-09-02/",
-      "brief_url": "https://raytally.com/ideas/2026-09-02-first-day-of-fall.md",
-      "signal": {
-        "query": "first day of fall",
-        "observed_at": "2026-09-02T00:33:18.180Z",
+        "query": "emily wilson retranslating odyssey",
+        "observed_at": "2026-09-03T00:33:10.595Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-01T23:20:00.000Z"
+        "ended_at": "2026-09-02T17:00:00.000Z"
       },
       "sources": []
+    },
+    {
+      "id": "idea-2026-09-03-fable-5-1-world-modeling",
+      "slug": "2026-09-03-fable-5-1-world-modeling",
+      "date": "2026-09-03",
+      "tier": "featured",
+      "title": "可接管的动态分镜",
+      "one_liner": "远程审分镜时，团队可在同一生成场景中改动作、接管镜头，并立即保存可回放的新版本。",
+      "url": "https://raytally.com/ideas/2026-09-03-fable-5-1-world-modeling/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-fable-5-1-world-modeling.md",
+      "signal": {
+        "query": "Fable 5.1 World Modeling",
+        "observed_at": "2026-09-03T00:33:12.773Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49541458",
+          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+        },
+        {
+          "url": "https://github.com/PhiloLabs/fable51-worlds",
+          "boundary": "观测于 2026-09-03T00:33:12.773Z。"
+        },
+        {
+          "url": "https://dev.epicgames.com/documentation/unreal-engine/multi-user-editing-overview-for-unreal-engine",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.omniverse.nvidia.com/composer/latest/",
+          "boundary": "发布于 2026-08-26T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-03-stitch-ai-by-dynamic-mockups",
+      "slug": "2026-09-03-stitch-ai-by-dynamic-mockups",
+      "date": "2026-09-03",
+      "tier": "featured",
+      "title": "刺绣试样接力",
+      "one_liner": "设计师准备生产刺绣周边时，匹配有合适设备和空档的店铺，快速收到可确认量产的实体布样。",
+      "url": "https://raytally.com/ideas/2026-09-03-stitch-ai-by-dynamic-mockups/",
+      "brief_url": "https://raytally.com/ideas/2026-09-03-stitch-ai-by-dynamic-mockups.md",
+      "signal": {
+        "query": "Stitch AI by Dynamic Mockups",
+        "observed_at": "2026-09-03T00:33:13.191Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
+          "boundary": "观测于 2026-09-03T00:33:13.191Z。"
+        },
+        {
+          "url": "https://inkstitch.org/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.digitizing.us/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.stripe.com/connect",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     }
   ]
 }
