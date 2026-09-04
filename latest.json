@@ -1,184 +1,276 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03",
+  "generated_at": "2026-09-04",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber",
-      "slug": "2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber",
-      "date": "2026-09-03",
+      "id": "idea-2026-09-04-agent-builder-by-airtop",
+      "slug": "2026-09-04-agent-builder-by-airtop",
+      "date": "2026-09-04",
       "tier": "featured",
-      "title": "可重放的代码攻防审查",
-      "one_liner": "安全工程师合并高风险代码前交出仓库分支，产品在沙箱中验证攻击路径，并返回可重放的漏洞证据。",
-      "url": "https://raytally.com/ideas/2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-gemini-3-8-flash-and-3-8-flash-cyber.md",
+      "title": "网页代理抗改版演练",
+      "one_liner": "网页代理上线前先经历一轮自动“改版”，立即找出最容易失效的步骤和恢复缺口。",
+      "url": "https://raytally.com/ideas/2026-09-04-agent-builder-by-airtop/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-agent-builder-by-airtop.md",
       "signal": {
-        "query": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "observed_at": "2026-09-03T00:33:12.773Z"
+        "query": "Agent Builder by Airtop",
+        "observed_at": "2026-09-04T00:33:18.986Z"
       },
       "sources": [
         {
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+          "url": "https://www.producthunt.com/products/airtop",
+          "boundary": "观测于 2026-09-04T00:33:18.986Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49537553",
-          "boundary": "发布于 2026-09-03T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
-        },
-        {
-          "url": "https://www.zaproxy.org/docs/automate/automation-framework/",
+          "url": "https://www.airtop.ai/agent-builder",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.xbow.com/console/how-to/explore-and-fix-results/",
+          "url": "https://playwright.dev/docs/best-practices",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.browserstack.com/percy",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-03-three-sites-made-215-128-best-software-pages-for-ai",
-      "slug": "2026-09-03-three-sites-made-215-128-best-software-pages-for-ai",
-      "date": "2026-09-03",
+      "id": "idea-2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps",
+      "slug": "2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps",
+      "date": "2026-09-04",
       "tier": "quick",
-      "title": "AI 推荐引用验真",
-      "one_liner": "依据 AI 推荐购买软件前，先识别伪装成多来源的引用站群，再看推荐是否还站得住。",
-      "url": "https://raytally.com/daily/2026-09-03/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-three-sites-made-215-128-best-software-pages-for-ai.md",
+      "title": "换机前的应用来源册",
+      "one_liner": "Android 用户安装应用后，后台自动记录版本与商店、F-Droid 或 GitHub 来源，并定期导出可恢复快照。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps.md",
       "signal": {
-        "query": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "observed_at": "2026-09-03T00:33:12.773Z"
+        "query": "Is there any App which Backups a List of installed apps weekly or with New installs?",
+        "observed_at": "2026-09-04T00:34:16.541Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-03-i-wanna-live-an-npc-life",
-      "slug": "2026-09-03-i-wanna-live-an-npc-life",
-      "date": "2026-09-03",
-      "tier": "featured",
-      "title": "NPC 周末通行证",
-      "one_liner": "决定疲劳的人开启周末模式后，只需跟着眼前的下一步走，沿途预订会在预算内自动接上。",
-      "url": "https://raytally.com/ideas/2026-09-03-i-wanna-live-an-npc-life/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-i-wanna-live-an-npc-life.md",
+      "id": "idea-2026-09-04-any-app-that-can-help-with-sentence-creation-practice",
+      "slug": "2026-09-04-any-app-that-can-help-with-sentence-creation-practice",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "日语造句接球",
+      "one_liner": "日语学习者背完词汇后，在短对话中被要求亲自造句，并立即用修正后的表达继续交流。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-any-app-that-can-help-with-sentence-creation-practice.md",
       "signal": {
-        "query": "I wanna live an NPC life",
-        "observed_at": "2026-09-03T00:33:12.773Z"
+        "query": "Any app that can help with sentence creation practice?",
+        "observed_at": "2026-09-04T00:34:16.541Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the",
+      "slug": "2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the",
+      "date": "2026-09-04",
+      "tier": "featured",
+      "title": "老游戏双机移植台",
+      "one_liner": "移植老游戏时同步运行原版与新版，自动定位手感或逻辑首次偏离的代码位置。",
+      "url": "https://raytally.com/ideas/2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the.md",
+      "signal": {
+        "query": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "observed_at": "2026-09-04T00:33:18.586Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49541519",
-          "boundary": "发布于 2026-09-02T19:52:53.000Z。 观测于 2026-09-03T00:33:12.773Z。"
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+          "boundary": "发布于 2026-09-01T00:00:00.000Z。 观测于 2026-09-04T00:33:18.586Z。"
         },
         {
-          "url": "https://www2.amazingco.me/how-it-works/mystery-picnics",
+          "url": "https://news.ycombinator.com/item?id=49550375",
+          "boundary": "发布于 2026-09-03T00:00:00.000Z。 观测于 2026-09-04T00:33:18.586Z。"
+        },
+        {
+          "url": "https://docs.godotengine.org/en/4.7/tutorials/inputs/controllers_gamepads_joysticks.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://questoapp.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.stripe.com/connect/destination-charges",
+          "url": "https://kb.gamedriver.ai/gamedriver-test-assistant",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time",
-      "slug": "2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time",
-      "date": "2026-09-03",
-      "tier": "quick",
-      "title": "早晚分开的屏幕额度",
-      "one_liner": "想只控制特定时段刷手机的人，可为每段时间单独发放额度，用尽后自动锁住应用。",
-      "url": "https://raytally.com/daily/2026-09-03/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-is-there-an-app-that-allows-you-to-ration-your-screen-time.md",
+      "id": "idea-2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have",
+      "slug": "2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have",
+      "date": "2026-09-04",
+      "tier": "featured",
+      "title": "普通人的历史课堂",
+      "one_liner": "教师开讲社会史时，可让全班扮演彼此关联的普通人，在交涉中体验一个时代如何塑造命运。",
+      "url": "https://raytally.com/ideas/2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have.md",
       "signal": {
-        "query": "Is there an app that allows you to ration your screen time for different times of day?",
-        "observed_at": "2026-09-03T00:34:38.011Z"
+        "query": "Any Human Ever – One life, drawn at random from all who have ever lived",
+        "observed_at": "2026-09-04T00:33:18.586Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-03-emily-wilson-retranslating-odyssey",
-      "slug": "2026-09-03-emily-wilson-retranslating-odyssey",
-      "date": "2026-09-03",
+      "id": "idea-2026-09-04-tabbit-ai",
+      "slug": "2026-09-04-tabbit-ai",
+      "date": "2026-09-04",
       "tier": "quick",
-      "title": "匿名比读《奥德赛》",
-      "one_liner": "讨论经典新译本时，读者先匿名盲选译句，再看全班分歧与每种译法的取舍。",
-      "url": "https://raytally.com/daily/2026-09-03/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-emily-wilson-retranslating-odyssey.md",
+      "title": "借给代理一枚标签页",
+      "one_liner": "需要代理代办登录网站里的任务时，只临时交出单个标签页，并在完成后自动收回权限。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-tabbit-ai.md",
       "signal": {
-        "query": "emily wilson retranslating odyssey",
-        "observed_at": "2026-09-03T00:33:10.595Z",
+        "query": "Tabbit AI",
+        "observed_at": "2026-09-04T00:33:18.986Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-04-janmashtami",
+      "slug": "2026-09-04-janmashtami",
+      "date": "2026-09-04",
+      "tier": "featured",
+      "title": "Janmashtami 远程接力",
+      "one_liner": "家人分散多地庆祝 Janmashtami 时，共同完成一场按时点接力、人人能参与的午夜仪式。",
+      "url": "https://raytally.com/ideas/2026-09-04-janmashtami/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-janmashtami.md",
+      "signal": {
+        "query": "janmashtami",
+        "observed_at": "2026-09-04T00:33:18.019Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": [
+        {
+          "url": "https://presidentofindia.nic.in/press_releases/president-indias-greetings-eve-janmashtami-3",
+          "boundary": "发布于 2026-09-03T00:00:00.000Z。"
+        },
+        {
+          "url": "https://docs.daily.co/reference/rest-api/rooms/recordings/start",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.pooja.link/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://gopuja.com/online-puja/usa",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-04-parasocial",
+      "slug": "2026-09-04-parasocial",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "播客共听接力",
+      "one_liner": "朋友听到值得讨论的播客片段时，可附上语音理由发起接力，最后收获一条多人共听对话。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-parasocial.md",
+      "signal": {
+        "query": "Parasocial",
+        "observed_at": "2026-09-04T00:33:18.986Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-04-higgsfield-genjutsu",
+      "slug": "2026-09-04-higgsfield-genjutsu",
+      "date": "2026-09-04",
+      "tier": "featured",
+      "title": "动作授权片场",
+      "one_liner": "品牌需要重制热门动作时，可先试演自家角色与商品，再向原表演者购买清晰、可追踪的复用权。",
+      "url": "https://raytally.com/ideas/2026-09-04-higgsfield-genjutsu/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-higgsfield-genjutsu.md",
+      "signal": {
+        "query": "Higgsfield Genjutsu",
+        "observed_at": "2026-09-04T00:33:18.986Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.higgsfield.company/creator-hub/changelog",
+          "boundary": "发布于 2026-09-01T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.copyright.gov/registration/performing-arts/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-04-world-s-tallest-buildings-ee8d7ed",
+      "slug": "2026-09-04-world-s-tallest-buildings-ee8d7ed",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "把世界高楼搬到眼前",
+      "one_liner": "在观景台看向天际线时，把世界最高建筑按真实比例叠进镜头，直观看懂它们究竟有多高。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-world-s-tallest-buildings-ee8d7ed.md",
+      "signal": {
+        "query": "world's tallest buildings",
+        "observed_at": "2026-09-04T00:33:16.593Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-02T17:00:00.000Z"
+        "ended_at": "2026-09-03T11:00:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-03-fable-5-1-world-modeling",
-      "slug": "2026-09-03-fable-5-1-world-modeling",
-      "date": "2026-09-03",
-      "tier": "featured",
-      "title": "可接管的动态分镜",
-      "one_liner": "远程审分镜时，团队可在同一生成场景中改动作、接管镜头，并立即保存可回放的新版本。",
-      "url": "https://raytally.com/ideas/2026-09-03-fable-5-1-world-modeling/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-fable-5-1-world-modeling.md",
+      "id": "idea-2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone",
+      "slug": "2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "人类联队挑战让子 AI",
+      "one_liner": "围棋社活动时，多名棋手可分担不同视角并投票落子，组队挑战按水平校准的让子 AI。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone.md",
       "signal": {
-        "query": "Fable 5.1 World Modeling",
-        "observed_at": "2026-09-03T00:33:12.773Z"
+        "query": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+        "observed_at": "2026-09-04T00:33:18.586Z"
       },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49541458",
-          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-03T00:33:12.773Z。"
-        },
-        {
-          "url": "https://github.com/PhiloLabs/fable51-worlds",
-          "boundary": "观测于 2026-09-03T00:33:12.773Z。"
-        },
-        {
-          "url": "https://dev.epicgames.com/documentation/unreal-engine/multi-user-editing-overview-for-unreal-engine",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.omniverse.nvidia.com/composer/latest/",
-          "boundary": "发布于 2026-08-26T00:00:00.000Z。"
-        }
-      ]
+      "sources": []
     },
     {
-      "id": "idea-2026-09-03-stitch-ai-by-dynamic-mockups",
-      "slug": "2026-09-03-stitch-ai-by-dynamic-mockups",
-      "date": "2026-09-03",
-      "tier": "featured",
-      "title": "刺绣试样接力",
-      "one_liner": "设计师准备生产刺绣周边时，匹配有合适设备和空档的店铺，快速收到可确认量产的实体布样。",
-      "url": "https://raytally.com/ideas/2026-09-03-stitch-ai-by-dynamic-mockups/",
-      "brief_url": "https://raytally.com/ideas/2026-09-03-stitch-ai-by-dynamic-mockups.md",
+      "id": "idea-2026-09-04-idea-34774911",
+      "slug": "2026-09-04-idea-34774911",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "同校开学用品接力",
+      "one_liner": "家长准备开学用品时，按学校和年级匹配上一届家庭的闲置物品，快速完成同校交接。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-idea-34774911.md",
       "signal": {
-        "query": "Stitch AI by Dynamic Mockups",
-        "observed_at": "2026-09-03T00:33:13.191Z"
+        "query": "School supplies and fall wardrobes took over Shopify in August",
+        "observed_at": "2026-09-04T00:33:18.993Z"
       },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-          "boundary": "观测于 2026-09-03T00:33:13.191Z。"
-        },
-        {
-          "url": "https://inkstitch.org/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.digitizing.us/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.stripe.com/connect",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s",
+      "slug": "2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s",
+      "date": "2026-09-04",
+      "tier": "quick",
+      "title": "日志未停，修复先跑",
+      "one_liner": "生产告警响起后，它会边接收日志边验证故障假设，立即返回跑通过的补丁或回滚方案。",
+      "url": "https://raytally.com/daily/2026-09-04/",
+      "brief_url": "https://raytally.com/ideas/2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s.md",
+      "signal": {
+        "query": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "observed_at": "2026-09-04T00:33:18.586Z"
+      },
+      "sources": []
     }
   ]
 }
