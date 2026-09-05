@@ -1,274 +1,267 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04",
+  "generated_at": "2026-09-05",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-04-agent-builder-by-airtop",
-      "slug": "2026-09-04-agent-builder-by-airtop",
-      "date": "2026-09-04",
+      "id": "idea-2026-09-05-forward-prerequisite-checking-tool",
+      "slug": "2026-09-05-forward-prerequisite-checking-tool",
+      "date": "2026-09-05",
       "tier": "featured",
-      "title": "网页代理抗改版演练",
-      "one_liner": "网页代理上线前先经历一轮自动“改版”，立即找出最容易失效的步骤和恢复缺口。",
-      "url": "https://raytally.com/ideas/2026-09-04-agent-builder-by-airtop/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-agent-builder-by-airtop.md",
+      "title": "退课前看后路",
+      "one_liner": "学生退课或换课前，查看这门课解锁的后续课程，以及放弃它可能推迟的培养路径。",
+      "url": "https://raytally.com/ideas/2026-09-05-forward-prerequisite-checking-tool/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-forward-prerequisite-checking-tool.md",
       "signal": {
-        "query": "Agent Builder by Airtop",
-        "observed_at": "2026-09-04T00:33:18.986Z"
+        "query": "Forward prerequisite checking tool",
+        "observed_at": "2026-09-05T00:34:29.895Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/airtop",
-          "boundary": "观测于 2026-09-04T00:33:18.986Z。"
+          "url": "https://www.reddit.com/r/RPI/comments/1w4wyeh/forward_prerequisite_checking_tool/",
+          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-05T00:34:29.895Z。"
         },
         {
-          "url": "https://www.airtop.ai/agent-builder",
+          "url": "https://github.com/quacs/quacs",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://playwright.dev/docs/best-practices",
+          "url": "https://registrar.rpi.edu/services/academic-planning/degree-works",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.browserstack.com/percy",
+          "url": "https://info.stellic.jhu.edu/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps",
-      "slug": "2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps",
-      "date": "2026-09-04",
+      "id": "idea-2026-09-05-jio-pc",
+      "slug": "2026-09-05-jio-pc",
+      "date": "2026-09-05",
       "tier": "quick",
-      "title": "换机前的应用来源册",
-      "one_liner": "Android 用户安装应用后，后台自动记录版本与商店、F-Droid 或 GitHub 来源，并定期导出可恢复快照。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-is-there-any-app-which-backups-a-list-of-installed-apps.md",
+      "title": "云电脑到家试跑",
+      "one_liner": "顾客购买 JioPC 前，在家真实跑完办公和外设任务，十分钟知道它能否替代旧电脑。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-jio-pc.md",
       "signal": {
-        "query": "Is there any App which Backups a List of installed apps weekly or with New installs?",
-        "observed_at": "2026-09-04T00:34:16.541Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-any-app-that-can-help-with-sentence-creation-practice",
-      "slug": "2026-09-04-any-app-that-can-help-with-sentence-creation-practice",
-      "date": "2026-09-04",
-      "tier": "quick",
-      "title": "日语造句接球",
-      "one_liner": "日语学习者背完词汇后，在短对话中被要求亲自造句，并立即用修正后的表达继续交流。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-any-app-that-can-help-with-sentence-creation-practice.md",
-      "signal": {
-        "query": "Any app that can help with sentence creation practice?",
-        "observed_at": "2026-09-04T00:34:16.541Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the",
-      "slug": "2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the",
-      "date": "2026-09-04",
-      "tier": "featured",
-      "title": "老游戏双机移植台",
-      "one_liner": "移植老游戏时同步运行原版与新版，自动定位手感或逻辑首次偏离的代码位置。",
-      "url": "https://raytally.com/ideas/2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the.md",
-      "signal": {
-        "query": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-        "observed_at": "2026-09-04T00:33:18.586Z"
-      },
-      "sources": [
-        {
-          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-          "boundary": "发布于 2026-09-01T00:00:00.000Z。 观测于 2026-09-04T00:33:18.586Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49550375",
-          "boundary": "发布于 2026-09-03T00:00:00.000Z。 观测于 2026-09-04T00:33:18.586Z。"
-        },
-        {
-          "url": "https://docs.godotengine.org/en/4.7/tutorials/inputs/controllers_gamepads_joysticks.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://kb.gamedriver.ai/gamedriver-test-assistant",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have",
-      "slug": "2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have",
-      "date": "2026-09-04",
-      "tier": "featured",
-      "title": "普通人的历史课堂",
-      "one_liner": "教师开讲社会史时，可让全班扮演彼此关联的普通人，在交涉中体验一个时代如何塑造命运。",
-      "url": "https://raytally.com/ideas/2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-any-human-ever-one-life-drawn-at-random-from-all-who-have.md",
-      "signal": {
-        "query": "Any Human Ever – One life, drawn at random from all who have ever lived",
-        "observed_at": "2026-09-04T00:33:18.586Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-tabbit-ai",
-      "slug": "2026-09-04-tabbit-ai",
-      "date": "2026-09-04",
-      "tier": "quick",
-      "title": "借给代理一枚标签页",
-      "one_liner": "需要代理代办登录网站里的任务时，只临时交出单个标签页，并在完成后自动收回权限。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-tabbit-ai.md",
-      "signal": {
-        "query": "Tabbit AI",
-        "observed_at": "2026-09-04T00:33:18.986Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-janmashtami",
-      "slug": "2026-09-04-janmashtami",
-      "date": "2026-09-04",
-      "tier": "featured",
-      "title": "Janmashtami 远程接力",
-      "one_liner": "家人分散多地庆祝 Janmashtami 时，共同完成一场按时点接力、人人能参与的午夜仪式。",
-      "url": "https://raytally.com/ideas/2026-09-04-janmashtami/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-janmashtami.md",
-      "signal": {
-        "query": "janmashtami",
-        "observed_at": "2026-09-04T00:33:18.019Z",
+        "query": "jio pc",
+        "observed_at": "2026-09-05T00:33:30.896Z",
         "window_hours": 168,
         "active": true
       },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-05-nintendo-direct",
+      "slug": "2026-09-05-nintendo-direct",
+      "date": "2026-09-05",
+      "tier": "quick",
+      "title": "直面会默契选游",
+      "one_liner": "亲友看任天堂新作发布会时各自私密表态，散场后立即得到共同想玩的游戏和组局安排。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-nintendo-direct.md",
+      "signal": {
+        "query": "nintendo direct",
+        "observed_at": "2026-09-05T00:33:29.776Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-04T20:10:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-05-show-hn-open-source-eink-bike-computer",
+      "slug": "2026-09-05-show-hn-open-source-eink-bike-computer",
+      "date": "2026-09-05",
+      "tier": "featured",
+      "title": "路口才刷新的骑行页",
+      "one_liner": "长途骑行前把路线变成低刷新导航页，途中只在需要决策的地点亮出方向、危险或补给信息。",
+      "url": "https://raytally.com/ideas/2026-09-05-show-hn-open-source-eink-bike-computer/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-show-hn-open-source-eink-bike-computer.md",
+      "signal": {
+        "query": "Show HN: Open-Source eInk Bike Computer",
+        "observed_at": "2026-09-05T00:33:31.480Z"
+      },
       "sources": [
         {
-          "url": "https://presidentofindia.nic.in/press_releases/president-indias-greetings-eve-janmashtami-3",
+          "url": "https://news.ycombinator.com/item?id=49567437",
+          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-05T00:33:31.480Z。"
+        },
+        {
+          "url": "https://opentrailpaper.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/discover-new-routes-with-the-edge-explore-2-series-from-garmin/",
+          "boundary": "发布于 2022-07-13T00:00:00.000Z。"
+        },
+        {
+          "url": "https://beeline.co/products/beeline-velo-2",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-05-can-ai-design-circuit-boards-yet",
+      "slug": "2026-09-05-can-ai-design-circuit-boards-yet",
+      "date": "2026-09-05",
+      "tier": "featured",
+      "title": "电路板机器陪审团",
+      "one_liner": "工程师审查 AI 画出的电路板时，获得能在 EDA 中复现和定位的制造、信号与散热异议。",
+      "url": "https://raytally.com/ideas/2026-09-05-can-ai-design-circuit-boards-yet/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-can-ai-design-circuit-boards-yet.md",
+      "signal": {
+        "query": "Can AI design circuit boards yet?",
+        "observed_at": "2026-09-05T00:33:31.480Z"
+      },
+      "sources": [
+        {
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-05T00:33:31.480Z。"
+        },
+        {
+          "url": "https://docs.kicad.org/10.0/id/pcbnew/pcbnew.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-ai-studio.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.altium.com/documentation/altium-designer/tutorial/verifying-board-design",
+          "boundary": "发布于 2026-07-22T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-05-no-polish-manicure-trend",
+      "slug": "2026-09-05-no-polish-manicure-trend",
+      "date": "2026-09-05",
+      "tier": "quick",
+      "title": "裸甲服务台",
+      "one_liner": "顾客提出不涂甲油时，用实体效果片选定质感，并现场完成标准化裸甲护理。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-no-polish-manicure-trend.md",
+      "signal": {
+        "query": "no polish manicure trend",
+        "observed_at": "2026-09-05T00:33:29.776Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-04T15:00:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-05-idea-44ac6b0d",
+      "slug": "2026-09-05-idea-44ac6b0d",
+      "date": "2026-09-05",
+      "tier": "quick",
+      "title": "珍物竞猜首映",
+      "one_liner": "朋友聚会时匿名展示各自的珍爱物，现场竞猜主人并把揭晓反应变成可分享短片。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-44ac6b0d.md",
+      "signal": {
+        "query": "September 2026 TikTok Trends: Viral Moments You Need to Know",
+        "observed_at": "2026-09-05T00:33:31.868Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-05-idea-96e4bf35",
+      "slug": "2026-09-05-idea-96e4bf35",
+      "date": "2026-09-05",
+      "tier": "featured",
+      "title": "圣诞彩妆拆盒局",
+      "one_liner": "朋友们想买同一套限定彩妆却各取所需时，匿名排列单品偏好，自动组成无冲突拼盒并完成收款交接。",
+      "url": "https://raytally.com/ideas/2026-09-05-idea-96e4bf35/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-96e4bf35.md",
+      "signal": {
+        "query": "クリスマスコフレ",
+        "observed_at": "2026-09-05T00:33:30.896Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-04T08:40:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://developers.google.com/optimization/cp/cp_solver",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.stripe.com/payments/place-a-hold-on-a-payment-method",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://kb.splitwise.com/balances-and-expenses/what-are-different-ways-i-can-split-an-expense",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://jp.mercari.com/search?keyword=%E3%82%B3%E3%82%B9%E3%83%A1+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-05-gpt-6-astra",
+      "slug": "2026-09-05-gpt-6-astra",
+      "date": "2026-09-05",
+      "tier": "featured",
+      "title": "模型长任务验收表",
+      "one_liner": "把长任务交给模型前先锁定验收标准，结束后直接得到带证据的通过项和返工项。",
+      "url": "https://raytally.com/ideas/2026-09-05-gpt-6-astra/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-gpt-6-astra.md",
+      "signal": {
+        "query": "GPT-6 Astra",
+        "observed_at": "2026-09-05T00:33:31.866Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/gpt-6-astra",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://openai.com/index/gpt-6-astra/",
           "boundary": "发布于 2026-09-03T00:00:00.000Z。"
         },
         {
-          "url": "https://docs.daily.co/reference/rest-api/rooms/recordings/start",
-          "boundary": "来源记录未提供发布时间。"
+          "url": "https://openai.com/index/introducing-codex/",
+          "boundary": "发布于 2025-05-16T00:00:00.000Z。"
         },
         {
-          "url": "https://www.pooja.link/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://gopuja.com/online-puja/usa",
+          "url": "https://docs.langchain.com/langsmith/evaluation",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-04-parasocial",
-      "slug": "2026-09-04-parasocial",
-      "date": "2026-09-04",
+      "id": "idea-2026-09-05-statichost-eu-european-static-site-hosting",
+      "slug": "2026-09-05-statichost-eu-european-static-site-hosting",
+      "date": "2026-09-05",
       "tier": "quick",
-      "title": "播客共听接力",
-      "one_liner": "朋友听到值得讨论的播客片段时，可附上语音理由发起接力，最后收获一条多人共听对话。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-parasocial.md",
+      "title": "欧洲静态站发布门",
+      "one_liner": "静态站上线欧洲托管前，实际追踪页面运行时的数据去向，拦住仍会跨境的第三方请求。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-statichost-eu-european-static-site-hosting.md",
       "signal": {
-        "query": "Parasocial",
-        "observed_at": "2026-09-04T00:33:18.986Z"
+        "query": "Statichost.eu – European static site hosting",
+        "observed_at": "2026-09-05T00:33:31.480Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-04-higgsfield-genjutsu",
-      "slug": "2026-09-04-higgsfield-genjutsu",
-      "date": "2026-09-04",
-      "tier": "featured",
-      "title": "动作授权片场",
-      "one_liner": "品牌需要重制热门动作时，可先试演自家角色与商品，再向原表演者购买清晰、可追踪的复用权。",
-      "url": "https://raytally.com/ideas/2026-09-04-higgsfield-genjutsu/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-higgsfield-genjutsu.md",
-      "signal": {
-        "query": "Higgsfield Genjutsu",
-        "observed_at": "2026-09-04T00:33:18.986Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.higgsfield.company/creator-hub/changelog",
-          "boundary": "发布于 2026-09-01T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.copyright.gov/registration/performing-arts/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.stripe.com/connect/separate-charges-and-transfers",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-04-world-s-tallest-buildings-ee8d7ed",
-      "slug": "2026-09-04-world-s-tallest-buildings-ee8d7ed",
-      "date": "2026-09-04",
+      "id": "idea-2026-09-05-idea-658cc825",
+      "slug": "2026-09-05-idea-658cc825",
+      "date": "2026-09-05",
       "tier": "quick",
-      "title": "把世界高楼搬到眼前",
-      "one_liner": "在观景台看向天际线时，把世界最高建筑按真实比例叠进镜头，直观看懂它们究竟有多高。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-world-s-tallest-buildings-ee8d7ed.md",
+      "title": "先拍后同意相机",
+      "one_liner": "记录意外反应后先封存视频，让被拍者决定批准、裁剪或删除，双方同意才可分享。",
+      "url": "https://raytally.com/daily/2026-09-05/",
+      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-658cc825.md",
       "signal": {
-        "query": "world's tallest buildings",
-        "observed_at": "2026-09-04T00:33:16.593Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-03T11:00:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone",
-      "slug": "2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone",
-      "date": "2026-09-04",
-      "tier": "quick",
-      "title": "人类联队挑战让子 AI",
-      "one_liner": "围棋社活动时，多名棋手可分担不同视角并投票落子，组队挑战按水平校准的让子 AI。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-go-grandmaster-shin-defeats-ai-katago-with-a-two-stone.md",
-      "signal": {
-        "query": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-        "observed_at": "2026-09-04T00:33:18.586Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-idea-34774911",
-      "slug": "2026-09-04-idea-34774911",
-      "date": "2026-09-04",
-      "tier": "quick",
-      "title": "同校开学用品接力",
-      "one_liner": "家长准备开学用品时，按学校和年级匹配上一届家庭的闲置物品，快速完成同校交接。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-idea-34774911.md",
-      "signal": {
-        "query": "School supplies and fall wardrobes took over Shopify in August",
-        "observed_at": "2026-09-04T00:33:18.993Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s",
-      "slug": "2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s",
-      "date": "2026-09-04",
-      "tier": "quick",
-      "title": "日志未停，修复先跑",
-      "one_liner": "生产告警响起后，它会边接收日志边验证故障假设，立即返回跑通过的补丁或回滚方案。",
-      "url": "https://raytally.com/daily/2026-09-04/",
-      "brief_url": "https://raytally.com/ideas/2026-09-04-qwen-3-8-27b-available-on-cerebras-at-1500-tokens-s.md",
-      "signal": {
-        "query": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "observed_at": "2026-09-04T00:33:18.586Z"
+        "query": "TikTok Trends September 2026 – What’s Trending Right Now (Updated Weekly)",
+        "observed_at": "2026-09-05T00:33:31.868Z"
       },
       "sources": []
     }
