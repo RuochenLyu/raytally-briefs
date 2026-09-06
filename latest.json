@@ -1,267 +1,300 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05",
+  "generated_at": "2026-09-06",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-05-forward-prerequisite-checking-tool",
-      "slug": "2026-09-05-forward-prerequisite-checking-tool",
-      "date": "2026-09-05",
-      "tier": "featured",
-      "title": "退课前看后路",
-      "one_liner": "学生退课或换课前，查看这门课解锁的后续课程，以及放弃它可能推迟的培养路径。",
-      "url": "https://raytally.com/ideas/2026-09-05-forward-prerequisite-checking-tool/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-forward-prerequisite-checking-tool.md",
+      "id": "idea-2026-09-06-brickforgerai",
+      "slug": "2026-09-06-brickforgerai",
+      "date": "2026-09-06",
+      "tier": "quick",
+      "title": "散砖现场搭建",
+      "one_liner": "孩子用家里的散砖搭自定义模型时，现场提示下一块积木，缺件后还能马上换出可继续搭的结构。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-brickforgerai.md",
       "signal": {
-        "query": "Forward prerequisite checking tool",
-        "observed_at": "2026-09-05T00:34:29.895Z"
+        "query": "BrickForgerAI",
+        "observed_at": "2026-09-06T00:33:03.922Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-06-discovery-of-a-new-openai-agent-message-board",
+      "slug": "2026-09-06-discovery-of-a-new-openai-agent-message-board",
+      "date": "2026-09-06",
+      "tier": "featured",
+      "title": "代理群聊攻防演练",
+      "one_liner": "代理产品上线前，把角色和权限放进隔离群聊，预演诱导、泄密与循环委派，留下可复跑的失败用例。",
+      "url": "https://raytally.com/ideas/2026-09-06-discovery-of-a-new-openai-agent-message-board/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-discovery-of-a-new-openai-agent-message-board.md",
+      "signal": {
+        "query": "Discovery of a new OpenAI agent message board",
+        "observed_at": "2026-09-06T00:33:03.428Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/RPI/comments/1w4wyeh/forward_prerequisite_checking_tool/",
-          "boundary": "发布于 2026-09-02T00:00:00.000Z。 观测于 2026-09-05T00:34:29.895Z。"
+          "url": "https://collusion.wiki/",
+          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
         },
         {
-          "url": "https://github.com/quacs/quacs",
+          "url": "https://news.ycombinator.com/item?id=49563355",
+          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+        },
+        {
+          "url": "https://openai.github.io/openai-agents-python/guardrails/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://registrar.rpi.edu/services/academic-planning/degree-works",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://info.stellic.jhu.edu/",
+          "url": "https://www.promptfoo.dev/docs/red-team/agents/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-05-jio-pc",
-      "slug": "2026-09-05-jio-pc",
-      "date": "2026-09-05",
+      "id": "idea-2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely",
+      "slug": "2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely",
+      "date": "2026-09-06",
       "tier": "quick",
-      "title": "云电脑到家试跑",
-      "one_liner": "顾客购买 JioPC 前，在家真实跑完办公和外设任务，十分钟知道它能否替代旧电脑。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-jio-pc.md",
+      "title": "SaaS用量换算沙盘",
+      "one_liner": "营销团队描述真实工作量后，直接比较不同计费单位下的日成本、月成本和价格反转点。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely.md",
       "signal": {
-        "query": "jio pc",
-        "observed_at": "2026-09-05T00:33:30.896Z",
+        "query": "Ahrefs Brand Radar and Peec are priced on completely different units",
+        "observed_at": "2026-09-06T00:34:02.685Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-06-the-60-gaming-pc-amd-bc-250-2025",
+      "slug": "2026-09-06-the-60-gaming-pc-amd-bc-250-2025",
+      "date": "2026-09-06",
+      "tier": "featured",
+      "title": "异形板开机合作社",
+      "one_liner": "买到廉价异形计算板后，按目标游戏匹配实测过的散热、供电、机箱和系统套装，直接拿到可开机的组合。",
+      "url": "https://raytally.com/ideas/2026-09-06-the-60-gaming-pc-amd-bc-250-2025/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-the-60-gaming-pc-amd-bc-250-2025.md",
+      "signal": {
+        "query": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+        "observed_at": "2026-09-06T00:33:03.428Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49576386",
+          "boundary": "发布于 2026-09-05T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+        },
+        {
+          "url": "https://elektricm.github.io/amd-bc250-docs/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/lildebil0/awesome-bc250",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://mosfet.party/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone",
+      "slug": "2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone",
+      "date": "2026-09-06",
+      "tier": "featured",
+      "title": "可接手的家庭云",
+      "one_liner": "家庭把照片库或密码库搬到自己的设备时，自动完成部署和恢复演练，再交付一张家人也能照做的恢复卡。",
+      "url": "https://raytally.com/ideas/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone.md",
+      "signal": {
+        "query": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "observed_at": "2026-09-06T00:33:03.428Z"
+      },
+      "sources": [
+        {
+          "url": "https://cloudinabottle.org/blog/launch-post",
+          "boundary": "发布于 2026-09-05T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49582000",
+          "boundary": "发布于 2026-09-06T00:03:29.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+        },
+        {
+          "url": "https://umbrel.com/support/backups-and-recovery/restoring-from-a-backup",
+          "boundary": "发布于 2026-02-22T00:00:00.000Z。"
+        },
+        {
+          "url": "https://global.synologydownload.com/download/Document/Software/WhitePaper/Os/DSM/All/enu/backup_solution_guide_enu.pdf",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-06-idea-5320e3bd",
+      "slug": "2026-09-06-idea-5320e3bd",
+      "date": "2026-09-06",
+      "tier": "quick",
+      "title": "新车实地试停",
+      "one_liner": "考虑购买新帕杰罗时，在自家车位投射等比例车身和开门范围，当场判断能否停下和顺利下车。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-idea-5320e3bd.md",
+      "signal": {
+        "query": "パジェロ 新型",
+        "observed_at": "2026-09-06T00:33:02.819Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-05-nintendo-direct",
-      "slug": "2026-09-05-nintendo-direct",
-      "date": "2026-09-05",
-      "tier": "quick",
-      "title": "直面会默契选游",
-      "one_liner": "亲友看任天堂新作发布会时各自私密表态，散场后立即得到共同想玩的游戏和组局安排。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-nintendo-direct.md",
+      "id": "idea-2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of",
+      "slug": "2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of",
+      "date": "2026-09-06",
+      "tier": "featured",
+      "title": "腕上一键打点",
+      "one_liner": "野外人员连续踩点时，只按手表实体键就能保存坐标和标签，回程后直接得到按主题归档的地图。",
+      "url": "https://raytally.com/ideas/2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of.md",
       "signal": {
-        "query": "nintendo direct",
-        "observed_at": "2026-09-05T00:33:29.776Z",
+        "query": "I'm looking for an app that lets me quickly record lots of coordinates and organize them by theme.",
+        "observed_at": "2026-09-06T00:34:02.685Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/GarminWatches/comments/1w8gd23/im_looking_for_an_app_that_lets_me_quickly_record/",
+          "boundary": "发布于 2026-09-05T23:48:36.000Z。 观测于 2026-09-06T00:34:02.685Z。"
+        },
+        {
+          "url": "https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.garmin.com/nl-NL/?faq=xKmSny1m0H91jQUjXF2BHA",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://support.coros.com/hc/en-us/articles/360055691511-Using-Pins-and-Waypoints",
+          "boundary": "发布于 2026-05-15T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-06-informally-known-as-strands",
+      "slug": "2026-09-06-informally-known-as-strands",
+      "date": "2026-09-06",
+      "tier": "quick",
+      "title": "朋友递来的无剧透提示",
+      "one_liner": "玩 Strands 字母找词游戏卡住时，让朋友递出逐层解锁的提示，不必直接看到答案。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-informally-known-as-strands.md",
+      "signal": {
+        "query": "informally known as strands",
+        "observed_at": "2026-09-06T00:33:01.779Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-04T20:10:00.000Z"
+        "ended_at": "2026-09-05T13:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-05-show-hn-open-source-eink-bike-computer",
-      "slug": "2026-09-05-show-hn-open-source-eink-bike-computer",
-      "date": "2026-09-05",
-      "tier": "featured",
-      "title": "路口才刷新的骑行页",
-      "one_liner": "长途骑行前把路线变成低刷新导航页，途中只在需要决策的地点亮出方向、危险或补给信息。",
-      "url": "https://raytally.com/ideas/2026-09-05-show-hn-open-source-eink-bike-computer/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-show-hn-open-source-eink-bike-computer.md",
-      "signal": {
-        "query": "Show HN: Open-Source eInk Bike Computer",
-        "observed_at": "2026-09-05T00:33:31.480Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49567437",
-          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-05T00:33:31.480Z。"
-        },
-        {
-          "url": "https://opentrailpaper.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/discover-new-routes-with-the-edge-explore-2-series-from-garmin/",
-          "boundary": "发布于 2022-07-13T00:00:00.000Z。"
-        },
-        {
-          "url": "https://beeline.co/products/beeline-velo-2",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-05-can-ai-design-circuit-boards-yet",
-      "slug": "2026-09-05-can-ai-design-circuit-boards-yet",
-      "date": "2026-09-05",
-      "tier": "featured",
-      "title": "电路板机器陪审团",
-      "one_liner": "工程师审查 AI 画出的电路板时，获得能在 EDA 中复现和定位的制造、信号与散热异议。",
-      "url": "https://raytally.com/ideas/2026-09-05-can-ai-design-circuit-boards-yet/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-can-ai-design-circuit-boards-yet.md",
-      "signal": {
-        "query": "Can AI design circuit boards yet?",
-        "observed_at": "2026-09-05T00:33:31.480Z"
-      },
-      "sources": [
-        {
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-05T00:33:31.480Z。"
-        },
-        {
-          "url": "https://docs.kicad.org/10.0/id/pcbnew/pcbnew.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/allegro-ai-studio.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.altium.com/documentation/altium-designer/tutorial/verifying-board-design",
-          "boundary": "发布于 2026-07-22T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-05-no-polish-manicure-trend",
-      "slug": "2026-09-05-no-polish-manicure-trend",
-      "date": "2026-09-05",
+      "id": "idea-2026-09-06-cmmnts",
+      "slug": "2026-09-06-cmmnts",
+      "date": "2026-09-06",
       "tier": "quick",
-      "title": "裸甲服务台",
-      "one_liner": "顾客提出不涂甲油时，用实体效果片选定质感，并现场完成标准化裸甲护理。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-no-polish-manicure-trend.md",
+      "title": "文档评论变补丁",
+      "one_liner": "读者发现文档错误时可直接就地修正，意见会变成维护者能审核和合并的源码补丁。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-cmmnts.md",
       "signal": {
-        "query": "no polish manicure trend",
-        "observed_at": "2026-09-05T00:33:29.776Z",
+        "query": "cmmnts",
+        "observed_at": "2026-09-06T00:33:03.922Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-06-go",
+      "slug": "2026-09-06-go",
+      "date": "2026-09-06",
+      "tier": "featured",
+      "title": "活动日滚动小队",
+      "one_liner": "Pokémon GO 活动当天，玩家按时间和起点加入临时小队，获得公开集合点、同行路线和中途接力安排。",
+      "url": "https://raytally.com/ideas/2026-09-06-go/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-go.md",
+      "signal": {
+        "query": "ポケモンgo イベント",
+        "observed_at": "2026-09-06T00:33:02.819Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-04T15:00:00.000Z"
+        "ended_at": "2026-09-05T06:10:00.000Z"
       },
-      "sources": []
+      "sources": [
+        {
+          "url": "https://pokemongolive.com/en/featured-in-person-events",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://niantic.helpshift.com/hc/en/34-campfire/faq/4125-campfire-team-up/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4310-what-is-party-play/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developers.google.com/maps/documentation",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
     },
     {
-      "id": "idea-2026-09-05-idea-44ac6b0d",
-      "slug": "2026-09-05-idea-44ac6b0d",
-      "date": "2026-09-05",
+      "id": "idea-2026-09-06-idea-f983a183",
+      "slug": "2026-09-06-idea-f983a183",
+      "date": "2026-09-06",
       "tier": "quick",
-      "title": "珍物竞猜首映",
-      "one_liner": "朋友聚会时匿名展示各自的珍爱物，现场竞猜主人并把揭晓反应变成可分享短片。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-44ac6b0d.md",
+      "title": "课间接力手作车",
+      "one_liner": "中学生进入无手机课间时，拨动实体旋钮就能拿到时长合适、可独做或接力的手作活动。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-idea-f983a183.md",
       "signal": {
-        "query": "September 2026 TikTok Trends: Viral Moments You Need to Know",
-        "observed_at": "2026-09-05T00:33:31.868Z"
+        "query": "Postpartum recognition, phone-free schools and the rise of whimsy: September 2026 cultural and consumer trends",
+        "observed_at": "2026-09-06T00:33:03.927Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-05-idea-96e4bf35",
-      "slug": "2026-09-05-idea-96e4bf35",
-      "date": "2026-09-05",
-      "tier": "featured",
-      "title": "圣诞彩妆拆盒局",
-      "one_liner": "朋友们想买同一套限定彩妆却各取所需时，匿名排列单品偏好，自动组成无冲突拼盒并完成收款交接。",
-      "url": "https://raytally.com/ideas/2026-09-05-idea-96e4bf35/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-96e4bf35.md",
+      "id": "idea-2026-09-06-maryland-state-fair",
+      "slug": "2026-09-06-maryland-state-fair",
+      "date": "2026-09-06",
+      "tier": "quick",
+      "title": "展会不走散腕带",
+      "one_liner": "一家人进入拥挤展会时领取临时组码腕带，走散后扫码即可在不公开个人信息的情况下重新会合。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-maryland-state-fair.md",
       "signal": {
-        "query": "クリスマスコフレ",
-        "observed_at": "2026-09-05T00:33:30.896Z",
+        "query": "maryland state fair",
+        "observed_at": "2026-09-06T00:33:01.779Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-04T08:40:00.000Z"
-      },
-      "sources": [
-        {
-          "url": "https://developers.google.com/optimization/cp/cp_solver",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.stripe.com/payments/place-a-hold-on-a-payment-method",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://kb.splitwise.com/balances-and-expenses/what-are-different-ways-i-can-split-an-expense",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://jp.mercari.com/search?keyword=%E3%82%B3%E3%82%B9%E3%83%A1+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%95%E3%83%AC",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-05-gpt-6-astra",
-      "slug": "2026-09-05-gpt-6-astra",
-      "date": "2026-09-05",
-      "tier": "featured",
-      "title": "模型长任务验收表",
-      "one_liner": "把长任务交给模型前先锁定验收标准，结束后直接得到带证据的通过项和返工项。",
-      "url": "https://raytally.com/ideas/2026-09-05-gpt-6-astra/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-gpt-6-astra.md",
-      "signal": {
-        "query": "GPT-6 Astra",
-        "observed_at": "2026-09-05T00:33:31.866Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/gpt-6-astra",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://openai.com/index/gpt-6-astra/",
-          "boundary": "发布于 2026-09-03T00:00:00.000Z。"
-        },
-        {
-          "url": "https://openai.com/index/introducing-codex/",
-          "boundary": "发布于 2025-05-16T00:00:00.000Z。"
-        },
-        {
-          "url": "https://docs.langchain.com/langsmith/evaluation",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-05-statichost-eu-european-static-site-hosting",
-      "slug": "2026-09-05-statichost-eu-european-static-site-hosting",
-      "date": "2026-09-05",
-      "tier": "quick",
-      "title": "欧洲静态站发布门",
-      "one_liner": "静态站上线欧洲托管前，实际追踪页面运行时的数据去向，拦住仍会跨境的第三方请求。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-statichost-eu-european-static-site-hosting.md",
-      "signal": {
-        "query": "Statichost.eu – European static site hosting",
-        "observed_at": "2026-09-05T00:33:31.480Z"
+        "ended_at": "2026-09-05T14:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-05-idea-658cc825",
-      "slug": "2026-09-05-idea-658cc825",
-      "date": "2026-09-05",
+      "id": "idea-2026-09-06-noaa-us-temperature-forecasts-september",
+      "slug": "2026-09-06-noaa-us-temperature-forecasts-september",
+      "date": "2026-09-06",
       "tier": "quick",
-      "title": "先拍后同意相机",
-      "one_liner": "记录意外反应后先封存视频，让被拍者决定批准、裁剪或删除，双方同意才可分享。",
-      "url": "https://raytally.com/daily/2026-09-05/",
-      "brief_url": "https://raytally.com/ideas/2026-09-05-idea-658cc825.md",
+      "title": "跟着秋色改期",
+      "one_liner": "赏叶旅行者给出可出发的周末，产品根据天气和实景把整套预订移到秋色最可能好看的日期。",
+      "url": "https://raytally.com/daily/2026-09-06/",
+      "brief_url": "https://raytally.com/ideas/2026-09-06-noaa-us-temperature-forecasts-september.md",
       "signal": {
-        "query": "TikTok Trends September 2026 – What’s Trending Right Now (Updated Weekly)",
-        "observed_at": "2026-09-05T00:33:31.868Z"
+        "query": "fall",
+        "observed_at": "2026-09-06T00:33:01.779Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-05T06:20:00.000Z"
       },
       "sources": []
     }
