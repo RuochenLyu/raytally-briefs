@@ -1,300 +1,261 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06",
+  "generated_at": "2026-09-07",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-06-brickforgerai",
-      "slug": "2026-09-06-brickforgerai",
-      "date": "2026-09-06",
-      "tier": "quick",
-      "title": "散砖现场搭建",
-      "one_liner": "孩子用家里的散砖搭自定义模型时，现场提示下一块积木，缺件后还能马上换出可继续搭的结构。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-brickforgerai.md",
-      "signal": {
-        "query": "BrickForgerAI",
-        "observed_at": "2026-09-06T00:33:03.922Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-06-discovery-of-a-new-openai-agent-message-board",
-      "slug": "2026-09-06-discovery-of-a-new-openai-agent-message-board",
-      "date": "2026-09-06",
+      "id": "idea-2026-09-07-asahi-linux-on-m3",
+      "slug": "2026-09-07-asahi-linux-on-m3",
+      "date": "2026-09-07",
       "tier": "featured",
-      "title": "代理群聊攻防演练",
-      "one_liner": "代理产品上线前，把角色和权限放进隔离群聊，预演诱导、泄密与循环委派，留下可复跑的失败用例。",
-      "url": "https://raytally.com/ideas/2026-09-06-discovery-of-a-new-openai-agent-message-board/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-discovery-of-a-new-openai-agent-message-board.md",
+      "title": "Apple 芯片实机测试池",
+      "one_liner": "Linux 开发者提交一次构建，就能在多代真实 Apple Silicon 设备上远程验证启动与硬件兼容性。",
+      "url": "https://raytally.com/ideas/2026-09-07-asahi-linux-on-m3/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-asahi-linux-on-m3.md",
       "signal": {
-        "query": "Discovery of a new OpenAI agent message board",
-        "observed_at": "2026-09-06T00:33:03.428Z"
+        "query": "Asahi Linux on M3",
+        "observed_at": "2026-09-07T00:33:12.324Z"
       },
       "sources": [
         {
-          "url": "https://collusion.wiki/",
-          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+          "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+          "boundary": "发布于 2026-09-06T00:00:00.000Z。 观测于 2026-09-07T00:33:12.324Z。"
         },
         {
-          "url": "https://news.ycombinator.com/item?id=49563355",
-          "boundary": "发布于 2026-09-04T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
+          "url": "https://news.ycombinator.com/item?id=49586698",
+          "boundary": "发布于 2026-09-06T14:08:59.000Z。 观测于 2026-09-07T00:33:12.324Z。"
         },
         {
-          "url": "https://openai.github.io/openai-agents-python/guardrails/",
+          "url": "https://asahilinux.org/docs/sw/tethered-boot/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.promptfoo.dev/docs/red-team/agents/",
+          "url": "https://docs.lavasoftware.org/lava/introduction/concepts.html",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely",
-      "slug": "2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely",
-      "date": "2026-09-06",
+      "id": "idea-2026-09-07-idea-785fc06d",
+      "slug": "2026-09-07-idea-785fc06d",
+      "date": "2026-09-07",
       "tier": "quick",
-      "title": "SaaS用量换算沙盘",
-      "one_liner": "营销团队描述真实工作量后，直接比较不同计费单位下的日成本、月成本和价格反转点。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-ahrefs-brand-radar-and-peec-are-priced-on-completely.md",
+      "title": "街角避雨席",
+      "one_liner": "行人被突降大雨困住时，立即锁定附近商家临时开放的避雨座位。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-idea-785fc06d.md",
       "signal": {
-        "query": "Ahrefs Brand Radar and Peec are priced on completely different units",
-        "observed_at": "2026-09-06T00:34:02.685Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-06-the-60-gaming-pc-amd-bc-250-2025",
-      "slug": "2026-09-06-the-60-gaming-pc-amd-bc-250-2025",
-      "date": "2026-09-06",
-      "tier": "featured",
-      "title": "异形板开机合作社",
-      "one_liner": "买到廉价异形计算板后，按目标游戏匹配实测过的散热、供电、机箱和系统套装，直接拿到可开机的组合。",
-      "url": "https://raytally.com/ideas/2026-09-06-the-60-gaming-pc-amd-bc-250-2025/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-the-60-gaming-pc-amd-bc-250-2025.md",
-      "signal": {
-        "query": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-        "observed_at": "2026-09-06T00:33:03.428Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49576386",
-          "boundary": "发布于 2026-09-05T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
-        },
-        {
-          "url": "https://elektricm.github.io/amd-bc250-docs/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/lildebil0/awesome-bc250",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://mosfet.party/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone",
-      "slug": "2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone",
-      "date": "2026-09-06",
-      "tier": "featured",
-      "title": "可接手的家庭云",
-      "one_liner": "家庭把照片库或密码库搬到自己的设备时，自动完成部署和恢复演练，再交付一张家人也能照做的恢复卡。",
-      "url": "https://raytally.com/ideas/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-cloud-in-a-bottle-making-self-hosting-accessible-to-everyone.md",
-      "signal": {
-        "query": "Cloud in a Bottle: making self-hosting accessible to everyone",
-        "observed_at": "2026-09-06T00:33:03.428Z"
-      },
-      "sources": [
-        {
-          "url": "https://cloudinabottle.org/blog/launch-post",
-          "boundary": "发布于 2026-09-05T00:00:00.000Z。 观测于 2026-09-06T00:33:03.428Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49582000",
-          "boundary": "发布于 2026-09-06T00:03:29.000Z。 观测于 2026-09-06T00:33:03.428Z。"
-        },
-        {
-          "url": "https://umbrel.com/support/backups-and-recovery/restoring-from-a-backup",
-          "boundary": "发布于 2026-02-22T00:00:00.000Z。"
-        },
-        {
-          "url": "https://global.synologydownload.com/download/Document/Software/WhitePaper/Os/DSM/All/enu/backup_solution_guide_enu.pdf",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-06-idea-5320e3bd",
-      "slug": "2026-09-06-idea-5320e3bd",
-      "date": "2026-09-06",
-      "tier": "quick",
-      "title": "新车实地试停",
-      "one_liner": "考虑购买新帕杰罗时，在自家车位投射等比例车身和开门范围，当场判断能否停下和顺利下车。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-idea-5320e3bd.md",
-      "signal": {
-        "query": "パジェロ 新型",
-        "observed_at": "2026-09-06T00:33:02.819Z",
+        "query": "仙台 雨",
+        "observed_at": "2026-09-07T00:33:11.740Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of",
-      "slug": "2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of",
-      "date": "2026-09-06",
-      "tier": "featured",
-      "title": "腕上一键打点",
-      "one_liner": "野外人员连续踩点时，只按手表实体键就能保存坐标和标签，回程后直接得到按主题归档的地图。",
-      "url": "https://raytally.com/ideas/2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-i-m-looking-for-an-app-that-lets-me-quickly-record-lots-of.md",
+      "id": "idea-2026-09-07-cat-in-the-hat-trend",
+      "slug": "2026-09-07-cat-in-the-hat-trend",
+      "date": "2026-09-07",
+      "tier": "quick",
+      "title": "短视频跟拍排练",
+      "one_liner": "想跟拍陌生热梗时，把示例变成角色分工、镜头节点和现场节拍提示。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-cat-in-the-hat-trend.md",
       "signal": {
-        "query": "I'm looking for an app that lets me quickly record lots of coordinates and organize them by theme.",
-        "observed_at": "2026-09-06T00:34:02.685Z"
+        "query": "cat in the hat trend",
+        "observed_at": "2026-09-07T00:33:10.611Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-06T04:20:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-07-harnessing-the-universal-geometry-of-embeddings",
+      "slug": "2026-09-07-harnessing-the-universal-geometry-of-embeddings",
+      "date": "2026-09-07",
+      "tier": "featured",
+      "title": "旧向量索引换新模型",
+      "one_liner": "更换嵌入模型时，先用空间映射让旧索引继续服务，再找出真正需要重算的数据。",
+      "url": "https://raytally.com/ideas/2026-09-07-harnessing-the-universal-geometry-of-embeddings/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-harnessing-the-universal-geometry-of-embeddings.md",
+      "signal": {
+        "query": "Harnessing the Universal Geometry of Embeddings",
+        "observed_at": "2026-09-07T00:33:12.324Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/GarminWatches/comments/1w8gd23/im_looking_for_an_app_that_lets_me_quickly_record/",
-          "boundary": "发布于 2026-09-05T23:48:36.000Z。 观测于 2026-09-06T00:34:02.685Z。"
+          "url": "https://news.ycombinator.com/item?id=49590595",
+          "boundary": "发布于 2026-09-06T20:31:20.000Z。 观测于 2026-09-07T00:33:12.324Z。"
         },
         {
-          "url": "https://developer.garmin.com/connect-iq/api-docs/Toybox/Position.html",
+          "url": "https://arxiv.org/abs/2505.12540",
+          "boundary": "发布于 2025-05-18T00:00:00.000Z。 观测于 2026-09-07T00:33:12.324Z。"
+        },
+        {
+          "url": "https://qdrant.tech/documentation/tutorials-operations/embedding-model-migration/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://support.garmin.com/nl-NL/?faq=xKmSny1m0H91jQUjXF2BHA",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.coros.com/hc/en-us/articles/360055691511-Using-Pins-and-Waypoints",
-          "boundary": "发布于 2026-05-15T00:00:00.000Z。"
+          "url": "https://arxiv.org/abs/2509.23471",
+          "boundary": "发布于 2025-09-27T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-06-informally-known-as-strands",
-      "slug": "2026-09-06-informally-known-as-strands",
-      "date": "2026-09-06",
-      "tier": "quick",
-      "title": "朋友递来的无剧透提示",
-      "one_liner": "玩 Strands 字母找词游戏卡住时，让朋友递出逐层解锁的提示，不必直接看到答案。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-informally-known-as-strands.md",
-      "signal": {
-        "query": "informally known as strands",
-        "observed_at": "2026-09-06T00:33:01.779Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-05T13:20:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-06-cmmnts",
-      "slug": "2026-09-06-cmmnts",
-      "date": "2026-09-06",
-      "tier": "quick",
-      "title": "文档评论变补丁",
-      "one_liner": "读者发现文档错误时可直接就地修正，意见会变成维护者能审核和合并的源码补丁。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-cmmnts.md",
-      "signal": {
-        "query": "cmmnts",
-        "observed_at": "2026-09-06T00:33:03.922Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-06-go",
-      "slug": "2026-09-06-go",
-      "date": "2026-09-06",
+      "id": "idea-2026-09-07-aggregating-device-alerts-in-a-dashboard",
+      "slug": "2026-09-07-aggregating-device-alerts-in-a-dashboard",
+      "date": "2026-09-07",
       "tier": "featured",
-      "title": "活动日滚动小队",
-      "one_liner": "Pokémon GO 活动当天，玩家按时间和起点加入临时小队，获得公开集合点、同行路线和中途接力安排。",
-      "url": "https://raytally.com/ideas/2026-09-06-go/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-go.md",
+      "title": "设备告警统一收件箱",
+      "one_liner": "多台设备开始邮件轰炸时，自动归并成少量事故线程，还能直接回复邮件处理。",
+      "url": "https://raytally.com/ideas/2026-09-07-aggregating-device-alerts-in-a-dashboard/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-aggregating-device-alerts-in-a-dashboard.md",
       "signal": {
-        "query": "ポケモンgo イベント",
-        "observed_at": "2026-09-06T00:33:02.819Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-05T06:10:00.000Z"
+        "query": "Aggregating Device Alerts in a Dashboard",
+        "observed_at": "2026-09-07T00:34:04.778Z"
       },
       "sources": [
         {
-          "url": "https://pokemongolive.com/en/featured-in-person-events",
+          "url": "https://www.reddit.com/r/selfhosted/comments/1w97ak6/aggregating_device_alerts_in_a_dashboard/",
+          "boundary": "发布于 2026-09-06T20:29:30.000Z。 观测于 2026-09-07T00:34:04.778Z。"
+        },
+        {
+          "url": "https://developers.cloudflare.com/email-service/api/route-emails/email-handler/",
+          "boundary": "发布于 2026-06-15T00:00:00.000Z。"
+        },
+        {
+          "url": "https://betterstack.com/docs/uptime/integrating-with-better-uptime/incoming-emails/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://niantic.helpshift.com/hc/en/34-campfire/faq/4125-campfire-team-up/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4310-what-is-party-play/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developers.google.com/maps/documentation",
+          "url": "https://support.pagerduty.com/main/docs/email-integration-guide",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-06-idea-f983a183",
-      "slug": "2026-09-06-idea-f983a183",
-      "date": "2026-09-06",
+      "id": "idea-2026-09-07-grapheneos-overhauled-default-apps-and-secure-clipboard",
+      "slug": "2026-09-07-grapheneos-overhauled-default-apps-and-secure-clipboard",
+      "date": "2026-09-07",
       "tier": "quick",
-      "title": "课间接力手作车",
-      "one_liner": "中学生进入无手机课间时，拨动实体旋钮就能拿到时长合适、可独做或接力的手作活动。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-idea-f983a183.md",
+      "title": "一次性粘贴接力",
+      "one_liner": "交接密码或令牌时，让接收方一次性填入指定应用，不在剪贴板留下内容。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-grapheneos-overhauled-default-apps-and-secure-clipboard.md",
       "signal": {
-        "query": "Postpartum recognition, phone-free schools and the rise of whimsy: September 2026 cultural and consumer trends",
-        "observed_at": "2026-09-06T00:33:03.927Z"
+        "query": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "observed_at": "2026-09-07T00:33:12.324Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-06-maryland-state-fair",
-      "slug": "2026-09-06-maryland-state-fair",
-      "date": "2026-09-06",
+      "id": "idea-2026-09-07-it-took-a-year-to-ship-webassembly-in-anubis",
+      "slug": "2026-09-07-it-took-a-year-to-ship-webassembly-in-anubis",
+      "date": "2026-09-07",
       "tier": "quick",
-      "title": "展会不走散腕带",
-      "one_liner": "一家人进入拥挤展会时领取临时组码腕带，走散后扫码即可在不公开个人信息的情况下重新会合。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-maryland-state-fair.md",
+      "title": "Wasm 上线影子跑",
+      "one_liner": "上线 Wasm 模块前，用真实调用并行验证新旧实现，快速找出兼容性和性能差异。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-it-took-a-year-to-ship-webassembly-in-anubis.md",
       "signal": {
-        "query": "maryland state fair",
-        "observed_at": "2026-09-06T00:33:01.779Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-05T14:40:00.000Z"
+        "query": "It took a year to ship WebAssembly in Anubis",
+        "observed_at": "2026-09-07T00:33:12.324Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-06-noaa-us-temperature-forecasts-september",
-      "slug": "2026-09-06-noaa-us-temperature-forecasts-september",
-      "date": "2026-09-06",
-      "tier": "quick",
-      "title": "跟着秋色改期",
-      "one_liner": "赏叶旅行者给出可出发的周末，产品根据天气和实景把整套预订移到秋色最可能好看的日期。",
-      "url": "https://raytally.com/daily/2026-09-06/",
-      "brief_url": "https://raytally.com/ideas/2026-09-06-noaa-us-temperature-forecasts-september.md",
+      "id": "idea-2026-09-07-retold",
+      "slug": "2026-09-07-retold",
+      "date": "2026-09-07",
+      "tier": "featured",
+      "title": "祖孙方言故事接龙",
+      "one_liner": "祖辈发来方言故事后，孩子靠跟读和选择推进剧情，在互动里留下家人的声音。",
+      "url": "https://raytally.com/ideas/2026-09-07-retold/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-retold.md",
       "signal": {
-        "query": "fall",
-        "observed_at": "2026-09-06T00:33:01.779Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-05T06:20:00.000Z"
+        "query": "Retold",
+        "observed_at": "2026-09-07T00:33:12.838Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/retold",
+          "boundary": "发布于 2026-08-26T11:38:41.000Z。 观测于 2026-09-07T00:33:12.838Z。"
+        },
+        {
+          "url": "https://www.remento.co/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/speech",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-07-making-a-python-interpreter-in-1024-bytes",
+      "slug": "2026-09-07-making-a-python-interpreter-in-1024-bytes",
+      "date": "2026-09-07",
+      "tier": "quick",
+      "title": "千字节解释器擂台",
+      "one_liner": "挑战极小 Python 解释器时，逐字节查看取舍，并用社区程序验证真正支持的语义。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-making-a-python-interpreter-in-1024-bytes.md",
+      "signal": {
+        "query": "Making a Python interpreter in 1024 bytes",
+        "observed_at": "2026-09-07T00:33:12.324Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-07-queuebrick",
+      "slug": "2026-09-07-queuebrick",
+      "date": "2026-09-07",
+      "tier": "featured",
+      "title": "今晚一起看哪部",
+      "one_liner": "朋友准备一起看电影却选不出来时，每人提名一部、否决一部，几分钟内锁定大家能看的片。",
+      "url": "https://raytally.com/ideas/2026-09-07-queuebrick/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-queuebrick.md",
+      "signal": {
+        "query": "Queuebrick",
+        "observed_at": "2026-09-07T00:33:12.838Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/queuebrick",
+          "boundary": "观测于 2026-09-07T00:33:12.838Z。"
+        },
+        {
+          "url": "https://developer.themoviedb.org/reference/movie-watch-providers",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://apis.justwatch.com/docs/api/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://ww1.teleparty.com/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-07-ai-toolbox-3-0",
+      "slug": "2026-09-07-ai-toolbox-3-0",
+      "date": "2026-09-07",
+      "tier": "quick",
+      "title": "把 AI 对话交成合并请求",
+      "one_liner": "AI 调试刚跑通时，把有效对话转成带回归测试和验证证据的合并请求。",
+      "url": "https://raytally.com/daily/2026-09-07/",
+      "brief_url": "https://raytally.com/ideas/2026-09-07-ai-toolbox-3-0.md",
+      "signal": {
+        "query": "AI Toolbox 3.0",
+        "observed_at": "2026-09-07T00:33:12.838Z"
       },
       "sources": []
     }
