@@ -1,274 +1,169 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08",
+  "generated_at": "2026-09-09",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-08-216m-spy-tvs-the-lg-smart-tv-problem-video",
-      "slug": "2026-09-08-216m-spy-tvs-the-lg-smart-tv-problem-video",
-      "date": "2026-09-08",
+      "id": "idea-2026-09-09-retroid-pocket-duo",
+      "slug": "2026-09-09-retroid-pocket-duo",
+      "date": "2026-09-09",
       "tier": "quick",
-      "title": "电视隐私防火墙",
-      "one_liner": "智能电视连上家庭网络后，自动减少非必要追踪，并验证流媒体和投屏仍可使用。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-216m-spy-tvs-the-lg-smart-tv-problem-video.md",
+      "title": "请机主替你跑一局",
+      "one_liner": "准备购买双屏掌机时，点名一款游戏，由真实机主实测并返回录像、设置和结论。",
+      "url": "https://raytally.com/daily/2026-09-09/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-retroid-pocket-duo.md",
       "signal": {
-        "query": "216M Spy TVs – The LG Smart TV Problem [video]",
-        "observed_at": "2026-09-08T00:33:12.421Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-08-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk",
-      "slug": "2026-09-08-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk",
-      "date": "2026-09-08",
-      "tier": "featured",
-      "title": "不靠 VDDK 的迁移桥",
-      "one_liner": "VMware 迁移突然失去 VDDK 时，从虚拟机内部生成开放镜像，并在目标环境自动启动影子副本验收。",
-      "url": "https://raytally.com/ideas/2026-09-08-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-leaving-vmware-just-got-harder-after-broadcom-pulled-vddk.md",
-      "signal": {
-        "query": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-        "observed_at": "2026-09-08T00:33:12.421Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-          "boundary": "发布于 2026-09-07T00:00:00.000Z。 观测于 2026-09-08T00:33:12.421Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49602699",
-          "boundary": "发布于 2026-09-07T00:00:00.000Z。 观测于 2026-09-08T00:33:12.421Z。"
-        },
-        {
-          "url": "https://learn.microsoft.com/en-us/azure/migrate/server-migrate-overview?view=migrate",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://pve.proxmox.com/wiki/Migrate_to_Proxmox_VE",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-08-decapitating-a-macbook-2025",
-      "slug": "2026-09-08-decapitating-a-macbook-2025",
-      "date": "2026-09-08",
-      "tier": "featured",
-      "title": "无屏 Mac 后梁",
-      "one_liner": "MacBook 拆掉坏屏改桌面机时，用一根定制后梁补回天线、摄像头和麦克风。",
-      "url": "https://raytally.com/ideas/2026-09-08-decapitating-a-macbook-2025/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-decapitating-a-macbook-2025.md",
-      "signal": {
-        "query": "Decapitating a MacBook (2025)",
-        "observed_at": "2026-09-08T00:33:12.421Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49583381",
-          "boundary": "发布于 2026-09-06T00:00:00.000Z。 观测于 2026-09-08T00:33:12.421Z。"
-        },
-        {
-          "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-          "boundary": "观测于 2026-09-08T00:33:12.421Z。"
-        },
-        {
-          "url": "https://support.apple.com/en-us/102282",
-          "boundary": "发布于 2026-04-30T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/",
-          "boundary": "发布于 2022-08-22T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-08-is-there-an-app-that-can-throttle-or-hide-similar-or",
-      "slug": "2026-09-08-is-there-an-app-that-can-throttle-or-hide-similar-or",
-      "date": "2026-09-08",
-      "tier": "quick",
-      "title": "职位通知只响一次",
-      "one_liner": "同一职位被多个群改写后反复推送时，只保留一次提醒，再用后续消息补全关键信息。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-is-there-an-app-that-can-throttle-or-hide-similar-or.md",
-      "signal": {
-        "query": "Is there an app that can throttle or hide similar or duplicate notifications?",
-        "observed_at": "2026-09-08T00:34:17.022Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-08-airuncode",
-      "slug": "2026-09-08-airuncode",
-      "date": "2026-09-08",
-      "tier": "featured",
-      "title": "多代理代码调度坞",
-      "one_liner": "并行运行本地编码代理时，为每个代理隔离环境、预约冲突文件，并按测试结果排队交付补丁。",
-      "url": "https://raytally.com/ideas/2026-09-08-airuncode/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-airuncode.md",
-      "signal": {
-        "query": "Airuncode",
-        "observed_at": "2026-09-08T00:33:12.832Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/airuncode",
-          "boundary": "观测于 2026-09-08T00:33:12.832Z。"
-        },
-        {
-          "url": "https://airuncode.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/gitpcl/openorchestrator",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.conductor.build/docs/concepts/git-worktrees",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-08-idea-977278fe",
-      "slug": "2026-09-08-idea-977278fe",
-      "date": "2026-09-08",
-      "tier": "quick",
-      "title": "迟到的领悟局",
-      "one_liner": "朋友聚会时轮流讲出当年没听懂的对话，让众人先猜隐藏含义，再揭晓迟到的领悟。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-idea-977278fe.md",
-      "signal": {
-        "query": "Current TikTok Trends To Try Right Now - September 2026",
-        "observed_at": "2026-09-08T00:33:12.834Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-08-agentic-video-understanding-in-gemini",
-      "slug": "2026-09-08-agentic-video-understanding-in-gemini",
-      "date": "2026-09-08",
-      "tier": "featured",
-      "title": "交接巡检跟拍",
-      "one_liner": "房屋交接巡检时，视频代理当场提醒补拍模糊或遗漏的位置，结束即交付可追溯的证据包。",
-      "url": "https://raytally.com/ideas/2026-09-08-agentic-video-understanding-in-gemini/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-agentic-video-understanding-in-gemini.md",
-      "signal": {
-        "query": "Agentic Video Understanding in Gemini",
-        "observed_at": "2026-09-08T00:33:12.832Z"
-      },
-      "sources": [
-        {
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-          "boundary": "发布于 2026-09-01T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.producthunt.com/products/google",
-          "boundary": "观测于 2026-09-08T00:33:12.832Z。"
-        },
-        {
-          "url": "https://zinspector.com/features/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://door.lease/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-08-upcoming-meteor-showers",
-      "slug": "2026-09-08-upcoming-meteor-showers",
-      "date": "2026-09-08",
-      "tier": "quick",
-      "title": "屏幕朝下的流星向导",
-      "one_liner": "到达流星雨观测地后，用不刺眼的语音找到较暗视野，并按实时云层决定等待还是转移。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-upcoming-meteor-showers.md",
-      "signal": {
-        "query": "upcoming meteor showers",
-        "observed_at": "2026-09-08T00:33:10.648Z",
+        "query": "retroid pocket duo",
+        "observed_at": "2026-09-09T00:33:12.770Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-07T10:30:00.000Z"
+        "ended_at": "2026-09-08T07:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-08-scriptly",
-      "slug": "2026-09-08-scriptly",
-      "date": "2026-09-08",
+      "id": "idea-2026-09-09-show-hn-copperhead-cursor-for-circuit-boards",
+      "slug": "2026-09-09-show-hn-copperhead-cursor-for-circuit-boards",
+      "date": "2026-09-09",
       "tier": "featured",
-      "title": "一个人也能对戏",
-      "one_liner": "独自排练对白时，让手机扮演其他角色、听懂临场改词，并自然把戏接下去。",
-      "url": "https://raytally.com/ideas/2026-09-08-scriptly/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-scriptly.md",
+      "title": "电路板探针导航",
+      "one_liner": "新电路板上电异常时，在实物画面中标出下一处测点，并按实时读数推进故障定位。",
+      "url": "https://raytally.com/ideas/2026-09-09-show-hn-copperhead-cursor-for-circuit-boards/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-show-hn-copperhead-cursor-for-circuit-boards.md",
       "signal": {
-        "query": "Scriptly",
-        "observed_at": "2026-09-08T00:33:12.832Z"
+        "query": "Show HN: Copperhead – Cursor for circuit boards",
+        "observed_at": "2026-09-09T00:33:14.604Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-09-jupitrr-cut",
+      "slug": "2026-09-09-jupitrr-cut",
+      "date": "2026-09-09",
+      "tier": "featured",
+      "title": "自动接拍提词镜",
+      "one_liner": "独自拍口播卡壳时，提词镜自动回退脚本和画面，倒数后从上一句自然接拍。",
+      "url": "https://raytally.com/ideas/2026-09-09-jupitrr-cut/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-jupitrr-cut.md",
+      "signal": {
+        "query": "Jupitrr Cut",
+        "observed_at": "2026-09-09T00:33:14.990Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/sciptly",
-          "boundary": "观测于 2026-09-08T00:33:12.832Z。"
+          "url": "https://www.producthunt.com/products/jupitrr",
+          "boundary": "观测于 2026-09-09T00:33:14.990Z。"
         },
         {
-          "url": "https://developer.apple.com/documentation/speech/",
+          "url": "https://feedback.descript.com/changelog/release-roundupjune-10th-2025",
+          "boundary": "发布于 2025-06-10T00:00:00.000Z。"
+        },
+        {
+          "url": "https://bigvu.tv/tools/teleprompter-mobile-teleprompter-ios-android",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/avfaudio/avspeechsynthesizer",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://coldreadapp.com/help.html",
+          "url": "https://github.com/ggml-org/whisper.cpp",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-08-tadata",
-      "slug": "2026-09-08-tadata",
-      "date": "2026-09-08",
+      "id": "idea-2026-09-09-nail",
+      "slug": "2026-09-09-nail",
+      "date": "2026-09-09",
       "tier": "quick",
-      "title": "不被带节奏的异步表决",
-      "one_liner": "团队讨论重要提案时，先独立收集每个人的真实立场，再公开真正存在的分歧。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-tadata.md",
+      "title": "做美甲前先试一指",
+      "one_liner": "换季想做美甲却拿不定颜色时，先预约附近门店的一指试色，再决定是否做完整套。",
+      "url": "https://raytally.com/daily/2026-09-09/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-nail.md",
       "signal": {
-        "query": "Tadata",
-        "observed_at": "2026-09-08T00:33:12.832Z"
+        "query": "nail",
+        "observed_at": "2026-09-09T00:33:12.770Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-08T19:50:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-08-h3-max-by-fal",
-      "slug": "2026-09-08-h3-max-by-fal",
-      "date": "2026-09-08",
+      "id": "idea-2026-09-09-lyrimuse",
+      "slug": "2026-09-09-lyrimuse",
+      "date": "2026-09-09",
       "tier": "quick",
-      "title": "粗剪缺镜补位",
-      "one_liner": "粗剪缺少一段镜头时，依据相邻画面的光线、机位和动作生成可直接放回时间线的短片。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-h3-max-by-fal.md",
+      "title": "排练歌词同屏",
+      "one_liner": "乐队合练时共享与指定录音同步的歌词，领唱一次修订就能校准所有成员。",
+      "url": "https://raytally.com/daily/2026-09-09/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-lyrimuse.md",
       "signal": {
-        "query": "H3 Max by fal",
-        "observed_at": "2026-09-08T00:33:12.832Z"
+        "query": "Lyrimuse",
+        "observed_at": "2026-09-09T00:33:14.990Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-08-bloop",
-      "slug": "2026-09-08-bloop",
-      "date": "2026-09-08",
-      "tier": "quick",
-      "title": "乐器课声纹白板",
-      "one_liner": "远程乐器课进行时，把演奏变成可批注轨道，让学生马上重练老师指出的几秒。",
-      "url": "https://raytally.com/daily/2026-09-08/",
-      "brief_url": "https://raytally.com/ideas/2026-09-08-bloop.md",
+      "id": "idea-2026-09-09-zx-spectrum-experimenting-with-1-bit-sound",
+      "slug": "2026-09-09-zx-spectrum-experimenting-with-1-bit-sound",
+      "date": "2026-09-09",
+      "tier": "featured",
+      "title": "一比特声音工坊",
+      "one_liner": "复古游戏音乐人编写 1-bit 配乐时，可边听边处理处理器周期超支，直接导出真机代码。",
+      "url": "https://raytally.com/ideas/2026-09-09-zx-spectrum-experimenting-with-1-bit-sound/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-zx-spectrum-experimenting-with-1-bit-sound.md",
       "signal": {
-        "query": "Bloop",
-        "observed_at": "2026-09-08T00:33:12.832Z"
+        "query": "ZX Spectrum: Experimenting with 1-Bit Sound",
+        "observed_at": "2026-09-09T00:33:14.604Z"
+      },
+      "sources": [
+        {
+          "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+          "boundary": "发布于 2026-09-05T00:00:00.000Z。 观测于 2026-09-09T00:33:14.604Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49611230",
+          "boundary": "发布于 2026-09-08T00:00:00.000Z。 观测于 2026-09-09T00:33:14.604Z。"
+        },
+        {
+          "url": "https://github.com/gasman/jsspeccy3",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/z00m128/sjasmplus",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-09-geomagnetic-storm",
+      "slug": "2026-09-09-geomagnetic-storm",
+      "date": "2026-09-09",
+      "tier": "quick",
+      "title": "极光拼车夜线",
+      "one_liner": "极光预警到来时，为无车观测者匹配顺路座位，并随云层变化调整观测地点。",
+      "url": "https://raytally.com/daily/2026-09-09/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-geomagnetic-storm.md",
+      "signal": {
+        "query": "geomagnetic storm",
+        "observed_at": "2026-09-09T00:33:12.770Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-08T17:30:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-09-openmarket",
+      "slug": "2026-09-09-openmarket",
+      "date": "2026-09-09",
+      "tier": "featured",
+      "title": "AI代理付费试做场",
+      "one_liner": "团队采购 AI 代理前，用一份脱敏的真实小任务匿名试做，再按交付物选出正式承接者。",
+      "url": "https://raytally.com/ideas/2026-09-09-openmarket/",
+      "brief_url": "https://raytally.com/ideas/2026-09-09-openmarket.md",
+      "signal": {
+        "query": "OpenMarket",
+        "observed_at": "2026-09-09T00:33:14.990Z"
       },
       "sources": []
     }
