@@ -1,256 +1,310 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-11",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-10-claude-change-the-add-to-cart-button-to-blue",
-      "slug": "2026-09-10-claude-change-the-add-to-cart-button-to-blue",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-gojo",
+      "slug": "2026-09-11-gojo",
+      "date": "2026-09-11",
       "tier": "featured",
-      "title": "点着页面改代码",
-      "one_liner": "产品经理在测试页点中元素说出改法，几分钟后拿到源码改动、受影响页面和可点击预览。",
-      "url": "https://raytally.com/ideas/2026-09-10-claude-change-the-add-to-cart-button-to-blue/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-claude-change-the-add-to-cart-button-to-blue.md",
+      "title": "说话直接变行动",
+      "one_liner": "想到要回复、预约或记录一件事时直接说出来，应用只把明确行动放进对应的日历、草稿或待办。",
+      "url": "https://raytally.com/ideas/2026-09-11-gojo/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-gojo.md",
       "signal": {
-        "query": "Claude, change the “Add to Cart” button to blue",
-        "observed_at": "2026-09-10T00:33:04.919Z"
+        "query": "Gojo",
+        "observed_at": "2026-09-11T00:33:09.655Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49623754",
-          "boundary": "发布于 2026-09-09T00:00:00.000Z。 观测于 2026-09-10T00:33:04.919Z。"
+          "url": "https://www.producthunt.com/products/gojo",
+          "boundary": "发布于 2026-09-09T03:41:05.000Z。 观测于 2026-09-11T00:33:09.655Z。"
         },
         {
-          "url": "https://site.builder.io/web-apps",
+          "url": "https://developer.apple.com/documentation/appintents/creating-your-first-app-intent",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://jam.dev/docs/creating-a-jam",
+          "url": "https://developer.apple.com/documentation/eventkit/ekeventstore",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.github.com/en/rest/pulls/pulls",
+          "url": "https://wisprflow.ai/android",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-10-is-there-an-app-that-actually-sends-push-notifications-for",
-      "slug": "2026-09-10-is-there-an-app-that-actually-sends-push-notifications-for",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-krispy-kreme-apple-cider-glazed",
+      "slug": "2026-09-11-krispy-kreme-apple-cider-glazed",
+      "date": "2026-09-11",
       "tier": "quick",
-      "title": "停车离场警报",
-      "one_liner": "车主离开已停车辆后，独立检测未关门窗和故障，并主动推送需要返回处理的情况。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-is-there-an-app-that-actually-sends-push-notifications-for.md",
+      "title": "限定甜甜圈现货路线",
+      "one_liner": "想买季节限定甜甜圈时，输入位置即可看到仍有货的门店和最稳妥的取货顺序。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-krispy-kreme-apple-cider-glazed.md",
       "signal": {
-        "query": "Is there an app that actually sends push notifications for car status (open windows/doors, error codes)?",
-        "observed_at": "2026-09-10T00:33:57.022Z"
+        "query": "krispy kreme apple cider glazed",
+        "observed_at": "2026-09-11T00:33:05.508Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-10T15:10:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-10-gnu-radio-in-the-browser",
-      "slug": "2026-09-10-gnu-radio-in-the-browser",
-      "date": "2026-09-10",
-      "tier": "quick",
-      "title": "一个链接复现射频故障",
-      "one_liner": "无线设备信号解码出错时，将原始采样和处理流程封成链接，让同事直接在浏览器复现。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-gnu-radio-in-the-browser.md",
-      "signal": {
-        "query": "GNU Radio in the browser",
-        "observed_at": "2026-09-10T00:33:04.919Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-10-gpt-6-astra-looped-transformers-and-hidden-reasoning",
-      "slug": "2026-09-10-gpt-6-astra-looped-transformers-and-hidden-reasoning",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-music-theory-for-the-21st-century-classroom",
+      "slug": "2026-09-11-music-theory-for-the-21st-century-classroom",
+      "date": "2026-09-11",
       "tier": "featured",
-      "title": "模型升级反事实测试",
-      "one_liner": "模型升级前，用反事实问题找出会让答案翻转、越权或编造依据的具体条件。",
-      "url": "https://raytally.com/ideas/2026-09-10-gpt-6-astra-looped-transformers-and-hidden-reasoning/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-gpt-6-astra-looped-transformers-and-hidden-reasoning.md",
+      "title": "音乐理论声音实验",
+      "one_liner": "音乐课上拖动节奏和和弦，学生立刻听见修改前后的差异，把理论变成可反复试错的声音实验。",
+      "url": "https://raytally.com/ideas/2026-09-11-music-theory-for-the-21st-century-classroom/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-music-theory-for-the-21st-century-classroom.md",
       "signal": {
-        "query": "GPT-6 Astra, looped transformers, and hidden reasoning",
-        "observed_at": "2026-09-10T00:33:04.919Z"
+        "query": "Music Theory for the 21st-Century Classroom",
+        "observed_at": "2026-09-11T00:33:08.692Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49627370",
-          "boundary": "发布于 2026-09-09T14:37:47.000Z。 观测于 2026-09-10T00:33:04.919Z。"
+          "url": "https://news.ycombinator.com/item?id=49647134",
+          "boundary": "发布于 2026-09-10T17:14:12.000Z。 观测于 2026-09-11T00:33:08.692Z。"
         },
         {
-          "url": "https://docs.langchain.com/langsmith/evaluate-llm-application",
+          "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+          "boundary": "观测于 2026-09-11T00:33:08.692Z。"
+        },
+        {
+          "url": "https://www.noteflight.com/learn",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.braintrust.dev/docs/evaluate",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.promptfoo.dev/docs/configuration/guide/",
+          "url": "https://www.soundtrap.com/edu/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-10-adscope",
-      "slug": "2026-09-10-adscope",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-starbucks-snoopy-glass-cold-cup",
+      "slug": "2026-09-11-starbucks-snoopy-glass-cold-cup",
+      "date": "2026-09-11",
       "tier": "quick",
-      "title": "广告创意盲评会",
-      "one_liner": "广告复盘会上先让团队盲选创意赢家，再揭晓公平化成绩并找出反复出现的误判。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-adscope.md",
+      "title": "限定杯同城交换",
+      "one_liner": "发售日拿重复款换目标杯子，系统核对库存后撮合同城交换，少排一次盲目的队。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-starbucks-snoopy-glass-cold-cup.md",
       "signal": {
-        "query": "AdScope",
-        "observed_at": "2026-09-10T00:33:05.606Z"
+        "query": "starbucks snoopy glass cold cup",
+        "observed_at": "2026-09-11T00:33:05.508Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-10T16:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-10-any-software-to-view-360-footage-natively-on-google-tv",
-      "slug": "2026-09-10-any-software-to-view-360-footage-natively-on-google-tv",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-live-captions-by-subanana",
+      "slug": "2026-09-11-live-captions-by-subanana",
+      "date": "2026-09-11",
       "tier": "featured",
-      "title": "客厅全景原片回放",
-      "one_liner": "在 Google TV 直接播放相机原始全景文件，用遥控器实时转动视角，无需导出或投屏。",
-      "url": "https://raytally.com/ideas/2026-09-10-any-software-to-view-360-footage-natively-on-google-tv/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-any-software-to-view-360-footage-natively-on-google-tv.md",
+      "title": "多语种会议提问台",
+      "one_liner": "跨语言活动中，观众用自己的语言提问和投票，系统合并重复问题，让主持人直接处理大家真正关心的事。",
+      "url": "https://raytally.com/ideas/2026-09-11-live-captions-by-subanana/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-live-captions-by-subanana.md",
       "signal": {
-        "query": "Any software to view 360 footage natively on Google TV?",
-        "observed_at": "2026-09-10T00:33:57.022Z"
+        "query": "Live Captions by Subanana",
+        "observed_at": "2026-09-11T00:33:09.655Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/360Cameras/comments/1wahcei/any_software_to_view_360_footage_natively_on/",
-          "boundary": "发布于 2026-09-08T00:00:00.000Z。 观测于 2026-09-10T00:33:57.022Z。"
+          "url": "https://www.producthunt.com/products/subanana",
+          "boundary": "观测于 2026-09-11T00:33:09.655Z。"
         },
         {
-          "url": "https://developer.android.com/reference/androidx/media3/exoplayer/video/spherical/package-summary",
-          "boundary": "发布于 2026-06-24T00:00:00.000Z。"
+          "url": "https://www.wordly.ai/blog/live-translation-for-conferences-and-events",
+          "boundary": "发布于 2026-08-28T00:00:00.000Z。"
         },
         {
-          "url": "https://onlinemanual.insta360.com/developer/en-us/resource/sdk",
+          "url": "https://www.slido.com/product?lang=en",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://images.videolan.org/vlc/download-android.html",
+          "url": "https://knowledge.interprefy.com/user-guide-for-interprefys-cloud-based-audience-link",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-10-idea-fe5bab43",
-      "slug": "2026-09-10-idea-fe5bab43",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-new-york-times-games",
+      "slug": "2026-09-11-new-york-times-games",
+      "date": "2026-09-11",
       "tier": "quick",
-      "title": "短信敲门卡",
-      "one_liner": "机构首次联系客户时先证明身份与来意，获准后再发送时效性短信。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-idea-fe5bab43.md",
+      "title": "无剧透解题房",
+      "one_liner": "做完每日谜题先锁定解法，等朋友交卷后逐步揭开谁在哪个线索上转了弯。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-new-york-times-games.md",
       "signal": {
-        "query": "Unknown Message Screening: Apple Silences Unknown Senders Until Users Approve Them",
-        "observed_at": "2026-09-10T00:33:05.613Z"
+        "query": "new york times games",
+        "observed_at": "2026-09-11T00:33:05.508Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-10T21:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-10-is-there-an-app-that-shows-live-immigration-security-wait",
-      "slug": "2026-09-10-is-there-an-app-that-shows-live-immigration-security-wait",
-      "date": "2026-09-10",
-      "tier": "featured",
-      "title": "中转队列实况",
-      "one_liner": "国际中转前查看带新鲜度与可信度的入境、安检等待时间，判断何时离开休息区。",
-      "url": "https://raytally.com/ideas/2026-09-10-is-there-an-app-that-shows-live-immigration-security-wait/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-is-there-an-app-that-shows-live-immigration-security-wait.md",
+      "id": "idea-2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the",
+      "slug": "2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the",
+      "date": "2026-09-11",
+      "tier": "quick",
+      "title": "中间段跑伴",
+      "one_liner": "卡在 5K 前后的跑者按连续跑目标找跑伴，一起完成下一小步，不必硬套 10K 计划。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the.md",
       "signal": {
-        "query": "Is there an app that shows live immigration/security wait times at hubs? or does that not exist",
-        "observed_at": "2026-09-10T00:33:57.022Z"
+        "query": "I completed a C25K program 4 weeks ago. While I completed the program, I didn't run a 5k by Week 9 Run 3. Looking for an app between a 5k and 10k where the running time can be adjusted.",
+        "observed_at": "2026-09-11T00:34:05.640Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-11-list-of-references-on-sony-websites-to-players-owning-their",
+      "slug": "2026-09-11-list-of-references-on-sony-websites-to-players-owning-their",
+      "date": "2026-09-11",
+      "tier": "featured",
+      "title": "数字游戏购买承诺卡",
+      "one_liner": "买数字游戏前，先看懂下架、封号和平台变更会不会影响访问权，并把当时的条款和收据留存下来。",
+      "url": "https://raytally.com/ideas/2026-09-11-list-of-references-on-sony-websites-to-players-owning-their/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-list-of-references-on-sony-websites-to-players-owning-their.md",
+      "signal": {
+        "query": "List of references on Sony websites to players \"owning\" their digital games",
+        "observed_at": "2026-09-11T00:33:08.692Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/ForeignTravelIndia/comments/1wbnq9y/is_there_an_app_that_shows_live/",
-          "boundary": "发布于 2026-09-09T00:00:00.000Z。 观测于 2026-09-10T00:33:57.022Z。"
+          "url": "https://news.ycombinator.com/item?id=49642531",
+          "boundary": "发布于 2026-09-11T00:00:00.000Z。 观测于 2026-09-11T00:33:08.692Z。"
         },
         {
-          "url": "https://developer.schiphol.nl/documentation",
+          "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+          "boundary": "发布于 2026-09-10T00:00:00.000Z。 观测于 2026-09-11T00:33:08.692Z。"
+        },
+        {
+          "url": "https://www.playstation.com/en-us/support/games/upgrade-ps4-game-to-ps5-version/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://gomiflight.com/?p=about",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://awt.cbp.gov/",
+          "url": "https://docs.gog.com/introduction/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-10-diiverge",
-      "slug": "2026-09-10-diiverge",
-      "date": "2026-09-10",
-      "tier": "featured",
-      "title": "全家照片冒险接龙",
-      "one_liner": "上传孩子的画或旅行照，就能开启一场由家人语音接力推进的多人冒险。",
-      "url": "https://raytally.com/ideas/2026-09-10-diiverge/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-diiverge.md",
+      "id": "idea-2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar",
+      "slug": "2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar",
+      "date": "2026-09-11",
+      "tier": "quick",
+      "title": "热水错峰管家",
+      "one_liner": "设定明早的热水需求后，产品自动利用太阳能富余或低价时段加热，守住用水底线。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar.md",
       "signal": {
-        "query": "Diiverge",
-        "observed_at": "2026-09-10T00:33:05.606Z"
+        "query": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+        "observed_at": "2026-09-11T00:33:08.692Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-11-vibe-eyes",
+      "slug": "2026-09-11-vibe-eyes",
+      "date": "2026-09-11",
+      "tier": "featured",
+      "title": "宠物照看轮班",
+      "one_liner": "宠物独自在家时，家人认领一次查看、喂食或陪玩任务，没人响应才自动交给下一位。",
+      "url": "https://raytally.com/ideas/2026-09-11-vibe-eyes/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-vibe-eyes.md",
+      "signal": {
+        "query": "Vibe Eyes",
+        "observed_at": "2026-09-11T00:33:09.655Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/diiverge-co",
-          "boundary": "观测于 2026-09-10T00:33:05.606Z。"
+          "url": "https://www.producthunt.com/products/vibe-eyes",
+          "boundary": "发布于 2026-09-09T19:08:08.000Z。 观测于 2026-09-11T00:33:09.655Z。"
         },
         {
-          "url": "https://www.diiverge.co/",
+          "url": "https://petcube.com/support/article/sharing-access-to-play-and-camera/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://apps.apple.com/us/app/toonystory-ai-storybook-maker/id6761269037",
+          "url": "https://ourhomeapp.com/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://platform.openai.com/docs/api-reference/audio",
+          "url": "https://www.cozi.com/feature-overview/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-10-frigade-assist-api",
-      "slug": "2026-09-10-frigade-assist-api",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-speechmark",
+      "slug": "2026-09-11-speechmark",
+      "date": "2026-09-11",
       "tier": "quick",
-      "title": "照着页面走的语音导航",
-      "one_liner": "低视力用户说出目标后，语音导航沿官方操作路径移动焦点，安全完成网页任务。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-frigade-assist-api.md",
+      "title": "离线承诺卡",
+      "one_liner": "敏感会议全程离线抓行动承诺，散会前逐人确认，留下不含录音的交接卡。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-speechmark.md",
       "signal": {
-        "query": "Frigade Assist API",
-        "observed_at": "2026-09-10T00:33:05.606Z"
+        "query": "Speechmark",
+        "observed_at": "2026-09-11T00:33:09.655Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-10-idea-87d1a57e",
-      "slug": "2026-09-10-idea-87d1a57e",
-      "date": "2026-09-10",
+      "id": "idea-2026-09-11-whip",
+      "slug": "2026-09-11-whip",
+      "date": "2026-09-11",
       "tier": "quick",
-      "title": "边看边配维修零件",
-      "one_liner": "观看维修教程时按设备型号匹配当前步骤所需零件，直接买到兼容而不过量的组合。",
-      "url": "https://raytally.com/daily/2026-09-10/",
-      "brief_url": "https://raytally.com/ideas/2026-09-10-idea-87d1a57e.md",
+      "title": "可点击网页导览",
+      "one_liner": "展示复杂网页时让观众亲手完成任务，创作者直接看到真实卡点和分支选择。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-whip.md",
       "signal": {
-        "query": "Product discovery and checkout are moving closer together",
-        "observed_at": "2026-09-10T00:33:05.613Z"
+        "query": "Whip",
+        "observed_at": "2026-09-11T00:33:09.655Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-11-freescan-app",
+      "slug": "2026-09-11-freescan-app",
+      "date": "2026-09-11",
+      "tier": "quick",
+      "title": "顾客路径信任巡检",
+      "one_liner": "本地商家投放前走一遍顾客路径，找出最先让人不敢联系或下单的具体问题。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-freescan-app.md",
+      "signal": {
+        "query": "FreeScan.app",
+        "observed_at": "2026-09-11T00:33:09.655Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-11-viso-now",
+      "slug": "2026-09-11-viso-now",
+      "date": "2026-09-11",
+      "tier": "quick",
+      "title": "旁观式视觉质检",
+      "one_liner": "工厂上线视觉质检时先让模型旁观学习，验证与人工长期一致后才自动拦截。",
+      "url": "https://raytally.com/daily/2026-09-11/",
+      "brief_url": "https://raytally.com/ideas/2026-09-11-viso-now.md",
+      "signal": {
+        "query": "Viso Now",
+        "observed_at": "2026-09-11T00:33:09.655Z"
       },
       "sources": []
     }
