@@ -1,310 +1,304 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11",
+  "generated_at": "2026-09-12",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-11-gojo",
-      "slug": "2026-09-11-gojo",
-      "date": "2026-09-11",
-      "tier": "featured",
-      "title": "说话直接变行动",
-      "one_liner": "想到要回复、预约或记录一件事时直接说出来，应用只把明确行动放进对应的日历、草稿或待办。",
-      "url": "https://raytally.com/ideas/2026-09-11-gojo/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-gojo.md",
+      "id": "idea-2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were",
+      "slug": "2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were",
+      "date": "2026-09-12",
+      "tier": "quick",
+      "title": "应用广告试投哨兵",
+      "one_liner": "应用投放前先用小额预算试出机器人版位，自动止损并留下申诉证据。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were.md",
       "signal": {
-        "query": "Gojo",
-        "observed_at": "2026-09-11T00:33:09.655Z"
+        "query": "I spent $220 on Google app ads and 60% of the installs were robots",
+        "observed_at": "2026-09-12T00:33:09.006Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-12-iphone-duo",
+      "slug": "2026-09-12-iphone-duo",
+      "date": "2026-09-12",
+      "tier": "featured",
+      "title": "两台手机拼成折叠样机",
+      "one_liner": "折叠 iPhone 预购前，用两台现有手机拼出样机，亲手验证阅读、拍照和收纳是否顺手。",
+      "url": "https://raytally.com/ideas/2026-09-12-iphone-duo/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-iphone-duo.md",
+      "signal": {
+        "query": "iphone duo",
+        "observed_at": "2026-09-12T00:33:05.933Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/gojo",
-          "boundary": "发布于 2026-09-09T03:41:05.000Z。 观测于 2026-09-11T00:33:09.655Z。"
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "boundary": "发布于 2026-09-09T00:00:00.000Z。"
         },
         {
-          "url": "https://developer.apple.com/documentation/appintents/creating-your-first-app-intent",
+          "url": "https://developer.apple.com/documentation/multipeerconnectivity",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/eventkit/ekeventstore",
+          "url": "https://developer.apple.com/documentation/nearbyinteraction",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://wisprflow.ai/android",
+          "url": "https://news.samsung.com/us/new-try-galaxy-app-update-non-android-users-experience-samsung-z-flip5-fold5/",
+          "boundary": "发布于 2023-08-23T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-12-chat-recall",
+      "slug": "2026-09-12-chat-recall",
+      "date": "2026-09-12",
+      "tier": "quick",
+      "title": "这句话从哪来",
+      "one_liner": "评审文档中的 AI 内容时，选中一句话就能回看原对话、附件依据和版本状态。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-chat-recall.md",
+      "signal": {
+        "query": "chat-recall",
+        "observed_at": "2026-09-12T00:33:09.755Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when",
+      "slug": "2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when",
+      "date": "2026-09-12",
+      "tier": "featured",
+      "title": "会跟拍的竖屏剪辑",
+      "one_liner": "横屏素材改竖屏时，自动跟随真正的说话者或动作生成可编辑运镜，判断不稳的片段交给人确认。",
+      "url": "https://raytally.com/ideas/2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when.md",
+      "signal": {
+        "query": "Is there a tool that actually tracks subjects when reformatting video aspect ratios",
+        "observed_at": "2026-09-12T00:33:52.886Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/EntrepreneursGrind/comments/1wdwrzf/is_there_a_tool_that_actually_tracks_subjects/",
+          "boundary": "发布于 2026-09-11T00:00:00.000Z。 观测于 2026-09-12T00:33:52.886Z。"
+        },
+        {
+          "url": "https://helpx.adobe.com/premiere/desktop/add-video-effects/commonly-used-effects/add-auto-reframe-effect-to-a-sequence.html",
+          "boundary": "发布于 2026-04-15T00:00:00.000Z。"
+        },
+        {
+          "url": "https://ai.meta.com/research/sam2/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/professional-video-applications/describing-final-cut-pro-items-in-fcpxml",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-11-krispy-kreme-apple-cider-glazed",
-      "slug": "2026-09-11-krispy-kreme-apple-cider-glazed",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "限定甜甜圈现货路线",
-      "one_liner": "想买季节限定甜甜圈时，输入位置即可看到仍有货的门店和最稳妥的取货顺序。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-krispy-kreme-apple-cider-glazed.md",
+      "id": "idea-2026-09-12-a-misalignment-of-ai-in-mathematics",
+      "slug": "2026-09-12-a-misalignment-of-ai-in-mathematics",
+      "date": "2026-09-12",
+      "tier": "featured",
+      "title": "证明的对抗审稿室",
+      "one_liner": "研究者收到 AI 数学证明时，让独立审查代理寻找最弱推理节点，并附上可复现的反例过程。",
+      "url": "https://raytally.com/ideas/2026-09-12-a-misalignment-of-ai-in-mathematics/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-a-misalignment-of-ai-in-mathematics.md",
       "signal": {
-        "query": "krispy kreme apple cider glazed",
-        "observed_at": "2026-09-11T00:33:05.508Z",
+        "query": "A misalignment of AI in mathematics",
+        "observed_at": "2026-09-12T00:33:09.006Z"
+      },
+      "sources": [
+        {
+          "url": "https://news.ycombinator.com/item?id=49662371",
+          "boundary": "发布于 2026-09-11T17:45:12.000Z。 观测于 2026-09-12T00:33:09.006Z。"
+        },
+        {
+          "url": "https://mathandai.org/",
+          "boundary": "观测于 2026-09-12T00:33:09.006Z。"
+        },
+        {
+          "url": "https://lean-lang.org/doc/reference/latest/ValidatingProofs/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2607.09217",
+          "boundary": "发布于 2026-07-10T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults",
+      "slug": "2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults",
+      "date": "2026-09-12",
+      "tier": "quick",
+      "title": "从积木走进代码",
+      "one_liner": "从积木转向文本代码时，双向同步视图把每次语法改动变成看得见的程序结构。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults.md",
+      "signal": {
+        "query": "Λ Snap – An inviting programming language for kids and adults for CS study",
+        "observed_at": "2026-09-12T00:33:09.006Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-12-glyph-immersive",
+      "slug": "2026-09-12-glyph-immersive",
+      "date": "2026-09-12",
+      "tier": "featured",
+      "title": "全场一起拼字",
+      "one_liner": "活动观众各自操控一块字形网格，在舞台上共同拼出会变化的标题并留下动画回放。",
+      "url": "https://raytally.com/ideas/2026-09-12-glyph-immersive/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-glyph-immersive.md",
+      "signal": {
+        "query": "GLYPH Immersive",
+        "observed_at": "2026-09-12T00:33:09.755Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/glyph-immersive",
+          "boundary": "观测于 2026-09-12T00:33:09.755Z。"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+          "boundary": "发布于 2026-07-08T00:00:00.000Z。"
+        },
+        {
+          "url": "https://help.mentimeter.com/en/articles/410469-how-to-use-the-word-cloud-slide",
+          "boundary": "发布于 2026-08-07T00:00:00.000Z。"
+        },
+        {
+          "url": "https://okonaonline.com/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-12-idea-207324b7",
+      "slug": "2026-09-12-idea-207324b7",
+      "date": "2026-09-12",
+      "tier": "quick",
+      "title": "花火会离线碰头卡",
+      "one_liner": "去花火大会前约好离线地标链，断网或走散后仍能按时碰头和分组撤离。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-idea-207324b7.md",
+      "signal": {
+        "query": "調布市花火大会",
+        "observed_at": "2026-09-12T00:33:08.053Z",
+        "window_hours": 168,
+        "active": true
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-12-contexto",
+      "slug": "2026-09-12-contexto",
+      "date": "2026-09-12",
+      "tier": "quick",
+      "title": "不剧透的语义搭子",
+      "one_liner": "Contexto 卡住时只提示你重复绕过的语义区域，保留亲自找到答案的乐趣。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-contexto.md",
+      "signal": {
+        "query": "contexto",
+        "observed_at": "2026-09-12T00:33:05.933Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-10T15:10:00.000Z"
+        "ended_at": "2026-09-11T18:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-11-music-theory-for-the-21st-century-classroom",
-      "slug": "2026-09-11-music-theory-for-the-21st-century-classroom",
-      "date": "2026-09-11",
+      "id": "idea-2026-09-12-new-moon-september-2026",
+      "slug": "2026-09-12-new-moon-september-2026",
+      "date": "2026-09-12",
       "tier": "featured",
-      "title": "音乐理论声音实验",
-      "one_liner": "音乐课上拖动节奏和和弦，学生立刻听见修改前后的差异，把理论变成可反复试错的声音实验。",
-      "url": "https://raytally.com/ideas/2026-09-11-music-theory-for-the-21st-century-classroom/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-music-theory-for-the-21st-century-classroom.md",
+      "title": "月黑夜观星席位",
+      "one_liner": "新月观星前，按地平线、光污染和夜间规则预订私人观测位，不必临时寻找能合法停留的黑暗地点。",
+      "url": "https://raytally.com/ideas/2026-09-12-new-moon-september-2026/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-new-moon-september-2026.md",
       "signal": {
-        "query": "Music Theory for the 21st-Century Classroom",
-        "observed_at": "2026-09-11T00:33:08.692Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49647134",
-          "boundary": "发布于 2026-09-10T17:14:12.000Z。 观测于 2026-09-11T00:33:08.692Z。"
-        },
-        {
-          "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-          "boundary": "观测于 2026-09-11T00:33:08.692Z。"
-        },
-        {
-          "url": "https://www.noteflight.com/learn",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.soundtrap.com/edu/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-11-starbucks-snoopy-glass-cold-cup",
-      "slug": "2026-09-11-starbucks-snoopy-glass-cold-cup",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "限定杯同城交换",
-      "one_liner": "发售日拿重复款换目标杯子，系统核对库存后撮合同城交换，少排一次盲目的队。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-starbucks-snoopy-glass-cold-cup.md",
-      "signal": {
-        "query": "starbucks snoopy glass cold cup",
-        "observed_at": "2026-09-11T00:33:05.508Z",
+        "query": "new moon september 2026",
+        "observed_at": "2026-09-12T00:33:05.933Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-10T16:40:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-11-live-captions-by-subanana",
-      "slug": "2026-09-11-live-captions-by-subanana",
-      "date": "2026-09-11",
-      "tier": "featured",
-      "title": "多语种会议提问台",
-      "one_liner": "跨语言活动中，观众用自己的语言提问和投票，系统合并重复问题，让主持人直接处理大家真正关心的事。",
-      "url": "https://raytally.com/ideas/2026-09-11-live-captions-by-subanana/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-live-captions-by-subanana.md",
-      "signal": {
-        "query": "Live Captions by Subanana",
-        "observed_at": "2026-09-11T00:33:09.655Z"
+        "ended_at": "2026-09-11T04:50:00.000Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/subanana",
-          "boundary": "观测于 2026-09-11T00:33:09.655Z。"
-        },
-        {
-          "url": "https://www.wordly.ai/blog/live-translation-for-conferences-and-events",
-          "boundary": "发布于 2026-08-28T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.slido.com/product?lang=en",
+          "url": "https://www.weather.gov/documentation/services-web-api",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://knowledge.interprefy.com/user-guide-for-interprefys-cloud-based-audience-link",
+          "url": "https://rhodesmill.org/skyfield/toc.html",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.hipcamp.com/en-US/hoststandards",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.astrospheric.com/DynamicContent/?src=browser2ndpage",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-11-new-york-times-games",
-      "slug": "2026-09-11-new-york-times-games",
-      "date": "2026-09-11",
+      "id": "idea-2026-09-12-flight-cancellation-and-delay-dde407a",
+      "slug": "2026-09-12-flight-cancellation-and-delay-dde407a",
+      "date": "2026-09-12",
       "tier": "quick",
-      "title": "无剧透解题房",
-      "one_liner": "做完每日谜题先锁定解法，等朋友交卷后逐步揭开谁在哪个线索上转了弯。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-new-york-times-games.md",
+      "title": "航班中断接管",
+      "one_liner": "航班取消时先按你的底线保住替代座位，再统一处理退改和同行安排。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-flight-cancellation-and-delay-dde407a.md",
       "signal": {
-        "query": "new york times games",
-        "observed_at": "2026-09-11T00:33:05.508Z",
+        "query": "flight cancellation and delay",
+        "observed_at": "2026-09-12T00:33:05.933Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-10T21:30:00.000Z"
+        "ended_at": "2026-09-11T19:20:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the",
-      "slug": "2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the",
-      "date": "2026-09-11",
+      "id": "idea-2026-09-12-flu-shots",
+      "slug": "2026-09-12-flu-shots",
+      "date": "2026-09-12",
       "tier": "quick",
-      "title": "中间段跑伴",
-      "one_liner": "卡在 5K 前后的跑者按连续跑目标找跑伴，一起完成下一小步，不必硬套 10K 计划。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-i-completed-a-c25k-program-4-weeks-ago-while-i-completed-the.md",
+      "title": "拼一场上门流感接种",
+      "one_liner": "团队想就地打流感疫苗时，汇集周边意向，凑够人数就匹配一场上门接种。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-flu-shots.md",
       "signal": {
-        "query": "I completed a C25K program 4 weeks ago. While I completed the program, I didn't run a 5k by Week 9 Run 3. Looking for an app between a 5k and 10k where the running time can be adjusted.",
-        "observed_at": "2026-09-11T00:34:05.640Z"
+        "query": "flu shots",
+        "observed_at": "2026-09-12T00:33:05.933Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-11T05:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-11-list-of-references-on-sony-websites-to-players-owning-their",
-      "slug": "2026-09-11-list-of-references-on-sony-websites-to-players-owning-their",
-      "date": "2026-09-11",
-      "tier": "featured",
-      "title": "数字游戏购买承诺卡",
-      "one_liner": "买数字游戏前，先看懂下架、封号和平台变更会不会影响访问权，并把当时的条款和收据留存下来。",
-      "url": "https://raytally.com/ideas/2026-09-11-list-of-references-on-sony-websites-to-players-owning-their/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-list-of-references-on-sony-websites-to-players-owning-their.md",
-      "signal": {
-        "query": "List of references on Sony websites to players \"owning\" their digital games",
-        "observed_at": "2026-09-11T00:33:08.692Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49642531",
-          "boundary": "发布于 2026-09-11T00:00:00.000Z。 观测于 2026-09-11T00:33:08.692Z。"
-        },
-        {
-          "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-          "boundary": "发布于 2026-09-10T00:00:00.000Z。 观测于 2026-09-11T00:33:08.692Z。"
-        },
-        {
-          "url": "https://www.playstation.com/en-us/support/games/upgrade-ps4-game-to-ps5-version/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://docs.gog.com/introduction/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar",
-      "slug": "2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar",
-      "date": "2026-09-11",
+      "id": "idea-2026-09-12-greve-correios",
+      "slug": "2026-09-12-greve-correios",
+      "date": "2026-09-12",
       "tier": "quick",
-      "title": "热水错峰管家",
-      "one_liner": "设定明早的热水需求后，产品自动利用太阳能富余或低价时段加热，守住用水底线。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-hitachi-launches-co2-heat-pump-water-heaters-with-solar.md",
+      "title": "停邮期间临时履约网",
+      "one_liner": "邮政停摆时，把未揽收订单临时转给可用运力，并自动更新面单和买家承诺。",
+      "url": "https://raytally.com/daily/2026-09-12/",
+      "brief_url": "https://raytally.com/ideas/2026-09-12-greve-correios.md",
       "signal": {
-        "query": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-        "observed_at": "2026-09-11T00:33:08.692Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-11-vibe-eyes",
-      "slug": "2026-09-11-vibe-eyes",
-      "date": "2026-09-11",
-      "tier": "featured",
-      "title": "宠物照看轮班",
-      "one_liner": "宠物独自在家时，家人认领一次查看、喂食或陪玩任务，没人响应才自动交给下一位。",
-      "url": "https://raytally.com/ideas/2026-09-11-vibe-eyes/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-vibe-eyes.md",
-      "signal": {
-        "query": "Vibe Eyes",
-        "observed_at": "2026-09-11T00:33:09.655Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/vibe-eyes",
-          "boundary": "发布于 2026-09-09T19:08:08.000Z。 观测于 2026-09-11T00:33:09.655Z。"
-        },
-        {
-          "url": "https://petcube.com/support/article/sharing-access-to-play-and-camera/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://ourhomeapp.com/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.cozi.com/feature-overview/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-11-speechmark",
-      "slug": "2026-09-11-speechmark",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "离线承诺卡",
-      "one_liner": "敏感会议全程离线抓行动承诺，散会前逐人确认，留下不含录音的交接卡。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-speechmark.md",
-      "signal": {
-        "query": "Speechmark",
-        "observed_at": "2026-09-11T00:33:09.655Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-11-whip",
-      "slug": "2026-09-11-whip",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "可点击网页导览",
-      "one_liner": "展示复杂网页时让观众亲手完成任务，创作者直接看到真实卡点和分支选择。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-whip.md",
-      "signal": {
-        "query": "Whip",
-        "observed_at": "2026-09-11T00:33:09.655Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-11-freescan-app",
-      "slug": "2026-09-11-freescan-app",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "顾客路径信任巡检",
-      "one_liner": "本地商家投放前走一遍顾客路径，找出最先让人不敢联系或下单的具体问题。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-freescan-app.md",
-      "signal": {
-        "query": "FreeScan.app",
-        "observed_at": "2026-09-11T00:33:09.655Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-11-viso-now",
-      "slug": "2026-09-11-viso-now",
-      "date": "2026-09-11",
-      "tier": "quick",
-      "title": "旁观式视觉质检",
-      "one_liner": "工厂上线视觉质检时先让模型旁观学习，验证与人工长期一致后才自动拦截。",
-      "url": "https://raytally.com/daily/2026-09-11/",
-      "brief_url": "https://raytally.com/ideas/2026-09-11-viso-now.md",
-      "signal": {
-        "query": "Viso Now",
-        "observed_at": "2026-09-11T00:33:09.655Z"
+        "query": "greve correios",
+        "observed_at": "2026-09-12T00:33:08.963Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": []
     }
