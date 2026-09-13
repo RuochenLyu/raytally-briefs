@@ -1,304 +1,230 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-12",
+  "generated_at": "2026-09-13",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were",
-      "slug": "2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were",
-      "date": "2026-09-12",
-      "tier": "quick",
-      "title": "应用广告试投哨兵",
-      "one_liner": "应用投放前先用小额预算试出机器人版位，自动止损并留下申诉证据。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-i-spent-220-on-google-app-ads-and-60-of-the-installs-were.md",
-      "signal": {
-        "query": "I spent $220 on Google app ads and 60% of the installs were robots",
-        "observed_at": "2026-09-12T00:33:09.006Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-12-iphone-duo",
-      "slug": "2026-09-12-iphone-duo",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map",
+      "slug": "2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map",
+      "date": "2026-09-13",
       "tier": "featured",
-      "title": "两台手机拼成折叠样机",
-      "one_liner": "折叠 iPhone 预购前，用两台现有手机拼出样机，亲手验证阅读、拍照和收纳是否顺手。",
-      "url": "https://raytally.com/ideas/2026-09-12-iphone-duo/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-iphone-duo.md",
+      "title": "在电视地图上重游照片",
+      "one_liner": "一家人坐在电视前想重看旅行时，用遥控器选地图地点，直接翻出那里的 iCloud 照片。",
+      "url": "https://raytally.com/ideas/2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map.md",
       "signal": {
-        "query": "iphone duo",
-        "observed_at": "2026-09-12T00:33:05.933Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Is there an Apple TV app for browsing your photos on a map?",
+        "observed_at": "2026-09-13T00:34:29.948Z"
       },
       "sources": [
         {
-          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-          "boundary": "发布于 2026-09-09T00:00:00.000Z。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/multipeerconnectivity",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/nearbyinteraction",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://news.samsung.com/us/new-try-galaxy-app-update-non-android-users-experience-samsung-z-flip5-fold5/",
-          "boundary": "发布于 2023-08-23T00:00:00.000Z。"
+          "url": "https://www.reddit.com/r/ApplePhotos/comments/1wbpn3t/is_there_an_apple_tv_app_for_browsing_your_photos/",
+          "boundary": "发布于 2026-09-09T15:59:59.000Z。 观测于 2026-09-13T00:34:29.948Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-12-chat-recall",
-      "slug": "2026-09-12-chat-recall",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-kabza",
+      "slug": "2026-09-13-kabza",
+      "date": "2026-09-13",
       "tier": "quick",
-      "title": "这句话从哪来",
-      "one_liner": "评审文档中的 AI 内容时，选中一句话就能回看原对话、附件依据和版本状态。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-chat-recall.md",
+      "title": "街角语音接力",
+      "one_liner": "朋友相约逛城时，在真实街角接力留下语音线索，最后拼成一条共同走过的城市故事。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-kabza.md",
       "signal": {
-        "query": "chat-recall",
-        "observed_at": "2026-09-12T00:33:09.755Z"
+        "query": "Kabza",
+        "observed_at": "2026-09-13T00:33:34.639Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when",
-      "slug": "2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-failed-to-copy-photos-videos-error",
+      "slug": "2026-09-13-failed-to-copy-photos-videos-error",
+      "date": "2026-09-13",
       "tier": "featured",
-      "title": "会跟拍的竖屏剪辑",
-      "one_liner": "横屏素材改竖屏时，自动跟随真正的说话者或动作生成可编辑运镜，判断不稳的片段交给人确认。",
-      "url": "https://raytally.com/ideas/2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-is-there-a-tool-that-actually-tracks-subjects-when.md",
+      "title": "找回没导进去的照片",
+      "one_liner": "迁移照片弹出复制失败时，对照源文件和图库找出遗漏项，修好格式后只重导失败文件。",
+      "url": "https://raytally.com/ideas/2026-09-13-failed-to-copy-photos-videos-error/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-failed-to-copy-photos-videos-error.md",
       "signal": {
-        "query": "Is there a tool that actually tracks subjects when reformatting video aspect ratios",
-        "observed_at": "2026-09-12T00:33:52.886Z"
+        "query": "Failed to Copy Photos/Videos error",
+        "observed_at": "2026-09-13T00:34:29.948Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/EntrepreneursGrind/comments/1wdwrzf/is_there_a_tool_that_actually_tracks_subjects/",
-          "boundary": "发布于 2026-09-11T00:00:00.000Z。 观测于 2026-09-12T00:33:52.886Z。"
+          "url": "https://www.reddit.com/r/PowerPhotos/comments/1wemywa/failed_to_copy_photosvideos_error/",
+          "boundary": "发布于 2026-09-12T20:14:22.000Z。 观测于 2026-09-13T00:34:29.948Z。"
         },
         {
-          "url": "https://helpx.adobe.com/premiere/desktop/add-video-effects/commonly-used-effects/add-auto-reframe-effect-to-a-sequence.html",
-          "boundary": "发布于 2026-04-15T00:00:00.000Z。"
-        },
-        {
-          "url": "https://ai.meta.com/research/sam2/",
+          "url": "https://support.apple.com/en-ie/guide/photos/phtae4e05c67/mac",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/professional-video-applications/describing-final-cut-pro-items-in-fcpxml",
+          "url": "https://www.fatcatsoftware.com/powerphotos/VersionedDocs/v9/PowerPhotosHelp.pdf",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/avfoundation/exporting-video-to-alternative-formats?changes=_1_2&language=objc",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-12-a-misalignment-of-ai-in-mathematics",
-      "slug": "2026-09-12-a-misalignment-of-ai-in-mathematics",
-      "date": "2026-09-12",
-      "tier": "featured",
-      "title": "证明的对抗审稿室",
-      "one_liner": "研究者收到 AI 数学证明时，让独立审查代理寻找最弱推理节点，并附上可复现的反例过程。",
-      "url": "https://raytally.com/ideas/2026-09-12-a-misalignment-of-ai-in-mathematics/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-a-misalignment-of-ai-in-mathematics.md",
-      "signal": {
-        "query": "A misalignment of AI in mathematics",
-        "observed_at": "2026-09-12T00:33:09.006Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49662371",
-          "boundary": "发布于 2026-09-11T17:45:12.000Z。 观测于 2026-09-12T00:33:09.006Z。"
-        },
-        {
-          "url": "https://mathandai.org/",
-          "boundary": "观测于 2026-09-12T00:33:09.006Z。"
-        },
-        {
-          "url": "https://lean-lang.org/doc/reference/latest/ValidatingProofs/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://arxiv.org/abs/2607.09217",
-          "boundary": "发布于 2026-07-10T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults",
-      "slug": "2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times",
+      "slug": "2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times",
+      "date": "2026-09-13",
       "tier": "quick",
-      "title": "从积木走进代码",
-      "one_liner": "从积木转向文本代码时，双向同步视图把每次语法改动变成看得见的程序结构。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-snap-an-inviting-programming-language-for-kids-and-adults.md",
+      "title": "编译变慢从哪次提交开始",
+      "one_liner": "Bun 项目编译突然变慢时，在 CI 中定位首次拖慢构建的提交，并把证据贴回合并请求。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times.md",
       "signal": {
-        "query": "Λ Snap – An inviting programming language for kids and adults for CS study",
-        "observed_at": "2026-09-12T00:33:09.006Z"
+        "query": "I made a build visualizer to understand Bun's compile times",
+        "observed_at": "2026-09-13T00:33:33.747Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-12-glyph-immersive",
-      "slug": "2026-09-12-glyph-immersive",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using",
+      "slug": "2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using",
+      "date": "2026-09-13",
       "tier": "featured",
-      "title": "全场一起拼字",
-      "one_liner": "活动观众各自操控一块字形网格，在舞台上共同拼出会变化的标题并留下动画回放。",
-      "url": "https://raytally.com/ideas/2026-09-12-glyph-immersive/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-glyph-immersive.md",
+      "title": "同一选题试两种讲法",
+      "one_liner": "创作者拿着粗略选题时，用两种叙述顺序试写同一素材，比较后直接拼出可录的口播稿。",
+      "url": "https://raytally.com/ideas/2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using.md",
       "signal": {
-        "query": "GLYPH Immersive",
-        "observed_at": "2026-09-12T00:33:09.755Z"
+        "query": "Any tools that turn rough ideas into video scripts using different frameworks?",
+        "observed_at": "2026-09-13T00:34:29.948Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/glyph-immersive",
-          "boundary": "观测于 2026-09-12T00:33:09.755Z。"
+          "url": "https://www.reddit.com/r/ContentCreators/comments/1we4tu1/any_tools_that_turn_rough_ideas_into_video/",
+          "boundary": "发布于 2026-09-12T06:26:01.000Z。 观测于 2026-09-13T00:34:29.948Z。"
         },
         {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
-          "boundary": "发布于 2026-07-08T00:00:00.000Z。"
-        },
-        {
-          "url": "https://help.mentimeter.com/en/articles/410469-how-to-use-the-word-cloud-slide",
-          "boundary": "发布于 2026-08-07T00:00:00.000Z。"
-        },
-        {
-          "url": "https://okonaonline.com/",
+          "url": "https://www.revid.ai/docs",
           "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.revid.ai/script",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://help.jasper.ai/hc/en-us/articles/18618693085339-Brand-Voice",
+          "boundary": "发布于 2026-05-04T00:00:00.000Z。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-12-idea-207324b7",
-      "slug": "2026-09-12-idea-207324b7",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-jennifer-lopez-chai-latte-nails",
+      "slug": "2026-09-13-jennifer-lopez-chai-latte-nails",
+      "date": "2026-09-13",
       "tier": "quick",
-      "title": "花火会离线碰头卡",
-      "one_liner": "去花火大会前约好离线地标链，断网或走散后仍能按时碰头和分组撤离。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-idea-207324b7.md",
+      "title": "看得见成品的美甲预约",
+      "one_liner": "顾客想做同款美甲时，先选本地店实际能做的样片，再带着确认过的款式预约美甲师。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-jennifer-lopez-chai-latte-nails.md",
       "signal": {
-        "query": "調布市花火大会",
-        "observed_at": "2026-09-12T00:33:08.053Z",
-        "window_hours": 168,
-        "active": true
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-12-contexto",
-      "slug": "2026-09-12-contexto",
-      "date": "2026-09-12",
-      "tier": "quick",
-      "title": "不剧透的语义搭子",
-      "one_liner": "Contexto 卡住时只提示你重复绕过的语义区域，保留亲自找到答案的乐趣。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-contexto.md",
-      "signal": {
-        "query": "contexto",
-        "observed_at": "2026-09-12T00:33:05.933Z",
+        "query": "jennifer lopez chai latte nails",
+        "observed_at": "2026-09-13T00:33:30.504Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-11T18:20:00.000Z"
+        "ended_at": "2026-09-12T14:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-12-new-moon-september-2026",
-      "slug": "2026-09-12-new-moon-september-2026",
-      "date": "2026-09-12",
-      "tier": "featured",
-      "title": "月黑夜观星席位",
-      "one_liner": "新月观星前，按地平线、光污染和夜间规则预订私人观测位，不必临时寻找能合法停留的黑暗地点。",
-      "url": "https://raytally.com/ideas/2026-09-12-new-moon-september-2026/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-new-moon-september-2026.md",
+      "id": "idea-2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service",
+      "slug": "2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service",
+      "date": "2026-09-13",
+      "tier": "quick",
+      "title": "田间技师接力",
+      "one_liner": "农机停在田里时，农场主连线熟悉机型的技师，现场确定能先查什么、何时必须进店。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service.md",
       "signal": {
-        "query": "new moon september 2026",
-        "observed_at": "2026-09-12T00:33:05.933Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-11T04:50:00.000Z"
+        "query": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+        "observed_at": "2026-09-13T00:33:33.747Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-13-qapilot-mcp-for-android",
+      "slug": "2026-09-13-qapilot-mcp-for-android",
+      "date": "2026-09-13",
+      "tier": "featured",
+      "title": "让读屏走一遍新页面",
+      "one_liner": "Android 开发者提交测试包后，让代理用读屏功能走完指定流程，马上看到卡住的位置和可重跑的测试。",
+      "url": "https://raytally.com/ideas/2026-09-13-qapilot-mcp-for-android/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-qapilot-mcp-for-android.md",
+      "signal": {
+        "query": "QApilot MCP for Android",
+        "observed_at": "2026-09-13T00:33:34.639Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-13-framesketch",
+      "slug": "2026-09-13-framesketch",
+      "date": "2026-09-13",
+      "tier": "quick",
+      "title": "远程教练逐帧画线",
+      "one_liner": "运动教练点评学员视频时逐帧画出关键动作，学员下次拍摄后能对着同一时刻练习。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-framesketch.md",
+      "signal": {
+        "query": "FrameSketch",
+        "observed_at": "2026-09-13T00:33:34.639Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-13-voxelwall",
+      "slug": "2026-09-13-voxelwall",
+      "date": "2026-09-13",
+      "tier": "featured",
+      "title": "来宾调色的投影墙",
+      "one_liner": "小型聚会接上 Mac 投影后，音乐带动画面，来宾扫码投票选色，下一段画面立刻换成大家选的样子。",
+      "url": "https://raytally.com/ideas/2026-09-13-voxelwall/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-voxelwall.md",
+      "signal": {
+        "query": "VoxelWall",
+        "observed_at": "2026-09-13T00:33:34.639Z"
       },
       "sources": [
         {
-          "url": "https://www.weather.gov/documentation/services-web-api",
+          "url": "https://www.producthunt.com/products/voxelwall",
+          "boundary": "发布于 2026-09-13T00:33:34.639Z。 观测于 2026-09-13T00:33:34.639Z。"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/screencapturekit",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://rhodesmill.org/skyfield/toc.html",
+          "url": "https://app.synesthesia.live/docs/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.hipcamp.com/en-US/hoststandards",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://www.astrospheric.com/DynamicContent/?src=browser2ndpage",
+          "url": "https://magicmusicvisuals.com/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-12-flight-cancellation-and-delay-dde407a",
-      "slug": "2026-09-12-flight-cancellation-and-delay-dde407a",
-      "date": "2026-09-12",
+      "id": "idea-2026-09-13-captain-kill-switch",
+      "slug": "2026-09-13-captain-kill-switch",
+      "date": "2026-09-13",
       "tier": "quick",
-      "title": "航班中断接管",
-      "one_liner": "航班取消时先按你的底线保住替代座位，再统一处理退改和同行安排。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-flight-cancellation-and-delay-dde407a.md",
+      "title": "共享屏幕前收好桌面",
+      "one_liner": "面试官准备共享屏幕时，一键收起内部窗口并打开题目，展示结束后恢复原桌面。",
+      "url": "https://raytally.com/daily/2026-09-13/",
+      "brief_url": "https://raytally.com/ideas/2026-09-13-captain-kill-switch.md",
       "signal": {
-        "query": "flight cancellation and delay",
-        "observed_at": "2026-09-12T00:33:05.933Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-11T19:20:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-12-flu-shots",
-      "slug": "2026-09-12-flu-shots",
-      "date": "2026-09-12",
-      "tier": "quick",
-      "title": "拼一场上门流感接种",
-      "one_liner": "团队想就地打流感疫苗时，汇集周边意向，凑够人数就匹配一场上门接种。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-flu-shots.md",
-      "signal": {
-        "query": "flu shots",
-        "observed_at": "2026-09-12T00:33:05.933Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-11T05:30:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-12-greve-correios",
-      "slug": "2026-09-12-greve-correios",
-      "date": "2026-09-12",
-      "tier": "quick",
-      "title": "停邮期间临时履约网",
-      "one_liner": "邮政停摆时，把未揽收订单临时转给可用运力，并自动更新面单和买家承诺。",
-      "url": "https://raytally.com/daily/2026-09-12/",
-      "brief_url": "https://raytally.com/ideas/2026-09-12-greve-correios.md",
-      "signal": {
-        "query": "greve correios",
-        "observed_at": "2026-09-12T00:33:08.963Z",
-        "window_hours": 168,
-        "active": true
+        "query": "Captain Kill Switch",
+        "observed_at": "2026-09-13T00:33:34.639Z"
       },
       "sources": []
     }
