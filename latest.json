@@ -1,230 +1,280 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13",
+  "generated_at": "2026-09-14",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map",
-      "slug": "2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map",
-      "date": "2026-09-13",
-      "tier": "featured",
-      "title": "在电视地图上重游照片",
-      "one_liner": "一家人坐在电视前想重看旅行时，用遥控器选地图地点，直接翻出那里的 iCloud 照片。",
-      "url": "https://raytally.com/ideas/2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-is-there-an-apple-tv-app-for-browsing-your-photos-on-a-map.md",
-      "signal": {
-        "query": "Is there an Apple TV app for browsing your photos on a map?",
-        "observed_at": "2026-09-13T00:34:29.948Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/ApplePhotos/comments/1wbpn3t/is_there_an_apple_tv_app_for_browsing_your_photos/",
-          "boundary": "发布于 2026-09-09T15:59:59.000Z。 观测于 2026-09-13T00:34:29.948Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-13-kabza",
-      "slug": "2026-09-13-kabza",
-      "date": "2026-09-13",
+      "id": "idea-2026-09-14-cuda-for-amd-on-windows",
+      "slug": "2026-09-14-cuda-for-amd-on-windows",
+      "date": "2026-09-14",
       "tier": "quick",
-      "title": "街角语音接力",
-      "one_liner": "朋友相约逛城时，在真实街角接力留下语音线索，最后拼成一条共同走过的城市故事。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-kabza.md",
+      "title": "CUDA 项目先在 AMD 跑一遍",
+      "one_liner": "迁移 CUDA 项目到 Windows AMD 显卡时，开发者试跑一个任务，就能拿到首个兼容性阻塞点及最小复现。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-cuda-for-amd-on-windows.md",
       "signal": {
-        "query": "Kabza",
-        "observed_at": "2026-09-13T00:33:34.639Z"
+        "query": "CUDA for AMD on Windows",
+        "observed_at": "2026-09-14T00:33:16.676Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-13-failed-to-copy-photos-videos-error",
-      "slug": "2026-09-13-failed-to-copy-photos-videos-error",
-      "date": "2026-09-13",
+      "id": "idea-2026-09-14-make-your-first-edit-to-openstreetmap",
+      "slug": "2026-09-14-make-your-first-edit-to-openstreetmap",
+      "date": "2026-09-14",
       "tier": "featured",
-      "title": "找回没导进去的照片",
-      "one_liner": "迁移照片弹出复制失败时，对照源文件和图库找出遗漏项，修好格式后只重导失败文件。",
-      "url": "https://raytally.com/ideas/2026-09-13-failed-to-copy-photos-videos-error/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-failed-to-copy-photos-videos-error.md",
+      "title": "从街口开始改地图",
+      "one_liner": "第一次想改地图的人走到熟悉街口，领一项现场可核实的小任务，预览改动后完成首笔编辑。",
+      "url": "https://raytally.com/ideas/2026-09-14-make-your-first-edit-to-openstreetmap/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-make-your-first-edit-to-openstreetmap.md",
       "signal": {
-        "query": "Failed to Copy Photos/Videos error",
-        "observed_at": "2026-09-13T00:34:29.948Z"
+        "query": "Make your first edit to OpenStreetMap",
+        "observed_at": "2026-09-14T00:33:16.676Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/PowerPhotos/comments/1wemywa/failed_to_copy_photosvideos_error/",
-          "boundary": "发布于 2026-09-12T20:14:22.000Z。 观测于 2026-09-13T00:34:29.948Z。"
+          "url": "https://news.ycombinator.com/item?id=49674050",
+          "boundary": "发布于 2026-09-12T00:00:00.000Z。 观测于 2026-09-14T00:33:16.676Z。"
         },
         {
-          "url": "https://support.apple.com/en-ie/guide/photos/phtae4e05c67/mac",
+          "url": "https://wiki.openstreetmap.org/wiki/Api06",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.fatcatsoftware.com/powerphotos/VersionedDocs/v9/PowerPhotosHelp.pdf",
+          "url": "https://github.com/streetcomplete/StreetComplete",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/avfoundation/exporting-video-to-alternative-formats?changes=_1_2&language=objc",
+          "url": "https://every-door.app/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times",
-      "slug": "2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times",
-      "date": "2026-09-13",
-      "tier": "quick",
-      "title": "编译变慢从哪次提交开始",
-      "one_liner": "Bun 项目编译突然变慢时，在 CI 中定位首次拖慢构建的提交，并把证据贴回合并请求。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-i-made-a-build-visualizer-to-understand-bun-s-compile-times.md",
-      "signal": {
-        "query": "I made a build visualizer to understand Bun's compile times",
-        "observed_at": "2026-09-13T00:33:33.747Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using",
-      "slug": "2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using",
-      "date": "2026-09-13",
+      "id": "idea-2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your",
+      "slug": "2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your",
+      "date": "2026-09-14",
       "tier": "featured",
-      "title": "同一选题试两种讲法",
-      "one_liner": "创作者拿着粗略选题时，用两种叙述顺序试写同一素材，比较后直接拼出可录的口播稿。",
-      "url": "https://raytally.com/ideas/2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-any-tools-that-turn-rough-ideas-into-video-scripts-using.md",
+      "title": "亲手拼一只桌面宠物",
+      "one_liner": "宠物主人用手绘组件拼外形、挑招牌动作，马上得到一只不用生成式 AI 的可互动桌面宠物。",
+      "url": "https://raytally.com/ideas/2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your.md",
       "signal": {
-        "query": "Any tools that turn rough ideas into video scripts using different frameworks?",
-        "observed_at": "2026-09-13T00:34:29.948Z"
+        "query": "Is there an app where you can make a digital version of your pet that doesn’t use generative ai?",
+        "observed_at": "2026-09-14T00:33:59.072Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/ContentCreators/comments/1we4tu1/any_tools_that_turn_rough_ideas_into_video/",
-          "boundary": "发布于 2026-09-12T06:26:01.000Z。 观测于 2026-09-13T00:34:29.948Z。"
+          "url": "https://www.reddit.com/r/apps/comments/1weth35/is_there_an_app_where_you_can_make_a_digital/",
+          "boundary": "发布于 2026-09-13T00:00:00.000Z。 观测于 2026-09-14T00:33:59.072Z。"
         },
         {
-          "url": "https://www.revid.ai/docs",
+          "url": "https://www.electronjs.org/docs/latest/tutorial/custom-window-styles",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.revid.ai/script",
+          "url": "https://apps.apple.com/us/app/pixel-pals-widget-pet-game/id6443919232",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://help.jasper.ai/hc/en-us/articles/18618693085339-Brand-Voice",
-          "boundary": "发布于 2026-05-04T00:00:00.000Z。"
+          "url": "https://screenpetengine.com/",
+          "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-13-jennifer-lopez-chai-latte-nails",
-      "slug": "2026-09-13-jennifer-lopez-chai-latte-nails",
-      "date": "2026-09-13",
+      "id": "idea-2026-09-14-kirokune",
+      "slug": "2026-09-14-kirokune",
+      "date": "2026-09-14",
       "tier": "quick",
-      "title": "看得见成品的美甲预约",
-      "one_liner": "顾客想做同款美甲时，先选本地店实际能做的样片，再带着确认过的款式预约美甲师。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-jennifer-lopez-chai-latte-nails.md",
+      "title": "夜班手机交接",
+      "one_liner": "轮班人员当面交接异常时，两部手机近距离传递待办事件并确认接手，无网、无账号也能留下双方记录。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-kirokune.md",
       "signal": {
-        "query": "jennifer lopez chai latte nails",
-        "observed_at": "2026-09-13T00:33:30.504Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-12T14:30:00.000Z"
+        "query": "Kirokune",
+        "observed_at": "2026-09-14T00:33:17.454Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service",
-      "slug": "2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service",
-      "date": "2026-09-13",
-      "tier": "quick",
-      "title": "田间技师接力",
-      "one_liner": "农机停在田里时，农场主连线熟悉机型的技师，现场确定能先查什么、何时必须进店。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-i-fixed-a-tractor-using-john-deere-s-self-repair-service.md",
-      "signal": {
-        "query": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-        "observed_at": "2026-09-13T00:33:33.747Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-13-qapilot-mcp-for-android",
-      "slug": "2026-09-13-qapilot-mcp-for-android",
-      "date": "2026-09-13",
+      "id": "idea-2026-09-14-cognition-s-swe-2",
+      "slug": "2026-09-14-cognition-s-swe-2",
+      "date": "2026-09-14",
       "tier": "featured",
-      "title": "让读屏走一遍新页面",
-      "one_liner": "Android 开发者提交测试包后，让代理用读屏功能走完指定流程，马上看到卡住的位置和可重跑的测试。",
-      "url": "https://raytally.com/ideas/2026-09-13-qapilot-mcp-for-android/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-qapilot-mcp-for-android.md",
+      "title": "隔夜处理小修补",
+      "one_liner": "维护者下班前交出可复现的小问题，隔夜收到跑过测试的候选补丁或失败记录。",
+      "url": "https://raytally.com/ideas/2026-09-14-cognition-s-swe-2/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-cognition-s-swe-2.md",
       "signal": {
-        "query": "QApilot MCP for Android",
-        "observed_at": "2026-09-13T00:33:34.639Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-13-framesketch",
-      "slug": "2026-09-13-framesketch",
-      "date": "2026-09-13",
-      "tier": "quick",
-      "title": "远程教练逐帧画线",
-      "one_liner": "运动教练点评学员视频时逐帧画出关键动作，学员下次拍摄后能对着同一时刻练习。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-framesketch.md",
-      "signal": {
-        "query": "FrameSketch",
-        "observed_at": "2026-09-13T00:33:34.639Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-13-voxelwall",
-      "slug": "2026-09-13-voxelwall",
-      "date": "2026-09-13",
-      "tier": "featured",
-      "title": "来宾调色的投影墙",
-      "one_liner": "小型聚会接上 Mac 投影后，音乐带动画面，来宾扫码投票选色，下一段画面立刻换成大家选的样子。",
-      "url": "https://raytally.com/ideas/2026-09-13-voxelwall/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-voxelwall.md",
-      "signal": {
-        "query": "VoxelWall",
-        "observed_at": "2026-09-13T00:33:34.639Z"
+        "query": "Cognition's SWE-2",
+        "observed_at": "2026-09-14T00:33:17.454Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/voxelwall",
-          "boundary": "发布于 2026-09-13T00:33:34.639Z。 观测于 2026-09-13T00:33:34.639Z。"
+          "url": "https://cognition.com/blog/swe-2",
+          "boundary": "发布于 2026-09-10T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.producthunt.com/products/cognition-s-swe-2",
+          "boundary": "观测于 2026-09-14T00:33:17.454Z。"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/improve-a-project",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://docs.devin.ai/get-started/first-run",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-14-demotv",
+      "slug": "2026-09-14-demotv",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "观众点题的产品演示",
+      "one_liner": "产品演示现场，观众投票指定下一步实际操作，让演示者当场验证，并留下可回看的过程。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-demotv.md",
+      "signal": {
+        "query": "DemoTV",
+        "observed_at": "2026-09-14T00:33:17.454Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-14-relic",
+      "slug": "2026-09-14-relic",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "一次性跨设备粘贴",
+      "one_liner": "手机上复制验证码或密钥时，把它送到指定电脑一次性粘贴，用完即从两端清除。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-relic.md",
+      "signal": {
+        "query": "Relic",
+        "observed_at": "2026-09-14T00:33:17.454Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-14-screencursor",
+      "slug": "2026-09-14-screencursor",
+      "date": "2026-09-14",
+      "tier": "featured",
+      "title": "观众自己决定放大哪里",
+      "one_liner": "教程作者录完操作后发布可切换视角的录像，观众回看时自己决定放大光标附近还是查看完整界面。",
+      "url": "https://raytally.com/ideas/2026-09-14-screencursor/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-screencursor.md",
+      "signal": {
+        "query": "ScreenCursor",
+        "observed_at": "2026-09-14T00:33:17.454Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/screencursor",
+          "boundary": "观测于 2026-09-14T00:33:17.454Z。"
+        },
+        {
+          "url": "https://chromewebstore.google.com/detail/screencursor-screen-recor/lkaencjejddgaildkdadahbdoecbcbeo",
+          "boundary": "来源记录未提供发布时间。"
         },
         {
           "url": "https://developer.apple.com/documentation/screencapturekit",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://app.synesthesia.live/docs/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://magicmusicvisuals.com/",
+          "url": "https://developer.apple.com/documentation/coregraphics/cgevent/tapcreate%28tap%3Aplace%3Aoptions%3Aeventsofinterest%3Acallback%3Auserinfo%3A%29",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-13-captain-kill-switch",
-      "slug": "2026-09-13-captain-kill-switch",
-      "date": "2026-09-13",
-      "tier": "quick",
-      "title": "共享屏幕前收好桌面",
-      "one_liner": "面试官准备共享屏幕时，一键收起内部窗口并打开题目，展示结束后恢复原桌面。",
-      "url": "https://raytally.com/daily/2026-09-13/",
-      "brief_url": "https://raytally.com/ideas/2026-09-13-captain-kill-switch.md",
+      "id": "idea-2026-09-14-any-recommendations-for-an-alternative-to-automatag",
+      "slug": "2026-09-14-any-recommendations-for-an-alternative-to-automatag",
+      "date": "2026-09-14",
+      "tier": "featured",
+      "title": "从一首歌认回整张专辑",
+      "one_liner": "本地歌的标签查不到时，从播放器分享正在听的曲目，确认匹配后联动修好同专辑标签。",
+      "url": "https://raytally.com/ideas/2026-09-14-any-recommendations-for-an-alternative-to-automatag/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-any-recommendations-for-an-alternative-to-automatag.md",
       "signal": {
-        "query": "Captain Kill Switch",
-        "observed_at": "2026-09-13T00:33:34.639Z"
+        "query": "Any recommendations for an alternative to AutomaTag?",
+        "observed_at": "2026-09-14T00:33:59.072Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.reddit.com/r/androidapps/comments/1wfhrfu/[redacted]/",
+          "boundary": "发布于 2026-09-13T19:50:39.000Z。 观测于 2026-09-14T00:33:59.072Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-14-idea-be39996a",
+      "slug": "2026-09-14-idea-be39996a",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "视频里借专用工具",
+      "one_liner": "观众看到维修视频里的专用工具时，可在那一步预约附近可借的一把，并拿到取件地址。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-idea-be39996a.md",
+      "signal": {
+        "query": "GLANCE TO CART",
+        "observed_at": "2026-09-14T00:33:17.458Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-14-rocket-launch-today",
+      "slug": "2026-09-14-rocket-launch-today",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "火箭发射课不怕延期",
+      "one_liner": "老师准备在课堂看火箭发射时，页面跟随发射状态切换直播或备用短片，让临时延期也不打断课程。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-rocket-launch-today.md",
+      "signal": {
+        "query": "rocket launch today",
+        "observed_at": "2026-09-14T00:33:13.519Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-13T19:30:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-14-nvidia-rtx-5090",
+      "slug": "2026-09-14-nvidia-rtx-5090",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "二手改装显卡当面验收",
+      "one_liner": "二手买家验收改装 RTX 5090 时，现场运行独立短测，立即拿到实测参数、掉速情况与卖家声明的差异。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-nvidia-rtx-5090.md",
+      "signal": {
+        "query": "nvidia rtx 5090",
+        "observed_at": "2026-09-14T00:33:13.519Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-13T01:20:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-14-data-collected-by-cars-and-sold-to-third-parties",
+      "slug": "2026-09-14-data-collected-by-cars-and-sold-to-third-parties",
+      "date": "2026-09-14",
+      "tier": "quick",
+      "title": "提车时关掉数据共享",
+      "one_liner": "刚提车时，车主按车型逐步关闭可选的数据共享，并拿到每一步的确认记录。",
+      "url": "https://raytally.com/daily/2026-09-14/",
+      "brief_url": "https://raytally.com/ideas/2026-09-14-data-collected-by-cars-and-sold-to-third-parties.md",
+      "signal": {
+        "query": "Data collected by cars and sold to third parties",
+        "observed_at": "2026-09-14T00:33:16.676Z"
       },
       "sources": []
     }
