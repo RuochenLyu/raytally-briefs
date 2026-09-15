@@ -1,280 +1,321 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14",
+  "generated_at": "2026-09-15",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-14-cuda-for-amd-on-windows",
-      "slug": "2026-09-14-cuda-for-amd-on-windows",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to",
+      "slug": "2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "CUDA 项目先在 AMD 跑一遍",
-      "one_liner": "迁移 CUDA 项目到 Windows AMD 显卡时，开发者试跑一个任务，就能拿到首个兼容性阻塞点及最小复现。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-cuda-for-amd-on-windows.md",
+      "title": "从 Mac 递到锁屏",
+      "one_liner": "在 Mac 选中内容即可推到 iPhone，并持续留在待签收队列，直到手机端明确处理。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to.md",
       "signal": {
-        "query": "CUDA for AMD on Windows",
-        "observed_at": "2026-09-14T00:33:16.676Z"
+        "query": "Is there any app for sending text and links from my Mac to my iPhone via a push notification?",
+        "observed_at": "2026-09-15T00:33:57.042Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-make-your-first-edit-to-openstreetmap",
-      "slug": "2026-09-14-make-your-first-edit-to-openstreetmap",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-is-there-something-like-winlator-but-for-linux",
+      "slug": "2026-09-15-is-there-something-like-winlator-but-for-linux",
+      "date": "2026-09-15",
       "tier": "featured",
-      "title": "从街口开始改地图",
-      "one_liner": "第一次想改地图的人走到熟悉街口，领一项现场可核实的小任务，预览改动后完成首笔编辑。",
-      "url": "https://raytally.com/ideas/2026-09-14-make-your-first-edit-to-openstreetmap/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-make-your-first-edit-to-openstreetmap.md",
+      "title": "安卓上的 Linux 应用舱",
+      "one_liner": "Android 用户点选 Linux 图形应用后即可完成环境搭建并从桌面启动，不必手配 Termux、Proot 或 QEMU。",
+      "url": "https://raytally.com/ideas/2026-09-15-is-there-something-like-winlator-but-for-linux/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-is-there-something-like-winlator-but-for-linux.md",
       "signal": {
-        "query": "Make your first edit to OpenStreetMap",
-        "observed_at": "2026-09-14T00:33:16.676Z"
+        "query": "Is there something like Winlator but for linux",
+        "observed_at": "2026-09-15T00:33:57.042Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49674050",
-          "boundary": "发布于 2026-09-12T00:00:00.000Z。 观测于 2026-09-14T00:33:16.676Z。"
+          "url": "https://www.reddit.com/r/EmulationOnAndroid/comments/1wgg71e/is_there_something_like_winlator_but_for_linux/",
+          "boundary": "发布于 2026-09-14T21:08:33.000Z。 观测于 2026-09-15T00:33:57.042Z。"
         },
         {
-          "url": "https://wiki.openstreetmap.org/wiki/Api06",
+          "url": "https://github.com/termux/proot-distro",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/streetcomplete/StreetComplete",
+          "url": "https://github.com/termux/termux-x11",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://every-door.app/",
+          "url": "https://github.com/xodiosx/XoDos2",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your",
-      "slug": "2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-idea-c348b085",
+      "slug": "2026-09-15-idea-c348b085",
+      "date": "2026-09-15",
       "tier": "featured",
-      "title": "亲手拼一只桌面宠物",
-      "one_liner": "宠物主人用手绘组件拼外形、挑招牌动作，马上得到一只不用生成式 AI 的可互动桌面宠物。",
-      "url": "https://raytally.com/ideas/2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-is-there-an-app-where-you-can-make-a-digital-version-of-your.md",
+      "title": "供桌旁的 Aarti 跟唱",
+      "one_liner": "象神节唱诵开始时，手机听着现场领诵同步下一句，让不同语言水平的亲友都能跟唱。",
+      "url": "https://raytally.com/ideas/2026-09-15-idea-c348b085/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-idea-c348b085.md",
       "signal": {
-        "query": "Is there an app where you can make a digital version of your pet that doesn’t use generative ai?",
-        "observed_at": "2026-09-14T00:33:59.072Z"
+        "query": "गणेश जी की आरती",
+        "observed_at": "2026-09-15T00:33:03.193Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/apps/comments/1weth35/is_there_an_app_where_you_can_make_a_digital/",
-          "boundary": "发布于 2026-09-13T00:00:00.000Z。 观测于 2026-09-14T00:33:59.072Z。"
-        },
-        {
-          "url": "https://www.electronjs.org/docs/latest/tutorial/custom-window-styles",
+          "url": "https://play.google.com/store/apps/details?id=com.mangoappstudio.myaarti",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://apps.apple.com/us/app/pixel-pals-widget-pet-game/id6443919232",
+          "url": "https://play.google.com/store/apps/details?hl=en-US&id=com.musixmatch.android.lyrify",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://screenpetengine.com/",
+          "url": "https://github.com/alphacep/vosk-api",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/alphacep/vosk-api/blob/master/src/vosk_api.h",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-14-kirokune",
-      "slug": "2026-09-14-kirokune",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously",
+      "slug": "2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "夜班手机交接",
-      "one_liner": "轮班人员当面交接异常时，两部手机近距离传递待办事件并确认接手，无网、无账号也能留下双方记录。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-kirokune.md",
+      "title": "公司代理试用期",
+      "one_liner": "公司准备让代理执行真实业务时，可先影子运行并按表现逐步放权，把不可逆动作留给人工批准。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously.md",
       "signal": {
-        "query": "Kirokune",
-        "observed_at": "2026-09-14T00:33:17.454Z"
+        "query": "Pion, an agent designed to run any company autonomously",
+        "observed_at": "2026-09-15T00:33:03.877Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-cognition-s-swe-2",
-      "slug": "2026-09-14-cognition-s-swe-2",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-eurobirdportal-live-bird-movements-across-europe",
+      "slug": "2026-09-15-eurobirdportal-live-bird-movements-across-europe",
+      "date": "2026-09-15",
       "tier": "featured",
-      "title": "隔夜处理小修补",
-      "one_liner": "维护者下班前交出可复现的小问题，隔夜收到跑过测试的候选补丁或失败记录。",
-      "url": "https://raytally.com/ideas/2026-09-14-cognition-s-swe-2/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-cognition-s-swe-2.md",
+      "title": "候鸟夜航关灯联动",
+      "one_liner": "设施团队预设夜间保护规则后，建筑会在候鸟迁徙高峰自动调暗灯光并按时恢复。",
+      "url": "https://raytally.com/ideas/2026-09-15-eurobirdportal-live-bird-movements-across-europe/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-eurobirdportal-live-bird-movements-across-europe.md",
       "signal": {
-        "query": "Cognition's SWE-2",
-        "observed_at": "2026-09-14T00:33:17.454Z"
+        "query": "EuroBirdPortal – Live bird movements across Europe",
+        "observed_at": "2026-09-15T00:33:03.877Z"
       },
       "sources": [
         {
-          "url": "https://cognition.com/blog/swe-2",
-          "boundary": "发布于 2026-09-10T00:00:00.000Z。"
+          "url": "https://news.ycombinator.com/item?id=49693610",
+          "boundary": "发布于 2026-09-14T00:00:00.000Z。 观测于 2026-09-15T00:33:03.877Z。"
         },
         {
-          "url": "https://www.producthunt.com/products/cognition-s-swe-2",
-          "boundary": "观测于 2026-09-14T00:33:17.454Z。"
-        },
-        {
-          "url": "https://docs.github.com/en/copilot/tutorials/cloud-agent/improve-a-project",
+          "url": "https://eurobirdportal.org/spa/fr/new_home/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://docs.devin.ai/get-started/first-run",
+          "url": "https://bacnetinternational.org/news/bacnet-international-guide-specification-expanded-to-include-lighting/",
+          "boundary": "发布于 2024-02-19T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
+          "boundary": "发布于 2026-02-10T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus",
+      "slug": "2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus",
+      "date": "2026-09-15",
+      "tier": "quick",
+      "title": "长提示迁移试验场",
+      "one_liner": "团队迁移长系统提示时，用历史任务影子测试并定位目标模型不兼容的具体提示区段。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus.md",
+      "signal": {
+        "query": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "observed_at": "2026-09-15T00:33:03.877Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-15-elva",
+      "slug": "2026-09-15-elva",
+      "date": "2026-09-15",
+      "tier": "featured",
+      "title": "代理 API 演练场",
+      "one_liner": "API 上线给智能代理前，让模拟消费者自主完成任务，提前发现调用顺序、语义和权限漏洞。",
+      "url": "https://raytally.com/ideas/2026-09-15-elva/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-elva.md",
+      "signal": {
+        "query": "Elva",
+        "observed_at": "2026-09-15T00:33:04.371Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/products/elva",
+          "boundary": "发布于 2026-09-07T13:45:06.000Z。 观测于 2026-09-15T00:33:04.371Z。"
+        },
+        {
+          "url": "https://getelva.ai/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://github.com/schemathesis/schemathesis",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://arxiv.org/abs/2608.17546",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-14-demotv",
-      "slug": "2026-09-14-demotv",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for",
+      "slug": "2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "观众点题的产品演示",
-      "one_liner": "产品演示现场，观众投票指定下一步实际操作，让演示者当场验证，并留下可回看的过程。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-demotv.md",
+      "title": "按风险升级的代码审查",
+      "one_liner": "代码提交后自动分层调用不同价位的模型，让昂贵审查只落在真正高风险的改动上。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for.md",
       "signal": {
-        "query": "DemoTV",
-        "observed_at": "2026-09-14T00:33:17.454Z"
+        "query": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+        "observed_at": "2026-09-15T00:33:03.877Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-relic",
-      "slug": "2026-09-14-relic",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-hello-inbox",
+      "slug": "2026-09-15-hello-inbox",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "一次性跨设备粘贴",
-      "one_liner": "手机上复制验证码或密钥时，把它送到指定电脑一次性粘贴，用完即从两端清除。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-relic.md",
+      "title": "邮件投递排练场",
+      "one_liner": "营销邮件群发前，自动试投多个真实收件环境并逐段排错，找出导致进垃圾箱的具体内容。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-hello-inbox.md",
       "signal": {
-        "query": "Relic",
-        "observed_at": "2026-09-14T00:33:17.454Z"
+        "query": "Hello Inbox",
+        "observed_at": "2026-09-15T00:33:04.371Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-screencursor",
-      "slug": "2026-09-14-screencursor",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-idea-4a77ad69",
+      "slug": "2026-09-15-idea-4a77ad69",
+      "date": "2026-09-15",
       "tier": "featured",
-      "title": "观众自己决定放大哪里",
-      "one_liner": "教程作者录完操作后发布可切换视角的录像，观众回看时自己决定放大光标附近还是查看完整界面。",
-      "url": "https://raytally.com/ideas/2026-09-14-screencursor/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-screencursor.md",
+      "title": "双人离线轮流点歌机",
+      "one_liner": "两人离线旅行时各带一份曲库，播放器轮流点歌并同步送到两副耳机，不必拿出手机。",
+      "url": "https://raytally.com/ideas/2026-09-15-idea-4a77ad69/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-idea-4a77ad69.md",
       "signal": {
-        "query": "ScreenCursor",
-        "observed_at": "2026-09-14T00:33:17.454Z"
+        "query": "Purpose-Built Portable Music Players: RHYTHM Is a From-Scratch Digital Audio Player",
+        "observed_at": "2026-09-15T00:33:04.381Z"
       },
       "sources": [
         {
-          "url": "https://www.producthunt.com/products/screencursor",
-          "boundary": "观测于 2026-09-14T00:33:17.454Z。"
+          "url": "https://www.trendhunter.com/trends/digital-audio-player-trend",
+          "boundary": "发布于 2026-09-14T00:00:00.000Z。 观测于 2026-09-15T00:33:04.381Z。"
         },
         {
-          "url": "https://chromewebstore.google.com/detail/screencursor-screen-recor/lkaencjejddgaildkdadahbdoecbcbeo",
+          "url": "https://www.yankodesign.com/2026/09/12/rhythm-is-the-walkman-the-smartphone-era-forgot-to-build/",
+          "boundary": "发布于 2026-09-12T00:00:00.000Z。"
+        },
+        {
+          "url": "https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/esp-audio.html",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://developer.apple.com/documentation/screencapturekit",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/coregraphics/cgevent/tapcreate%28tap%3Aplace%3Aoptions%3Aeventsofinterest%3Acallback%3Auserinfo%3A%29",
+          "url": "https://support.spotify.com/us/article/jam/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-14-any-recommendations-for-an-alternative-to-automatag",
-      "slug": "2026-09-14-any-recommendations-for-an-alternative-to-automatag",
-      "date": "2026-09-14",
-      "tier": "featured",
-      "title": "从一首歌认回整张专辑",
-      "one_liner": "本地歌的标签查不到时，从播放器分享正在听的曲目，确认匹配后联动修好同专辑标签。",
-      "url": "https://raytally.com/ideas/2026-09-14-any-recommendations-for-an-alternative-to-automatag/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-any-recommendations-for-an-alternative-to-automatag.md",
-      "signal": {
-        "query": "Any recommendations for an alternative to AutomaTag?",
-        "observed_at": "2026-09-14T00:33:59.072Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.reddit.com/r/androidapps/comments/1wfhrfu/[redacted]/",
-          "boundary": "发布于 2026-09-13T19:50:39.000Z。 观测于 2026-09-14T00:33:59.072Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-14-idea-be39996a",
-      "slug": "2026-09-14-idea-be39996a",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-trycase",
+      "slug": "2026-09-15-trycase",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "视频里借专用工具",
-      "one_liner": "观众看到维修视频里的专用工具时，可在那一步预约附近可借的一把，并拿到取件地址。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-idea-be39996a.md",
+      "title": "PR 验收接力",
+      "one_liner": "PR 合并前自动逐条演示验收条件，让产品经理按视频章节签收，异议还能直接变成复测步骤。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-trycase.md",
       "signal": {
-        "query": "GLANCE TO CART",
-        "observed_at": "2026-09-14T00:33:17.458Z"
+        "query": "TryCase",
+        "observed_at": "2026-09-15T00:33:04.371Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-rocket-launch-today",
-      "slug": "2026-09-14-rocket-launch-today",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability",
+      "slug": "2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "火箭发射课不怕延期",
-      "one_liner": "老师准备在课堂看火箭发射时，页面跟随发射状态切换直播或备用短片，让临时延期也不打断课程。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-rocket-launch-today.md",
+      "title": "依赖双路验货",
+      "one_liner": "团队在 CI 安装依赖时交叉核验缓存与权威来源，发现制品分歧便阻断发布并返回取证结果。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability.md",
       "signal": {
-        "query": "rocket launch today",
-        "observed_at": "2026-09-14T00:33:13.519Z",
+        "query": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "observed_at": "2026-09-15T00:33:03.877Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-15-appzapper-3000",
+      "slug": "2026-09-15-appzapper-3000",
+      "date": "2026-09-15",
+      "tier": "quick",
+      "title": "卸载前封存工作环境",
+      "one_liner": "当 Mac 应用占空间却可能再用时，先封存配置再彻底卸载，需要时一键恢复原环境。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-appzapper-3000.md",
+      "signal": {
+        "query": "AppZapper 3000",
+        "observed_at": "2026-09-15T00:33:04.371Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-15-new-xbox-games-september-14",
+      "slug": "2026-09-15-new-xbox-games-september-14",
+      "date": "2026-09-15",
+      "tier": "quick",
+      "title": "新作试玩接力",
+      "one_liner": "朋友约游戏却拿不定新作时，把共同可玩的游戏排成试玩接力，当晚边玩边定下一款。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-new-xbox-games-september-14.md",
+      "signal": {
+        "query": "new xbox games september 14",
+        "observed_at": "2026-09-15T00:33:01.891Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-13T19:30:00.000Z"
+        "ended_at": "2026-09-14T17:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-14-nvidia-rtx-5090",
-      "slug": "2026-09-14-nvidia-rtx-5090",
-      "date": "2026-09-14",
+      "id": "idea-2026-09-15-oats",
+      "slug": "2026-09-15-oats",
+      "date": "2026-09-15",
       "tier": "quick",
-      "title": "二手改装显卡当面验收",
-      "one_liner": "二手买家验收改装 RTX 5090 时，现场运行独立短测，立即拿到实测参数、掉速情况与卖家声明的差异。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-nvidia-rtx-5090.md",
+      "title": "会后承诺接力",
+      "one_liner": "敏感会议结束后，在本机提取承诺并请当事人逐条确认，立即形成有责任人的行动纪要。",
+      "url": "https://raytally.com/daily/2026-09-15/",
+      "brief_url": "https://raytally.com/ideas/2026-09-15-oats.md",
       "signal": {
-        "query": "nvidia rtx 5090",
-        "observed_at": "2026-09-14T00:33:13.519Z",
-        "window_hours": 168,
-        "active": false,
-        "ended_at": "2026-09-13T01:20:00.000Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-14-data-collected-by-cars-and-sold-to-third-parties",
-      "slug": "2026-09-14-data-collected-by-cars-and-sold-to-third-parties",
-      "date": "2026-09-14",
-      "tier": "quick",
-      "title": "提车时关掉数据共享",
-      "one_liner": "刚提车时，车主按车型逐步关闭可选的数据共享，并拿到每一步的确认记录。",
-      "url": "https://raytally.com/daily/2026-09-14/",
-      "brief_url": "https://raytally.com/ideas/2026-09-14-data-collected-by-cars-and-sold-to-third-parties.md",
-      "signal": {
-        "query": "Data collected by cars and sold to third parties",
-        "observed_at": "2026-09-14T00:33:16.676Z"
+        "query": "Oats",
+        "observed_at": "2026-09-15T00:33:04.371Z"
       },
       "sources": []
     }
