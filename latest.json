@@ -1,321 +1,246 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15",
+  "generated_at": "2026-09-16",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to",
-      "slug": "2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-discord-downdetector",
+      "slug": "2026-09-16-discord-downdetector",
+      "date": "2026-09-16",
       "tier": "quick",
-      "title": "从 Mac 递到锁屏",
-      "one_liner": "在 Mac 选中内容即可推到 iPhone，并持续留在待签收队列，直到手机端明确处理。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-is-there-any-app-for-sending-text-and-links-from-my-mac-to.md",
+      "title": "掉线接力房",
+      "one_liner": "Discord 语音故障时，自动为原群组开临时语音房并完成成员迁移。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-discord-downdetector.md",
       "signal": {
-        "query": "Is there any app for sending text and links from my Mac to my iPhone via a push notification?",
-        "observed_at": "2026-09-15T00:33:57.042Z"
+        "query": "discord downdetector",
+        "observed_at": "2026-09-16T00:33:29.022Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-15T15:40:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-15-is-there-something-like-winlator-but-for-linux",
-      "slug": "2026-09-15-is-there-something-like-winlator-but-for-linux",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as",
+      "slug": "2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as",
+      "date": "2026-09-16",
       "tier": "featured",
-      "title": "安卓上的 Linux 应用舱",
-      "one_liner": "Android 用户点选 Linux 图形应用后即可完成环境搭建并从桌面启动，不必手配 Termux、Proot 或 QEMU。",
-      "url": "https://raytally.com/ideas/2026-09-15-is-there-something-like-winlator-but-for-linux/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-is-there-something-like-winlator-but-for-linux.md",
+      "title": "阳台鸟历",
+      "one_liner": "窗边听到鸟叫时，画框识别鸟种并生成带日期的复古版画，慢慢积成一面阳台鸟历。",
+      "url": "https://raytally.com/ideas/2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as.md",
       "signal": {
-        "query": "Is there something like Winlator but for linux",
-        "observed_at": "2026-09-15T00:33:57.042Z"
+        "query": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "observed_at": "2026-09-16T00:33:30.709Z"
       },
       "sources": [
         {
-          "url": "https://www.reddit.com/r/EmulationOnAndroid/comments/1wgg71e/is_there_something_like_winlator_but_for_linux/",
-          "boundary": "发布于 2026-09-14T21:08:33.000Z。 观测于 2026-09-15T00:33:57.042Z。"
+          "url": "https://news.ycombinator.com/item?id=49711544",
+          "boundary": "发布于 2026-09-15T12:31:10.000Z。 观测于 2026-09-16T00:33:30.709Z。"
         },
         {
-          "url": "https://github.com/termux/proot-distro",
+          "url": "https://github.com/arnegiacomo/fugleramme",
+          "boundary": "观测于 2026-09-16T00:33:30.709Z。"
+        },
+        {
+          "url": "https://www.birds.cornell.edu/home/the-magic-of-merlin/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://github.com/termux/termux-x11",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/xodiosx/XoDos2",
+          "url": "https://birdnet.tu-chemnitz.de/app/",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-15-idea-c348b085",
-      "slug": "2026-09-15-idea-c348b085",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-5090",
+      "slug": "2026-09-16-5090",
+      "date": "2026-09-16",
       "tier": "featured",
-      "title": "供桌旁的 Aarti 跟唱",
-      "one_liner": "象神节唱诵开始时，手机听着现场领诵同步下一句，让不同语言水平的亲友都能跟唱。",
-      "url": "https://raytally.com/ideas/2026-09-15-idea-c348b085/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-idea-c348b085.md",
+      "title": "显卡先跑再买",
+      "one_liner": "准备买或租 RTX 5090 的开发者提交真实任务，短跑比较不同 GPU 的速度、显存和成本后再决定。",
+      "url": "https://raytally.com/ideas/2026-09-16-5090/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-5090.md",
       "signal": {
-        "query": "गणेश जी की आरती",
-        "observed_at": "2026-09-15T00:33:03.193Z",
+        "query": "5090",
+        "observed_at": "2026-09-16T00:33:29.022Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-15T13:50:00.000Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-16-common-cents-act-nickel-changes",
+      "slug": "2026-09-16-common-cents-act-nickel-changes",
+      "date": "2026-09-16",
+      "tier": "quick",
+      "title": "现金凑整收银插件",
+      "one_liner": "现金结账规则变化时，收银台自动完成舍入，解释差额并生成可对账的日结结果。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-common-cents-act-nickel-changes.md",
+      "signal": {
+        "query": "common cents act nickel changes",
+        "observed_at": "2026-09-16T00:33:29.022Z",
         "window_hours": 168,
         "active": true
       },
-      "sources": [
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.mangoappstudio.myaarti",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?hl=en-US&id=com.musixmatch.android.lyrify",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/alphacep/vosk-api",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/alphacep/vosk-api/blob/master/src/vosk_api.h",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
+      "sources": []
     },
     {
-      "id": "idea-2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously",
-      "slug": "2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-the-css-zen-garden-dream-finally-shipped",
+      "slug": "2026-09-16-the-css-zen-garden-dream-finally-shipped",
+      "date": "2026-09-16",
       "tier": "quick",
-      "title": "公司代理试用期",
-      "one_liner": "公司准备让代理执行真实业务时，可先影子运行并按表现逐步放权，把不可逆动作留给人工批准。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-pion-an-agent-designed-to-run-any-company-autonomously.md",
+      "title": "可交换网页主题",
+      "one_liner": "设计师上传网页主题，用户在真实内容上即时预览和切换，不破坏页面结构。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-the-css-zen-garden-dream-finally-shipped.md",
       "signal": {
-        "query": "Pion, an agent designed to run any company autonomously",
-        "observed_at": "2026-09-15T00:33:03.877Z"
+        "query": "The CSS Zen Garden dream, finally shipped",
+        "observed_at": "2026-09-16T00:33:30.709Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-15-eurobirdportal-live-bird-movements-across-europe",
-      "slug": "2026-09-15-eurobirdportal-live-bird-movements-across-europe",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-whole-foods-cheese-allergen-recall",
+      "slug": "2026-09-16-whole-foods-cheese-allergen-recall",
+      "date": "2026-09-16",
       "tier": "featured",
-      "title": "候鸟夜航关灯联动",
-      "one_liner": "设施团队预设夜间保护规则后，建筑会在候鸟迁徙高峰自动调暗灯光并按时恢复。",
-      "url": "https://raytally.com/ideas/2026-09-15-eurobirdportal-live-bird-movements-across-europe/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-eurobirdportal-live-bird-movements-across-europe.md",
+      "title": "家里召回食品自动找",
+      "one_liner": "食品召回发布后，从 Whole Foods 购物记录找出家里的受影响批次，接上隔离、退货和退款流程。",
+      "url": "https://raytally.com/ideas/2026-09-16-whole-foods-cheese-allergen-recall/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-whole-foods-cheese-allergen-recall.md",
       "signal": {
-        "query": "EuroBirdPortal – Live bird movements across Europe",
-        "observed_at": "2026-09-15T00:33:03.877Z"
-      },
-      "sources": [
-        {
-          "url": "https://news.ycombinator.com/item?id=49693610",
-          "boundary": "发布于 2026-09-14T00:00:00.000Z。 观测于 2026-09-15T00:33:03.877Z。"
-        },
-        {
-          "url": "https://eurobirdportal.org/spa/fr/new_home/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://bacnetinternational.org/news/bacnet-international-guide-specification-expanded-to-include-lighting/",
-          "boundary": "发布于 2024-02-19T00:00:00.000Z。"
-        },
-        {
-          "url": "https://www.birds.cornell.edu/home/photometrics-ai-uses-bird-data-to-adjust-streetlights/",
-          "boundary": "发布于 2026-02-10T00:00:00.000Z。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus",
-      "slug": "2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "长提示迁移试验场",
-      "one_liner": "团队迁移长系统提示时，用历史任务影子测试并定位目标模型不兼容的具体提示区段。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-notes-on-gotchas-while-migrating-35kb-preprompts-from-opus.md",
-      "signal": {
-        "query": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "observed_at": "2026-09-15T00:33:03.877Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-elva",
-      "slug": "2026-09-15-elva",
-      "date": "2026-09-15",
-      "tier": "featured",
-      "title": "代理 API 演练场",
-      "one_liner": "API 上线给智能代理前，让模拟消费者自主完成任务，提前发现调用顺序、语义和权限漏洞。",
-      "url": "https://raytally.com/ideas/2026-09-15-elva/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-elva.md",
-      "signal": {
-        "query": "Elva",
-        "observed_at": "2026-09-15T00:33:04.371Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.producthunt.com/products/elva",
-          "boundary": "发布于 2026-09-07T13:45:06.000Z。 观测于 2026-09-15T00:33:04.371Z。"
-        },
-        {
-          "url": "https://getelva.ai/",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://github.com/schemathesis/schemathesis",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://arxiv.org/abs/2608.17546",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for",
-      "slug": "2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "按风险升级的代码审查",
-      "one_liner": "代码提交后自动分层调用不同价位的模型，让昂贵审查只落在真正高风险的改动上。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-gpt-5-6-luna-vs-gpt-6-astra-is-a-1-20-model-good-enough-for.md",
-      "signal": {
-        "query": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-        "observed_at": "2026-09-15T00:33:03.877Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-hello-inbox",
-      "slug": "2026-09-15-hello-inbox",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "邮件投递排练场",
-      "one_liner": "营销邮件群发前，自动试投多个真实收件环境并逐段排错，找出导致进垃圾箱的具体内容。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-hello-inbox.md",
-      "signal": {
-        "query": "Hello Inbox",
-        "observed_at": "2026-09-15T00:33:04.371Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-idea-4a77ad69",
-      "slug": "2026-09-15-idea-4a77ad69",
-      "date": "2026-09-15",
-      "tier": "featured",
-      "title": "双人离线轮流点歌机",
-      "one_liner": "两人离线旅行时各带一份曲库，播放器轮流点歌并同步送到两副耳机，不必拿出手机。",
-      "url": "https://raytally.com/ideas/2026-09-15-idea-4a77ad69/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-idea-4a77ad69.md",
-      "signal": {
-        "query": "Purpose-Built Portable Music Players: RHYTHM Is a From-Scratch Digital Audio Player",
-        "observed_at": "2026-09-15T00:33:04.381Z"
-      },
-      "sources": [
-        {
-          "url": "https://www.trendhunter.com/trends/digital-audio-player-trend",
-          "boundary": "发布于 2026-09-14T00:00:00.000Z。 观测于 2026-09-15T00:33:04.381Z。"
-        },
-        {
-          "url": "https://www.yankodesign.com/2026/09/12/rhythm-is-the-walkman-the-smartphone-era-forgot-to-build/",
-          "boundary": "发布于 2026-09-12T00:00:00.000Z。"
-        },
-        {
-          "url": "https://docs.espressif.com/projects/esp-adf/en/latest/design-guide/esp-audio.html",
-          "boundary": "来源记录未提供发布时间。"
-        },
-        {
-          "url": "https://support.spotify.com/us/article/jam/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-15-trycase",
-      "slug": "2026-09-15-trycase",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "PR 验收接力",
-      "one_liner": "PR 合并前自动逐条演示验收条件，让产品经理按视频章节签收，异议还能直接变成复测步骤。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-trycase.md",
-      "signal": {
-        "query": "TryCase",
-        "observed_at": "2026-09-15T00:33:04.371Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability",
-      "slug": "2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "依赖双路验货",
-      "one_liner": "团队在 CI 安装依赖时交叉核验缓存与权威来源，发现制品分歧便阻断发布并返回取证结果。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-openai-bots-knew-about-the-rubygems-caching-vulnerability.md",
-      "signal": {
-        "query": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "observed_at": "2026-09-15T00:33:03.877Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-appzapper-3000",
-      "slug": "2026-09-15-appzapper-3000",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "卸载前封存工作环境",
-      "one_liner": "当 Mac 应用占空间却可能再用时，先封存配置再彻底卸载，需要时一键恢复原环境。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-appzapper-3000.md",
-      "signal": {
-        "query": "AppZapper 3000",
-        "observed_at": "2026-09-15T00:33:04.371Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-15-new-xbox-games-september-14",
-      "slug": "2026-09-15-new-xbox-games-september-14",
-      "date": "2026-09-15",
-      "tier": "quick",
-      "title": "新作试玩接力",
-      "one_liner": "朋友约游戏却拿不定新作时，把共同可玩的游戏排成试玩接力，当晚边玩边定下一款。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-new-xbox-games-september-14.md",
-      "signal": {
-        "query": "new xbox games september 14",
-        "observed_at": "2026-09-15T00:33:01.891Z",
+        "query": "whole foods cheese allergen recall",
+        "observed_at": "2026-09-16T00:33:29.022Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-14T17:30:00.000Z"
+        "ended_at": "2026-09-15T18:00:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.wholefoodsmarket.com/legal/product-recalls",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-recalls-what-you-need-know",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.fda.gov/food/recalls-outbreaks-emergencies/recalls-foods-dietary-supplements",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-16-chopping-up-books-when-they-re-physically-too-big",
+      "slug": "2026-09-16-chopping-up-books-when-they-re-physically-too-big",
+      "date": "2026-09-16",
+      "tier": "featured",
+      "title": "大部头分册装订",
+      "one_liner": "把难以手持的大部头纸书按章节拆成几本轻便分册，保留页码并协调装订店完成重装。",
+      "url": "https://raytally.com/ideas/2026-09-16-chopping-up-books-when-they-re-physically-too-big/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-chopping-up-books-when-they-re-physically-too-big.md",
+      "signal": {
+        "query": "Chopping up books when they're physically too big",
+        "observed_at": "2026-09-16T00:33:30.709Z"
+      },
+      "sources": [
+        {
+          "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+          "boundary": "发布于 2026-09-15T00:00:00.000Z。 观测于 2026-09-16T00:33:30.709Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49716953",
+          "boundary": "发布于 2026-09-15T00:00:00.000Z。 观测于 2026-09-16T00:33:30.709Z。"
+        },
+        {
+          "url": "https://openlibrary.org/dev/docs/api/books",
+          "boundary": "发布于 2025-05-06T00:00:00.000Z。"
+        },
+        {
+          "url": "https://phdbookbinding.com/m-custom-book-printing/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-16-is-team",
+      "slug": "2026-09-16-is-team",
+      "date": "2026-09-16",
+      "tier": "quick",
+      "title": "看板解堵员",
+      "one_liner": "看板任务卡住时，代理自动追问阻塞者，并把回复整理成可确认的下一步。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-is-team.md",
+      "signal": {
+        "query": "is.team",
+        "observed_at": "2026-09-16T00:33:31.204Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-15-oats",
-      "slug": "2026-09-15-oats",
-      "date": "2026-09-15",
+      "id": "idea-2026-09-16-tangerine",
+      "slug": "2026-09-16-tangerine",
+      "date": "2026-09-16",
       "tier": "quick",
-      "title": "会后承诺接力",
-      "one_liner": "敏感会议结束后，在本机提取承诺并请当事人逐条确认，立即形成有责任人的行动纪要。",
-      "url": "https://raytally.com/daily/2026-09-15/",
-      "brief_url": "https://raytally.com/ideas/2026-09-15-oats.md",
+      "title": "离线脱敏文件夹",
+      "one_liner": "发送敏感文件前，在本机离线完成脱敏和格式处理，并留下逐文件变更记录。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-tangerine.md",
       "signal": {
-        "query": "Oats",
-        "observed_at": "2026-09-15T00:33:04.371Z"
+        "query": "Tangerine",
+        "observed_at": "2026-09-16T00:33:31.204Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting",
+      "slug": "2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting",
+      "date": "2026-09-16",
+      "tier": "quick",
+      "title": "低价现场短信盒",
+      "one_liner": "现场不想配发智能手机时，用低价 4G 盒子让团队收发短信并查看在线状态。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting.md",
+      "signal": {
+        "query": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "observed_at": "2026-09-16T00:33:30.709Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "slug": "2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "date": "2026-09-16",
+      "tier": "quick",
+      "title": "语音问题稍后答",
+      "one_liner": "忙着动手时说出复杂问题，助手先接住对话，再把查证后的语音答案交回来。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking.md",
+      "signal": {
+        "query": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "observed_at": "2026-09-16T00:33:30.709Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-16-uk-heatwave-weather-forecast",
+      "slug": "2026-09-16-uk-heatwave-weather-forecast",
+      "date": "2026-09-16",
+      "tier": "quick",
+      "title": "热浪错峰排班",
+      "one_liner": "热浪预警出现时，负责人输入班表和户外任务，产品自动错峰重排并让员工确认。",
+      "url": "https://raytally.com/daily/2026-09-16/",
+      "brief_url": "https://raytally.com/ideas/2026-09-16-uk-heatwave-weather-forecast.md",
+      "signal": {
+        "query": "uk heatwave weather forecast",
+        "observed_at": "2026-09-16T00:33:30.146Z",
+        "window_hours": 168,
+        "active": true
       },
       "sources": []
     }
