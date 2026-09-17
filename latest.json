@@ -1,246 +1,275 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16",
+  "generated_at": "2026-09-17",
   "language": "zh",
   "notice": "本任务书中的信号，是在所列时间点截取的有界观察（搜索关注、论坛分数或新品列表），不是市场验证、用户数量或持续需求证明。转述或据此行动时，必须保留这些时间边界与最强反方。",
   "cards": [
     {
-      "id": "idea-2026-09-16-discord-downdetector",
-      "slug": "2026-09-16-discord-downdetector",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-connections-hint",
+      "slug": "2026-09-17-connections-hint",
+      "date": "2026-09-17",
       "tier": "quick",
-      "title": "掉线接力房",
-      "one_liner": "Discord 语音故障时，自动为原群组开临时语音房并完成成员迁移。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-discord-downdetector.md",
+      "title": "好友不剧透提示梯",
+      "one_liner": "玩把 16 个词分成四组的每日谜题卡住时，从朋友留下的逐级提示里只取下一点线索，不会直接看到答案。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-connections-hint.md",
       "signal": {
-        "query": "discord downdetector",
-        "observed_at": "2026-09-16T00:33:29.022Z",
+        "query": "connections hint",
+        "observed_at": "2026-09-17T00:33:29.108Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-15T15:40:00.000Z"
+        "ended_at": "2026-09-16T12:10:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as",
-      "slug": "2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-mistral-x-mozilla-private-multilingual-ai-browsing",
+      "slug": "2026-09-17-mistral-x-mozilla-private-multilingual-ai-browsing",
+      "date": "2026-09-17",
       "tier": "featured",
-      "title": "阳台鸟历",
-      "one_liner": "窗边听到鸟叫时，画框识别鸟种并生成带日期的复古版画，慢慢积成一面阳台鸟历。",
-      "url": "https://raytally.com/ideas/2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-show-hn-an-e-ink-frame-that-hears-birds-and-draws-them-as.md",
+      "title": "脱敏双语浏览接力",
+      "one_liner": "移民家庭读学校、医院或政务网页时，本机翻译原文，再请亲友在脱敏页面上指出该填什么、何时提交。",
+      "url": "https://raytally.com/ideas/2026-09-17-mistral-x-mozilla-private-multilingual-ai-browsing/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-mistral-x-mozilla-private-multilingual-ai-browsing.md",
       "signal": {
-        "query": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "observed_at": "2026-09-16T00:33:30.709Z"
+        "query": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "observed_at": "2026-09-17T00:33:30.523Z"
       },
       "sources": [
         {
-          "url": "https://news.ycombinator.com/item?id=49711544",
-          "boundary": "发布于 2026-09-15T12:31:10.000Z。 观测于 2026-09-16T00:33:30.709Z。"
+          "url": "https://mistral.ai/news/mistral-x-mozilla/",
+          "boundary": "发布于 2026-09-16T00:00:00.000Z。 观测于 2026-09-17T00:33:30.523Z。"
         },
         {
-          "url": "https://github.com/arnegiacomo/fugleramme",
-          "boundary": "观测于 2026-09-16T00:33:30.709Z。"
-        },
-        {
-          "url": "https://www.birds.cornell.edu/home/the-magic-of-merlin/",
+          "url": "https://www.mozilla.org/en-US/privacy/firefox/",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://birdnet.tu-chemnitz.de/app/",
+          "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://mozilla.github.io/pdf.js",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-16-5090",
-      "slug": "2026-09-16-5090",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-first-freeze-dates-by-state",
+      "slug": "2026-09-17-first-freeze-dates-by-state",
+      "date": "2026-09-17",
       "tier": "featured",
-      "title": "显卡先跑再买",
-      "one_liner": "准备买或租 RTX 5090 的开发者提交真实任务，短跑比较不同 GPU 的速度、显存和成本后再决定。",
-      "url": "https://raytally.com/ideas/2026-09-16-5090/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-5090.md",
+      "title": "首冻夜的植物寄放",
+      "one_liner": "首冻前家里放不下盆栽时，匹配附近可借用一晚的温暖空间，并协调搬运与取回。",
+      "url": "https://raytally.com/ideas/2026-09-17-first-freeze-dates-by-state/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-first-freeze-dates-by-state.md",
       "signal": {
-        "query": "5090",
-        "observed_at": "2026-09-16T00:33:29.022Z",
+        "query": "first freeze dates by state",
+        "observed_at": "2026-09-17T00:33:29.108Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-15T13:50:00.000Z"
+        "ended_at": "2026-09-16T01:40:00.000Z"
+      },
+      "sources": [
+        {
+          "url": "https://www.weather.gov/documentation/services-web-api",
+          "boundary": "发布于 2026-03-24T00:00:00.000Z。"
+        },
+        {
+          "url": "https://docs.mapbox.com/api/navigation/optimization-v1/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.neighbor.com/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://blog.nextdoor.com/2024/07/22/new-communities-feature-opens-lines-of-communication-between-neighbors",
+          "boundary": "发布于 2024-07-22T00:00:00.000Z。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-17-trader-joe-s-tote-bag",
+      "slug": "2026-09-17-trader-joe-s-tote-bag",
+      "date": "2026-09-17",
+      "tier": "quick",
+      "title": "托特包换色闭环",
+      "one_liner": "限量托特包买错颜色后，自动拼成多人换包闭环，让大家按原价在附近换到想要的款式。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-trader-joe-s-tote-bag.md",
+      "signal": {
+        "query": "trader joe's tote bag",
+        "observed_at": "2026-09-17T00:33:29.108Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-16T23:30:00.000Z"
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-16-common-cents-act-nickel-changes",
-      "slug": "2026-09-16-common-cents-act-nickel-changes",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-cheeseburger-day",
+      "slug": "2026-09-17-cheeseburger-day",
+      "date": "2026-09-17",
       "tier": "quick",
-      "title": "现金凑整收银插件",
-      "one_liner": "现金结账规则变化时，收银台自动完成舍入，解释差额并生成可对账的日结结果。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-common-cents-act-nickel-changes.md",
+      "title": "汉堡节限时开价",
+      "one_liner": "汉堡节想找优惠餐时，提交取餐窗口，让附近餐厅按实时余量报价并锁定一份套餐。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-cheeseburger-day.md",
       "signal": {
-        "query": "common cents act nickel changes",
-        "observed_at": "2026-09-16T00:33:29.022Z",
+        "query": "cheeseburger day",
+        "observed_at": "2026-09-17T00:33:29.108Z",
         "window_hours": 168,
         "active": true
       },
       "sources": []
     },
     {
-      "id": "idea-2026-09-16-the-css-zen-garden-dream-finally-shipped",
-      "slug": "2026-09-16-the-css-zen-garden-dream-finally-shipped",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "可交换网页主题",
-      "one_liner": "设计师上传网页主题，用户在真实内容上即时预览和切换，不破坏页面结构。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-the-css-zen-garden-dream-finally-shipped.md",
-      "signal": {
-        "query": "The CSS Zen Garden dream, finally shipped",
-        "observed_at": "2026-09-16T00:33:30.709Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-16-whole-foods-cheese-allergen-recall",
-      "slug": "2026-09-16-whole-foods-cheese-allergen-recall",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-weather-today",
+      "slug": "2026-09-17-weather-today",
+      "date": "2026-09-17",
       "tier": "featured",
-      "title": "家里召回食品自动找",
-      "one_liner": "食品召回发布后，从 Whole Foods 购物记录找出家里的受影响批次，接上隔离、退货和退款流程。",
-      "url": "https://raytally.com/ideas/2026-09-16-whole-foods-cheese-allergen-recall/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-whole-foods-cheese-allergen-recall.md",
+      "title": "冰雹前锁室内车位",
+      "one_liner": "冰雹逼近时，为露天停车的车主锁定附近临时遮蔽车位，并直接给出路线和进场凭证。",
+      "url": "https://raytally.com/ideas/2026-09-17-weather-today/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-weather-today.md",
       "signal": {
-        "query": "whole foods cheese allergen recall",
-        "observed_at": "2026-09-16T00:33:29.022Z",
+        "query": "weather today",
+        "observed_at": "2026-09-17T00:33:29.108Z",
         "window_hours": 168,
         "active": false,
-        "ended_at": "2026-09-15T18:00:00.000Z"
+        "ended_at": "2026-09-16T10:50:00.000Z"
       },
       "sources": [
         {
-          "url": "https://www.wholefoodsmarket.com/legal/product-recalls",
+          "url": "https://www.weather.gov/documentation/services-web-api",
+          "boundary": "发布于 2026-03-24T00:00:00.000Z。"
+        },
+        {
+          "url": "https://www.spothero.com/faq",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-recalls-what-you-need-know",
+          "url": "https://parkmobile.io/parking/how-reservations-work",
           "boundary": "来源记录未提供发布时间。"
         },
         {
-          "url": "https://www.fda.gov/food/recalls-outbreaks-emergencies/recalls-foods-dietary-supplements",
+          "url": "https://www.parkmobile.io/parking-providers/integrations",
           "boundary": "来源记录未提供发布时间。"
         }
       ]
     },
     {
-      "id": "idea-2026-09-16-chopping-up-books-when-they-re-physically-too-big",
-      "slug": "2026-09-16-chopping-up-books-when-they-re-physically-too-big",
-      "date": "2026-09-16",
+      "id": "idea-2026-09-17-curiosity-rover",
+      "slug": "2026-09-17-curiosity-rover",
+      "date": "2026-09-17",
       "tier": "featured",
-      "title": "大部头分册装订",
-      "one_liner": "把难以手持的大部头纸书按章节拆成几本轻便分册，保留页码并协调装订店完成重装。",
-      "url": "https://raytally.com/ideas/2026-09-16-chopping-up-books-when-they-re-physically-too-big/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-chopping-up-books-when-they-re-physically-too-big.md",
+      "title": "好奇号影像值班课",
+      "one_liner": "新一批火星影像抵达时，教师可组织学生分角色研判，并共同产出有原始证据支撑的任务简报。",
+      "url": "https://raytally.com/ideas/2026-09-17-curiosity-rover/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-curiosity-rover.md",
       "signal": {
-        "query": "Chopping up books when they're physically too big",
-        "observed_at": "2026-09-16T00:33:30.709Z"
-      },
-      "sources": [
-        {
-          "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-          "boundary": "发布于 2026-09-15T00:00:00.000Z。 观测于 2026-09-16T00:33:30.709Z。"
-        },
-        {
-          "url": "https://news.ycombinator.com/item?id=49716953",
-          "boundary": "发布于 2026-09-15T00:00:00.000Z。 观测于 2026-09-16T00:33:30.709Z。"
-        },
-        {
-          "url": "https://openlibrary.org/dev/docs/api/books",
-          "boundary": "发布于 2025-05-06T00:00:00.000Z。"
-        },
-        {
-          "url": "https://phdbookbinding.com/m-custom-book-printing/",
-          "boundary": "来源记录未提供发布时间。"
-        }
-      ]
-    },
-    {
-      "id": "idea-2026-09-16-is-team",
-      "slug": "2026-09-16-is-team",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "看板解堵员",
-      "one_liner": "看板任务卡住时，代理自动追问阻塞者，并把回复整理成可确认的下一步。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-is-team.md",
-      "signal": {
-        "query": "is.team",
-        "observed_at": "2026-09-16T00:33:31.204Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-16-tangerine",
-      "slug": "2026-09-16-tangerine",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "离线脱敏文件夹",
-      "one_liner": "发送敏感文件前，在本机离线完成脱敏和格式处理，并留下逐文件变更记录。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-tangerine.md",
-      "signal": {
-        "query": "Tangerine",
-        "observed_at": "2026-09-16T00:33:31.204Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting",
-      "slug": "2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "低价现场短信盒",
-      "one_liner": "现场不想配发智能手机时，用低价 4G 盒子让团队收发短信并查看在线状态。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-show-hn-hacking-a-20-4g-wireless-hotspot-into-a-texting.md",
-      "signal": {
-        "query": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-        "observed_at": "2026-09-16T00:33:30.709Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "slug": "2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "语音问题稍后答",
-      "one_liner": "忙着动手时说出复杂问题，助手先接住对话，再把查证后的语音答案交回来。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-gemini-3-8-live-and-3-8-live-extended-thinking.md",
-      "signal": {
-        "query": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-        "observed_at": "2026-09-16T00:33:30.709Z"
-      },
-      "sources": []
-    },
-    {
-      "id": "idea-2026-09-16-uk-heatwave-weather-forecast",
-      "slug": "2026-09-16-uk-heatwave-weather-forecast",
-      "date": "2026-09-16",
-      "tier": "quick",
-      "title": "热浪错峰排班",
-      "one_liner": "热浪预警出现时，负责人输入班表和户外任务，产品自动错峰重排并让员工确认。",
-      "url": "https://raytally.com/daily/2026-09-16/",
-      "brief_url": "https://raytally.com/ideas/2026-09-16-uk-heatwave-weather-forecast.md",
-      "signal": {
-        "query": "uk heatwave weather forecast",
-        "observed_at": "2026-09-16T00:33:30.146Z",
+        "query": "curiosity rover",
+        "observed_at": "2026-09-17T00:33:29.108Z",
         "window_hours": 168,
         "active": true
+      },
+      "sources": [
+        {
+          "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/",
+          "boundary": "发布于 2026-09-16T00:00:00.000Z。"
+        },
+        {
+          "url": "https://science.nasa.gov/solar-system/multimedia/what-are-raw-images/",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://marsed.asu.edu/msip",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://www.zooniverse.org/projects/hiro-ono/ai4mars",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-17-zeroclick",
+      "slug": "2026-09-17-zeroclick",
+      "date": "2026-09-17",
+      "tier": "quick",
+      "title": "给AI买手的成交柜台",
+      "one_liner": "商家设定可成交边界后，让 AI 买手自行询价、锁货、付款，例外情况再交给真人。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-zeroclick.md",
+      "signal": {
+        "query": "ZeroClick",
+        "observed_at": "2026-09-17T00:33:30.904Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-17-nvidia-announces-native-gpu-programming-in-rust",
+      "slug": "2026-09-17-nvidia-announces-native-gpu-programming-in-rust",
+      "date": "2026-09-17",
+      "tier": "quick",
+      "title": "Rust GPU影子跑道",
+      "one_liner": "Rust GPU 内核提交代码后，自动跨多代显卡影子运行，立即返回兼容证明或最小失败用例。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-nvidia-announces-native-gpu-programming-in-rust.md",
+      "signal": {
+        "query": "Nvidia announces native GPU programming in Rust",
+        "observed_at": "2026-09-17T00:33:30.523Z"
+      },
+      "sources": []
+    },
+    {
+      "id": "idea-2026-09-17-training-a-4b-model-to-produce-81-faster-query-plans-than",
+      "slug": "2026-09-17-training-a-4b-model-to-produce-81-faster-query-plans-than",
+      "date": "2026-09-17",
+      "tier": "featured",
+      "title": "慢查询影子赛道",
+      "one_liner": "慢查询出现时，让 AI 查询计划在生产形态副本上与 Postgres 实测竞速，只交付可验证、可回退的赢家。",
+      "url": "https://raytally.com/ideas/2026-09-17-training-a-4b-model-to-produce-81-faster-query-plans-than/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-training-a-4b-model-to-produce-81-faster-query-plans-than.md",
+      "signal": {
+        "query": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "observed_at": "2026-09-17T00:33:30.523Z"
+      },
+      "sources": [
+        {
+          "url": "https://rohanbansal.com/qorl",
+          "boundary": "发布于 2026-09-16T00:00:00.000Z。 观测于 2026-09-17T00:33:30.523Z。"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=49731285",
+          "boundary": "发布于 2026-09-16T00:00:00.000Z。 观测于 2026-09-17T00:33:30.523Z。"
+        },
+        {
+          "url": "https://pganalyze.com/docs/query-advisor/getting-started",
+          "boundary": "来源记录未提供发布时间。"
+        },
+        {
+          "url": "https://rmarcus.info/bao_docs/",
+          "boundary": "来源记录未提供发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "idea-2026-09-17-demi-moore-chin-grazing-bob",
+      "slug": "2026-09-17-demi-moore-chin-grazing-bob",
+      "date": "2026-09-17",
+      "tier": "quick",
+      "title": "镜前共同定发长",
+      "one_liner": "顾客想复刻明星短发时，与发型师在镜前共同确认长度边界，得到剪发现场可参照的轮廓。",
+      "url": "https://raytally.com/daily/2026-09-17/",
+      "brief_url": "https://raytally.com/ideas/2026-09-17-demi-moore-chin-grazing-bob.md",
+      "signal": {
+        "query": "demi moore chin grazing bob",
+        "observed_at": "2026-09-17T00:33:29.108Z",
+        "window_hours": 168,
+        "active": false,
+        "ended_at": "2026-09-17T00:10:00.000Z"
       },
       "sources": []
     }
